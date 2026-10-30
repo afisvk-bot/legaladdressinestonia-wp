@@ -7,7 +7,7 @@ WordPress-сайт **legaladdressinestonia.com**.
 | Staging | https://staging.dragonslots-gr.gr/ | `staging` |
 | Production | https://legaladdressinestonia.com/ | `main` (деплой пока вручную) |
 
-Сервер: `95.111.245.41` (cPanel).
+Сервер: `95.111.245.41` (CyberPanel, OpenLiteSpeed, Contabo).
 
 ## Что лежит в репозитории
 
@@ -18,41 +18,26 @@ WordPress-сайт **legaladdressinestonia.com**.
 noindex (meta + `X-Robots-Tag`), `robots.txt` → `Disallow: /`, отключены sitemap
 и отправка писем, оранжевый админ-бар. На продакшене не активируется.
 
-## Первоначальная настройка (один раз)
+## Как настроен staging
 
-### 1. DNS
-A-запись `staging.dragonslots-gr.gr` → `95.111.245.41`.
+- CyberPanel: отдельный сайт `staging.dragonslots-gr.gr`, пользователь `stagi7842`.
+- Корень сайта: `/home/staging.dragonslots-gr.gr/public_html`.
+- В `wp-config.php`: `define( 'WP_ENVIRONMENT_TYPE', 'staging' );`.
+- SSH-вход по ключу: публичный ключ в `/home/staging.dragonslots-gr.gr/.ssh/authorized_keys`.
+- Деплой пишет физический `robots.txt` с `Disallow: /`.
 
-### 2. cPanel
-1. **Domains → Create a New Domain**: `staging.dragonslots-gr.gr`,
-   document root, например, `/home/<user>/staging.dragonslots-gr.gr`.
-2. **SSL/TLS Status → Run AutoSSL**.
-3. **WordPress Manager / Softaculous**: установить WP в этот document root
-   (или перенести копию прода — см. ниже).
-4. В `wp-config.php` staging добавить:
-   ```php
-   define( 'WP_ENVIRONMENT_TYPE', 'staging' );
-   ```
-5. **Directory Privacy** → папка staging → включить пароль (basic auth).
-6. **SSH Access → Manage SSH Keys → Generate a New Key** (без пароля),
-   затем **Manage → Authorize**. Скачать приватный ключ.
-   Если SSH Access не виден — попросить хостера включить shell-доступ.
-
-### 3. GitHub Secrets
-Settings → Environments → создать `staging` → добавить секреты:
+### GitHub Secrets (Settings → Environments → `staging`)
 
 | Secret | Значение |
 |---|---|
 | `SSH_HOST` | `95.111.245.41` |
-| `SSH_PORT` | порт SSH (часто `22`, на некоторых cPanel — другой) |
-| `SSH_USER` | логин cPanel |
-| `SSH_PRIVATE_KEY` | содержимое приватного ключа целиком |
-| `STAGING_PATH` | путь из шага 2.1, без слеша в конце |
+| `SSH_PORT` | `22` |
+| `SSH_USER` | `stagi7842` |
+| `SSH_PRIVATE_KEY` | приватный ключ `~/.ssh/lae_staging_deploy` целиком |
+| `STAGING_PATH` | `/home/staging.dragonslots-gr.gr/public_html` |
 
-### 4. Копия прода на staging (по желанию)
-cPanel → WordPress Manager → **Clone / Stage**, либо All-in-One WP Migration.
-После переноса заменить URL в базе (`legaladdressinestonia.com` →
-`staging.dragonslots-gr.gr`), например, плагином Better Search Replace.
+Пробелы и слеш на конце значений workflow срезает сам.
+Деплой запускается пушем в `staging` или вручную: Actions → Deploy → staging → Run workflow.
 
 ## Рабочий процесс
 

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: LAI — Auto multilingual menu
  * Description: Одно мастер-меню на локацию для всех языков: автоподмена пунктов на переводы, подписи через «Переводы строк» Polylang, автогенерация подменю.
- * Version:     1.2.0
+ * Version:     1.2.1
  * Requires:    lai-i18n-helpers.php
  *
  * КАК ЭТО РАБОТАЕТ
@@ -72,19 +72,32 @@ function lai_is_managed_menu( $args ): bool {
 }
 
 // ---------------- 1. Одно меню на все языки ----------------
-// Polylang (приоритет 10) подставляет в 'menu' меню своего языка. Мы — после него.
-// 2000 у Polylang срабатывает только в превью кастомайзера, поэтому 1500.
 // Если у языка есть своё заполненное меню (создано синхронизацией lai-menu-sync.php
-// или вручную) — выводится оно, без вмешательства. Мастер-меню с переводом «на лету»
-// подставляется только когда меню языка пустое или не назначено (например, новый язык).
+// или вручную) — выводится оно, с ручными правками подписей. Мастер-меню с переводом
+// «на лету» подставляется только когда меню языка пустое или не назначено (новый язык).
+//
+// Тема вызывает wp_nav_menu() только с 'theme_location', а Polylang на фронтенде
+// подменяет меню через theme_mod_nav_menu_locations и в $args['menu'] ничего не пишет.
+// Поэтому меню языка ищем сами: назначение Polylang для локации и текущего языка,
+// затем get_nav_menu_locations(). 1500 — после фильтров Polylang (у него 2000 только в кастомайзере).
+function lai_lang_menu_for_location( string $loc, string $lang ) {
+	$id = function_exists( 'lai_sync_lang_menu_id' ) ? lai_sync_lang_menu_id( $loc, $lang ) : 0;
+	if ( ! $id ) {
+		$locations = get_nav_menu_locations();
+		$id        = (int) ( $locations[ $loc ] ?? 0 );
+	}
+	return $id ? wp_get_nav_menu_object( $id ) : false;
+}
+
 add_filter( 'wp_nav_menu_args', function ( $args ) {
 	$loc = $args['theme_location'] ?? '';
 	if ( '' === $loc || ! isset( lai_menu_map()[ $loc ] ) ) {
 		return $args;
 	}
 	$current = $args['menu'] ?? '';
-	$menu    = $current ? wp_get_nav_menu_object( $current ) : false;
+	$menu    = $current ? wp_get_nav_menu_object( $current ) : lai_lang_menu_for_location( $loc, lai_current_lang() );
 	if ( $menu && (int) $menu->count > 0 ) {
+		$args['menu'] = (int) $menu->term_id;
 		return $args;
 	}
 	$args['menu']                = lai_menu_map()[ $loc ];

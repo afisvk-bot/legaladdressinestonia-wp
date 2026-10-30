@@ -1,0 +1,919 @@
+{
+  "_comment": "Цели — ID записей на EN (мастер). Переводы на другие языки находятся автоматически через Polylang. Анкоры: фокусные ключи Rank Math + короткие естественные формы. Регистр не важен, апостроф ' = ’.",
+  "settings": {
+    "max_links_per_post": 6,
+    "max_links_per_block": 1,
+    "link_class": "lai-autolink"
+  },
+  "rules": [
+    {
+      "id": "pillar-legal-address",
+      "target": 1269,
+      "pillar": true,
+      "priority": 100,
+      "anchors": {
+        "en": [
+          "legal address in Estonia",
+          "registered address in Estonia",
+          "registered office address",
+          "legal address"
+        ],
+        "ru": [
+          "юридический адрес в Эстонии",
+          "юридического адреса в Эстонии",
+          "юридический адрес",
+          "юридического адреса",
+          "юридическим адресом"
+        ],
+        "uk": [
+          "юридична адреса в Естонії",
+          "юридичну адресу в Естонії",
+          "юридичної адреси в Естонії",
+          "юридична адреса",
+          "юридичну адресу",
+          "юридичної адреси"
+        ],
+        "de": [
+          "eingetragene Geschäftsadresse in Estland",
+          "Geschäftsadresse in Estland",
+          "eingetragene Geschäftsadresse",
+          "Geschäftsadresse"
+        ],
+        "es": [
+          "domicilio social en Estonia",
+          "dirección legal en Estonia",
+          "domicilio social"
+        ],
+        "fr": [
+          "siège social en Estonie",
+          "adresse légale en Estonie",
+          "domiciliation en Estonie",
+          "siège social"
+        ],
+        "pt": [
+          "endereço fiscal na Estónia",
+          "morada social na Estónia",
+          "endereço legal na Estónia",
+          "morada social",
+          "sede social",
+          "endereço legal",
+          "endereço registado",
+          "morada registada"
+        ],
+        "tr": [
+          "Estonya'da yasal adres",
+          "Estonya'daki yasal adres",
+          "yasal adres"
+        ],
+        "zh": [
+          "爱沙尼亚注册地址",
+          "注册地址",
+          "法定地址"
+        ]
+      }
+    },
+    {
+      "id": "pillar-company-registration",
+      "target": 2263,
+      "pillar": true,
+      "priority": 95,
+      "anchors": {
+        "en": [
+          "company registration in Estonia",
+          "register a company in Estonia",
+          "company formation in Estonia"
+        ],
+        "ru": [
+          "регистрация компании в Эстонии",
+          "регистрации компании в Эстонии",
+          "регистрацию компании в Эстонии",
+          "открыть компанию в Эстонии",
+          "открыть фирму в Эстонии"
+        ],
+        "uk": [
+          "реєстрація компанії в Естонії",
+          "реєстрації компанії в Естонії",
+          "реєстрацію компанії в Естонії",
+          "відкрити компанію в Естонії"
+        ],
+        "de": [
+          "Unternehmensgründung in Estland",
+          "Firmengründung in Estland",
+          "Unternehmen in Estland gründen"
+        ],
+        "es": [
+          "registro de empresas en Estonia",
+          "registro de empresa en Estonia",
+          "abrir una empresa en Estonia",
+          "constituir una empresa en Estonia"
+        ],
+        "fr": [
+          "enregistrement d'une société en Estonie",
+          "création d'entreprise en Estonie",
+          "créer une société en Estonie",
+          "création de société",
+          "créer une entreprise",
+          "enregistrement de société"
+        ],
+        "pt": [
+          "registo de empresas na Estónia",
+          "registo de empresa na Estónia",
+          "abrir uma empresa na Estónia"
+        ],
+        "tr": [
+          "Estonya'da şirket tescili",
+          "Estonya'da şirket kurmak",
+          "Estonya'da şirket kuruluşu",
+          "şirket tescili",
+          "şirket kuruluşu",
+          "şirket kurma"
+        ],
+        "zh": [
+          "爱沙尼亚的公司注册",
+          "爱沙尼亚公司注册",
+          "在爱沙尼亚注册公司"
+        ]
+      }
+    },
+    {
+      "id": "virtual-office",
+      "target": 1410,
+      "priority": 70,
+      "anchors": {
+        "en": [
+          "virtual office in Estonia",
+          "virtual office in Tallinn",
+          "virtual office"
+        ],
+        "ru": [
+          "виртуальный офис в Эстонии",
+          "виртуальный офис в Таллине",
+          "виртуальный офис",
+          "виртуального офиса"
+        ],
+        "uk": [
+          "віртуальний офіс в Естонії",
+          "віртуальний офіс",
+          "віртуального офісу"
+        ],
+        "de": [
+          "virtuelles Büro in Estland",
+          "virtuelles Büro in Tallinn",
+          "virtuelles Büro",
+          "virtuellen Büros"
+        ],
+        "es": [
+          "oficina virtual en Estonia",
+          "oficina virtual en Tallin",
+          "oficina virtual"
+        ],
+        "fr": [
+          "bureau virtuel en Estonie",
+          "bureau virtuel à Tallinn",
+          "bureau virtuel"
+        ],
+        "pt": [
+          "escritório virtual na Estónia",
+          "escritório virtual"
+        ],
+        "tr": [
+          "Estonya'da sanal ofis",
+          "sanal ofis"
+        ],
+        "zh": [
+          "爱沙尼亚虚拟办公室",
+          "虚拟办公室"
+        ]
+      }
+    },
+    {
+      "id": "contact-person",
+      "target": 2254,
+      "priority": 70,
+      "anchors": {
+        "en": [
+          "contact person in Estonia",
+          "contact person service",
+          "contact person"
+        ],
+        "ru": [
+          "контактное лицо в Эстонии",
+          "контактного лица в Эстонии",
+          "контактное лицо",
+          "контактного лица",
+          "контактным лицом"
+        ],
+        "uk": [
+          "контактна особа в Естонії",
+          "контактної особи в Естонії",
+          "контактна особа",
+          "контактної особи",
+          "контактну особу"
+        ],
+        "de": [
+          "Ansprechpartner in Estland",
+          "Kontaktperson in Estland",
+          "Kontaktperson"
+        ],
+        "es": [
+          "persona de contacto en Estonia",
+          "persona de contacto"
+        ],
+        "fr": [
+          "interlocuteur en Estonie",
+          "personne de contact en Estonie",
+          "personne de contact"
+        ],
+        "pt": [
+          "pessoa de contacto na Estónia",
+          "pessoa de contacto"
+        ],
+        "tr": [
+          "Estonya'daki irtibat kişisi",
+          "Estonya'da irtibat kişisi",
+          "irtibat kişisi"
+        ],
+        "zh": [
+          "爱沙尼亚的联系人",
+          "联系人服务"
+        ]
+      }
+    },
+    {
+      "id": "accounting",
+      "target": 2746,
+      "priority": 65,
+      "anchors": {
+        "en": [
+          "accounting services in Estonia",
+          "accounting services",
+          "bookkeeping in Estonia"
+        ],
+        "ru": [
+          "бухгалтерия в Эстонии",
+          "бухгалтерское обслуживание в Эстонии",
+          "бухгалтерское обслуживание",
+          "бухгалтерские услуги"
+        ],
+        "uk": [
+          "бухгалтерське обслуговування в Естонії",
+          "бухгалтерське обслуговування",
+          "бухгалтерські послуги"
+        ],
+        "de": [
+          "Buchhaltungsdienstleistungen in Estland",
+          "Buchhaltung in Estland",
+          "Buchhaltungsdienstleistungen"
+        ],
+        "es": [
+          "servicios de contabilidad en Estonia",
+          "servicios de contabilidad"
+        ],
+        "fr": [
+          "services comptables en Estonie",
+          "services comptables"
+        ],
+        "pt": [
+          "serviços de contabilidade na Estónia",
+          "serviços de contabilidade"
+        ],
+        "tr": [
+          "Estonya'da muhasebe hizmetleri",
+          "muhasebe hizmetleri"
+        ],
+        "zh": [
+          "爱沙尼亚的会计服务",
+          "会计服务"
+        ]
+      }
+    },
+    {
+      "id": "annual-report",
+      "target": 1398,
+      "priority": 60,
+      "anchors": {
+        "en": [
+          "annual report in Estonia",
+          "annual report"
+        ],
+        "ru": [
+          "годовой отчет в Эстонии",
+          "годовой отчёт в Эстонии",
+          "годовой отчет",
+          "годовой отчёт",
+          "годового отчета",
+          "годового отчёта"
+        ],
+        "uk": [
+          "річний звіт в Естонії",
+          "річний звіт",
+          "річного звіту"
+        ],
+        "de": [
+          "Jahresbericht in Estland",
+          "Jahresbericht",
+          "Jahresabschluss"
+        ],
+        "es": [
+          "informe anual en Estonia",
+          "informe anual"
+        ],
+        "fr": [
+          "rapport annuel en Estonie",
+          "rapport annuel"
+        ],
+        "pt": [
+          "relatório anual na Estónia",
+          "relatório anual"
+        ],
+        "tr": [
+          "Estonya'da yıllık rapor",
+          "yıllık rapor"
+        ],
+        "zh": [
+          "爱沙尼亚的年度报告",
+          "年度报告"
+        ]
+      }
+    },
+    {
+      "id": "vat-registration",
+      "target": 2261,
+      "priority": 60,
+      "anchors": {
+        "en": [
+          "VAT registration in Estonia",
+          "VAT number in Estonia",
+          "VAT registration",
+          "VAT number"
+        ],
+        "ru": [
+          "регистрация VAT номера в Эстонии",
+          "регистрация VAT",
+          "регистрации VAT",
+          "VAT номер",
+          "номер VAT",
+          "НДС-номер",
+          "НДС-номера",
+          "номер НДС",
+          "регистрация НДС",
+          "регистрации НДС",
+          "VAT-номер"
+        ],
+        "uk": [
+          "реєстрація VAT в Естонії",
+          "реєстрація VAT",
+          "реєстрації VAT",
+          "номер VAT",
+          "номер ПДВ",
+          "реєстрація ПДВ",
+          "реєстрації ПДВ",
+          "VAT-номер"
+        ],
+        "de": [
+          "Umsatzsteuer-Identifikationsnummer in Estland",
+          "Umsatzsteuer-Identifikationsnummer",
+          "USt-IdNr."
+        ],
+        "es": [
+          "número de IVA en Estonia",
+          "número de IVA",
+          "registro del IVA"
+        ],
+        "fr": [
+          "immatriculation à la TVA en Estonie",
+          "immatriculation à la TVA",
+          "numéro de TVA"
+        ],
+        "pt": [
+          "número de IVA na Estónia",
+          "número de IVA",
+          "registo de IVA"
+        ],
+        "tr": [
+          "Estonya'da KDV numarası",
+          "KDV numarası",
+          "KDV kaydı"
+        ],
+        "zh": [
+          "在爱沙尼亚申请增值税号",
+          "增值税号",
+          "增值税注册"
+        ]
+      }
+    },
+    {
+      "id": "ready-made-companies",
+      "target": 1415,
+      "priority": 55,
+      "anchors": {
+        "en": [
+          "ready-made companies in Estonia",
+          "ready-made company in Estonia",
+          "ready-made companies",
+          "ready-made company",
+          "shelf company"
+        ],
+        "ru": [
+          "готовые компании в Эстонии",
+          "готовую компанию в Эстонии",
+          "готовые компании",
+          "готовую компанию",
+          "готовой компании"
+        ],
+        "uk": [
+          "готові компанії в Естонії",
+          "готову компанію в Естонії",
+          "готові компанії",
+          "готову компанію"
+        ],
+        "de": [
+          "Fertiggesellschaften in Estland",
+          "Fertiggesellschaft in Estland",
+          "Fertiggesellschaften",
+          "Vorratsgesellschaft"
+        ],
+        "es": [
+          "sociedades preconstituidas en Estonia",
+          "sociedad ya constituida en Estonia",
+          "sociedades preconstituidas",
+          "sociedad preconstituida"
+        ],
+        "fr": [
+          "sociétés clés en main en Estonie",
+          "sociétés clés en main",
+          "société clé en main"
+        ],
+        "pt": [
+          "empresas pré-constituídas na Estónia",
+          "empresas pré-constituídas",
+          "empresa pré-constituída"
+        ],
+        "tr": [
+          "Estonya'da hazır şirketler",
+          "Estonya'da hazır şirket",
+          "hazır şirket"
+        ],
+        "zh": [
+          "爱沙尼亚的现成公司",
+          "现成公司"
+        ]
+      }
+    },
+    {
+      "id": "e-residency-registration",
+      "target": 2247,
+      "priority": 50,
+      "anchors": {
+        "en": [
+          "register company in Estonia via e-Residency",
+          "company registration via e-Residency",
+          "via e-Residency"
+        ],
+        "ru": [
+          "регистрация компании в Эстонии через e-Residency",
+          "регистрация компании через e-Residency",
+          "через e-Residency"
+        ],
+        "uk": [
+          "реєстрація компанії в Естонії через e-Residency",
+          "реєстрація компанії через e-Residency",
+          "через e-Residency"
+        ],
+        "de": [
+          "Gründung eines Unternehmens in Estland über die E-Residency",
+          "über die E-Residency",
+          "über E-Residency"
+        ],
+        "es": [
+          "constituir una empresa en Estonia a través de e-Residency",
+          "a través de e-Residency"
+        ],
+        "fr": [
+          "créer une société en Estonie via le programme e-Residency",
+          "via le programme e-Residency",
+          "via l'e-Residency"
+        ],
+        "pt": [
+          "registar uma empresa na Estónia através do programa e-Residency",
+          "através do programa e-Residency",
+          "através da e-Residency"
+        ],
+        "tr": [
+          "e-Residency aracılığıyla Estonya'da şirket kurmak",
+          "e-Residency aracılığıyla"
+        ],
+        "zh": [
+          "通过电子居民计划在爱沙尼亚注册公司",
+          "通过电子居民计划"
+        ]
+      }
+    },
+    {
+      "id": "notary-registration",
+      "target": 2257,
+      "priority": 50,
+      "anchors": {
+        "en": [
+          "registering an Estonian OÜ company via a notary",
+          "registration via a notary",
+          "via a notary"
+        ],
+        "ru": [
+          "регистрация OÜ через нотариуса в Эстонии",
+          "регистрация OÜ через нотариуса",
+          "через нотариуса"
+        ],
+        "uk": [
+          "реєстрація OÜ через нотаріуса в Естонії",
+          "реєстрація OÜ через нотаріуса",
+          "через нотаріуса"
+        ],
+        "de": [
+          "Gründung einer estnischen OÜ bei einem Notar",
+          "bei einem Notar"
+        ],
+        "es": [
+          "constitución de una sociedad OÜ estonia ante notario",
+          "ante notario"
+        ],
+        "fr": [
+          "auprès d'un notaire"
+        ],
+        "pt": [
+          "através de um notário"
+        ],
+        "tr": [
+          "noter aracılığıyla"
+        ],
+        "zh": [
+          "通过公证人注册爱沙尼亚OÜ公司",
+          "通过公证人"
+        ]
+      }
+    },
+    {
+      "id": "change-legal-address",
+      "target": 1482,
+      "priority": 45,
+      "anchors": {
+        "en": [
+          "change legal address in Estonia",
+          "change of legal address",
+          "change your legal address"
+        ],
+        "ru": [
+          "смена юридического адреса в Эстонии",
+          "смена юридического адреса",
+          "смену юридического адреса",
+          "сменить юридический адрес"
+        ],
+        "uk": [
+          "зміна юридичної адреси в Естонії",
+          "зміна юридичної адреси",
+          "зміну юридичної адреси",
+          "змінити юридичну адресу"
+        ],
+        "de": [
+          "Änderung der eingetragenen Geschäftsadresse in Estland",
+          "Änderung der Geschäftsadresse",
+          "Adressänderung"
+        ],
+        "es": [
+          "cambiar la dirección social en Estonia",
+          "cambio de domicilio social",
+          "cambiar el domicilio social"
+        ],
+        "fr": [
+          "modification de l'adresse sociale en Estonie",
+          "modification de l'adresse sociale",
+          "transfert de siège social"
+        ],
+        "pt": [
+          "alterar a morada social na Estónia",
+          "alteração da morada social",
+          "alterar a morada social"
+        ],
+        "tr": [
+          "Estonya'da yasal adresin değiştirilmesi",
+          "yasal adresin değiştirilmesi",
+          "adres değişikliği"
+        ],
+        "zh": [
+          "在爱沙尼亚变更法定地址",
+          "变更法定地址",
+          "变更地址"
+        ]
+      }
+    },
+    {
+      "id": "tax-consulting",
+      "target": 2761,
+      "priority": 40,
+      "anchors": {
+        "en": [
+          "tax consultancy in Estonia",
+          "tax consulting in Estonia",
+          "tax consulting",
+          "tax advice"
+        ],
+        "ru": [
+          "налоговый консалтинг в Эстонии",
+          "налоговый консалтинг",
+          "налоговая консультация",
+          "налоговые консультации"
+        ],
+        "uk": [
+          "податковий консалтинг в Естонії",
+          "податковий консалтинг",
+          "податкові консультації"
+        ],
+        "de": [
+          "Steuerberatung in Estland",
+          "Steuerberatung"
+        ],
+        "es": [
+          "asesoramiento fiscal en Estonia",
+          "asesoramiento fiscal",
+          "asesoría fiscal"
+        ],
+        "fr": [
+          "conseil fiscal en Estonie",
+          "conseil fiscal"
+        ],
+        "pt": [
+          "consultoria fiscal na Estónia",
+          "consultoria fiscal"
+        ],
+        "tr": [
+          "Estonya'da vergi danışmanlığı",
+          "vergi danışmanlığı"
+        ],
+        "zh": [
+          "爱沙尼亚的税务咨询",
+          "税务咨询"
+        ]
+      }
+    },
+    {
+      "id": "oss-ioss",
+      "target": 2791,
+      "priority": 40,
+      "anchors": {
+        "en": [
+          "OSS and IOSS registration in Estonia",
+          "OSS and IOSS registration",
+          "IOSS registration",
+          "OSS registration"
+        ],
+        "ru": [
+          "регистрация OSS и IOSS в Эстонии",
+          "регистрация OSS и IOSS",
+          "регистрация IOSS",
+          "регистрации IOSS"
+        ],
+        "uk": [
+          "реєстрація OSS та IOSS в Естонії",
+          "реєстрація OSS та IOSS",
+          "реєстрація IOSS"
+        ],
+        "de": [
+          "OSS- und IOSS-Registrierung in Estland",
+          "OSS- und IOSS-Registrierung",
+          "IOSS-Registrierung"
+        ],
+        "es": [
+          "registro de OSS e IOSS en Estonia",
+          "registro de OSS e IOSS",
+          "registro IOSS"
+        ],
+        "fr": [
+          "enregistrement OSS et IOSS",
+          "immatriculation IOSS"
+        ],
+        "pt": [
+          "registo de OSS e IOSS na Estónia",
+          "registo de OSS e IOSS",
+          "registo IOSS"
+        ],
+        "tr": [
+          "Estonya'da OSS ve IOSS kaydı",
+          "OSS ve IOSS kaydı",
+          "IOSS kaydı"
+        ],
+        "zh": [
+          "爱沙尼亚的OSS和IOSS注册",
+          "OSS和IOSS注册",
+          "IOSS注册"
+        ]
+      }
+    },
+    {
+      "id": "work-visa",
+      "target": 2776,
+      "priority": 35,
+      "anchors": {
+        "en": [
+          "work visas and residence permits in Estonia",
+          "residence permit in Estonia",
+          "work visa in Estonia",
+          "residence permit",
+          "work visa"
+        ],
+        "ru": [
+          "рабочая виза и ВНЖ в Эстонии",
+          "ВНЖ в Эстонии",
+          "рабочая виза",
+          "рабочую визу",
+          "вид на жительство"
+        ],
+        "uk": [
+          "робоча віза та ВНЖ в Естонії",
+          "ВНЖ в Естонії",
+          "робоча віза",
+          "робочу візу",
+          "посвідка на проживання"
+        ],
+        "de": [
+          "Arbeitsvisa und Aufenthaltsgenehmigungen in Estland",
+          "Aufenthaltsgenehmigung in Estland",
+          "Aufenthaltsgenehmigung",
+          "Arbeitsvisum"
+        ],
+        "es": [
+          "visados de trabajo y permisos de residencia en Estonia",
+          "permiso de residencia en Estonia",
+          "permiso de residencia",
+          "visado de trabajo"
+        ],
+        "fr": [
+          "visas de travail et titres de séjour en Estonie",
+          "titre de séjour en Estonie",
+          "titre de séjour",
+          "visa de travail"
+        ],
+        "pt": [
+          "vistos de trabalho e autorizações de residência na Estónia",
+          "autorização de residência na Estónia",
+          "autorização de residência",
+          "visto de trabalho"
+        ],
+        "tr": [
+          "Estonya'da çalışma vizeleri ve oturma izinleri",
+          "oturma izni",
+          "çalışma vizesi"
+        ],
+        "zh": [
+          "爱沙尼亚的工作签证和居留许可",
+          "居留许可",
+          "工作签证"
+        ]
+      }
+    },
+    {
+      "id": "licence-financial",
+      "target": 2528,
+      "priority": 35,
+      "anchors": {
+        "en": [
+          "financial licence in Estonia",
+          "financial license in Estonia",
+          "financial licence"
+        ],
+        "ru": [
+          "финансовая лицензия в Эстонии",
+          "финансовую лицензию в Эстонии",
+          "финансовая лицензия",
+          "финансовую лицензию",
+          "финансовой лицензии"
+        ],
+        "uk": [
+          "фінансова ліцензія в Естонії",
+          "фінансову ліцензію в Естонії",
+          "фінансова ліцензія",
+          "фінансову ліцензію"
+        ],
+        "de": [
+          "Finanzlizenz in Estland",
+          "Finanzlizenz"
+        ],
+        "es": [
+          "licencia financiera en Estonia",
+          "licencia financiera"
+        ],
+        "fr": [
+          "licence financière en Estonie",
+          "licence financière"
+        ],
+        "pt": [
+          "licença financeira na Estónia",
+          "licença financeira"
+        ],
+        "tr": [
+          "Estonya'da finans lisansı",
+          "finans lisansı"
+        ],
+        "zh": [
+          "爱沙尼亚的金融牌照",
+          "金融牌照"
+        ]
+      }
+    },
+    {
+      "id": "licence-casp-mica",
+      "target": 2543,
+      "priority": 35,
+      "anchors": {
+        "en": [
+          "MiCA (CASP) licence in Estonia",
+          "CASP licence under MiCA",
+          "MiCA licence",
+          "CASP licence"
+        ],
+        "ru": [
+          "лицензия MiCA (CASP) в Эстонии",
+          "лицензия MiCA",
+          "лицензию MiCA",
+          "лицензия CASP",
+          "лицензию CASP"
+        ],
+        "uk": [
+          "ліцензія CASP по MiCA",
+          "ліцензія MiCA",
+          "ліцензію MiCA",
+          "ліцензія CASP"
+        ],
+        "de": [
+          "MiCA (CASP)-Lizenz in Estland",
+          "MiCA-Lizenz",
+          "CASP-Lizenz"
+        ],
+        "es": [
+          "licencia MiCA (CASP) en Estonia",
+          "licencia MiCA",
+          "licencia CASP"
+        ],
+        "fr": [
+          "licence MiCA (CASP) en Estonie",
+          "licence MiCA",
+          "licence CASP"
+        ],
+        "pt": [
+          "licença MiCA (CASP) na Estónia",
+          "licença MiCA",
+          "licença CASP"
+        ],
+        "tr": [
+          "Estonya'da MiCA (CASP) lisansı",
+          "MiCA lisansı",
+          "CASP lisansı"
+        ],
+        "zh": [
+          "爱沙尼亚的MiCA（CASP）许可证",
+          "MiCA许可证",
+          "CASP许可证"
+        ]
+      }
+    },
+    {
+      "id": "licence-emi",
+      "target": 2731,
+      "priority": 30,
+      "anchors": {
+        "en": [
+          "EMI licence in Estonia",
+          "EMI licence",
+          "EMI license"
+        ],
+        "ru": [
+          "лицензия EMI",
+          "лицензию EMI",
+          "лицензии EMI"
+        ],
+        "uk": [
+          "ліцензія EMI в Естонії",
+          "ліцензія EMI",
+          "ліцензію EMI"
+        ],
+        "de": [
+          "EMI-Lizenz"
+        ],
+        "es": [
+          "licencia EMI"
+        ],
+        "fr": [
+          "licence EMI"
+        ],
+        "pt": [
+          "licença EMI"
+        ],
+        "tr": [
+          "EMI lisansı"
+        ],
+        "zh": [
+          "EMI许可证"
+        ]
+      }
+    }
+  ]
+}

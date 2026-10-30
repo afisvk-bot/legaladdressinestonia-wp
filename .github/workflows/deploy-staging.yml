@@ -72,6 +72,8 @@ jobs:
             wp-content/plugins/ "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/plugins/"
           rsync -az --delete --exclude='.gitkeep' -e "$RSYNC_SSH" \
             wp-content/mu-plugins/ "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/mu-plugins/"
+          # Физический robots.txt на staging — работает даже если ЧПУ/rewrite не настроены.
+          ssh $SSH_OPTS "$SSH_USER@$SSH_HOST" "printf 'User-agent: *\nDisallow: /\n' > '$DEPLOY_PATH/robots.txt'"
 
       - name: Smoke test
         run: |

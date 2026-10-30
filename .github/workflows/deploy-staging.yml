@@ -30,7 +30,8 @@ jobs:
           install -m 700 -d ~/.ssh
           printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          ssh-keyscan -p "$SSH_PORT" -H "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          H=$(printf '%s' "$SSH_HOST" | tr -d '[:space:]'); P=$(printf '%s' "$SSH_PORT" | tr -d '[:space:]')
+          ssh-keyscan -p "$P" -H "$H" >> ~/.ssh/known_hosts 2>/dev/null
 
       - name: Rsync wp-content
         env:
@@ -40,6 +41,10 @@ jobs:
           DEPLOY_PATH: ${{ secrets.STAGING_PATH }}
         run: |
           trap 'echo "::error::Rsync step failed at: $BASH_COMMAND (rc=$?)"' ERR
+          # Срезаем пробелы/переводы строк и слеш на конце (частые ошибки при вставке секретов).
+          trim() { printf '%s' "$1" | tr -d '\r\n' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'; }
+          SSH_HOST=$(trim "$SSH_HOST"); SSH_USER=$(trim "$SSH_USER"); SSH_PORT=$(trim "$SSH_PORT")
+          DEPLOY_PATH=$(trim "$DEPLOY_PATH"); DEPLOY_PATH=${DEPLOY_PATH%/}
           for v in SSH_HOST SSH_USER DEPLOY_PATH; do
             [ -n "${!v}" ] || { echo "::error::Secret for $v is empty (check environment 'staging' secrets)"; exit 1; }
           done

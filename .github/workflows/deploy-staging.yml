@@ -52,6 +52,10 @@ jobs:
           set -e
           if [ $rc -ne 0 ] || ! echo "$out" | grep -q WP_OK; then
             echo "::error::SSH check failed (rc=$rc): $(echo "$out" | tail -3 | tr '\n' ' ')"
+            if [ $rc -eq 1 ]; then
+              diag=$(ssh $SSH_OPTS "$SSH_USER@$SSH_HOST" 'echo "home=$HOME"; ls -1 "$HOME" | tr "\n" " "; test -f "$HOME/public_html/wp-config.php" && echo " | wp-config found in HOME/public_html"' 2>&1 | tr '\n' ' ')
+              echo "::error::SSH login OK, but wp-config.php not found in STAGING_PATH (length ${#DEPLOY_PATH}, last char '${DEPLOY_PATH: -1}'). Server: $diag"
+            fi
             exit 1
           fi
           # Без --delete: плагины, установленные через админку, не трогаем.

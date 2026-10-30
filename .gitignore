@@ -1,0 +1,35 @@
+# --- WordPress core (ставится через cPanel/Softaculous, в git не храним) ---
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/index.php
+/xmlrpc.php
+/license.txt
+/readme.html
+
+# --- Конфиг и секреты: только на сервере ---
+wp-config.php
+.env
+*.sql
+*.sql.gz
+
+# --- Медиа и кеш ---
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/ai1wm-backups/
+wp-content/debug.log
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+
+# --- Сторонние плагины добавляем явно (см. README) ---
+# wp-content/plugins/*
+# !wp-content/plugins/my-plugin/
+
+# --- Системное ---
+.DS_Store
+Thumbs.db
+node_modules/
+.idea/
+.vscode/

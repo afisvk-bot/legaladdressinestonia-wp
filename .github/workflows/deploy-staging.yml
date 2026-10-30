@@ -1,0 +1,64 @@
+name: Deploy → staging
+
+# Пуш в ветку staging = выкладка на https://staging.dragonslots-gr.gr/
+on:
+  push:
+    branches: [staging]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-staging
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: PHP syntax check
+        run: |
+          find wp-content -name '*.php' -print0 | xargs -0 -r -n1 php -l > /dev/null
+
+      - name: Set up SSH
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -p "$SSH_PORT" -H "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Rsync wp-content
+        env:
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          DEPLOY_PATH: ${{ secrets.STAGING_PATH }}
+        run: |
+          test -n "$DEPLOY_PATH" || { echo "STAGING_PATH secret is empty"; exit 1; }
+          # Без --delete: плагины, установленные через админку, не трогаем.
+          # mu-plugins синхронизируем строго (это наш код).
+          RSYNC_SSH="ssh -i ~/.ssh/deploy_key -p $SSH_PORT"
+          ssh -i ~/.ssh/deploy_key -p "$SSH_PORT" "$SSH_USER@$SSH_HOST" \
+            "test -f '$DEPLOY_PATH/wp-config.php'" \
+            || { echo "WordPress не найден в $DEPLOY_PATH"; exit 1; }
+          rsync -az --exclude='.gitkeep' -e "$RSYNC_SSH" \
+            wp-content/themes/  "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/themes/"
+          rsync -az --exclude='.gitkeep' -e "$RSYNC_SSH" \
+            wp-content/plugins/ "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/plugins/"
+          rsync -az --delete --exclude='.gitkeep' -e "$RSYNC_SSH" \
+            wp-content/mu-plugins/ "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/mu-plugins/"
+
+      - name: Smoke test
+        run: |
+          code=$(curl -s -o /dev/null -w '%{http_code}' https://staging.dragonslots-gr.gr/robots.txt || true)
+          echo "robots.txt HTTP $code (401 = закрыто паролем, это нормально)"
+          [ "$code" = "200" ] || [ "$code" = "401" ]
+
+      - name: Cleanup
+        if: always()
+        run: rm -f ~/.ssh/deploy_key

@@ -39,13 +39,24 @@ jobs:
           SSH_USER: ${{ secrets.SSH_USER }}
           DEPLOY_PATH: ${{ secrets.STAGING_PATH }}
         run: |
-          test -n "$DEPLOY_PATH" || { echo "STAGING_PATH secret is empty"; exit 1; }
+          trap 'echo "::error::Rsync step failed at: $BASH_COMMAND (rc=$?)"' ERR
+          for v in SSH_HOST SSH_USER DEPLOY_PATH; do
+            [ -n "${!v}" ] || { echo "::error::Secret for $v is empty (check environment 'staging' secrets)"; exit 1; }
+          done
+          grep -q 'BEGIN OPENSSH PRIVATE KEY' ~/.ssh/deploy_key \
+            || { echo "::error::SSH_PRIVATE_KEY is empty or not a full private key (need BEGIN/END lines)"; exit 1; }
+          echo "::notice::Deploy target $SSH_USER@$SSH_HOST:$SSH_PORT -> $DEPLOY_PATH"
+          SSH_OPTS="-i $HOME/.ssh/deploy_key -p $SSH_PORT -o BatchMode=yes -o ConnectTimeout=20"
+          set +e
+          out=$(ssh $SSH_OPTS "$SSH_USER@$SSH_HOST" "test -f '$DEPLOY_PATH/wp-config.php' && echo WP_OK" 2>&1); rc=$?
+          set -e
+          if [ $rc -ne 0 ] || ! echo "$out" | grep -q WP_OK; then
+            echo "::error::SSH check failed (rc=$rc): $(echo "$out" | tail -3 | tr '\n' ' ')"
+            exit 1
+          fi
           # Без --delete: плагины, установленные через админку, не трогаем.
           # mu-plugins синхронизируем строго (это наш код).
-          RSYNC_SSH="ssh -i ~/.ssh/deploy_key -p $SSH_PORT"
-          ssh -i ~/.ssh/deploy_key -p "$SSH_PORT" "$SSH_USER@$SSH_HOST" \
-            "test -f '$DEPLOY_PATH/wp-config.php'" \
-            || { echo "WordPress не найден в $DEPLOY_PATH"; exit 1; }
+          RSYNC_SSH="ssh $SSH_OPTS"
           rsync -az --exclude='.gitkeep' -e "$RSYNC_SSH" \
             wp-content/themes/  "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/themes/"
           rsync -az --exclude='.gitkeep' -e "$RSYNC_SSH" \
@@ -57,7 +68,8 @@ jobs:
         run: |
           code=$(curl -s -o /dev/null -w '%{http_code}' https://staging.dragonslots-gr.gr/robots.txt || true)
           echo "robots.txt HTTP $code (401 = закрыто паролем, это нормально)"
-          [ "$code" = "200" ] || [ "$code" = "401" ]
+          echo "::notice::robots.txt HTTP $code"
+          [ "$code" = "200" ] || [ "$code" = "401" ] || { echo "::error::Smoke test: robots.txt HTTP $code"; exit 1; }
 
       - name: Cleanup
         if: always()

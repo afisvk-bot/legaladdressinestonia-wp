@@ -1,0 +1,263 @@
+{
+    "languages": [
+        {
+            "slug": "en",
+            "locale": "en_GB",
+            "name": "EN",
+            "default": true
+        },
+        {
+            "slug": "zh",
+            "locale": "zh_CN",
+            "name": "CN",
+            "default": false
+        },
+        {
+            "slug": "de",
+            "locale": "de_DE",
+            "name": "DE",
+            "default": false
+        },
+        {
+            "slug": "es",
+            "locale": "es_ES",
+            "name": "ES",
+            "default": false
+        },
+        {
+            "slug": "fr",
+            "locale": "fr_FR",
+            "name": "FR",
+            "default": false
+        },
+        {
+            "slug": "ru",
+            "locale": "ru_RU",
+            "name": "RU",
+            "default": false
+        },
+        {
+            "slug": "pt",
+            "locale": "pt_PT",
+            "name": "PT",
+            "default": false
+        },
+        {
+            "slug": "tr",
+            "locale": "tr_TR",
+            "name": "TR",
+            "default": false
+        },
+        {
+            "slug": "uk",
+            "locale": "uk_UA",
+            "name": "UA",
+            "default": false
+        }
+    ],
+    "post": {
+        "ID": 3035,
+        "post_type": "post",
+        "post_status": "publish",
+        "post_name": "registered-address-vs-physical-office-in-estonia",
+        "post_title": "Legal address vs physical office in Estonia",
+        "post_excerpt": "",
+        "post_author": "5",
+        "post_date": "2026-10-22 07:47:04",
+        "lang": "en",
+        "url": "https://staging.dragonslots-gr.gr/blog/registered-address-vs-physical-office-in-estonia/",
+        "post_content": "<blockquote><span style=\"font-weight: 400;\">This material is based on the Estonian Commercial Code (§ 63 and § 63¹), guidance from the Estonian Tax and Customs Board (EMTA) for non-residents and e-residents, and the VAT registration requirements coming into force in August 2025. Please check with the relevant regulator regarding the requirements for licensed activities.</span></blockquote>\r\n<h2>Quick answer: the essentials in 60 seconds</h2>\r\n<span style=\"font-weight: 400;\">A registered office is a mandatory requirement for any Estonian company. A physical office is a tool that not everyone needs, but without which some business models in Estonia simply do not work.</span>\r\n<span style=\"font-weight: 400;\">Key facts for 2026:</span>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>Every company must have an address in Estonia.</b><span style=\"font-weight: 400;\"> This is entered in the Commercial Register, and the state uses it to serve official documents.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>If the management is based abroad, a contact person is also required.</b><span style=\"font-weight: 400;\"> This is a requirement under Section 63¹ of the Commercial Code; the contact person’s address may serve as the company’s address.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>The contact person must be one of the following:</b><span style=\"font-weight: 400;\"> a notary, a solicitor, a chartered accountant, a tax representative for non-residents, or a licensed provider of trust and corporate services.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>The address of the management abroad is also entered in the register.</b> <span style=\"font-weight: 400;\">It is not possible to conceal where the company is actually managed from.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>A registered office does not establish an ‘economic link’ with Estonia.</b><span style=\"font-weight: 400;\"> From August 2025, the EMTA will only register VAT where there is a genuine business link with Estonia.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>A physical office is mandatory for certain licensed activities</b><span style=\"font-weight: 400;\"> — credit, payment and insurance institutions: their place of business and head office must be in Estonia.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><b>A virtual office is an intermediate option:</b><span style=\"font-weight: 400;\"> an address, post handling and meeting rooms on request. It meets the needs of most e-residents, but does not replace a physical office where on-the-ground operations are required.</span></li>\r\n</ul>\r\n<span style=\"font-weight: 400;\">Below, we explain how to choose the right format for your business model, what the Register, the tax authorities and banks check, and when a ‘to-tick-the-box’ address becomes a risk.</span>\r\n<h2>The crossroads: three questions that determine the format</h2>\r\n<span style=\"font-weight: 400;\">The choice between an address and an office is not a matter of prestige or budget. It is determined by three facts about your business.</span>\r\n<b>Question 1. Where is the board of directors based?</b><span style=\"font-weight: 400;\"> If board members live abroad, the company needs an address and a contact person as specified by law. If a board member, shareholder or authorised representative resides in Estonia, they can act as the contact person themselves.</span>\r\n<b>Question 2. What actually takes place in Estonia?</b><span style=\"font-weight: 400;\"> Staff, client reception, a warehouse, production, document storage – all of this requires physical premises. If there are neither people nor goods in Estonia, a registered address or a virtual office will suffice.</span>\r\n<b>Question 3. Do you need a VAT number or a licence in Estonia?</b><span style=\"font-weight: 400;\"> For VAT, the EMTA looks at the economic link with Estonia; for licences, the financial regulator looks at the head office and actual management. In both cases, the address alone proves nothing.</span>\r\n<span style=\"font-weight: 400;\">Practical conclusion: it makes sense for almost everyone to start with a registered address and a contact person. Moving to a virtual or physical office is a response to specific business needs, not a prerequisite.</span>\r\n<h2>What the law requires</h2>\r\n<span style=\"font-weight: 400;\">Estonian law distinguishes between three concepts that are often confused in practice: the company’s address, the address of the board of directors and the place of actual business operations.</span>\r\n<h3>Company address</h3>\r\n<span style=\"font-weight: 400;\">Every company must specify an address in Estonia and an email address in the Commercial Register (§ 63 of the Commercial Code). The state sends procedural documents to this address, whilst business partners send legally significant notifications. The address must be a genuine one: a letter sent there must reach the company.</span>\r\n<h3>Contact person</h3>\r\n<span style=\"font-weight: 400;\">If the management board is based abroad, the company is obliged to appoint a contact person in Estonia (§ 63¹). Documents and declarations of intent addressed to the company are served through this contact person. In this case, the contact person’s address is deemed to be the company’s address.</span>\r\n<span style=\"font-weight: 400;\">The list is exhaustive: a notary, a solicitor or a law firm, a sworn auditor or an audit firm, a tax representative for non-residents, or a licensed provider of trust and corporate services. If a member of the management board, a shareholder or a procurator resides in Estonia, they may act as the contact person. The provider signs their appointment in the e-Business Register using a digital signature. For further details, see the page</span> <a href=\"https://staging.dragonslots-gr.gr/contact-person-in-estonia/\"><span style=\"font-weight: 400;\">on contact persons in Estonia</span></a><span style=\"font-weight: 400;\">.</span>\r\n<span style=\"font-weight: 400;\">The contact person is not authorised to act on behalf of the company. They serve as a channel of communication with the state, rather than as a director or a representative acting under a power of attorney.</span>\r\n<h3>Board address abroad</h3>\r\n<span style=\"font-weight: 400;\">If the board manages the company from another country, this overseas address is entered in the register. This is public information: banks, tax authorities and business partners can see where decisions are actually being made.</span>\r\n<h3>What happens if there is no address or contact person</h3>\r\n<span style=\"font-weight: 400;\">The registrar may require the breach to be rectified and, ultimately, may forcibly strike the company off the register. A typical scenario is where the contract with the address provider has expired and a new one has not been arranged. If you are changing providers, ensure</span> <a href=\"https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/\"><span style=\"font-weight: 400;\">you update your registered office address</span></a><span style=\"font-weight: 400;\"> without any gap in time.</span>\r\n<h2>Registered office, virtual office, physical office: a comparison</h2>\r\n<span style=\"font-weight: 400;\">These three formats serve different purposes. They should be compared not on the basis of price, but in terms of what each one demonstrates to the registrar, the tax authorities and the bank.</span>\r\n<table>\r\n<thead>\r\n<tr>\r\n<th>Parameter / Service</th>\r\n<th>Registered address + Contact person</th>\r\n<th>Virtual office</th>\r\n<th>Physical office</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td><strong>Compliance with legal requirements regarding the registered address</strong></td>\r\n<td><mark>Yes</mark></td>\r\n<td><mark>Yes</mark></td>\r\n<td><mark>Yes</mark></td>\r\n</tr>\r\n<tr>\r\n<td><strong>Requirement for a contact person</strong></td>\r\n<td><strong>Yes</strong> (provided the provider holds a licence)</td>\r\n<td><strong>Yes</strong> (if included in the tariff package)</td>\r\n<td><strong>No</strong> (must be arranged separately if the board is outside the EEA)</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Postal processing and scanning</strong></td>\r\n<td>Official government correspondence</td>\r\n<td>All incoming correspondence (including commercial correspondence)</td>\r\n<td>In-house / in-house secretary</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Meeting rooms and hosting meetings</strong></td>\r\n<td><strong>No</strong></td>\r\n<td><strong>Yes</strong> (on request / limited hours)</td>\r\n<td><strong>Yes</strong> (permanent access)</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Physical workspaces for staff</strong></td>\r\n<td><strong>No</strong></td>\r\n<td><strong>No</strong></td>\r\n<td><strong>Yes</strong></td>\r\n</tr>\r\n<tr>\r\n<td><strong>Substance argument for VAT purposes</strong></td>\r\n<td>Minimal (insufficient on its own)</td>\r\n<td>Indirect (requires confirmation of transactions)</td>\r\n<td><strong>Strong argument</strong> (confirms actual presence)</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Suitable for regulated activities (VASP / Crypto)</strong></td>\r\n<td><strong>No</strong></td>\r\n<td><strong>No</strong></td>\r\n<td><strong>Yes</strong> (mandatory regulatory requirement)</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Set-up / launch time</strong></td>\r\n<td>1–2 working days</td>\r\n<td>1–2 working days</td>\r\n<td>2 to 4 weeks (search, contract, set-up)</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Best suited for</strong></td>\r\n<td>e-Residents, IT, SaaS, iGaming affiliates, consultancy firms without a permanent staff in Estonia</td>\r\n<td>Trading companies, e-commerce, start-ups with representative functions</td>\r\n<td>Companies with staff in Estonia, fintech, crypto projects, warehousing businesses</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<span style=\"font-weight: 400;\">For details on the different options, see the pages on</span> <a href=\"https://staging.dragonslots-gr.gr/legal-address-estonia/\"><span style=\"font-weight: 400;\">registered addresses in Estonia</span></a><span style=\"font-weight: 400;\"> and</span> <a href=\"https://staging.dragonslots-gr.gr/virtual-office-in-estonia/\"><span style=\"font-weight: 400;\">virtual offices in Estonia</span></a><span style=\"font-weight: 400;\">.</span>\r\n<h2>When a registered office is not enough</h2>\r\n<span style=\"font-weight: 400;\">There are five situations in which a ‘paper’ address ceases to be sufficient. In each case, you need more than just a business sign; you need verifiable business activity in Estonia.</span>\r\n<h3>1. VAT registration</h3>\r\n<span style=\"font-weight: 400;\">From 7 August 2025, the EMTA will require proof of an economic link with Estonia before issuing a VAT number. This applies to both new applicants and existing companies. The e-Residency programme’s guidance provides an example of an insufficient link: no employees in Estonia, a board of directors in another EU country, clients in other EU countries, and services provided outside Estonia.</span>\r\n<span style=\"font-weight: 400;\">A sufficient link is considered to be, for example, customers or suppliers in Estonia, staff based here, management decisions taken in Estonia, or warehouse or goods-related operations. Without such a link, the EMTA may refuse registration or remove the company from the VAT register. For further details, see the article</span> <a href=\"https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/\"><span style=\"font-weight: 400;\">‘VAT registration in Estonia – when is it required?’</span></a><span style=\"font-weight: 400;\">.</span>\r\n<h3>2. Licensed financial activities</h3>\r\n<span style=\"font-weight: 400;\">Credit institutions, payment institutions, electronic money institutions and insurers licensed by the Financial Supervision Authority must have their place of business and head office in Estonia. For such companies, a physical office and local management are mandatory components of the licence application.</span>\r\n<h3>3. Employees in Estonia</h3>\r\n<span style=\"font-weight: 400;\">If a company has employees in Estonia, they require a workplace that complies with health and safety requirements. A virtual office is not sufficient in this case. If you are planning to relocate staff or move there yourself, please refer to the information on</span> <a href=\"https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/\"><span style=\"font-weight: 400;\">work visas and residence permits in Estonia</span></a><span style=\"font-weight: 400;\">.</span>\r\n<h3>4. Banks and payment providers</h3>\r\n<span style=\"font-weight: 400;\">Banks do not assess the address itself, but rather the business’s links to the jurisdiction: customers, suppliers, turnover and staff. Companies with an office and a team in Estonia find it easier to open an account with local banks. Companies with a management team based abroad tend to work with payment service providers – this is perfectly acceptable provided the structure is transparent.</span>\r\n<h3>5. The company’s tax residency</h3>\r\n<span style=\"font-weight: 400;\">Estonia considers a company registered in Estonia to be a resident. However, the country where the board of directors is based may consider the company to be a resident based on the place of effective management or may regard its activities as constituting a permanent establishment. An address in Tallinn does not settle this issue – it is determined by agreements, protocols and where decisions are actually taken. The tax aspects are covered in the article</span> <a href=\"https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/\"><span style=\"font-weight: 400;\">‘Corporate tax in Estonia 2026’</span></a><span style=\"font-weight: 400;\">.</span>\r\n<h2>Common mistakes</h2>\r\n<b>Providing an address without a tenancy agreement with the property owner.</b> <span style=\"font-weight: 400;\">Using the address of an acquaintance or a former office without a tenancy agreement is a sure-fire way to lose correspondence and face claims from the registrar.</span>\r\n<b>Appointing a contact person who is not on the list specified by law.</b><span style=\"font-weight: 400;\"> When the company is managed from abroad, the contact person must be a notary, solicitor, auditor, tax representative or licensed service provider.</span>\r\n<b>Confusing the contact person with a company representative.</b><span style=\"font-weight: 400;\"> The contact person receives documents but does not sign contracts or manage accounts. To act on behalf of the company, a board member, authorised signatory or power of attorney is required.</span>\r\n<b>Allowing a gap when changing service providers.</b><span style=\"font-weight: 400;\"> If the old contract expires before the new address is entered in the register, the company is left without an address or a contact person.</span>\r\n<b>Assuming that an address entitles a company to VAT relief.</b><span style=\"font-weight: 400;\"> From August 2025, the EMTA will assess actual business activity rather than the address.</span>\r\n<b>Failing to read post sent to the address.</b><span style=\"font-weight: 400;\"> Enquiries from the EMTA and the registry have response deadlines. A letter that nobody has opened is deemed to have been received.</span>\r\n<b>Renting an office ‘for appearances’ without carrying out any business there.</b><span style=\"font-weight: 400;\"> An empty premises does not create an economic link and does not convince the bank — it is people, contracts and transactions that convince them.</span>\r\n<b>Forgetting to update the overseas address of the board of directors.</b><span style=\"font-weight: 400;\"> If a board member has moved, the address in the register must be changed.</span>\r\n<h2>The infrastructure that makes the scheme sustainable</h2>\r\n<span style=\"font-weight: 400;\">A registered address is not just a line on a statement, but a functioning channel of communication between the state and the company. It must receive letters, forward them to you and remind you of deadlines.</span>\r\n<span style=\"font-weight: 400;\">Legal Address in Estonia is a project run by the licensed corporate services provider eBusiness Solutions OÜ (licence FIU000421), an official member of the e-Residency marketplace. We provide</span> <a href=\"https://staging.dragonslots-gr.gr/legal-address-estonia/\"><span style=\"font-weight: 400;\">a registered office</span></a><span style=\"font-weight: 400;\"> in Tallinn’s business centres,</span> <a href=\"https://staging.dragonslots-gr.gr/contact-person-in-estonia/\"><span style=\"font-weight: 400;\">a designated contact person service</span></a> <span style=\"font-weight: 400;\">and</span> <a href=\"https://staging.dragonslots-gr.gr/virtual-office-in-estonia/\"><span style=\"font-weight: 400;\">a virtual office</span></a><span style=\"font-weight: 400;\">. We scan and forward official correspondence containing notifications, remind you of deadlines set by the Commercial Register and the EMTA, and assist with</span> <a href=\"https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/\"><span style=\"font-weight: 400;\">changing your registered address</span></a><span style=\"font-weight: 400;\"> and</span> <a href=\"https://staging.dragonslots-gr.gr/vat-registration/\"><span style=\"font-weight: 400;\">VAT registration</span></a><span style=\"font-weight: 400;\">.</span>\r\n<span style=\"font-weight: 400;\">For your company, this means three things. The requirements of § 63 and § 63¹ are met by a single contract. Requests from the state are not lost or overlooked. And the decision to switch to a virtual or physical office is made when business needs dictate it, rather than out of fear of an audit.</span>\r\n<h2>Three real-life scenarios</h2>\r\n<b>Scenario 1. Consulting services for an e-resident from Spain.</b><span style=\"font-weight: 400;\"> One board member, clients in Germany and France, no employees. Solution: a registered office and contact person provided by a licensed service provider. It is highly unlikely that an Estonian VAT number will be obtained through voluntary registration — B2B services are invoiced under the reverse charge mechanism, and, where necessary, VAT registration is arranged in the country where the business is actually carried out.</span>\r\n<b>Scenario 2. A SaaS start-up that employs developers in Tallinn.</b><span style=\"font-weight: 400;\"> Three employees in Estonia; the CTO lives here, whilst the board is partly based abroad. Solution: a physical office or a co-working space with workstations, plus a registered address at the same premises. The economic link with Estonia is clear; VAT registration and opening a bank account with a local bank proceed without difficulty.</span>\r\n<b>Scenario 3. Online retail with a 3PL warehouse in Estonia.</b><span style=\"font-weight: 400;\"> Management is based abroad, whilst goods are stored with a logistics operator near Tallinn. Solution: a registered address and contact person at the provider’s premises, with the warehouse managed by a 3PL; a separate office is not required. Goods transactions in Estonia trigger VAT and OSS obligations — see</span> <a href=\"https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/\"><span style=\"font-weight: 400;\">OSS and IOSS in Estonia</span></a><span style=\"font-weight: 400;\">.</span>\r\n<span style=\"font-weight: 400;\">The common thread: the structure is determined by what physically takes place in Estonia, not by the company’s ambitions. A consultancy firm with a turnover of €300,000 may only need a registered address, whilst a start-up with a turnover of €30,000 and a team in Tallinn will need an office.</span>\r\n<h2>What’s next</h2>\r\n<span style=\"font-weight: 400;\">The direction is clear: the Estonian authorities are paying less and less attention to formal requirements and increasingly focusing on actual business activity. The requirement for an economic link for VAT, which comes into force in August 2025, is the most notable example. At the same time, the EMTA is transitioning reporting to data transmission from accounting software: from October 2026 for the TSD, and from spring 2027 for the KMD VAT return and the employment register.</span>\r\n<span style=\"font-weight: 400;\">For a company owner, the practical implication is that an address and a contact person remain the mandatory minimum, but do not replace transparent documentation. A company whose contracts, minutes and financial flows clearly explain its business model will withstand any audit – regardless of whether it has an office.</span>\r\n<h2>Mini-glossary</h2>\r\n<b>Registered office</b><span style=\"font-weight: 400;\"> — the company’s address in Estonia, entered in the Commercial Register for official correspondence.</span>\r\n<b>Contact person (kontaktisik)</b><span style=\"font-weight: 400;\"> — a person from the list in § 63¹, through whom the state serves documents to a company with its management based abroad.</span>\r\n<b>Management address</b> <span style=\"font-weight: 400;\">— the overseas address from which the company is managed; this is entered in the register.</span>\r\n<b>Virtual office</b><span style=\"font-weight: 400;\"> — a package of services: an address, post handling, and meeting rooms on request.</span>\r\n<b>Economic link</b><span style=\"font-weight: 400;\"> — the EMTA’s criterion for VAT registration: actual business activity in Estonia.</span>\r\n<b>A procurator</b><span style=\"font-weight: 400;\"> is a company representative with broad powers, entered in the register.</span>\r\n<h2>What to do next</h2>\r\n<ol>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Determine where the management is based and what actually takes place in Estonia.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If the management is based abroad, enter into an agreement with a licensed contact person.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Check that the company’s address, the contact person’s address and the management’s address as recorded in the register match the actual situation.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If you need a VAT number, gather evidence of economic links before submitting your application.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Set up the receipt and forwarding of official correspondence so that you can respond to any enquiry in a timely manner.</span></li>\r\n \t<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Switch to a virtual or physical office when required by staff, clients or your licence.</span></li>\r\n</ol>\r\n<i><span style=\"font-weight: 400;\">This article is for information purposes only and does not constitute legal or tax advice. Requirements regarding addresses, contact persons, VAT registration and licensing are subject to change. Before making a decision, please check ariregister.rik.ee, emta.ee and fi.ee, or contact our specialists.</span></i>",
+        "page_template": "",
+        "thumbnail_id": 3033
+    },
+    "meta": {
+        "rank_math_internal_links_processed": "1",
+        "_thumbnail_id": "3033",
+        "faqs_title": "",
+        "_faqs_title": "field_6a59fc6ef0408",
+        "_edit_lock": "1792656503:5",
+        "_edit_last": "5",
+        "rank_math_seo_score": "20",
+        "rank_math_contentai_score": "a:5:{s:8:\"keywords\";s:5:\"74.51\";s:9:\"wordCount\";s:1:\"0\";s:9:\"linkCount\";s:1:\"0\";s:12:\"headingCount\";s:1:\"0\";s:10:\"mediaCount\";s:1:\"0\";}",
+        "_ez-toc-disabled": "",
+        "_ez-toc-insert": "",
+        "_ez-toc-header-label": "",
+        "_ez-toc-device-target": "",
+        "_ez-toc-alignment": "none",
+        "_ez-toc-heading-levels": "a:0:{}",
+        "_ez-toc-alttext": "",
+        "_ez-toc-visibility_hide_by_default": "",
+        "_ez-toc-hide_counter": "",
+        "_ez-toc-exclude": "",
+        "_ez-toc-word_count_limit": "0",
+        "_ez-toc-position-specific": "",
+        "faqs_items": "",
+        "_faqs_items": "field_6a59fca7f0409"
+    },
+    "acf": {
+        "faqs_title": "",
+        "faqs_items": false
+    },
+    "terms": {
+        "category": [
+            {
+                "id": 106,
+                "name": "Blog",
+                "slug": "blog",
+                "translations": {
+                    "en": {
+                        "id": 106,
+                        "name": "Blog",
+                        "slug": "blog"
+                    },
+                    "uk": {
+                        "id": 142,
+                        "name": "Блог",
+                        "slug": "blog-uk"
+                    },
+                    "de": {
+                        "id": 108,
+                        "name": "Blog",
+                        "slug": "blog-de"
+                    },
+                    "fr": {
+                        "id": 110,
+                        "name": "Blogue",
+                        "slug": "blogue-fr"
+                    },
+                    "ru": {
+                        "id": 112,
+                        "name": "Блог",
+                        "slug": "blog-ru"
+                    },
+                    "es": {
+                        "id": 114,
+                        "name": "Blog",
+                        "slug": "blog-es"
+                    },
+                    "zh": {
+                        "id": 116,
+                        "name": "部落格",
+                        "slug": "blog-cn"
+                    },
+                    "pt": {
+                        "id": 118,
+                        "name": "Blogue",
+                        "slug": "blogue-pt"
+                    },
+                    "tr": {
+                        "id": 122,
+                        "name": "Blog",
+                        "slug": "blog-tr"
+                    }
+                }
+            }
+        ]
+    },
+    "translations": {
+        "en": {
+            "id": 3035,
+            "status": "publish",
+            "slug": "registered-address-vs-physical-office-in-estonia",
+            "title": "Legal address vs physical office in Estonia",
+            "url": "https://staging.dragonslots-gr.gr/blog/registered-address-vs-physical-office-in-estonia/"
+        },
+        "uk": {
+            "id": 3039,
+            "status": "publish",
+            "slug": "yurydychna-adresa-vs-fizychnyy-ofis-v-estoniyi",
+            "title": "Юридична адреса проти фізичного офісу в Естонії",
+            "url": "https://staging.dragonslots-gr.gr/blog-uk/yurydychna-adresa-vs-fizychnyy-ofis-v-estoniyi/"
+        },
+        "ru": {
+            "id": 3030,
+            "status": "publish",
+            "slug": "yuridicheskij-adres-vs-realnyj-ofis-v-estonii",
+            "title": "Юридический адрес vs реальный офис в Эстонии",
+            "url": "https://staging.dragonslots-gr.gr/blog-ru/yuridicheskij-adres-vs-realnyj-ofis-v-estonii/"
+        }
+    },
+    "sample": {
+        "tr": {
+            "id": 2311,
+            "slug": "estonya-daki-evrimi-i-ma-azalar-i-in-sat-c-hesaplar-deme-i-leme-z-m-nas-l-se-ilir-rakamlarla-desteklenen-d-r-st-bir-analiz",
+            "title": "Estonya’daki çevrimiçi mağazalar için satıcı hesapları: Ödeme işleme çözümü nasıl seçilir — rakamlarla desteklenen dürüst bir analiz",
+            "url": "https://staging.dragonslots-gr.gr/blog-tr/estonya-daki-evrimi-i-ma-azalar-i-in-sat-c-hesaplar-deme-i-leme-z-m-nas-l-se-ilir-rakamlarla-desteklenen-d-r-st-bir-analiz/",
+            "rm_title": "%currentyear% %sep% %sitename% adresindeki Estonya’daki bir çevrimiçi mağaza için ticari hesap",
+            "rm_desc": "",
+            "rm_kw": "Estonya’daki bir çevrimiçi mağaza için ticari hesap",
+            "author": "6"
+        },
+        "en": {
+            "id": 2284,
+            "slug": "merchant-accounts-for-online-shops-in-estonia",
+            "title": "Merchant accounts for online shops in Estonia: how to choose a payment processing solution — an honest analysis with figures",
+            "url": "https://staging.dragonslots-gr.gr/blog/merchant-accounts-for-online-shops-in-estonia/",
+            "rm_title": "Merchant account for an online shop in Estonia in %currentyear% %sep% %sitename%",
+            "rm_desc": "",
+            "rm_kw": "Merchant account for an online shop in Estonia",
+            "author": "6"
+        },
+        "de": {
+            "id": 2292,
+            "slug": "h-ndlerkonten-f-r-online-shops-in-estland-so-w-hlen-sie-eine-zahlungsabwicklungsl-sung-aus-eine-ehrliche-analyse-mit-zahlen",
+            "title": "Händlerkonten für Online-Shops in Estland: So wählen Sie eine Zahlungsabwicklungslösung aus – eine ehrliche Analyse mit Zahlen",
+            "url": "https://staging.dragonslots-gr.gr/blog-de/h-ndlerkonten-f-r-online-shops-in-estland-so-w-hlen-sie-eine-zahlungsabwicklungsl-sung-aus-eine-ehrliche-analyse-mit-zahlen/",
+            "rm_title": "Händlerkonto für einen Online-Shop in Estland im %currentyear% %sep% %sitename%",
+            "rm_desc": "",
+            "rm_kw": "Händlerkonto für einen Online-Shop in Estland",
+            "author": "6"
+        },
+        "ru": {
+            "id": 2274,
+            "slug": "merchant-akkaunt-dlya-internet-magazina-v-estonii",
+            "title": "Мерчант-аккаунт для интернет-магазина в Эстонии: как выбрать приём платежей — честный разбор с расчётами",
+            "url": "https://staging.dragonslots-gr.gr/blog-ru/merchant-akkaunt-dlya-internet-magazina-v-estonii/",
+            "rm_title": "Мерчант-аккаунт для интернет-магазина в Эстонии в %currentyear% году %sep% %sitename%",
+            "rm_desc": "",
+            "rm_kw": "Мерчант-аккаунт для интернет-магазина в Эстонии",
+            "author": "6"
+        },
+        "zh": {
+            "id": 2288,
+            "slug": "2288",
+            "title": "爱沙尼亚网店的收单账户：如何选择支付处理方案——基于数据的客观分析",
+            "url": "https://staging.dragonslots-gr.gr/blog-cn/2288/",
+            "rm_title": "%currentyear%年%sep%月爱沙尼亚%sitename%网店的商户账户",
+            "rm_desc": "",
+            "rm_kw": "爱沙尼亚网店的收单账户",
+            "author": "6"
+        },
+        "es": {
+            "id": 2296,
+            "slug": "cuentas-de-comerciante-para-tiendas-online-en-estonia-c-mo-elegir-una-soluci-n-de-procesamiento-de-pagos-un-an-lisis-sincero-con-cifras",
+            "title": "Cuentas de comerciante para tiendas online en Estonia: cómo elegir una solución de procesamiento de pagos — un análisis sincero con cifras",
+            "url": "https://staging.dragonslots-gr.gr/blog-es/cuentas-de-comerciante-para-tiendas-online-en-estonia-c-mo-elegir-una-soluci-n-de-procesamiento-de-pagos-un-an-lisis-sincero-con-cifras/",
+            "rm_title": "Cuenta de comerciante para una tienda online en Estonia en %currentyear% %sep% %sitename%",
+            "rm_desc": "",
+            "rm_kw": "Cuenta de comerciante para una tienda online en Estonia",
+            "author": "6"
+        },
+        "fr": {
+            "id": 2299,
+            "slug": "comptes-marchands-pour-les-boutiques-en-ligne-en-estonie-comment-choisir-une-solution-de-paiement-une-analyse-objective-tay-e-par-des-chiffres",
+            "title": "Comptes marchands pour les boutiques en ligne en Estonie : comment choisir une solution de paiement — une analyse objective étayée par des chiffres",
+            "url": "https://staging.dragonslots-gr.gr/blogue-fr/comptes-marchands-pour-les-boutiques-en-ligne-en-estonie-comment-choisir-une-solution-de-paiement-une-analyse-objective-tay-e-par-des-chiffres/",
+            "rm_title": "Compte marchand pour une boutique en ligne en Estonie en %currentyear% %sep% %sitename%",
+            "rm_desc": "",
+            "rm_kw": "Compte marchand pour une boutique en ligne en Estonie",
+            "author": "6"
+        },
+        "pt": {
+            "id": 2307,
+            "slug": "contas-comerciais-para-lojas-online-na-est-nia-como-escolher-uma-solu-o-de-processamento-de-pagamentos-uma-an-lise-honesta-com-n-meros",
+            "title": "Contas comerciais para lojas online na Estónia: como escolher uma solução de processamento de pagamentos — uma análise honesta com números",
+            "url": "https://staging.dragonslots-gr.gr/blogue-pt/contas-comerciais-para-lojas-online-na-est-nia-como-escolher-uma-solu-o-de-processamento-de-pagamentos-uma-an-lise-honesta-com-n-meros/",
+            "rm_title": "Conta comercial para uma loja online na Estónia em %currentyear% %sep% %sitename%",
+            "rm_desc": "",
+            "rm_kw": "Conta de comerciante para uma loja online na Estónia",
+            "author": "6"
+        }
+    },
+    "pll_sync": []
+}

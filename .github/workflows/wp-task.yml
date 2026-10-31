@@ -1,0 +1,77 @@
+name: WP task → staging
+
+# Запуск скрипта из tools/ через WP-CLI на staging (eval-file).
+# Результат (stdout) коммитится в ветку wp-output: out/<run_id>-<script>.txt
+on:
+  workflow_dispatch:
+    inputs:
+      script:
+        description: "Файл в tools/ (например export-post.php)"
+        required: true
+      args:
+        description: "Аргументы для скрипта (через пробел)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wp-task-staging
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run on staging
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          DEPLOY_PATH: ${{ secrets.STAGING_PATH }}
+          SCRIPT: ${{ inputs.script }}
+          ARGS: ${{ inputs.args }}
+        run: |
+          trim() { printf '%s' "$1" | tr -d '\r\n' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'; }
+          SSH_HOST=$(trim "$SSH_HOST"); SSH_USER=$(trim "$SSH_USER"); SSH_PORT=$(trim "$SSH_PORT")
+          DEPLOY_PATH=$(trim "$DEPLOY_PATH"); DEPLOY_PATH=${DEPLOY_PATH%/}
+          case "$SCRIPT" in *..*|*/*|"") echo "::error::bad script name"; exit 1;; esac
+          test -f "tools/$SCRIPT" || { echo "::error::tools/$SCRIPT not found"; exit 1; }
+
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/k && chmod 600 ~/.ssh/k
+          ssh-keyscan -p "$SSH_PORT" -H "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          SSH="ssh -i $HOME/.ssh/k -p $SSH_PORT -o BatchMode=yes -o ConnectTimeout=20"
+
+          REMOTE_TOOLS="$(dirname "$DEPLOY_PATH")/lai-tools"
+          $SSH "$SSH_USER@$SSH_HOST" "mkdir -p '$REMOTE_TOOLS/data'"
+          rsync -az --delete -e "$SSH" tools/ "$SSH_USER@$SSH_HOST:$REMOTE_TOOLS/"
+
+          mkdir -p out
+          OUT="out/${GITHUB_RUN_ID}-${SCRIPT%.php}.txt"
+          set +e
+          $SSH "$SSH_USER@$SSH_HOST" "cd '$DEPLOY_PATH' && WP=\$(command -v wp || echo /usr/local/bin/wp) && /usr/local/lsws/lsphp81/bin/php -d memory_limit=512M \$WP eval-file '$REMOTE_TOOLS/$SCRIPT' $ARGS 2>&1" > "$OUT"
+          rc=$?
+          set -e
+          rm -f ~/.ssh/k
+          echo "::notice::exit=$rc, output $(wc -c < "$OUT") bytes -> $OUT"
+          echo "$rc" > "$OUT.rc"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          cp "$OUT" "$OUT.rc" /tmp/
+          if git fetch -q origin wp-output 2>/dev/null; then
+            git checkout -q -f -B wp-output origin/wp-output
+          else
+            git checkout -q --orphan wp-output && git rm -rqf --cached . && git clean -fdq -e out
+          fi
+          mkdir -p out && cp "/tmp/$(basename "$OUT")" "/tmp/$(basename "$OUT").rc" out/
+          git add -f "$OUT" "$OUT.rc"
+          git commit -qm "wp-task $SCRIPT run $GITHUB_RUN_ID (rc=$rc)"
+          git push -q origin wp-output
+          exit $rc

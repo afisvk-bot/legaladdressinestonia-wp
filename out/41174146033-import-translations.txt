@@ -1,0 +1,166 @@
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+{
+    "source": 3035,
+    "translations": {
+        "en": 3035,
+        "uk": 3039,
+        "ru": 3030,
+        "de": 3628,
+        "fr": 3629,
+        "es": 3630,
+        "pt": 3631,
+        "tr": 3632,
+        "zh": 3633
+    },
+    "report": [
+        {
+            "lang": "de",
+            "title": "Eingetragene Adresse vs. physisches Büro in Estland",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/anderung-der-eingetragenen-geschaftsadresse-in-estland/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/eingetragene-gesch-ftsadresse-in-estland/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtuelles-buro-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> https://staging.dragonslots-gr.gr/blog-de/mehrwertsteuerregistrierung-in-estland-schwellenwerte-und-vorschriften/",
+                "https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/ -> https://staging.dragonslots-gr.gr/arbeitsvisa-und-aufenthaltsgenehmigungen-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blog-de/koerperschaftsteuer-estland-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/eingetragene-gesch-ftsadresse-in-estland/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtuelles-buro-in-estland/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/anderung-der-eingetragenen-geschaftsadresse-in-estland/",
+                "https://staging.dragonslots-gr.gr/vat-registration/ -> https://staging.dragonslots-gr.gr/beantragung-einer-umsatzsteuer-identifikationsnummer-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> (no de translation, kept)"
+            ],
+            "cats": [
+                108
+            ],
+            "status": "created #3628",
+            "url": "https://staging.dragonslots-gr.gr/blog-de/eingetragene-adresse-vs-physisches-buero-in-estland/"
+        },
+        {
+            "lang": "fr",
+            "title": "Adresse légale ou bureau physique en Estonie",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/interlocuteur-en-estonie/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/modification-de-ladresse-sociale-en-estonie/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/siege-social-en-estonie/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/bureau-virtuel-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> (no fr translation, kept)",
+                "https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/ -> https://staging.dragonslots-gr.gr/visas-de-travail-et-titres-de-sejour-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blogue-fr/impot-societes-estonie-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/siege-social-en-estonie/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/interlocuteur-en-estonie/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/bureau-virtuel-en-estonie/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/modification-de-ladresse-sociale-en-estonie/",
+                "https://staging.dragonslots-gr.gr/vat-registration/ -> https://staging.dragonslots-gr.gr/demande-dimmatriculation-la-tva-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> (no fr translation, kept)"
+            ],
+            "cats": [
+                110
+            ],
+            "status": "created #3629",
+            "url": "https://staging.dragonslots-gr.gr/blogue-fr/adresse-legale-vs-bureau-physique-en-estonie/"
+        },
+        {
+            "lang": "es",
+            "title": "Dirección legal frente a oficina física en Estonia",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/cambiar-la-direccion-social-en-estonia/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/domicilio-social-en-estonia/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/oficina-virtual-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> (no es translation, kept)",
+                "https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/ -> https://staging.dragonslots-gr.gr/visados-de-trabajo-y-permisos-de-residencia-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blog-es/impuesto-sociedades-estonia-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/domicilio-social-en-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/oficina-virtual-en-estonia/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/cambiar-la-direccion-social-en-estonia/",
+                "https://staging.dragonslots-gr.gr/vat-registration/ -> https://staging.dragonslots-gr.gr/solicitud-de-un-numero-de-iva-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> (no es translation, kept)"
+            ],
+            "cats": [
+                114
+            ],
+            "status": "created #3630",
+            "url": "https://staging.dragonslots-gr.gr/blog-es/direccion-legal-vs-oficina-fisica-en-estonia/"
+        },
+        {
+            "lang": "pt",
+            "title": "Morada legal vs. escritório físico na Estónia",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/pessoa-de-contacto-na-estonia/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/alterar-a-morada-social-na-estonia/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/domicilio-social-na-estonia/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/escritorio-virtual-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> (no pt translation, kept)",
+                "https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/ -> https://staging.dragonslots-gr.gr/visto-de-trabalho-e-autorizacoes-de-residencia-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blogue-pt/imposto-sociedades-estonia-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/domicilio-social-na-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/pessoa-de-contacto-na-estonia/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/escritorio-virtual-na-estonia/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/alterar-a-morada-social-na-estonia/",
+                "https://staging.dragonslots-gr.gr/vat-registration/ -> https://staging.dragonslots-gr.gr/registo-para-a-obtencao-de-um-numero-de-iva-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> (no pt translation, kept)"
+            ],
+            "cats": [
+                118
+            ],
+            "status": "created #3631",
+            "url": "https://staging.dragonslots-gr.gr/blogue-pt/morada-legal-vs-escritorio-fisico-na-estonia/"
+        },
+        {
+            "lang": "tr",
+            "title": "Estonya'da yasal adres mi, fiziksel ofis mi?",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-daki-irtibat-kisisi/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-da-yasal-adresin-degitirilmesi/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/estonya-daki-yasal-adres/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/estonyada-sanal-ofis/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> (no tr translation, kept)",
+                "https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/ -> https://staging.dragonslots-gr.gr/estonya-da-al-ma-vizesi-ve-oturma-izinleri/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blog-tr/estonya-kurumlar-vergisi-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/estonya-daki-yasal-adres/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-daki-irtibat-kisisi/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/estonyada-sanal-ofis/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-da-yasal-adresin-degitirilmesi/",
+                "https://staging.dragonslots-gr.gr/vat-registration/ -> https://staging.dragonslots-gr.gr/estonya-da-kdv-numaras-almak/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> (no tr translation, kept)"
+            ],
+            "cats": [
+                122
+            ],
+            "status": "created #3632",
+            "url": "https://staging.dragonslots-gr.gr/blog-tr/estonyada-yasal-adres-vs-fiziksel-ofis/"
+        },
+        {
+            "lang": "zh",
+            "title": "爱沙尼亚注册地址与实体办公室对比",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/contact-person-estonia/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/change-legal-address/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/legal-address-estonia/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtual-office-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> (no zh translation, kept)",
+                "https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/ -> https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blog-cn/estonia-corporate-tax-2026-zh/",
+                "https://staging.dragonslots-gr.gr/legal-address-estonia/ -> https://staging.dragonslots-gr.gr/legal-address-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/contact-person-estonia/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtual-office-estonia/",
+                "https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/ -> https://staging.dragonslots-gr.gr/change-legal-address/",
+                "https://staging.dragonslots-gr.gr/vat-registration/ -> https://staging.dragonslots-gr.gr/vat-registration-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> (no zh translation, kept)"
+            ],
+            "cats": [
+                116
+            ],
+            "status": "created #3633",
+            "url": "https://staging.dragonslots-gr.gr/blog-cn/zhuce-dizhi-yu-shiti-bangongshi-aishaniya/"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+Success: Успешная очистка всех кэшей.
+{
+    "before": {
+        "siteurl": "https://staging.dragonslots-gr.gr",
+        "home": "https://staging.dragonslots-gr.gr",
+        "table_prefix": "wp_",
+        "env": "staging",
+        "aios_active": true,
+        "mu_plugins": [
+            "lai-auto-menu.php",
+            "lai-0-config.php",
+            "lai-i18n-helpers.php",
+            "lai-menu-sync.php",
+            "lai-interlinking.php",
+            "lai-table-format.php",
+            "rank-math-author-seo-per-language.php",
+            "staging-guard.php"
+        ],
+        "aios_rename_login": "1",
+        "aios_login_slug": "setting",
+        "admins": [
+            "_seo__user",
+            "daivan4ik@gmail.com",
+            "s__user",
+            "SEO-Viktor"
+        ]
+    },
+    "after": {
+        "siteurl": "https://staging.dragonslots-gr.gr",
+        "home": "https://staging.dragonslots-gr.gr",
+        "aios_active": false,
+        "wp_login_http": 200
+    }
+}

@@ -6,7 +6,7 @@
 defined( 'ABSPATH' ) || exit;
 
 // Мастер-меню (EN) для каждой локации темы: локация:ID меню
-defined( 'LAI_MASTER_MENUS' ) || define( 'LAI_MASTER_MENUS', 'primary-menu:154,mobile_menu:157' );
+defined( 'LAI_MASTER_MENUS' ) || define( 'LAI_MASTER_MENUS', 'primary-menu:154,mobile_menu:154' ); // в Polylang EN-мобильное = 154 (Primary EN); 157 не используется
 
 // Данные модулей
 defined( 'LAI_LINK_MATRIX_FILE' )  || define( 'LAI_LINK_MATRIX_FILE', __DIR__ . '/lai-data/lai-link-matrix.json' );

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: LAI — Menu sync (EN → все языки)
  * Description: Создаёт и обновляет НАСТОЯЩИЕ меню каждого языка Polylang по английскому мастер-меню: пункты ведут на переведённые страницы, подписи — на языке меню. Ручные правки в меню языка сохраняются.
- * Version:     1.1.0
+ * Version:     1.2.0
  * Requires:    lai-i18n-helpers.php, lai-auto-menu.php (карта LAI_MASTER_MENUS и словарь подписей)
  *
  * КАК РАБОТАТЬ
@@ -166,13 +166,22 @@ function lai_sync_menu( int $master_id, string $location, string $lang, bool $dr
 
 	$existing = array_values( (array) wp_get_nav_menu_items( $menu_id, array( 'post_status' => 'any' ) ) );
 
+	$current_master_ids = array();
+	foreach ( $master as $m ) {
+		$current_master_ids[ (int) $m->ID ] = true;
+	}
+
 	// Индексы существующих пунктов.
 	$by_master = array();
 	$free      = array(); // пункты без привязки — кандидаты на «усыновление» (готовое меню, сделанное вручную)
+	$foreign   = array(); // пункты, созданные синхронизацией по ДРУГОМУ мастер-меню: усыновляем, лишние удаляем
 	foreach ( $existing as $e ) {
 		$mid = (int) get_post_meta( $e->ID, LAI_SYNC_META_MASTER, true );
-		if ( $mid ) {
+		if ( $mid && isset( $current_master_ids[ $mid ] ) && ! isset( $by_master[ $mid ] ) ) {
 			$by_master[ $mid ] = $e;
+		} elseif ( $mid ) {
+			$free[ $e->ID ]    = $e;
+			$foreign[ $e->ID ] = true;
 		} else {
 			$free[ $e->ID ] = $e;
 		}
@@ -305,6 +314,17 @@ function lai_sync_menu( int $master_id, string $location, string $lang, bool $dr
 		}
 	}
 
+	// Неусыновлённые пункты чужого мастера — мусор от прошлых синхронизаций: удаляем.
+	foreach ( $free as $fid => $f ) {
+		if ( isset( $foreign[ $fid ] ) ) {
+			unset( $free[ $fid ] );
+			$stats['removed']++;
+			if ( ! $dry ) {
+				wp_delete_post( (int) $fid, true );
+			}
+		}
+	}
+
 	// Пункты, добавленные вручную в меню языка, остаются; ставим их после синхронизированных.
 	foreach ( $free as $f ) {
 		$stats['user_items']++;
@@ -329,12 +349,24 @@ function lai_sync_all_menus( bool $dry = false, string $only_lang = '' ): array 
 	$running = true;
 	$out     = array();
 	$master_lang = lai_menu_master_lang();
+	$done        = array(); // меню языка, уже синхронизированные в этом проходе
 	foreach ( lai_menu_map() as $location => $master_id ) {
 		foreach ( lai_languages() as $lang ) {
 			if ( $lang === $master_lang || ( $only_lang && $lang !== $only_lang ) ) {
 				continue;
 			}
-			$out[] = lai_sync_menu( (int) $master_id, (string) $location, (string) $lang, $dry );
+			// Если Polylang назначил одно меню языка на несколько локаций (primary + mobile),
+			// синхронизируем его один раз — по первой локации. Иначе мастера перезаписывают друг друга.
+			$target = lai_sync_lang_menu_id( (string) $location, (string) $lang );
+			if ( $target && isset( $done[ $target ] ) ) {
+				$out[] = array( 'location' => $location, 'lang' => $lang, 'menu' => $target, 'created' => 0, 'updated' => 0, 'kept_manual' => 0, 'removed' => 0, 'skipped_no_translation' => 0, 'user_items' => 0, 'note' => 'same menu as ' . $done[ $target ] );
+				continue;
+			}
+			$row   = lai_sync_menu( (int) $master_id, (string) $location, (string) $lang, $dry );
+			$out[] = $row;
+			if ( is_numeric( $row['menu'] ) && $row['menu'] ) {
+				$done[ (int) $row['menu'] ] = $location;
+			}
 		}
 	}
 	if ( ! $dry ) {
@@ -349,11 +381,28 @@ function lai_sync_all_menus( bool $dry = false, string $only_lang = '' ): array 
 // Сохранили EN-меню → синхронизировать (после того как ядро сохранит все пункты).
 add_action( 'wp_update_nav_menu', function ( $menu_id ) {
 	if ( function_exists( 'lai_menu_map' ) && in_array( (int) $menu_id, array_map( 'intval', lai_menu_map() ), true ) ) {
-		add_action( 'shutdown', function () {
-			lai_sync_all_menus();
-		} );
+		add_action( 'shutdown', 'lai_sync_on_shutdown' );
 	}
 } );
+
+/** Отдать ответ браузеру и только потом синхронизировать — чтобы сохранение меню не падало по таймауту. */
+function lai_sync_on_shutdown( string $only_lang = '' ): void {
+	static $ran = array();
+	if ( isset( $ran[ $only_lang ] ) ) {
+		return;
+	}
+	$ran[ $only_lang ] = true;
+	ignore_user_abort( true );
+	if ( function_exists( 'set_time_limit' ) ) {
+		@set_time_limit( 300 );
+	}
+	if ( function_exists( 'litespeed_finish_request' ) ) {
+		litespeed_finish_request();
+	} elseif ( function_exists( 'fastcgi_finish_request' ) ) {
+		fastcgi_finish_request();
+	}
+	lai_sync_all_menus( false, $only_lang );
+}
 
 // Опубликовали перевод страницы, которая есть в EN-меню → досинхронизировать этот язык.
 add_action( 'transition_post_status', function ( $new, $old, $post ) {
@@ -372,7 +421,7 @@ add_action( 'transition_post_status', function ( $new, $old, $post ) {
 		foreach ( (array) wp_get_nav_menu_items( $mid ) as $i ) {
 			if ( 'post_type' === $i->type && (int) $i->object_id === $master_obj ) {
 				add_action( 'shutdown', function () use ( $lang ) {
-					lai_sync_all_menus( false, $lang );
+					lai_sync_on_shutdown( (string) $lang );
 				} );
 				return;
 			}

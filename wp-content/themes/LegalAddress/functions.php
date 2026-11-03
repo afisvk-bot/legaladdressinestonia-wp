@@ -37,12 +37,20 @@ require_once get_template_directory() . '/wp-bootstrap-navwalker.php';
 require_once get_template_directory() . '/inc/class-mobile-menu-walker.php';
 
 // Add Font
+// Poppins не содержит кириллицы — для RU/UK браузер подставлял системный шрифт.
+// Montserrat (геометрический гротеск, близкий к Poppins) идёт вторым в стеке:
+// латиница остаётся на Poppins, кириллические символы берутся из Montserrat.
+// Google Fonts отдаёт Montserrat с unicode-range, поэтому на страницах без кириллицы он не загружается.
 function legaladdress_google_fonts() {
   wp_enqueue_style(
     'google-font-poppins',
-    'https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap',
+    'https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Montserrat:wght@400;500;600;700&display=swap',
     array(),
     null
+  );
+  wp_add_inline_style(
+    'google-font-poppins',
+    'body,form.wpcf7-form .wpcf7-form-control-wrap input:not([type=checkbox]),form.wpcf7-form .wpcf7-form-control-wrap textarea{font-family:"Poppins","Montserrat",sans-serif}'
   );
 }
 add_action( 'wp_enqueue_scripts', 'legaladdress_google_fonts');

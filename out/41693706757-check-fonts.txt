@@ -1,0 +1,12 @@
+Success: Успешная очистка всех кэшей.
+<link data-optimized="2" rel="stylesheet" href="https://staging.dragonslots-gr.gr/wp-content/litespeed/css/5b19244d87f24908da8bd50bf39ff2fd.css?ver=f2ee6" />
+<link data-no-optimize="1" data-noptimize="1" rel='stylesheet' id='google-font-poppins-css' href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&#038;family=Montserrat:wght@400;500;600;700&#038;display=swap' media='all' />
+<link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel="stylesheet" href="https://staging.dragonslots-gr.gr/wp-content/uploads/trustindex-google-widget.css?1793696314" media="all">
+COMBINED fontfaces: 0
+MONT: kbox]),form.wpcf7-form .wpcf7-form-control-wrap textarea{font-family:"Poppins","Montserrat",sans-serif
+optm-localize=""
+optm-localize_domains="[\"### Popular scripts ###\",\"https:\\\/\\\/platform.twitter.com\\\/widgets.js\",\"https:\\\/\\\/connect.facebook.net\\\/en_US\\\/fbevents.js\"]"
+optm-css_exc="[]"
+optm-css_async=""
+optm-ccss_per_url=""
+optm-css_font_display="1"

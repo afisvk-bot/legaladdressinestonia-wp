@@ -1,0 +1,186 @@
+Success: Успешная очистка всех кэшей.
+[
+    {
+        "location": "primary-menu",
+        "lang": "zh",
+        "menu": 165,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "de",
+        "menu": 161,
+        "created": 2,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "es",
+        "menu": 163,
+        "created": 2,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "fr",
+        "menu": 166,
+        "created": 2,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "ru",
+        "menu": 155,
+        "created": 0,
+        "updated": 37,
+        "kept_manual": 2,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "pt",
+        "menu": 162,
+        "created": 2,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "tr",
+        "menu": 164,
+        "created": 2,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "primary-menu",
+        "lang": "uk",
+        "menu": 156,
+        "created": 1,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 1,
+        "user_items": 0
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "zh",
+        "menu": 177,
+        "created": 2,
+        "updated": 35,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "de",
+        "menu": 161,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "es",
+        "menu": 163,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "fr",
+        "menu": 166,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "ru",
+        "menu": 155,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "pt",
+        "menu": 162,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "tr",
+        "menu": 164,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    },
+    {
+        "location": "mobile_menu",
+        "lang": "uk",
+        "menu": 156,
+        "created": 0,
+        "updated": 0,
+        "kept_manual": 0,
+        "removed": 0,
+        "skipped_no_translation": 0,
+        "user_items": 0,
+        "note": "same menu as primary-menu"
+    }
+]

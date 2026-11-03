@@ -480,6 +480,26 @@ add_action( 'admin_init', function () {
 	set_transient( 'lai_menu_setup_notice', 1, HOUR_IN_SECONDS );
 } );
 
+// Обновился словарь подписей или версия модуля (например, после восстановления архива mu-plugins) →
+// один раз импортировать новые подписи (существующие переводы не трогаются) и пересинхронизировать меню.
+add_action( 'admin_init', function () {
+	if ( wp_doing_ajax() || ! get_option( 'lai_menu_setup_done' ) || ! current_user_can( 'edit_theme_options' ) || ! function_exists( 'lai_menu_map' ) || ! lai_menu_map() ) {
+		return;
+	}
+	$sig = md5( '1.2.0|' . LAI_MASTER_MENUS . '|' . ( is_readable( LAI_MENU_STRINGS_FILE ) ? md5_file( LAI_MENU_STRINGS_FILE ) : '' ) );
+	if ( get_option( 'lai_menu_sync_sig' ) === $sig ) {
+		return;
+	}
+	update_option( 'lai_menu_sync_sig', $sig, false );
+	add_action( 'shutdown', function () {
+		foreach ( lai_menu_strings_read_file( LAI_MENU_STRINGS_FILE ) as $lang => $labels ) {
+			lai_save_string_translations( $lang, $labels, false );
+		}
+		lai_sync_on_shutdown();
+		do_action( 'litespeed_purge_all' );
+	} );
+} );
+
 add_action( 'admin_notices', function () {
 	if ( ! get_transient( 'lai_menu_setup_notice' ) || ! current_user_can( 'edit_theme_options' ) ) {
 		return;

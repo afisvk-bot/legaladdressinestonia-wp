@@ -49,10 +49,25 @@ function legaladdress_google_fonts() {
     null
   );
   wp_add_inline_style(
-    'google-font-poppins',
+    'style',
     'body,form.wpcf7-form .wpcf7-form-control-wrap input:not([type=checkbox]),form.wpcf7-form .wpcf7-form-control-wrap textarea{font-family:"Poppins","Montserrat",sans-serif}'
   );
 }
+// LiteSpeed Cache при объединении CSS скачивает CSS Google Fonts на сервере и теряет
+// кириллические наборы (unicode-range). Оставляем ссылку на Google Fonts как есть.
+add_filter( 'style_loader_tag', function ( $tag, $handle ) {
+  if ( 'google-font-poppins' === $handle ) {
+    $tag = str_replace( '<link ', '<link data-no-optimize="1" data-noptimize="1" ', $tag );
+  }
+  return $tag;
+}, 10, 2 );
+add_filter( 'wp_resource_hints', function ( $urls, $relation ) {
+  if ( 'preconnect' === $relation ) {
+    $urls[] = array( 'href' => 'https://fonts.gstatic.com', 'crossorigin' );
+    $urls[] = 'https://fonts.googleapis.com';
+  }
+  return $urls;
+}, 10, 2 );
 add_action( 'wp_enqueue_scripts', 'legaladdress_google_fonts');
 
 // Breadcrumb - Home translite

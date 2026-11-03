@@ -1,0 +1,30 @@
+Success: Успешная очистка всех кэшей.
+{
+    "imported": {
+        "de": 7,
+        "es": 3,
+        "fr": 4,
+        "pt": 4,
+        "tr": 3,
+        "uk": 3,
+        "zh": 3
+    },
+    "sync": [
+        "zh\/primary-menu: +0 ~2 -0",
+        "de\/primary-menu: +0 ~2 -0",
+        "es\/primary-menu: +0 ~2 -0",
+        "fr\/primary-menu: +0 ~2 -0",
+        "ru\/primary-menu: +0 ~0 -0",
+        "pt\/primary-menu: +0 ~2 -0",
+        "tr\/primary-menu: +0 ~2 -0",
+        "uk\/primary-menu: +0 ~1 -0",
+        "zh\/mobile_menu: +0 ~2 -0",
+        "de\/mobile_menu: +0 ~0 -0",
+        "es\/mobile_menu: +0 ~0 -0",
+        "fr\/mobile_menu: +0 ~0 -0",
+        "ru\/mobile_menu: +0 ~0 -0",
+        "pt\/mobile_menu: +0 ~0 -0",
+        "tr\/mobile_menu: +0 ~0 -0",
+        "uk\/mobile_menu: +0 ~0 -0"
+    ]
+}

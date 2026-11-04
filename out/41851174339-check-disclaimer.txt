@@ -1,0 +1,6 @@
+Success: Успешная очистка всех кэшей.
+default                  http=200 found=yes class="row lai-disc lai-disc--card" | faq:after final-cta:after css:yes
+disc=note                http=200 found=yes class="row lai-disc lai-disc--note" | faq:after final-cta:after css:yes
+disc=details             http=200 found=yes class="row lai-disc lai-disc--details" | faq:after final-cta:after css:yes
+disc=card&disc_pos=top   http=200 found=yes class="row lai-disc lai-disc--card" | faq:after final-cta:after css:yes
+title on page: Застереження

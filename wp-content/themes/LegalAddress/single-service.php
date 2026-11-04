@@ -85,6 +85,8 @@ get_header();
                                 echo '<div class="row"><div class="col-12 col-sm-12 col-md-11 col-lg-8 col-xl-8 mx-lg-auto">' . $i10v_toc . '</div></div>';
                             }
                         }
+                        // Точка расширения: mu-plugins могут встроить блоки в тело страницы (например, дисклеймер).
+                        $i10v_body = apply_filters( 'lai_service_body', $i10v_body, get_the_ID() );
                         echo $i10v_body; // тело модулей с якорями (или как есть, если хелпера нет)
                     ?>
 

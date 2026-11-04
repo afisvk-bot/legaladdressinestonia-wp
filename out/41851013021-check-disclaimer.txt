@@ -1,0 +1,6 @@
+Success: Успешная очистка всех кэшей.
+default                  http=200 found=NO  | faq:after final-cta:after css:no
+disc=note                http=200 found=NO  | faq:after final-cta:after css:no
+disc=details             http=200 found=NO  | faq:after final-cta:after css:no
+disc=card&disc_pos=top   http=200 found=NO  | faq:after final-cta:after css:no
+title on page: Застереження

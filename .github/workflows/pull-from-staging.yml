@@ -1,0 +1,46 @@
+name: Pull code from staging
+
+# Забирает код темы, своих плагинов и mu-plugins С СЕРВЕРА staging в ветку staging-snapshot
+# (например, после восстановления свежего бэкапа прода). Ничего на сервер не пишет.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Rsync from server
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT || '22' }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+          DEPLOY_PATH: ${{ secrets.STAGING_PATH }}
+        run: |
+          trim() { printf '%s' "$1" | tr -d '\r\n' | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'; }
+          SSH_HOST=$(trim "$SSH_HOST"); SSH_USER=$(trim "$SSH_USER"); SSH_PORT=$(trim "$SSH_PORT")
+          DEPLOY_PATH=$(trim "$DEPLOY_PATH"); DEPLOY_PATH=${DEPLOY_PATH%/}
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/k && chmod 600 ~/.ssh/k
+          ssh-keyscan -p "$SSH_PORT" -H "$SSH_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          SSH="ssh -i $HOME/.ssh/k -p $SSH_PORT -o BatchMode=yes"
+          mkdir -p snap/wp-content/themes snap/wp-content/plugins snap/wp-content/mu-plugins
+          rsync -az -e "$SSH" "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/themes/LegalAddress" snap/wp-content/themes/
+          rsync -az -e "$SSH" "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/plugins/DAI" snap/wp-content/plugins/
+          rsync -az -e "$SSH" "$SSH_USER@$SSH_HOST:$DEPLOY_PATH/wp-content/mu-plugins/" snap/wp-content/mu-plugins/
+          rm -f ~/.ssh/k
+          find snap -name '*.tgz' -delete
+
+      - name: Commit snapshot
+        run: |
+          cd snap
+          git init -q && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git config user.name "github-actions" && git config user.email "github-actions@users.noreply.github.com"
+          git checkout -q -b staging-snapshot
+          git add -A && git commit -qm "Snapshot of staging code (run ${GITHUB_RUN_ID})"
+          git push -q -f origin staging-snapshot
+          echo "::notice::files $(git ls-files | wc -l)"

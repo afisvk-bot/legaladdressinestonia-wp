@@ -1,0 +1,82 @@
+name: Screenshot staging
+
+# Скриншоты страниц staging (весь экран или элемент по селектору).
+# Результат коммитится в ветку wp-output: out/shots-<run_id>/
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URL через пробел; можно name=URL"
+        required: true
+      selector:
+        description: "CSS-селектор элемента (пусто — первый экран)"
+        required: false
+        default: ""
+      width:
+        description: "Ширина окна"
+        required: false
+        default: "1440"
+
+permissions:
+  contents: write
+
+jobs:
+  shoot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Playwright
+        run: |
+          mkdir -p /tmp/pw && cd /tmp/pw && npm init -y >/dev/null
+          npm i -s playwright@1.48.2 >/dev/null
+          npx playwright install --with-deps chromium >/dev/null
+
+      - name: Take screenshots
+        env:
+          URLS: ${{ inputs.urls }}
+          SELECTOR: ${{ inputs.selector }}
+          WIDTH: ${{ inputs.width }}
+        run: |
+          mkdir -p "$GITHUB_WORKSPACE/shots"
+          cat > /tmp/pw/shot.js <<'EOF'
+          const { chromium } = require('playwright');
+          (async () => {
+            const out = process.argv[2];
+            const urls = process.env.URLS.trim().split(/\s+/);
+            const sel = process.env.SELECTOR;
+            const width = parseInt(process.env.WIDTH || '1440', 10);
+            const browser = await chromium.launch();
+            const page = await browser.newPage({ viewport: { width, height: 1000 }, deviceScaleFactor: 1 });
+            let n = 0;
+            for (const item of urls) {
+              n++;
+              const [name, url] = item.includes('=http') ? [item.slice(0, item.indexOf('=')), item.slice(item.indexOf('=') + 1)] : [String(n), item];
+              try {
+                await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+                await page.addStyleTag({ content: '.cky-consent-container,.cky-overlay,#chat-widget-container,[class*="pipedrive"],iframe{display:none!important}' });
+                await page.waitForTimeout(800);
+                const file = `${out}/${name}.png`;
+                if (sel) {
+                  const el = page.locator(sel).first();
+                  await el.scrollIntoViewIfNeeded();
+                  const b = await el.boundingBox();
+                  const pad = 60;
+                  await page.screenshot({ path: file, fullPage: true, clip: { x: 0, y: Math.max(0, b.y + (await page.evaluate(() => window.scrollY)) - pad - 120), width, height: b.height + pad * 2 + 240 } });
+                } else {
+                  await page.screenshot({ path: file });
+                }
+                console.log('ok', name, url);
+              } catch (e) { console.log('FAIL', name, url, e.message); }
+            }
+            await browser.close();
+          })();
+          EOF
+          cd /tmp/pw && node shot.js "$GITHUB_WORKSPACE/shots"
+
+      - name: Commit to wp-output
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git init -q && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git config user.name "github-actions" && git config user.email "github-actions@users.noreply.github.com"
+          git fetch -q --depth 1 origin wp-output && git checkout -q -b wp-output FETCH_HEAD
+          mkdir -p "out/shots-${GITHUB_RUN_ID}" && mv shots/*.png "out/shots-${GITHUB_RUN_ID}/" 2>/dev/null || true
+          git add -f out && git commit -qm "screenshots ${GITHUB_RUN_ID}" && git push -q origin wp-output

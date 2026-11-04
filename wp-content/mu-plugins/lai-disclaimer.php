@@ -77,7 +77,7 @@ function lai_disclaimer_html( string $style, string $pos = '' ): string {
 			$inner = '<div class="lai-disc__card" role="note">' . $icon . '<div><p class="lai-disc__title">' . esc_html( $label ) . '</p><p class="lai-disc__text">' . esc_html( $text ) . '</p></div></div>';
 	}
 
-	return "\n<!-- LAI disclaimer -->\n" . '<div class="row lai-disc lai-disc--' . esc_attr( $style ) . '"><div class="col-12 col-sm-12 col-md-11 col-lg-8 col-xl-8 mx-lg-auto">' . $inner . '</div></div>' . "\n";
+	return "\n<!-- LAI disclaimer -->\n" . '<div class="row lai-disc lai-disc--' . esc_attr( $style ) . ( $pos ? ' lai-disc--at-' . esc_attr( $pos ) : '' ) . '"><div class="col-12 col-sm-12 col-md-11 col-lg-8 col-xl-8 mx-lg-auto">' . $inner . '</div></div>' . "\n";
 }
 
 /** Вставка в тело страницы услуги (фильтр из single-service.php). */

@@ -32,6 +32,8 @@ get_header();
                     </div>
                 </div>
 
+                <?php do_action( 'lai_service_after_image', get_the_ID() ); // точка расширения: дисклеймер и т.п. ?>
+
                 <div class="row">
                     <div class="col-12 col-sm-12 col-md-11 col-lg-8 col-xl-8 mx-lg-auto">
                         <div class="data">

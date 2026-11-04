@@ -2,22 +2,22 @@
 /**
  * Plugin Name: LAI — Disclaimer
  * Description: Общий дисклеймер на страницах услуг (service, licensing, industry, target) на языке страницы. Три варианта оформления, место вставки настраивается.
- * Version:     1.0.0
+ * Version:     1.1.0
  *
  * НАСТРОЙКИ (wp-config.php, по желанию)
  *   define( 'LAI_DISCLAIMER_STYLE', 'card' );  // card — плашка | note — сноска | details — сворачиваемый блок
- *   define( 'LAI_DISCLAIMER_POS', 'faq' );     // faq — перед FAQ (иначе перед финальным CTA, иначе в конце) | top — в начале | bottom — в самом конце
+ *   define( 'LAI_DISCLAIMER_POS', 'image' );   // image — сразу под главным изображением | faq — перед FAQ (иначе перед финальным CTA) | top — после оглавления | bottom — в самом конце
  *   define( 'LAI_DISCLAIMER', false );         // выключить везде
  * Выключить на отдельной странице: произвольное поле lai_disclaimer = off.
- * Предпросмотр (на staging или для залогиненных редакторов): ?disc=card|note|details&disc_pos=faq|top|bottom
+ * Предпросмотр (на staging или для залогиненных редакторов): ?disc=card|note|details&disc_pos=image|faq|top|bottom
  * Тексты — в lai_disclaimer_texts(). Требует фильтр lai_service_body в single-service.php темы.
  */
 
 defined( 'ABSPATH' ) || exit;
 
 defined( 'LAI_DISCLAIMER' )       || define( 'LAI_DISCLAIMER', true );
-defined( 'LAI_DISCLAIMER_STYLE' ) || define( 'LAI_DISCLAIMER_STYLE', 'card' );
-defined( 'LAI_DISCLAIMER_POS' )   || define( 'LAI_DISCLAIMER_POS', 'faq' );
+defined( 'LAI_DISCLAIMER_STYLE' ) || define( 'LAI_DISCLAIMER_STYLE', 'note' );
+defined( 'LAI_DISCLAIMER_POS' )   || define( 'LAI_DISCLAIMER_POS', 'image' );
 
 function lai_disclaimer_texts(): array {
 	return array(
@@ -45,7 +45,7 @@ function lai_disclaimer_opts(): array {
 	if ( $can_preview && isset( $_GET['disc'] ) && in_array( $_GET['disc'], array( 'card', 'note', 'details', 'off' ), true ) ) {
 		$style = $_GET['disc'];
 	}
-	if ( $can_preview && isset( $_GET['disc_pos'] ) && in_array( $_GET['disc_pos'], array( 'faq', 'top', 'bottom' ), true ) ) {
+	if ( $can_preview && isset( $_GET['disc_pos'] ) && in_array( $_GET['disc_pos'], array( 'image', 'faq', 'top', 'bottom' ), true ) ) {
 		$pos = $_GET['disc_pos'];
 	}
 	return array( $style, $pos );
@@ -58,7 +58,7 @@ function lai_disclaimer_enabled( int $post_id ): bool {
 		&& 'off' !== lai_disclaimer_opts()[0];
 }
 
-function lai_disclaimer_html( string $style ): string {
+function lai_disclaimer_html( string $style, string $pos = '' ): string {
 	$lang  = function_exists( 'pll_current_language' ) ? (string) pll_current_language( 'slug' ) : 'en';
 	$texts = lai_disclaimer_texts();
 	list( $label, $text ) = $texts[ $lang ] ?? $texts['en'];
@@ -86,7 +86,10 @@ add_filter( 'lai_service_body', function ( $body, $post_id = 0 ) {
 		return $body;
 	}
 	list( $style, $pos ) = lai_disclaimer_opts();
-	$block = lai_disclaimer_html( $style );
+	if ( 'image' === $pos ) {
+		return $body; // выводится в хуке lai_service_after_image
+	}
+	$block = lai_disclaimer_html( $style, $pos );
 
 	if ( 'top' === $pos ) {
 		return $block . $body;
@@ -107,6 +110,17 @@ add_filter( 'lai_service_body', function ( $body, $post_id = 0 ) {
 	return $body . $block;
 }, 10, 2 );
 
+/** Под главным изображением страницы услуги (хук из single-service.php). */
+add_action( 'lai_service_after_image', function ( $post_id = 0 ) {
+	if ( ! lai_disclaimer_enabled( (int) ( $post_id ?: get_the_ID() ) ) ) {
+		return;
+	}
+	list( $style, $pos ) = lai_disclaimer_opts();
+	if ( 'image' === $pos ) {
+		echo lai_disclaimer_html( $style, $pos ); // phpcs:ignore WordPress.Security.EscapeOutput
+	}
+} );
+
 add_action( 'wp_head', function () {
 	if ( ! LAI_DISCLAIMER || ! is_singular( lai_disclaimer_types() ) ) {
 		return;
@@ -124,6 +138,8 @@ add_action( 'wp_head', function () {
 .lai-disc--note{margin:1rem 0 2.5rem}
 .lai-disc__note{display:flex;gap:.5rem;border-top:1px solid #EFEFEF;padding-top:1rem;font-size:.8125rem;line-height:1.6;color:#6b7280}
 .lai-disc__note strong{font-weight:600;color:#10192D}
+.lai-disc--at-image{margin:0 0 1.25rem}
+.lai-disc--at-image .lai-disc__note{border-top:0;padding-top:0}
 .lai-disc__mark{color:#31D44B;font-weight:600;font-size:1rem;line-height:1.3}
 /* Сворачиваемый блок — в стиле оглавления */
 .lai-disc__details{border:solid 1px rgb(35 35 35 / 4%);border-radius:1.25rem;box-shadow:1px 1px 150px 0 rgb(91 91 91 / 7%);background:#fff;padding:1.25rem 1.5rem}

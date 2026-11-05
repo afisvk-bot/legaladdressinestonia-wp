@@ -1,0 +1,21 @@
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0601C002C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C002C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x15ac0383cd00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0601C002C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C002C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x15ac0383cd00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0C0C7062C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.error: requestStorageAccess: Permission denied.
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0601C002C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C002C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x15ac0383cd00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0C0C7062C100000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.error: requestStorageAccess: Permission denied.
+target #btnContact {"rect":[331,15,44,44],"top":"BUTTON#btnContact.contact_btn mob_btn mm-toggle"}
+target .mm-tabs button:first-child {"rect":[20,179.921875,80.546875,41],"top":"BUTTON#.is-on"}
+target #mob-menu > li:first-child > ul > li:first-child > a.link {"rect":[20,241.921875,350,54],"top":"A#.link"}
+events: pointerdown:contact_btn mob_btn mm-toggle:closed:false | mousedown:contact_btn mob_btn mm-toggle:closed:false | mouseup:contact_btn mob_btn mm-toggle:closed:false | click:contact_btn mob_btn mm-toggle:closed:false | pointerdown:is-on:closed:false | mousedown:is-on:closed:false | mouseup:is-on:closed:false | click:is-on:closed:false | pointerdown:link:closed:false | mousedown:link:closed:false | mouseup:link:closed:false | click:link:closed:false
+after: {"init":true,"cls":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown","aria":"false","mq":true,"hash":"","cls2":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown mm-lang-open","aria2":"true"}

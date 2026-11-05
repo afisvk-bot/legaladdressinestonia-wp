@@ -65,6 +65,7 @@ jobs:
                 await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
                 await page.addStyleTag({ content: '#lae-cookie-consent,[class*="lae-cookie"],[class*="cookie-consent"],[class*="cky-"],[class*="chat"],[id*="chat"],[class*="pipedrive"],iframe{display:none!important}' });
                 await page.waitForTimeout(800);
+                await page.evaluate(() => { window.__ev = []; ['pointerdown','touchstart','touchend','mousedown','mouseup','click'].forEach(t => document.addEventListener(t, e => { const li = document.querySelector('.mob_ready li.dropdown'); window.__ev.push(t + ':' + (e.target.className || e.target.tagName) + ':' + (li && li.classList.contains('mm-lang-open') ? 'open' : 'closed') + ':' + e.defaultPrevented); }, true)); });
                 for (const c of clicks) { const el = page.locator(c).first(); try { const info = await el.evaluate(n => { const r = n.getBoundingClientRect(); const t = document.elementFromPoint(r.x + r.width / 2, r.y + r.height / 2); return JSON.stringify({ rect: [r.x, r.y, r.width, r.height], top: t ? (t.tagName + '#' + t.id + '.' + t.className) : null }); }); logs.push('target ' + c + ' ' + info); } catch (e) { logs.push('eval fail ' + e.message); } try { await el.click({ timeout: 5000 }); } catch (e) { console.log('force click', c, e.message.split('\n')[0]); await el.click({ force: true }); } await page.waitForTimeout(700); }
                 const file = `${out}/${name}.png`;
                 if (sel) {
@@ -76,6 +77,7 @@ jobs:
                 } else {
                   await page.screenshot({ path: file });
                 }
+                logs.push('events: ' + await page.evaluate(() => (window.__ev || []).join(' | ')));
                 logs.push('after: ' + await page.evaluate(() => (() => { const li = document.querySelector('.mob_ready li.dropdown'); const a = li && li.querySelector('a'); const r1 = { init: !!window.laiMMInit, cls: li && li.className, aria: a && a.getAttribute('aria-expanded'), mq: matchMedia('(max-width: 991px)').matches, hash: location.hash }; if (a) a.click(); const r2 = { cls2: li && li.className, aria2: a && a.getAttribute('aria-expanded') }; return JSON.stringify(Object.assign(r1, r2)); })()));
                 fs.writeFileSync(file.replace(/\.png$/, '.log'), logs.join(String.fromCharCode(10)));
                 console.log('ok', name, url);

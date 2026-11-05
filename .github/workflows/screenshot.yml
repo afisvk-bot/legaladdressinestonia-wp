@@ -16,6 +16,10 @@ on:
         description: "Ширина окна"
         required: false
         default: "1440"
+      clicks:
+        description: "Селекторы для клика перед снимком, через ' >> ' (например #btnContact >> .mm-tabs button:nth-child(2))"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -35,6 +39,7 @@ jobs:
           URLS: ${{ inputs.urls }}
           SELECTOR: ${{ inputs.selector }}
           WIDTH: ${{ inputs.width }}
+          CLICKS: ${{ inputs.clicks }}
         run: |
           mkdir -p "$GITHUB_WORKSPACE/shots"
           cat > /tmp/pw/shot.js <<'EOF'
@@ -45,15 +50,18 @@ jobs:
             const sel = process.env.SELECTOR;
             const width = parseInt(process.env.WIDTH || '1440', 10);
             const browser = await chromium.launch();
-            const page = await browser.newPage({ viewport: { width, height: 1000 }, deviceScaleFactor: 1 });
+            const mobile = width < 768;
+            const page = await browser.newPage({ viewport: { width, height: mobile ? 844 : 1000 }, deviceScaleFactor: mobile ? 2 : 1, isMobile: mobile, hasTouch: mobile });
+            const clicks = (process.env.CLICKS || '').split('>>').map(s => s.trim()).filter(Boolean);
             let n = 0;
             for (const item of urls) {
               n++;
               const [name, url] = item.includes('=http') ? [item.slice(0, item.indexOf('=')), item.slice(item.indexOf('=') + 1)] : [String(n), item];
               try {
                 await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
-                await page.addStyleTag({ content: '[class*="cky-"],[class*="chat"],[id*="chat"],[class*="pipedrive"],iframe{display:none!important}' });
+                await page.addStyleTag({ content: '#lae-cookie-consent,[class*="lae-cookie"],[class*="cookie-consent"],[class*="cky-"],[class*="chat"],[id*="chat"],[class*="pipedrive"],iframe{display:none!important}' });
                 await page.waitForTimeout(800);
+                for (const c of clicks) { await page.locator(c).first().click(); await page.waitForTimeout(700); }
                 const file = `${out}/${name}.png`;
                 if (sel) {
                   const el = page.locator(sel).first();

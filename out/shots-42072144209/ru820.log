@@ -1,0 +1,26 @@
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0301C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x194403881b00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A080C7067C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0301C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x194403881b00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A080C7067C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.error: requestStorageAccess: Permission denied.
+events: 
+after: {"init":true,"cls":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown","aria":"false","mq":true,"hash":"","cls2":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown mm-lang-open","aria2":"true"}
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0301C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x194409242a00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A080C7067C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0301C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C007C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x194409242a00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A080C7067C030000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.error: requestStorageAccess: Permission denied.
+events: 
+after: {"init":true,"cls":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown","aria":"false","mq":true,"hash":"","cls2":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown mm-lang-open","aria2":"true"}

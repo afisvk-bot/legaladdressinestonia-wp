@@ -76,7 +76,7 @@ jobs:
                 } else {
                   await page.screenshot({ path: file });
                 }
-                logs.push('after: ' + await page.evaluate(() => JSON.stringify({ lang: (document.querySelector('.mob_ready li.dropdown') || {}).className, mm: typeof window.laiMM, hash: location.hash })));
+                logs.push('after: ' + await page.evaluate(() => (() => { const li = document.querySelector('.mob_ready li.dropdown'); const a = li && li.querySelector('a'); const r1 = { init: !!window.laiMMInit, cls: li && li.className, aria: a && a.getAttribute('aria-expanded'), mq: matchMedia('(max-width: 991px)').matches, hash: location.hash }; if (a) a.click(); const r2 = { cls2: li && li.className, aria2: a && a.getAttribute('aria-expanded') }; return JSON.stringify(Object.assign(r1, r2)); })()));
                 fs.writeFileSync(file.replace(/\.png$/, '.log'), logs.join(String.fromCharCode(10)));
                 console.log('ok', name, url);
               } catch (e) { console.log('FAIL', name, url, e.message); }

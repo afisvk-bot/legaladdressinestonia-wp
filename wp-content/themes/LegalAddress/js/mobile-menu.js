@@ -110,24 +110,33 @@
     show(cur >= 0 && $(menu).children('li').eq(cur).children('ul').length ? cur : +$tabs.children('button').first().attr('data-i') || 0);
   }
 
-  /* ---------- Переключатель языка (мобильные): открытие по тапу, закрытие снаружи ---------- */
+  /* ---------- Переключатель языка (мобильные): открытие по тапу, закрытие снаружи ----------
+     Нативный обработчик в фазе захвата — срабатывает раньше обработчиков темы/плагинов. */
   var mq = window.matchMedia('(max-width: 991px)');
-  var $langLi = $('.mob_ready li.dropdown');
-  $langLi.children('a.dropdown-toggle').on('click', function (e) {
+  function langClose(except) {
+    document.querySelectorAll('.mob_ready li.dropdown.mm-lang-open').forEach(function (li) {
+      if (li === except) return;
+      li.classList.remove('mm-lang-open');
+      var a = li.querySelector('a.dropdown-toggle');
+      if (a) a.setAttribute('aria-expanded', 'false');
+    });
+  }
+  document.addEventListener('click', function (e) {
     if (!mq.matches) return;
-    e.preventDefault();
-    e.stopPropagation();
-    var li = $(this).parent();
-    var open = !li.hasClass('mm-lang-open');
-    li.toggleClass('mm-lang-open', open);
-    $(this).attr('aria-expanded', open ? 'true' : 'false');
-  });
-  $(document).on('click touchstart', function (e) {
-    if (!$(e.target).closest('.mob_ready li.dropdown').length) {
-      $langLi.removeClass('mm-lang-open').children('a.dropdown-toggle').attr('aria-expanded', 'false');
+    var toggle = e.target.closest && e.target.closest('.mob_ready li.dropdown > a.dropdown-toggle');
+    if (toggle) {
+      e.preventDefault();
+      e.stopPropagation();
+      var li = toggle.parentNode;
+      var open = !li.classList.contains('mm-lang-open');
+      langClose(li);
+      li.classList.toggle('mm-lang-open', open);
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      return;
     }
-  });
-  $btn.on('click', function () { $langLi.removeClass('mm-lang-open'); });
+    if (!(e.target.closest && e.target.closest('.mob_ready li.dropdown'))) langClose(null);
+  }, true);
+  $btn.on('click', function () { langClose(null); });
 
   /* A/C: раскрыть ветку текущей страницы */
   if (variant !== 'b') {

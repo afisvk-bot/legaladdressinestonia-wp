@@ -1,0 +1,9 @@
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C00843B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x385c09b22a00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0406106843B0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+target #btnContact {"rect":[331,15,44,44],"top":"BUTTON#btnContact.contact_btn mob_btn mm-toggle"}
+target #mob-menu > li:first-child > a.link {"rect":[66.8125,82,303.1875,58],"top":"A#.link"}
+target #mob-menu > li:first-child > ul > li:nth-child(3) > a.link {"rect":[46.8125,190,343.1875,58],"top":"A#.link"}
+events: pointerdown:contact_btn mob_btn mm-toggle:closed:false | mousedown:contact_btn mob_btn mm-toggle:closed:false | mouseup:contact_btn mob_btn mm-toggle:closed:false | click:contact_btn mob_btn mm-toggle:closed:false | pointerdown:link:closed:false | mousedown:link:closed:false | mouseup:link:closed:false | click:link:closed:false | pointerdown:link:closed:false | mousedown:link:closed:false | mouseup:link:closed:false | click:link:closed:false
+after: {"init":true,"cls":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown","aria":"false","mq":true,"hash":"","cls2":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown mm-lang-open","aria2":"true"}

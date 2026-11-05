@@ -107,6 +107,24 @@
     show(cur >= 0 && $(menu).children('li').eq(cur).children('ul').length ? cur : +$tabs.children('button').first().attr('data-i') || 0);
   }
 
+  /* ---------- Переключатель языка (мобильные): открытие по тапу, закрытие снаружи ---------- */
+  var mq = window.matchMedia('(max-width: 991px)');
+  var $langLi = $('.mob_ready li.dropdown');
+  $langLi.children('a.dropdown-toggle').on('click', function (e) {
+    if (!mq.matches) return;
+    e.preventDefault();
+    var li = $(this).parent();
+    var open = !li.hasClass('mm-lang-open');
+    li.toggleClass('mm-lang-open', open);
+    $(this).attr('aria-expanded', open ? 'true' : 'false');
+  });
+  $(document).on('click touchstart', function (e) {
+    if (!$(e.target).closest('.mob_ready li.dropdown').length) {
+      $langLi.removeClass('mm-lang-open').children('a.dropdown-toggle').attr('aria-expanded', 'false');
+    }
+  });
+  $btn.on('click', function () { $langLi.removeClass('mm-lang-open'); });
+
   /* A/C: раскрыть ветку текущей страницы */
   if (variant !== 'b') {
     $(menu).find('li.current-menu-ancestor, li.current-menu-parent').each(function () {

@@ -2,7 +2,7 @@
 /**
  * Мобильное меню: варианты оформления, кнопка «бургер», нижняя панель с CTA.
  *
- * Вариант задаётся в wp-config.php: define( 'LAI_MOBILE_MENU', 'a' );  // a | b | c
+ * Вариант задаётся в wp-config.php: define( 'LAI_MOBILE_MENU', 'c' );  // a | b | c (по умолчанию c)
  *   a — полноэкранный аккордеон (под шапкой, раскрытие на месте)
  *   b — боковая панель справа с переходом по уровням (как в приложениях)
  *   c — нижняя «шторка» с вкладками разделов
@@ -12,7 +12,7 @@
 defined( 'ABSPATH' ) || exit;
 
 function lai_mm_variant(): string {
-	$v       = defined( 'LAI_MOBILE_MENU' ) ? (string) LAI_MOBILE_MENU : 'a';
+	$v       = defined( 'LAI_MOBILE_MENU' ) ? (string) LAI_MOBILE_MENU : 'c';
 	$preview = 'production' !== wp_get_environment_type() || current_user_can( 'edit_theme_options' );
 	if ( $preview ) {
 		if ( isset( $_GET['mm'] ) && in_array( $_GET['mm'], array( 'a', 'b', 'c' ), true ) ) {
@@ -24,7 +24,7 @@ function lai_mm_variant(): string {
 			$v = $_COOKIE['lai_mm'];
 		}
 	}
-	return in_array( $v, array( 'a', 'b', 'c' ), true ) ? $v : 'a';
+	return in_array( $v, array( 'a', 'b', 'c' ), true ) ? $v : 'c';
 }
 
 function lai_mm_label( string $key ): string {

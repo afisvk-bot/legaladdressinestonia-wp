@@ -12,6 +12,10 @@
   --mm-surface: #f8fafc;
   --mm-top: 96px;           /* высота шапки, уточняется в js */
   --mm-ease: cubic-bezier(.2, .8, .2, 1);
+  --mm-ctl-h: 44px;               /* единый стиль кнопки меню и языка */
+  --mm-ctl-radius: 14px;
+  --mm-ctl-border: #E4E7EC;
+  --mm-ctl-shadow: 0 1px 2px rgba(16, 25, 45, .06), 0 4px 12px -6px rgba(16, 25, 45, .12);
 }
 
 @media (max-width: 991px) {
@@ -29,11 +33,12 @@
     line-height: 0;
     color: var(--mm-ink);
     background: #fff;
-    border: 1px solid #E4E7EC;
-    border-radius: 14px;
+    border: 1px solid var(--mm-ctl-border);
+    border-radius: var(--mm-ctl-radius);
+    box-shadow: var(--mm-ctl-shadow);
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
-    transition: border-color .2s, background-color .2s;
+    transition: border-color .2s, box-shadow .2s;
   }
   html body.mm .menu-wrap .mob_btn.mm-toggle::before,
   html body.mm .menu-wrap .mob_btn.mm-toggle::after {
@@ -52,8 +57,7 @@
   html body.mm .menu-wrap .mob_btn.mm-toggle.open::before { top: 21px; transform: rotate(45deg); }
   html body.mm .menu-wrap .mob_btn.mm-toggle.open::after  { top: 21px; width: 18px; margin-left: -9px; transform: rotate(-45deg); }
   html body.mm .menu-wrap .mob_btn.mm-toggle:focus { outline: none; }
-  html body.mm .menu-wrap .mob_btn.mm-toggle:focus-visible { outline: 2px solid var(--mm-green); outline-offset: 2px; }
-  html body.mm .menu-wrap .mob_btn.mm-toggle.open { border-color: var(--mm-ink); }
+  html body.mm .menu-wrap .mob_btn.mm-toggle.open { border-color: var(--mm-ink); box-shadow: none; }
 
   html body.mm.mm-open header { background: #fff; }
 
@@ -410,4 +414,118 @@
   body.mm-open [id^="Leadbooster"],
   body.mm-open iframe[title*="LeadBooster" i],
   body.mm-open iframe[src*="leadbooster"] { display: none !important; }
+}
+
+
+/* ==========================================================================
+   Шапка на мобильных: кнопка меню и переключатель языка в одном стиле
+   ========================================================================== */
+@media (max-width: 991px) {
+  html body.mm header .mob_ready { display: flex; align-items: center; gap: 8px; }
+  html body.mm header .mob_ready nav.navbar { padding: 0; margin: 0; }
+  html body.mm header .mob_ready ul.nav.navbar-nav { margin: 0; padding: 0; }
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown { position: relative; margin: 0; }
+
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > a.dropdown-toggle {
+    position: relative;
+    display: inline-flex !important;
+    align-items: center;
+    height: var(--mm-ctl-h);
+    min-width: 0;
+    padding: 0 34px 0 15px !important;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: .02em;
+    color: var(--mm-ink);
+    background: #fff;
+    border: 1px solid var(--mm-ctl-border) !important;
+    border-radius: var(--mm-ctl-radius);
+    box-shadow: var(--mm-ctl-shadow);
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: border-color .2s, box-shadow .2s;
+  }
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > a.dropdown-toggle::before { display: none !important; }
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > a.dropdown-toggle::after {
+    content: "" !important;
+    position: absolute !important;
+    top: 50% !important;
+    right: 14px !important;
+    width: 7px !important;
+    height: 7px !important;
+    margin: -6px 0 0 !important;
+    background: none !important;
+    border: 0 !important;
+    border-right: 2px solid currentColor !important;
+    border-bottom: 2px solid currentColor !important;
+    border-radius: 1px;
+    transform: rotate(45deg) !important;
+    transition: transform .25s var(--mm-ease), margin .25s var(--mm-ease);
+  }
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > a.dropdown-toggle:focus { outline: none; }
+  html body.mm header .mob_ready li.mm-lang-open > a.dropdown-toggle { border-color: var(--mm-ink) !important; box-shadow: none; }
+  html body.mm header .mob_ready li.mm-lang-open > a.dropdown-toggle::after { transform: rotate(-135deg) !important; margin-top: -2px !important; }
+
+  /* список языков — карточка 3×3 */
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > .dropdown-menu {
+    position: absolute !important;
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+    top: calc(100% + 8px) !important;
+    right: 0 !important;
+    left: auto !important;
+    width: 180px;
+    min-width: 0 !important;
+    margin: 0 !important;
+    padding: 6px !important;
+    background: #fff;
+    border: 1px solid var(--mm-ctl-border) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 18px 36px -14px rgba(16, 25, 45, .28) !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transform: translateY(-4px) !important;
+    transition: opacity .18s, transform .18s var(--mm-ease), visibility .18s !important;
+    z-index: 10001;
+  }
+  html body.mm header .mob_ready li.mm-lang-open > .dropdown-menu {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+  }
+  html body.mm header .mob_ready .dropdown-menu a.dropdown-item {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    padding: 0 !important;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--mm-ink);
+    background: none;
+    border: 0 !important;
+    border-radius: 10px;
+    text-decoration: none;
+  }
+  html body.mm header .mob_ready .dropdown-menu a.dropdown-item:hover { background: var(--mm-surface); color: var(--mm-ink); }
+  html[lang="en-GB"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="en-GB"],
+  html[lang="zh-CN"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="zh-CN"],
+  html[lang="de-DE"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="de-DE"],
+  html[lang="es-ES"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="es-ES"],
+  html[lang="fr-FR"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="fr-FR"],
+  html[lang="ru-RU"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="ru-RU"],
+  html[lang="pt-PT"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="pt-PT"],
+  html[lang="tr-TR"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="tr-TR"],
+  html[lang="uk"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="uk-UA"],
+  html[lang="uk-UA"] body.mm header .mob_ready .dropdown-menu a.dropdown-item[lang="uk-UA"] { color: #fff; background: var(--mm-ink); }
+
+  /* фокус с клавиатуры — мягкое кольцо; на сенсорных экранах без обводки */
+  html body.mm header .mob_ready a.dropdown-toggle:focus-visible,
+  html body.mm .menu-wrap .mob_btn.mm-toggle:focus-visible { outline: none; box-shadow: 0 0 0 3px rgba(49, 212, 75, .3); }
+}
+@media (max-width: 991px) and (hover: none) {
+  html body.mm header .mob_ready a.dropdown-toggle:focus-visible,
+  html body.mm .menu-wrap .mob_btn.mm-toggle:focus-visible { box-shadow: var(--mm-ctl-shadow); }
 }

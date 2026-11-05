@@ -3,7 +3,10 @@
 (function ($) {
   'use strict';
 
-  var cfg     = window.laiMM || { variant: 'a', back: 'Back' };
+  if (window.laiMMInit) return;   /* защита от двойной загрузки (оптимизаторы JS) */
+  window.laiMMInit = true;
+
+  var cfg     = window.laiMM || { variant: 'c', back: 'Back' };
   var variant = cfg.variant;
   var $body   = $('body');
   var $btn    = $('#btnContact');
@@ -113,6 +116,7 @@
   $langLi.children('a.dropdown-toggle').on('click', function (e) {
     if (!mq.matches) return;
     e.preventDefault();
+    e.stopPropagation();
     var li = $(this).parent();
     var open = !li.hasClass('mm-lang-open');
     li.toggleClass('mm-lang-open', open);

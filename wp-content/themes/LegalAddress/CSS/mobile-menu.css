@@ -464,8 +464,8 @@
     transition: transform .25s var(--mm-ease), margin .25s var(--mm-ease);
   }
   html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > a.dropdown-toggle:focus { outline: none; }
-  html body.mm header .mob_ready li.mm-lang-open > a.dropdown-toggle { border-color: var(--mm-ink) !important; box-shadow: none; }
-  html body.mm header .mob_ready li.mm-lang-open > a.dropdown-toggle::after { transform: rotate(-135deg) !important; margin-top: -2px !important; }
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown.mm-lang-open > a.dropdown-toggle { border-color: var(--mm-ink) !important; box-shadow: none; }
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown.mm-lang-open > a.dropdown-toggle::after { transform: rotate(-135deg) !important; margin-top: -2px !important; }
 
   /* список языков — карточка 3×3 */
   html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown > .dropdown-menu {
@@ -490,7 +490,7 @@
     transition: opacity .18s, transform .18s var(--mm-ease), visibility .18s !important;
     z-index: 10001;
   }
-  html body.mm header .mob_ready li.mm-lang-open > .dropdown-menu {
+  html body.mm header .mob_ready ul.nav.navbar-nav > li.nav-item.dropdown.mm-lang-open > .dropdown-menu {
     opacity: 1 !important;
     visibility: visible !important;
     transform: none !important;

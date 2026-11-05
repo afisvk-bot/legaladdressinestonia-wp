@@ -1,9 +1,8 @@
 name: Deploy → staging
 
-# Пуш в ветку staging = выкладка на https://staging.dragonslots-gr.gr/
+# Выкладка на https://staging.dragonslots-gr.gr/ — только вручную (Actions → Run workflow),
+# чтобы пуш в git не перезаписывал файлы, восстановленные из бэкапа прода.
 on:
-  push:
-    branches: [staging]
   workflow_dispatch:
 
 concurrency:

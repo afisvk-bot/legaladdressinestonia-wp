@@ -416,3 +416,5 @@
 @media (max-width: 991px) { html body.mm section.home-1 { background-position: center calc(3rem + 48px); min-height: 648px; } }
 @media (max-width: 767px) { html body.mm section.home-1 { background-position: center calc(4rem + 48px); min-height: 468px; } }
 @media (max-width: 576px) { html body.mm section.home-1 { background-position: center calc(6rem + 48px); min-height: 438px; } }
+/* планшеты 768–991: иллюстрация под текстом */
+@media (min-width: 768px) and (max-width: 991px) { html body.mm section.home-1 { background-position: center 330px; min-height: 860px; } }

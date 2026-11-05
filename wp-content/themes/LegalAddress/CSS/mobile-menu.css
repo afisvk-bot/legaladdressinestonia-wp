@@ -87,8 +87,8 @@
   }
 
   /* сброс старой анимации и смещения списка */
-  html body.mm .menu-wrap nav.menu #mob-menu,
-  html body.mm .menu-wrap nav.menu.active #mob-menu {
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu,
+  html body.mm .menu-wrap nav.menu.active #mob-menu#mob-menu {
     position: relative;
     top: 0;
     flex: 1 1 auto;
@@ -104,13 +104,13 @@
     list-style: none;
   }
 
-  html body.mm .menu-wrap nav.menu #mob-menu li {
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu li {
     margin: 0;
     border: 0;
     background: none;
   }
-  html body.mm .menu-wrap nav.menu #mob-menu a,
-  html body.mm .menu-wrap nav.menu #mob-menu a.link {
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu a,
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu a.link {
     position: relative;
     display: flex;
     align-items: center;
@@ -125,12 +125,12 @@
     background-image: none;
     -webkit-tap-highlight-color: transparent;
   }
-  html body.mm .menu-wrap nav.menu #mob-menu a:hover { color: var(--mm-ink); }
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu a:hover { color: var(--mm-ink); }
 
   /* шеврон вместо «+» */
-  html body.mm .menu-wrap nav.menu #mob-menu a.link::before { display: none; }
-  html body.mm .menu-wrap nav.menu #mob-menu a.link::after,
-  html body.mm .menu-wrap nav.menu #mob-menu li.open > a.link::after {
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu a.link::before { display: none; }
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu a.link::after,
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu li.open > a.link::after {
     content: "";
     position: static;
     flex: 0 0 auto;
@@ -144,10 +144,10 @@
     transform: rotate(45deg);
     transition: transform .25s var(--mm-ease);
   }
-  html body.mm .menu-wrap nav.menu #mob-menu li.open > a.link::after { transform: rotate(-135deg); margin-bottom: -4px; }
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu li.open > a.link::after { transform: rotate(-135deg); margin-bottom: -4px; }
 
   /* текущая страница */
-  html body.mm .menu-wrap nav.menu #mob-menu li.current-menu-item > a { color: var(--mm-green); }
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu li.current-menu-item > a { color: var(--mm-green); }
 
   /* ---------- Нижняя панель с CTA ---------- */
   html body.mm .menu-wrap nav.menu .mm-foot {
@@ -195,37 +195,37 @@
   html body.mm--a .menu-wrap nav.menu { transform: translateY(-8px); }
   html body.mm--a .menu-wrap nav.menu.active { transform: none; }
 
-  html body.mm--a .menu-wrap nav.menu #mob-menu > li { border-bottom: 1px solid var(--mm-line); }
-  html body.mm--a .menu-wrap nav.menu #mob-menu > li > a {
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu > li { border-bottom: 1px solid var(--mm-line); }
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu > li > a {
     min-height: 60px;
     font-size: 18px;
     line-height: 1.3;
   }
-  html body.mm--a .menu-wrap nav.menu #mob-menu > li.open > a { color: var(--mm-green); }
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu > li.open > a { color: var(--mm-green); }
 
-  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu {
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu {
     margin: 0 0 14px;
     padding: 6px 0;
     background: var(--mm-surface);
     border-radius: 16px;
     list-style: none;
   }
-  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu a {
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a {
     min-height: 46px;
     padding: 0 16px;
     font-size: 15px;
     font-weight: 500;
     line-height: 1.3;
   }
-  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); }
-  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu {
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); }
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu ul.mob-sub-menu {
     margin: 0 16px 8px;
     padding: 0 0 0 12px;
     background: none;
     border-left: 2px solid var(--mm-green);
     border-radius: 0;
   }
-  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
+  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
     min-height: 40px;
     padding: 0 0 0 4px;
     font-size: 14px;
@@ -246,19 +246,19 @@
   }
   html body.mm--b .menu-wrap nav.menu.active { transform: translateX(0); }
 
-  html body.mm--b .menu-wrap nav.menu #mob-menu { padding: 12px 0 16px; overflow-x: hidden; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu li { position: static; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu a {
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu { padding: 12px 0 16px; overflow-x: hidden; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li { position: static; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a {
     min-height: 58px;
     padding: 0 24px;
     font-size: 17px;
     line-height: 1.3;
     border-bottom: 1px solid var(--mm-line);
   }
-  html body.mm--b .menu-wrap nav.menu #mob-menu a.link::after,
-  html body.mm--b .menu-wrap nav.menu #mob-menu li.open > a.link::after { transform: rotate(-45deg); margin: 0; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a.link::after,
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.open > a.link::after { transform: rotate(-45deg); margin: 0; }
 
-  html body.mm--b .menu-wrap nav.menu #mob-menu ul.mob-sub-menu {
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu {
     position: absolute;
     display: block !important;
     top: 0;
@@ -274,10 +274,10 @@
     transition: transform .3s var(--mm-ease), visibility .3s;
     z-index: 2;
   }
-  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-in > ul.mob-sub-menu { transform: translateX(0); visibility: visible; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu ul.mob-sub-menu a { font-size: 16px; font-weight: 500; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-in > ul.mob-sub-menu { transform: translateX(0); visibility: visible; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a { font-size: 16px; font-weight: 500; }
 
-  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-back > button {
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-back > button {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -294,7 +294,7 @@
     border: 0;
     cursor: pointer;
   }
-  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-back > button::before {
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-back > button::before {
     content: "";
     width: 8px;
     height: 8px;
@@ -302,7 +302,7 @@
     border-bottom: 2px solid currentColor;
     transform: rotate(45deg);
   }
-  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-title > span {
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-title > span {
     display: block;
     padding: 4px 24px 14px;
     font-size: 22px;
@@ -367,26 +367,26 @@
     border-color: var(--mm-ink);
   }
 
-  html body.mm--c .menu-wrap nav.menu #mob-menu > li { display: none; }
-  html body.mm--c .menu-wrap nav.menu #mob-menu > li.mm-tab-on { display: block; }
-  html body.mm--c .menu-wrap nav.menu #mob-menu > li > a { display: none; }
-  html body.mm--c .menu-wrap nav.menu #mob-menu > li.mm-tab-on > ul.mob-sub-menu { display: block !important; padding: 0; margin: 0; list-style: none; }
-  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu a {
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li { display: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li.mm-tab-on { display: block; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li > a { display: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li.mm-tab-on > ul.mob-sub-menu { display: block !important; padding: 0; margin: 0; list-style: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a {
     min-height: 54px;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.3;
     border-bottom: 1px solid var(--mm-line);
   }
-  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); border-bottom-color: transparent; }
-  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu {
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); border-bottom-color: transparent; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu ul.mob-sub-menu {
     margin: 0 0 8px;
     padding: 4px 0;
     background: var(--mm-surface);
     border-radius: 14px;
     list-style: none;
   }
-  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
     min-height: 44px;
     padding: 0 16px;
     font-size: 15px;
@@ -397,5 +397,14 @@
 
 @media (prefers-reduced-motion: reduce) {
   html body.mm .menu-wrap nav.menu,
-  html body.mm .menu-wrap nav.menu #mob-menu ul.mob-sub-menu { transition: none !important; }
+  html body.mm .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu { transition: none !important; }
+}
+
+/* чат Pipedrive и баннер cookies не перекрывают открытое меню */
+@media (max-width: 991px) {
+  body.mm-open #LeadboosterContainer,
+  body.mm-open [id^="LeadBooster"],
+  body.mm-open [id^="Leadbooster"],
+  body.mm-open iframe[title*="LeadBooster" i],
+  body.mm-open iframe[src*="leadbooster"] { display: none !important; }
 }

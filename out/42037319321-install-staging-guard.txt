@@ -1,0 +1,3 @@
+installed /home/staging.dragonslots-gr.gr/public_html/wp-content/mu-plugins/staging-guard.php
+robots.txt written
+env=staging

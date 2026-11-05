@@ -124,7 +124,10 @@
   }
   document.addEventListener('click', function (e) {
     if (!mq.matches) return;
-    var toggle = e.target.closest && e.target.closest('.mob_ready li.dropdown > a.dropdown-toggle');
+    /* клик может прийти и на сам <li> (тема сдвигает ссылку при :hover) — считаем его нажатием на переключатель,
+       кроме кликов по пунктам самого списка языков */
+    var langLi = e.target.closest && e.target.closest('.mob_ready li.dropdown');
+    var toggle = langLi && !e.target.closest('.dropdown-menu') ? langLi.querySelector('a.dropdown-toggle') : null;
     if (toggle) {
       e.preventDefault();
       e.stopPropagation();

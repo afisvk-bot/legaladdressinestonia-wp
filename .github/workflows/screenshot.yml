@@ -92,5 +92,5 @@ jobs:
           git init -q && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
           git config user.name "github-actions" && git config user.email "github-actions@users.noreply.github.com"
           git fetch -q --depth 1 origin wp-output && git checkout -q -b wp-output FETCH_HEAD
-          mkdir -p "out/shots-${GITHUB_RUN_ID}" && mv shots/*.png "out/shots-${GITHUB_RUN_ID}/" 2>/dev/null || true
+          mkdir -p "out/shots-${GITHUB_RUN_ID}" && mv shots/* "out/shots-${GITHUB_RUN_ID}/" 2>/dev/null || true
           git add -f out && git commit -qm "screenshots ${GITHUB_RUN_ID}" && git push -q origin wp-output

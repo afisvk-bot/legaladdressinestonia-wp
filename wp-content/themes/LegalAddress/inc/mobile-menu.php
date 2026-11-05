@@ -1,7 +1,7 @@
 <?php
 /**
- * Мобильное меню (≤991px): нижняя «шторка» с вкладками разделов, кнопка «бургер»,
- * переключатель языка в том же стиле, нижняя панель с CTA.
+ * Мобильное меню (≤991px): боковая панель справа, разделы открываются отдельным экраном
+ * с кнопкой «Назад»; кнопка «бургер» и переключатель языка в одном стиле; CTA внизу.
  * Стили — CSS/mobile-menu.css, поведение — js/mobile-menu.js.
  */
 
@@ -10,6 +10,7 @@ defined( 'ABSPATH' ) || exit;
 function lai_mm_label( string $key ): string {
 	$l = array(
 		'cta'  => array( 'en' => 'Get a consultation', 'ru' => 'Получить консультацию', 'uk' => 'Отримати консультацію', 'de' => 'Beratung anfragen', 'fr' => 'Demander une consultation', 'es' => 'Solicitar consulta', 'pt' => 'Pedir consulta', 'tr' => 'Danışmanlık alın', 'zh' => '获取咨询' ),
+		'back' => array( 'en' => 'Back', 'ru' => 'Назад', 'uk' => 'Назад', 'de' => 'Zurück', 'fr' => 'Retour', 'es' => 'Atrás', 'pt' => 'Voltar', 'tr' => 'Geri', 'zh' => '返回' ),
 		'menu' => array( 'en' => 'Menu', 'ru' => 'Меню', 'uk' => 'Меню', 'de' => 'Menü', 'fr' => 'Menu', 'es' => 'Menú', 'pt' => 'Menu', 'tr' => 'Menü', 'zh' => '菜单' ),
 	);
 	$lang = function_exists( 'pll_current_language' ) ? (string) pll_current_language( 'slug' ) : 'en';
@@ -31,7 +32,7 @@ function lai_mm_contacts_url(): string {
 
 add_filter( 'body_class', function ( $classes ) {
 	$classes[] = 'mm';
-	$classes[] = 'mm--c';
+	$classes[] = 'mm--b';
 	return $classes;
 } );
 
@@ -40,6 +41,9 @@ add_action( 'wp_enqueue_scripts', function () {
 	$uri = get_template_directory_uri();
 	wp_enqueue_style( 'lai-mobile-menu', $uri . '/CSS/mobile-menu.css', array( 'style' ), filemtime( $dir . '/CSS/mobile-menu.css' ) );
 	wp_enqueue_script( 'lai-mobile-menu', $uri . '/js/mobile-menu.js', array( 'jquery224', 'main' ), filemtime( $dir . '/js/mobile-menu.js' ), true );
+	wp_localize_script( 'lai-mobile-menu', 'laiMM', array(
+		'back'    => lai_mm_label( 'back' ),
+	) );
 }, 20 );
 
 /** Нижняя панель меню: CTA. Если на странице есть модальная форма — откроется она. */

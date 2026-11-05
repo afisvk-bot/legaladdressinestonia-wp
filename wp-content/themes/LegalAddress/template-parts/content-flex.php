@@ -465,11 +465,6 @@ if ( $schema_min_price ) :
 <?php endif; ?>
 
 
-
-<!-- Calendly inline widget begin -->
-<?php get_template_part('template-parts/content', 'consultation'); ?>
-
-
 <div class="container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5">
     <div class="row justify-content-center">
         <div class="col-md-12 col-lg-12 px-5 px-md-5 px-lg-0">

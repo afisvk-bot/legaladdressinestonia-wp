@@ -1,0 +1,14 @@
+console.warning: reCAPTCHA couldn't find user-provided function: recaptchaCallback
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0601C00642F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C00642F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x1a140c248600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0C0E706642F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: Failed to create WebGPU Context Provider
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0601C00642F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0901C00642F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+console.warning: [.WebGL-0x1a140c248600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+console.warning: [GroupMarkerNotSet(crbug.com/242999)!:A0C0E706642F0000]Automatic fallback to software WebGL has been deprecated. Please use the --enable-unsafe-swiftshader flag to opt in to lower security guarantees for trusted content.
+sel {"y":160,"h":155}
+events: 
+after: {"init":true,"cls":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown","aria":"false","mq":false,"hash":"","cls2":"pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown","aria2":"false"}

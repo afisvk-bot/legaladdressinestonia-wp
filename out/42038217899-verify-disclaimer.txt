@@ -1,0 +1,42 @@
+Success: Успешная очистка всех кэшей.
+== service (published per lang: {"en":22,"zh":23,"de":23,"es":22,"fr":22,"ru":22,"pt":24,"tr":22,"uk":21})
+  en  OK   image<disc<date Disclaimer https://staging.dragonslots-gr.gr/startups/
+  tr  OK   image<disc<date Yasal uyarı https://staging.dragonslots-gr.gr/start-up-lar/
+  zh  OK   image<disc<date 免责声明 https://staging.dragonslots-gr.gr/startups-estonia/
+  es  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/las-start-ups/
+  fr  OK   image<disc<date Avertissement https://staging.dragonslots-gr.gr/aux-start-ups/
+  ru  OK   image<disc<date Дисклеймер https://staging.dragonslots-gr.gr/estonskaya-kompaniya-dlya-startapa/
+  uk  OK   image<disc<date Застереження https://staging.dragonslots-gr.gr/estonska-kompaniya-dlya-startapu/
+  de  OK   image<disc<date Haftungsausschluss https://staging.dragonslots-gr.gr/fur-start-ups-2/
+  pt  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/as-start-ups-estonia/
+== licensing (published per lang: {"en":6,"zh":7,"de":6,"es":6,"fr":6,"ru":6,"pt":6,"tr":6,"uk":6})
+  en  OK   image<disc<date Disclaimer https://staging.dragonslots-gr.gr/licensing/emi-licence-in-estonia/
+  uk  OK   image<disc<date Застереження https://staging.dragonslots-gr.gr/licensing/licenziya-emi-platizhna-ustanova-estoniya/
+  zh  OK   image<disc<date 免责声明 https://staging.dragonslots-gr.gr/licensing/emi-licence-estonia/
+  de  OK   image<disc<date Haftungsausschluss https://staging.dragonslots-gr.gr/licensing/emi-zulassung-in-estland/
+  es  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/licensing/licencia-de-emi-estonia/
+  fr  OK   image<disc<date Avertissement https://staging.dragonslots-gr.gr/licensing/licence-eme-estonie/
+  ru  OK   image<disc<date Дисклеймер https://staging.dragonslots-gr.gr/licensing/litsenziya-emi/
+  pt  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/licensing/licensa-de-emi-estonia/
+  tr  OK   image<disc<date Yasal uyarı https://staging.dragonslots-gr.gr/licensing/estonya-da-emi-lisans/
+== industry (published per lang: {"en":4,"zh":4,"de":4,"es":4,"fr":5,"ru":4,"pt":4,"tr":4,"uk":4})
+  en  OK   image<disc<date Disclaimer https://staging.dragonslots-gr.gr/industry/crypto-and-web3-projects/
+  uk  OK   image<disc<date Застереження https://staging.dragonslots-gr.gr/industry/kripto-ta-web3-proyektiv/
+  zh  OK   image<disc<date 免责声明 https://staging.dragonslots-gr.gr/industry/crypto-web3/
+  de  OK   image<disc<date Haftungsausschluss https://staging.dragonslots-gr.gr/industry/krypto-und-web3-projekte/
+  es  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/industry/criptomonedas-web3/
+  fr  OK   image<disc<date Avertissement https://staging.dragonslots-gr.gr/industry/cryptomonnaie-web3/
+  ru  OK   image<disc<date Дисклеймер https://staging.dragonslots-gr.gr/industry/kripto-i-web3/
+  pt  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/industry/criptomoedas-e-web3/
+  tr  OK   image<disc<date Yasal uyarı https://staging.dragonslots-gr.gr/industry/kripto-web3-projelerinde/
+== target (published per lang: {"en":3,"zh":3,"de":3,"es":3,"fr":4,"ru":3,"pt":4,"tr":3,"uk":3})
+  en  OK   image<disc<date Disclaimer https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/
+  uk  OK   image<disc<date Застереження https://staging.dragonslots-gr.gr/target/dlya-tsyfrovykh-koshevnykiv/
+  zh  OK   image<disc<date 免责声明 https://staging.dragonslots-gr.gr/target/digital-nomads/
+  de  OK   image<disc<date Haftungsausschluss https://staging.dragonslots-gr.gr/target/digitale-nomaden/
+  es  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/target/namadas-digitales/
+  fr  OK   image<disc<date Avertissement https://staging.dragonslots-gr.gr/target/destination-nomades/
+  ru  OK   image<disc<date Дисклеймер https://staging.dragonslots-gr.gr/target/dlya-cifrovyh-kochevnikov/
+  pt  OK   image<disc<date Aviso legal https://staging.dragonslots-gr.gr/target/namadas-digitais/
+  tr  OK   image<disc<date Yasal uyarı https://staging.dragonslots-gr.gr/target/dijital-goebeler/
+TOTAL {"ok":36,"fail":0}

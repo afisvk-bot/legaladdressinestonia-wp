@@ -61,7 +61,7 @@ jobs:
                 await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
                 await page.addStyleTag({ content: '#lae-cookie-consent,[class*="lae-cookie"],[class*="cookie-consent"],[class*="cky-"],[class*="chat"],[id*="chat"],[class*="pipedrive"],iframe{display:none!important}' });
                 await page.waitForTimeout(800);
-                for (const c of clicks) { await page.locator(c).first().click(); await page.waitForTimeout(700); }
+                for (const c of clicks) { const el = page.locator(c).first(); try { await el.click({ timeout: 5000 }); } catch (e) { console.log('force click', c, e.message.split('\n')[0]); await el.click({ force: true }); } await page.waitForTimeout(700); }
                 const file = `${out}/${name}.png`;
                 if (sel) {
                   const el = page.locator(sel).first();

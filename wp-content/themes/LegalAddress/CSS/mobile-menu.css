@@ -419,3 +419,14 @@
 /* планшеты 768–991: иллюстрация под текстом */
 @media (min-width: 768px) and (max-width: 991px) { html body.mm section.home-1 { background-position: center 330px; min-height: 860px; } }
 @media (max-width: 991px) { html body.mm section.home-1 > .row { align-items: flex-start !important; } }
+
+/* ==========================================================================
+   Первый экран на компьютерах: одинаковое положение заголовка на всех языках.
+   Раньше текст центрировался по высоте блока и сдвигался вверх на долю своей
+   высоты, поэтому длинные заголовки (DE/FR) поднимались к шапке, короткие (UA/ZH) опускались.
+   ========================================================================== */
+@media (min-width: 992px) {
+  section.container.home-1 { padding-top: 160px; }
+  section.container.home-1 > .row { align-items: flex-start !important; }
+  section.container.home-1 .text { transform: none !important; }
+}

@@ -73,12 +73,13 @@
           ?>
         </nav>
         <div class="menu-wrap">
-          <a href="javascript:void(0);" id="btnContact" class="contact_btn mob_btn"
+          <button type="button" id="btnContact" class="contact_btn mob_btn mm-toggle"
              data-is-active="false"
-             data-text1="&#9776;"
-             data-text2="&#10005;"
-             title="Menu">&#9776;</a>
-          <nav class="menu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+             data-text1=""
+             data-text2=""
+             aria-controls="mm-panel" aria-expanded="false"
+             aria-label="<?php echo esc_attr( function_exists( 'lai_mm_label' ) ? lai_mm_label( 'menu' ) : 'Menu' ); ?>"></button>
+          <nav class="menu" id="mm-panel" itemscope itemtype="https://schema.org/SiteNavigationElement">
               <?php
                 wp_nav_menu([
                   'theme_location' => 'mobile_menu',
@@ -87,6 +88,7 @@
                   'walker'         => new Mobile_Menu_Walker(),
                   'fallback_cb'    => false,
                 ]);
+                do_action( 'lai_mobile_menu_after' );
               ?>
           </nav>
         </div>

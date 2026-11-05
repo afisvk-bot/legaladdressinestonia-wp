@@ -1,0 +1,401 @@
+/* ==========================================================================
+   Mobile menu (≤991px). Варианты: body.mm--a | mm--b | mm--c  (inc/mobile-menu.php)
+   Перекрывает старые правила header .menu-wrap … из CSS/style.css.
+   ========================================================================== */
+
+:root {
+  --mm-ink: #10192D;
+  --mm-muted: #6b7280;
+  --mm-green: #31D44B;
+  --mm-green-soft: #f4fbf5;
+  --mm-line: #EFF1F4;
+  --mm-surface: #f8fafc;
+  --mm-top: 96px;           /* высота шапки, уточняется в js */
+  --mm-ease: cubic-bezier(.2, .8, .2, 1);
+}
+
+@media (max-width: 991px) {
+
+  /* ---------- Кнопка «бургер» ---------- */
+  html body.mm .menu-wrap .mob_btn.mm-toggle {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    font-size: 0;
+    line-height: 0;
+    color: var(--mm-ink);
+    background: #fff;
+    border: 1px solid #E4E7EC;
+    border-radius: 14px;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: border-color .2s, background-color .2s;
+  }
+  html body.mm .menu-wrap .mob_btn.mm-toggle::before,
+  html body.mm .menu-wrap .mob_btn.mm-toggle::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    width: 18px;
+    height: 2px;
+    margin-left: -9px;
+    background: currentColor;
+    border-radius: 2px;
+    transition: transform .3s var(--mm-ease), top .3s var(--mm-ease);
+  }
+  html body.mm .menu-wrap .mob_btn.mm-toggle::before { top: 17px; }
+  html body.mm .menu-wrap .mob_btn.mm-toggle::after  { top: 25px; width: 12px; margin-left: -3px; }
+  html body.mm .menu-wrap .mob_btn.mm-toggle.open::before { top: 21px; transform: rotate(45deg); }
+  html body.mm .menu-wrap .mob_btn.mm-toggle.open::after  { top: 21px; width: 18px; margin-left: -9px; transform: rotate(-45deg); }
+  html body.mm .menu-wrap .mob_btn.mm-toggle:focus { outline: none; }
+  html body.mm .menu-wrap .mob_btn.mm-toggle:focus-visible { outline: 2px solid var(--mm-green); outline-offset: 2px; }
+  html body.mm .menu-wrap .mob_btn.mm-toggle.open { border-color: var(--mm-ink); }
+
+  html body.mm.mm-open header { background: #fff; }
+
+  /* ---------- Панель: общая основа ---------- */
+  html body.mm .menu-wrap nav.menu {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    top: var(--mm-top);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    min-height: 0;
+    padding: 0;
+    background: #fff;
+    overflow: hidden;
+    visibility: hidden;
+    opacity: 0;
+    transform: none;
+    transition: opacity .25s var(--mm-ease), transform .3s var(--mm-ease), visibility .3s;
+    z-index: -1;
+    text-align: left;
+  }
+  html body.mm .menu-wrap nav.menu.active {
+    visibility: visible;
+    opacity: 1;
+    transform: none;
+  }
+
+  /* сброс старой анимации и смещения списка */
+  html body.mm .menu-wrap nav.menu #mob-menu,
+  html body.mm .menu-wrap nav.menu.active #mob-menu {
+    position: relative;
+    top: 0;
+    flex: 1 1 auto;
+    width: 100%;
+    margin: 0;
+    padding: 8px 20px 16px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+    visibility: visible;
+    transform: none;
+    transition: none;
+    list-style: none;
+  }
+
+  html body.mm .menu-wrap nav.menu #mob-menu li {
+    margin: 0;
+    border: 0;
+    background: none;
+  }
+  html body.mm .menu-wrap nav.menu #mob-menu a,
+  html body.mm .menu-wrap nav.menu #mob-menu a.link {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    width: auto;
+    padding: 0;
+    color: var(--mm-ink);
+    font-weight: 600;
+    text-decoration: none;
+    background: none;          /* глобальный a.link с градиентом */
+    background-image: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  html body.mm .menu-wrap nav.menu #mob-menu a:hover { color: var(--mm-ink); }
+
+  /* шеврон вместо «+» */
+  html body.mm .menu-wrap nav.menu #mob-menu a.link::before { display: none; }
+  html body.mm .menu-wrap nav.menu #mob-menu a.link::after,
+  html body.mm .menu-wrap nav.menu #mob-menu li.open > a.link::after {
+    content: "";
+    position: static;
+    flex: 0 0 auto;
+    width: 8px;
+    height: 8px;
+    margin: 0 4px 4px 0;
+    background: none;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    border-radius: 1px;
+    transform: rotate(45deg);
+    transition: transform .25s var(--mm-ease);
+  }
+  html body.mm .menu-wrap nav.menu #mob-menu li.open > a.link::after { transform: rotate(-135deg); margin-bottom: -4px; }
+
+  /* текущая страница */
+  html body.mm .menu-wrap nav.menu #mob-menu li.current-menu-item > a { color: var(--mm-green); }
+
+  /* ---------- Нижняя панель с CTA ---------- */
+  html body.mm .menu-wrap nav.menu .mm-foot {
+    flex: 0 0 auto;
+    padding: 12px 20px calc(16px + env(safe-area-inset-bottom));
+    background: #fff;
+    border-top: 1px solid var(--mm-line);
+  }
+  html body.mm .menu-wrap nav.menu .mm-cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 52px;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--mm-green);
+    border-radius: 15px;
+    text-decoration: none;
+    box-shadow: 0 10px 24px -10px rgba(49, 212, 75, .7);
+  }
+  html body.mm .menu-wrap nav.menu .mm-cta:active { transform: translateY(1px); }
+
+  /* затемнение страницы (вариант B и C) */
+  .mm-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(16, 25, 45, .38);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .3s, visibility .3s;
+    z-index: 9998;
+  }
+  body.mm-open .mm-backdrop { opacity: 1; visibility: visible; }
+  body.mm--a .mm-backdrop { display: none; }
+
+  /* ==========================================================================
+     A — полноэкранный аккордеон
+     ========================================================================== */
+  html body.mm--a .menu-wrap nav.menu { transform: translateY(-8px); }
+  html body.mm--a .menu-wrap nav.menu.active { transform: none; }
+
+  html body.mm--a .menu-wrap nav.menu #mob-menu > li { border-bottom: 1px solid var(--mm-line); }
+  html body.mm--a .menu-wrap nav.menu #mob-menu > li > a {
+    min-height: 60px;
+    font-size: 18px;
+    line-height: 1.3;
+  }
+  html body.mm--a .menu-wrap nav.menu #mob-menu > li.open > a { color: var(--mm-green); }
+
+  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu {
+    margin: 0 0 14px;
+    padding: 6px 0;
+    background: var(--mm-surface);
+    border-radius: 16px;
+    list-style: none;
+  }
+  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu a {
+    min-height: 46px;
+    padding: 0 16px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); }
+  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu {
+    margin: 0 16px 8px;
+    padding: 0 0 0 12px;
+    background: none;
+    border-left: 2px solid var(--mm-green);
+    border-radius: 0;
+  }
+  html body.mm--a .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
+    min-height: 40px;
+    padding: 0 0 0 4px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #3a4554;
+  }
+
+  /* ==========================================================================
+     B — боковая панель справа, переход по уровням
+     ========================================================================== */
+  html body.mm--b .menu-wrap nav.menu {
+    left: auto;
+    width: min(88vw, 420px);
+    border-radius: 24px 0 0 0;
+    box-shadow: -24px 0 48px -16px rgba(16, 25, 45, .25);
+    opacity: 1;
+    transform: translateX(100%);
+  }
+  html body.mm--b .menu-wrap nav.menu.active { transform: translateX(0); }
+
+  html body.mm--b .menu-wrap nav.menu #mob-menu { padding: 12px 0 16px; overflow-x: hidden; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu li { position: static; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu a {
+    min-height: 58px;
+    padding: 0 24px;
+    font-size: 17px;
+    line-height: 1.3;
+    border-bottom: 1px solid var(--mm-line);
+  }
+  html body.mm--b .menu-wrap nav.menu #mob-menu a.link::after,
+  html body.mm--b .menu-wrap nav.menu #mob-menu li.open > a.link::after { transform: rotate(-45deg); margin: 0; }
+
+  html body.mm--b .menu-wrap nav.menu #mob-menu ul.mob-sub-menu {
+    position: absolute;
+    display: block !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: 100%;
+    margin: 0;
+    padding: 12px 0 16px;
+    background: #fff;
+    list-style: none;
+    transform: translateX(100%);
+    visibility: hidden;
+    transition: transform .3s var(--mm-ease), visibility .3s;
+    z-index: 2;
+  }
+  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-in > ul.mob-sub-menu { transform: translateX(0); visibility: visible; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu ul.mob-sub-menu a { font-size: 16px; font-weight: 500; }
+
+  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-back > button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    min-height: 52px;
+    padding: 0 24px;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--mm-muted);
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-back > button::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-left: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(45deg);
+  }
+  html body.mm--b .menu-wrap nav.menu #mob-menu li.mm-title > span {
+    display: block;
+    padding: 4px 24px 14px;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--mm-ink);
+    border-bottom: 1px solid var(--mm-line);
+  }
+
+  /* ==========================================================================
+     C — нижняя шторка с вкладками
+     ========================================================================== */
+  html body.mm--c .menu-wrap nav.menu {
+    top: auto;
+    height: calc(100vh - var(--mm-top) - 8px);
+    height: calc(100dvh - var(--mm-top) - 8px);
+    max-height: 82vh;
+    border-radius: 24px 24px 0 0;
+    box-shadow: 0 -24px 48px -16px rgba(16, 25, 45, .25);
+    opacity: 1;
+    transform: translateY(100%);
+  }
+  html body.mm--c .menu-wrap nav.menu.active { transform: translateY(0); }
+  html body.mm--c .menu-wrap nav.menu::before {
+    content: "";
+    flex: 0 0 auto;
+    align-self: center;
+    width: 40px;
+    height: 4px;
+    margin: 10px 0 4px;
+    background: #D7DBE0;
+    border-radius: 2px;
+  }
+
+  html body.mm--c .menu-wrap nav.menu .mm-tabs {
+    display: flex;
+    gap: 8px;
+    flex: 0 0 auto;
+    padding: 10px 20px 12px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    border-bottom: 1px solid var(--mm-line);
+  }
+  html body.mm--c .menu-wrap nav.menu .mm-tabs::-webkit-scrollbar { display: none; }
+  html body.mm--c .menu-wrap nav.menu .mm-tabs button,
+  html body.mm--c .menu-wrap nav.menu .mm-tabs a {
+    flex: 0 0 auto;
+    padding: 9px 16px;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    white-space: nowrap;
+    color: var(--mm-ink);
+    background: var(--mm-surface);
+    border: 1px solid #E4E7EC;
+    border-radius: 999px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  html body.mm--c .menu-wrap nav.menu .mm-tabs .is-on {
+    color: #fff;
+    background: var(--mm-ink);
+    border-color: var(--mm-ink);
+  }
+
+  html body.mm--c .menu-wrap nav.menu #mob-menu > li { display: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu > li.mm-tab-on { display: block; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu > li > a { display: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu > li.mm-tab-on > ul.mob-sub-menu { display: block !important; padding: 0; margin: 0; list-style: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu a {
+    min-height: 54px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.3;
+    border-bottom: 1px solid var(--mm-line);
+  }
+  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); border-bottom-color: transparent; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu {
+    margin: 0 0 8px;
+    padding: 4px 0;
+    background: var(--mm-surface);
+    border-radius: 14px;
+    list-style: none;
+  }
+  html body.mm--c .menu-wrap nav.menu #mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
+    min-height: 44px;
+    padding: 0 16px;
+    font-size: 15px;
+    font-weight: 400;
+    border-bottom: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html body.mm .menu-wrap nav.menu,
+  html body.mm .menu-wrap nav.menu #mob-menu ul.mob-sub-menu { transition: none !important; }
+}

@@ -35,6 +35,8 @@ require_once get_template_directory() . '/wp-bootstrap-navwalker.php';
 
 // Walker for Mobile menu
 require_once get_template_directory() . '/inc/class-mobile-menu-walker.php';
+// Mobile menu: варианты оформления, бургер, CTA
+require_once get_template_directory() . '/inc/mobile-menu.php';
 
 // Add Font
 function legaladdress_google_fonts() {

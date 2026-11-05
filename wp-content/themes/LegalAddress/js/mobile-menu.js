@@ -113,6 +113,7 @@
   /* ---------- Переключатель языка (мобильные): открытие по тапу, закрытие снаружи ----------
      Нативный обработчик в фазе захвата — срабатывает раньше обработчиков темы/плагинов. */
   var mq = window.matchMedia('(max-width: 991px)');
+  var langLast = 0;
   function langClose(except) {
     document.querySelectorAll('.mob_ready li.dropdown.mm-lang-open').forEach(function (li) {
       if (li === except) return;
@@ -127,6 +128,10 @@
     if (toggle) {
       e.preventDefault();
       e.stopPropagation();
+      /* касание на части устройств даёт два click подряд — второй игнорируем */
+      var now = Date.now();
+      if (now - langLast < 400) return;
+      langLast = now;
       var li = toggle.parentNode;
       var open = !li.classList.contains('mm-lang-open');
       langClose(li);

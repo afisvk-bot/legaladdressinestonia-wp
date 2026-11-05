@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Mobile menu (≤991px). Варианты: body.mm--a | mm--b | mm--c  (inc/mobile-menu.php)
+   Mobile menu (≤991px): нижняя шторка с вкладками разделов (inc/mobile-menu.php)
    Перекрывает старые правила header .menu-wrap … из CSS/style.css.
    ========================================================================== */
 
@@ -178,7 +178,7 @@
   }
   html body.mm .menu-wrap nav.menu .mm-cta:active { transform: translateY(1px); }
 
-  /* затемнение страницы (вариант B и C) */
+  /* затемнение страницы */
   .mm-backdrop {
     position: fixed;
     inset: 0;
@@ -191,134 +191,9 @@
     z-index: 9998;
   }
   body.mm-open .mm-backdrop { opacity: 1; visibility: visible; }
-  body.mm--a .mm-backdrop { display: none; }
 
   /* ==========================================================================
-     A — полноэкранный аккордеон
-     ========================================================================== */
-  html body.mm--a .menu-wrap nav.menu { transform: translateY(-8px); }
-  html body.mm--a .menu-wrap nav.menu.active { transform: none; }
-
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu > li { border-bottom: 1px solid var(--mm-line); }
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu > li > a {
-    min-height: 60px;
-    font-size: 18px;
-    line-height: 1.3;
-  }
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu > li.open > a { color: var(--mm-green); }
-
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu {
-    margin: 0 0 14px;
-    padding: 6px 0;
-    background: var(--mm-surface);
-    border-radius: 16px;
-    list-style: none;
-  }
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a {
-    min-height: 46px;
-    padding: 0 16px;
-    font-size: 15px;
-    font-weight: 500;
-    line-height: 1.3;
-  }
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu li.open > a { color: var(--mm-green); }
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu ul.mob-sub-menu {
-    margin: 0 16px 8px;
-    padding: 0 0 0 12px;
-    background: none;
-    border-left: 2px solid var(--mm-green);
-    border-radius: 0;
-  }
-  html body.mm--a .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu ul.mob-sub-menu a {
-    min-height: 40px;
-    padding: 0 0 0 4px;
-    font-size: 14px;
-    font-weight: 400;
-    color: #3a4554;
-  }
-
-  /* ==========================================================================
-     B — боковая панель справа, переход по уровням
-     ========================================================================== */
-  html body.mm--b .menu-wrap nav.menu {
-    left: auto;
-    width: min(88vw, 420px);
-    border-radius: 24px 0 0 0;
-    box-shadow: -24px 0 48px -16px rgba(16, 25, 45, .25);
-    opacity: 1;
-    transform: translateX(100%);
-  }
-  html body.mm--b .menu-wrap nav.menu.active { transform: translateX(0); }
-
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu { padding: 12px 0 16px; overflow-x: hidden; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li { position: static; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a,
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a.link {
-    min-height: 58px;
-    padding: 0 24px;
-    font-size: 17px;
-    line-height: 1.3;
-    border-bottom: 1px solid var(--mm-line);
-  }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a.link::after,
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.open > a.link::after { transform: rotate(-45deg); margin: 0; }
-
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu {
-    position: absolute;
-    display: block !important;
-    top: 0;
-    left: 0;
-    right: 0;
-    min-height: 100%;
-    margin: 0;
-    padding: 12px 0 16px;
-    background: #fff;
-    list-style: none;
-    transform: translateX(100%);
-    visibility: hidden;
-    transition: transform .3s var(--mm-ease), visibility .3s;
-    z-index: 2;
-  }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-in > ul.mob-sub-menu { transform: translateX(0); visibility: visible; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a,
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a.link { padding: 0 24px; font-size: 16px; font-weight: 500; }
-
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-back > button {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    width: 100%;
-    min-height: 52px;
-    padding: 0 24px;
-    font: inherit;
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: .06em;
-    text-transform: uppercase;
-    color: var(--mm-muted);
-    background: none;
-    border: 0;
-    cursor: pointer;
-  }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-back > button::before {
-    content: "";
-    width: 8px;
-    height: 8px;
-    border-left: 2px solid currentColor;
-    border-bottom: 2px solid currentColor;
-    transform: rotate(45deg);
-  }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-title > span {
-    display: block;
-    padding: 4px 24px 14px;
-    font-size: 22px;
-    font-weight: 600;
-    color: var(--mm-ink);
-    border-bottom: 1px solid var(--mm-line);
-  }
-
-  /* ==========================================================================
-     C — нижняя шторка с вкладками
+     Нижняя шторка с вкладками
      ========================================================================== */
   html body.mm--c .menu-wrap nav.menu {
     top: auto;

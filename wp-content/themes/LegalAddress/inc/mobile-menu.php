@@ -1,36 +1,15 @@
 <?php
 /**
- * Мобильное меню: варианты оформления, кнопка «бургер», нижняя панель с CTA.
- *
- * Вариант задаётся в wp-config.php: define( 'LAI_MOBILE_MENU', 'c' );  // a | b | c (по умолчанию c)
- *   a — полноэкранный аккордеон (под шапкой, раскрытие на месте)
- *   b — боковая панель справа с переходом по уровням (как в приложениях)
- *   c — нижняя «шторка» с вкладками разделов
- * Предпросмотр на staging: ?mm=a|b|c (запоминается в cookie на сутки).
+ * Мобильное меню (≤991px): нижняя «шторка» с вкладками разделов, кнопка «бургер»,
+ * переключатель языка в том же стиле, нижняя панель с CTA.
+ * Стили — CSS/mobile-menu.css, поведение — js/mobile-menu.js.
  */
 
 defined( 'ABSPATH' ) || exit;
 
-function lai_mm_variant(): string {
-	$v       = defined( 'LAI_MOBILE_MENU' ) ? (string) LAI_MOBILE_MENU : 'c';
-	$preview = 'production' !== wp_get_environment_type() || current_user_can( 'edit_theme_options' );
-	if ( $preview ) {
-		if ( isset( $_GET['mm'] ) && in_array( $_GET['mm'], array( 'a', 'b', 'c' ), true ) ) {
-			$v = $_GET['mm'];
-			if ( ! headers_sent() ) {
-				setcookie( 'lai_mm', $v, time() + DAY_IN_SECONDS, COOKIEPATH ?: '/', COOKIE_DOMAIN, is_ssl(), true );
-			}
-		} elseif ( isset( $_COOKIE['lai_mm'] ) && in_array( $_COOKIE['lai_mm'], array( 'a', 'b', 'c' ), true ) ) {
-			$v = $_COOKIE['lai_mm'];
-		}
-	}
-	return in_array( $v, array( 'a', 'b', 'c' ), true ) ? $v : 'c';
-}
-
 function lai_mm_label( string $key ): string {
 	$l = array(
 		'cta'  => array( 'en' => 'Get a consultation', 'ru' => 'Получить консультацию', 'uk' => 'Отримати консультацію', 'de' => 'Beratung anfragen', 'fr' => 'Demander une consultation', 'es' => 'Solicitar consulta', 'pt' => 'Pedir consulta', 'tr' => 'Danışmanlık alın', 'zh' => '获取咨询' ),
-		'back' => array( 'en' => 'Back', 'ru' => 'Назад', 'uk' => 'Назад', 'de' => 'Zurück', 'fr' => 'Retour', 'es' => 'Atrás', 'pt' => 'Voltar', 'tr' => 'Geri', 'zh' => '返回' ),
 		'menu' => array( 'en' => 'Menu', 'ru' => 'Меню', 'uk' => 'Меню', 'de' => 'Menü', 'fr' => 'Menu', 'es' => 'Menú', 'pt' => 'Menu', 'tr' => 'Menü', 'zh' => '菜单' ),
 	);
 	$lang = function_exists( 'pll_current_language' ) ? (string) pll_current_language( 'slug' ) : 'en';
@@ -52,7 +31,7 @@ function lai_mm_contacts_url(): string {
 
 add_filter( 'body_class', function ( $classes ) {
 	$classes[] = 'mm';
-	$classes[] = 'mm--' . lai_mm_variant();
+	$classes[] = 'mm--c';
 	return $classes;
 } );
 
@@ -61,10 +40,6 @@ add_action( 'wp_enqueue_scripts', function () {
 	$uri = get_template_directory_uri();
 	wp_enqueue_style( 'lai-mobile-menu', $uri . '/CSS/mobile-menu.css', array( 'style' ), filemtime( $dir . '/CSS/mobile-menu.css' ) );
 	wp_enqueue_script( 'lai-mobile-menu', $uri . '/js/mobile-menu.js', array( 'jquery224', 'main' ), filemtime( $dir . '/js/mobile-menu.js' ), true );
-	wp_localize_script( 'lai-mobile-menu', 'laiMM', array(
-		'variant' => lai_mm_variant(),
-		'back'    => lai_mm_label( 'back' ),
-	) );
 }, 20 );
 
 /** Нижняя панель меню: CTA. Если на странице есть модальная форма — откроется она. */

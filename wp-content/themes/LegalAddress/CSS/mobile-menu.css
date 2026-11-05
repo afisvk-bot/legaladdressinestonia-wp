@@ -248,7 +248,8 @@
 
   html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu { padding: 12px 0 16px; overflow-x: hidden; }
   html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li { position: static; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a {
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a,
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu a.link {
     min-height: 58px;
     padding: 0 24px;
     font-size: 17px;
@@ -275,7 +276,8 @@
     z-index: 2;
   }
   html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-in > ul.mob-sub-menu { transform: translateX(0); visibility: visible; }
-  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a { font-size: 16px; font-weight: 500; }
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a,
+  html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a.link { padding: 0 24px; font-size: 16px; font-weight: 500; }
 
   html body.mm--b .menu-wrap nav.menu #mob-menu#mob-menu li.mm-back > button {
     display: flex;
@@ -369,7 +371,8 @@
 
   html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li { display: none; }
   html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li.mm-tab-on { display: block; }
-  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li > a { display: none; }
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li > a,
+  html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li > a.link { display: none; }
   html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu > li.mm-tab-on > ul.mob-sub-menu { display: block !important; padding: 0; margin: 0; list-style: none; }
   html body.mm--c .menu-wrap nav.menu #mob-menu#mob-menu ul.mob-sub-menu a {
     min-height: 54px;

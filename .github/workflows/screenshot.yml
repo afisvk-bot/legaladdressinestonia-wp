@@ -54,6 +54,10 @@ jobs:
             const page = await browser.newPage({ viewport: { width, height: mobile ? 844 : 1000 }, deviceScaleFactor: mobile ? 2 : 1, isMobile: mobile, hasTouch: mobile });
             const clicks = (process.env.CLICKS || '').split('>>').map(s => s.trim()).filter(Boolean);
             let n = 0;
+            const fs = require('fs');
+            const logs = [];
+            page.on('console', m => { if (['error','warning'].includes(m.type())) logs.push('console.' + m.type() + ': ' + m.text()); });
+            page.on('pageerror', e => logs.push('pageerror: ' + e.message));
             for (const item of urls) {
               n++;
               const [name, url] = item.includes('=http') ? [item.slice(0, item.indexOf('=')), item.slice(item.indexOf('=') + 1)] : [String(n), item];
@@ -61,7 +65,7 @@ jobs:
                 await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
                 await page.addStyleTag({ content: '#lae-cookie-consent,[class*="lae-cookie"],[class*="cookie-consent"],[class*="cky-"],[class*="chat"],[id*="chat"],[class*="pipedrive"],iframe{display:none!important}' });
                 await page.waitForTimeout(800);
-                for (const c of clicks) { const el = page.locator(c).first(); try { await el.click({ timeout: 5000 }); } catch (e) { console.log('force click', c, e.message.split('\n')[0]); await el.click({ force: true }); } await page.waitForTimeout(700); }
+                for (const c of clicks) { const el = page.locator(c).first(); try { const info = await el.evaluate(n => { const r = n.getBoundingClientRect(); const t = document.elementFromPoint(r.x + r.width / 2, r.y + r.height / 2); return JSON.stringify({ rect: [r.x, r.y, r.width, r.height], top: t ? (t.tagName + '#' + t.id + '.' + t.className) : null }); }); logs.push('target ' + c + ' ' + info); } catch (e) { logs.push('eval fail ' + e.message); } try { await el.click({ timeout: 5000 }); } catch (e) { console.log('force click', c, e.message.split('\n')[0]); await el.click({ force: true }); } await page.waitForTimeout(700); }
                 const file = `${out}/${name}.png`;
                 if (sel) {
                   const el = page.locator(sel).first();
@@ -72,6 +76,9 @@ jobs:
                 } else {
                   await page.screenshot({ path: file });
                 }
+                logs.push('after: ' + await page.evaluate(() => JSON.stringify({ lang: (document.querySelector('.mob_ready li.dropdown') || {}).className, mm: typeof window.laiMM, hash: location.hash })));
+                fs.writeFileSync(file.replace(/\.png$/, '.log'), logs.join('
+'));
                 console.log('ok', name, url);
               } catch (e) { console.log('FAIL', name, url, e.message); }
             }

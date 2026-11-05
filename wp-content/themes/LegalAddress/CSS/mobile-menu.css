@@ -401,3 +401,14 @@
   html body.mm header .mob_ready a.dropdown-toggle:focus-visible,
   html body.mm .menu-wrap .mob_btn.mm-toggle:focus-visible { box-shadow: var(--mm-ctl-shadow); }
 }
+
+/* ==========================================================================
+   Отступ от шапки до контента на мобильных
+   Шапка: 16px + кнопки 44px + 16px = 76px; до текста — ещё 32px.
+   ========================================================================== */
+@media (max-width: 991px) {
+  html body.mm header { padding-top: 16px; padding-bottom: 16px; }
+  html body.mm section.home-1 { padding-top: 108px; }
+  html body.mm section.home-1 .text { transform: none !important; }
+  html body.mm .content-page { padding-top: 100px; }
+}

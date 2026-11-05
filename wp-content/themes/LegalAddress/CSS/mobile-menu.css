@@ -412,3 +412,7 @@
   html body.mm section.home-1 .text { transform: none !important; }
   html body.mm .content-page { padding-top: 100px; }
 }
+/* иллюстрация первого экрана опускается вместе с текстом (+48px к прежним значениям темы) */
+@media (max-width: 991px) { html body.mm section.home-1 { background-position: center calc(3rem + 48px); min-height: 648px; } }
+@media (max-width: 767px) { html body.mm section.home-1 { background-position: center calc(4rem + 48px); min-height: 468px; } }
+@media (max-width: 576px) { html body.mm section.home-1 { background-position: center calc(6rem + 48px); min-height: 438px; } }

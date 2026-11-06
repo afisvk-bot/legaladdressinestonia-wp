@@ -82,6 +82,10 @@ add_filter( 'rank_math/json_ld', function ( $data ) {
 	$uid = $single ? (int) get_post_field( 'post_author', get_queried_object_id() ) : (int) get_queried_object_id();
 	if ( ! $uid ) return $data;
 	$p = lai_author_profile( $uid );
+	// Rank Math экранирует «&» в «&amp;» внутри JSON-LD — в разметке заменяем на союз языка страницы
+	$and = array( 'en' => 'and', 'de' => 'und', 'fr' => 'et', 'es' => 'y', 'pt' => 'e', 'tr' => 've', 'ru' => 'и', 'uk' => 'і', 'zh' => '和' )[ lai_ab_lang() ] ?? 'and';
+	$p['bio'] = str_replace( ' & ', " $and ", $p['bio'] );
+	$p['job'] = str_replace( ' & ', " $and ", $p['job'] );
 
 	foreach ( $data as $k => $node ) {
 		if ( ! is_array( $node ) ) continue;
@@ -139,7 +143,7 @@ function lai_author_box_html( int $post_id = 0 ): string {
 	}
 	ob_start(); ?>
 <aside class="lai-ab" aria-label="<?php echo esc_attr( lai_ab_label( 'about' ) ); ?>">
-	<div class="lai-ab__photo"><img src="<?php echo esc_url( $p['image'] ); ?>" width="88" height="88" alt="<?php echo esc_attr( $p['name'] ); ?>" loading="lazy" decoding="async"></div>
+	<div class="lai-ab__photo"><img src="<?php echo esc_url( $p['image'] ); ?>" width="88" height="88" alt="<?php echo esc_attr( $p['name'] ); ?>" decoding="async"></div>
 	<div class="lai-ab__body">
 		<div class="lai-ab__label"><?php echo esc_html( lai_ab_label( 'about' ) ); ?></div>
 		<div class="lai-ab__name"><a href="<?php echo esc_url( $p['url'] ); ?>"><?php echo esc_html( $p['name'] ); ?></a></div>
@@ -159,12 +163,12 @@ add_action( 'wp_head', function () {
 <style id="lai-ab-css">
 .lai-updated{font-size:13px;color:#667085;margin-top:6px}.lai-updated span{font-weight:600;color:#10192D}
 .lai-ab{display:flex;gap:20px;align-items:flex-start;margin:48px 0 8px;padding:24px;border:1px solid #E4E7EC;border-radius:14px;background:#F9FAFB}
-.lai-ab__photo img{width:88px;height:88px;border-radius:50%;object-fit:cover;display:block}
+.lai-ab__photo{flex:0 0 88px;width:88px;height:88px}.lai-ab .lai-ab__photo img{width:88px!important;height:88px!important;max-width:none;min-width:88px;border-radius:50%;object-fit:cover;object-position:center top;display:block;margin:0}
 .lai-ab__label{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#31d44b;font-weight:600;margin-bottom:4px}
 .lai-ab__name{font-size:20px;font-weight:600;line-height:1.3;margin-bottom:6px}.lai-ab__name a{color:#10192D;text-decoration:none;background:none}
 .lai-ab__bio{font-size:14px;line-height:1.6;color:#475467;margin:0 0 10px}
 .lai-ab__links{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:14px}.lai-ab__links a{color:#10192D;text-decoration:underline;text-underline-offset:3px;background:none}
-@media (max-width:575px){.lai-ab{flex-direction:column;gap:14px;padding:20px}}
+@media (max-width:575px){.lai-ab{flex-direction:column;gap:14px;padding:20px}.lai-ab__photo{flex-basis:auto}}
 </style>
 	<?php
 } );

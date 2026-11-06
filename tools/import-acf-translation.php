@@ -63,4 +63,4 @@ $r = wp_remote_get( get_permalink( $id ), array( 'timeout' => 30, 'sslverify' =>
 $b = wp_remote_retrieve_body( $r );
 preg_match( '#<title>(.*?)</title>#s', $b, $t ); preg_match_all( '#hreflang="([^"]+)"#', $b, $h );
 echo 'http ' . wp_remote_retrieve_response_code( $r ) . ' title: ' . html_entity_decode( $t[1] ?? '' ) . ' hreflang: ' . implode( ',', array_unique( $h[1] ) ) . ' kb ' . round( strlen( $b ) / 1024 ) . "\n";
-echo 'disclaimer ' . ( false !== strpos( $b, 'lai-disclaimer' ) ? 'yes' : 'no' ) . ', faq ' . substr_count( $b, 'Часті запитання' ) . "\n";
+echo 'disclaimer ' . ( false !== strpos( $b, 'lai-disc' ) ? 'yes' : 'no' ) . ', faq ' . substr_count( $b, 'Часті запитання' ) . "\n";

@@ -1,6 +1,8 @@
 <?php
 /** wp eval-file tools/link-audit.php — контекстные внутренние ссылки (без header/footer/nav) по всем опубликованным страницам. */
 @set_time_limit( 1800 );
+ini_set( 'pcre.backtrack_limit', '50000000' );
+ini_set( 'pcre.jit', '0' );
 $types = array( 'page', 'post', 'service', 'licensing', 'industry', 'target' );
 $home  = wp_parse_url( home_url(), PHP_URL_HOST );
 $rows  = array(); $by_path = array();
@@ -24,9 +26,12 @@ foreach ( array_chunk( $chs, 8, true ) as $batch ) {
 	foreach ( $batch as $id => $ch ) {
 		$b = curl_multi_getcontent( $ch );
 		curl_multi_remove_handle( $mh, $ch );
-		$b = preg_replace( '#<(header|footer|nav|script|style)\b.*?</\1>#si', '', $b );
-		$b = preg_replace( '#<aside class="lai-ab".*?</aside>#s', '', $b );
-		$b = preg_replace( '#<div[^>]*class="[^"]*(breadcrumb|lang|modal|form_)[^"]*".*?</div>#si', '', $b );
+		foreach ( array( 'script', 'style', 'header', 'footer', 'nav', 'aside' ) as $tg ) {
+			$x = preg_replace( '#<' . $tg . '\b.*?</' . $tg . '>#si', '', $b );
+			if ( null === $x ) { $rows[ $id ]['err'] = $tg; continue; }
+			$b = $x;
+		}
+		$rows[ $id ]['len'] = strlen( $b );
 		preg_match_all( '#<a\b([^>]*)href="([^"#]+)[^"]*"([^>]*)>(.*?)</a>#si', $b, $m, PREG_SET_ORDER );
 		foreach ( $m as $a ) {
 			$h = html_entity_decode( $a[2] );

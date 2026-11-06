@@ -1,0 +1,98 @@
+== ZH volume (CJK chars) vs EN (words)
+#4532 service cjk=4316 latin_words=20 | en#4529 2682w | ratio=1.61
+#4493 service cjk=3800 latin_words=26 | en#4490 2257w | ratio=1.68
+#4459 service cjk=3353 latin_words=5 | en#4457 2214w | ratio=1.51
+#4430 service cjk=3509 latin_words=7 | en#4427 2207w | ratio=1.59
+#3642 service cjk=0 latin_words=1202 | en#3639 2164w | ratio=0.00
+#3641 service cjk=3285 latin_words=8 | en#0 0w | ratio=0.00
+#3600 service cjk=2691 latin_words=10 | en#3597 1738w | ratio=1.55
+#2807 service cjk=4552 latin_words=7 | en#2805 2679w | ratio=1.70
+#2793 service cjk=4325 latin_words=27 | en#2791 2652w | ratio=1.63
+#2779 service cjk=4429 latin_words=7 | en#2776 2812w | ratio=1.58
+#2763 service cjk=4330 latin_words=13 | en#2761 2718w | ratio=1.59
+#2749 service cjk=4367 latin_words=19 | en#2746 2649w | ratio=1.65
+#2698 service cjk=4054 latin_words=17 | en#2696 2491w | ratio=1.63
+#2635 service cjk=4354 latin_words=25 | en#2247 2653w | ratio=1.64
+#2623 service cjk=4846 latin_words=26 | en#2263 2919w | ratio=1.66
+#2610 service cjk=4706 latin_words=11 | en#2257 2852w | ratio=1.65
+#2598 service cjk=4558 latin_words=28 | en#2261 2722w | ratio=1.67
+#2586 service cjk=4103 latin_words=16 | en#2254 2576w | ratio=1.59
+#2574 service cjk=4740 latin_words=19 | en#1415 2696w | ratio=1.76
+#2557 service cjk=5143 latin_words=30 | en#1398 3001w | ratio=1.71
+#2487 service cjk=4411 latin_words=19 | en#1482 2629w | ratio=1.68
+#2475 service cjk=3303 latin_words=5 | en#1269 1927w | ratio=1.71
+#2463 service cjk=5539 latin_words=8 | en#1410 3172w | ratio=1.75
+#2734 licensing cjk=4799 latin_words=18 | en#2731 2801w | ratio=1.71
+#2718 licensing cjk=4758 latin_words=27 | en#2716 2877w | ratio=1.65
+#2668 licensing cjk=4287 latin_words=20 | en#2665 2651w | ratio=1.62
+#2545 licensing cjk=5993 latin_words=46 | en#2543 3542w | ratio=1.69
+#2530 licensing cjk=4748 latin_words=60 | en#2528 2784w | ratio=1.71
+#2526 licensing cjk=4797 latin_words=33 | en#2508 2845w | ratio=1.69
+#2515 licensing cjk=5000 latin_words=21 | en#2508 2845w | ratio=1.76
+#2449 industry cjk=6687 latin_words=72 | en#2446 3951w | ratio=1.69
+#2444 industry cjk=6125 latin_words=20 | en#2419 3559w | ratio=1.72
+#2417 industry cjk=4319 latin_words=61 | en#2398 2469w | ratio=1.75
+#2385 industry cjk=4363 latin_words=70 | en#2383 2559w | ratio=1.70
+#2651 target cjk=4679 latin_words=13 | en#2649 2857w | ratio=1.64
+#2365 target cjk=6279 latin_words=9 | en#2250 3778w | ratio=1.66
+#2353 target cjk=5160 latin_words=13 | en#2266 3394w | ratio=1.52
+#2288 post cjk=6287 latin_words=79 | en#2284 3768w | ratio=1.67
+#1025 post cjk=1862 latin_words=6 | en#1010 1086w | ratio=1.71
+#953 post cjk=9171 latin_words=74 | en#910 5421w | ratio=1.69
+#906 post cjk=6650 latin_words=57 | en#825 3604w | ratio=1.85
+#760 post cjk=3180 latin_words=4 | en#685 1875w | ratio=1.70
+#754 post cjk=2065 latin_words=1 | en#712 1115w | ratio=1.85
+
+== #1831 page es "Política de PBC/FT"
+Última actualización: 24 de julio de 2026 eBusiness Solutions OÜ es un proveedor autorizado de servicios corporativos y fideicomisos (TCSP) en Estonia (n.º de licencia FIU000421). Como entidad obligada en virtud de la legislación estonia y europea sobre prevención del blanqueo de capitales (PBC/AML) y de la financiación del terrorismo (FT/CFT), aplicamos estrictamente el principio de Conozca a su Cliente (KYC) antes de entablar cualquier relación de negocios. Verificamos la identidad del cliente
+
+== #3641 service zh "在爱沙尼亚注册MTÜ"
+MTÜ（mittetulundusühing）——爱沙尼亚的非营利组织：一种为实现其法定宗旨而非营利而设立的法人实体。该组织无需注册资本，只需两名创始人，且可在数日内完成商业登记。 这是爱沙尼亚最被低估的法律形式。行业协会、体育俱乐部、教育和慈善项目、住房协会、开发商社区以及支持基金会均通过MTÜ开展运营。我们为居民和非居民设立MTÜ，包括根据您的宗旨量身定制的章程，以及在董事会设在国外时所需的法定地址和联系人信息。 关键事实 主题 通俗解释 什么是它 “mittetulundusühing”是一种非营利组织，具有完全的法人资格 创始人 至少两名——自然人或法人 注册资本 无要求 创始人的国籍 无限制；无需在爱沙尼亚居住 注册时间 若所有文件齐全，最多五个工作日 在线注册 若所有创始人均持有数字身份证或电子居留权，则可进行在线注册 利润分配 禁止——利润必须用于公司的法定目的 经营活动 允许，但不能作为主要目的 年度报告 始终为强制性要求，即使没有业务活动也必须提交 境外管理 必须在爱沙尼亚设有注册地址和联系人 税收减免 通过列入符合所得税减免资格的组织名单实现——需单独办理相关手续 
+
+== #3642 service zh "Registering an MTÜ in Estonia"
+MTÜ (mittetulundusühing) — an Estonian non-profit organisation: a legal entity established to fulfil its statutory purpose rather than to make a profit. It requires no authorised capital, has two founders, and can be registered in the Commercial Register within a few days. This is the most underrated legal form in Estonia. Industry associations, sports clubs, educational and charitable projects, housing associations, developer communities and support foundations all operate through MTÜs. We set 
+
+== duplicate pairs similarity
+#4545 (fur-start-ups-2, publish, mod 2026-11-05 08:34:06, in-group:y) vs #4535 (fur-start-ups, publish, mod 2026-11-05 08:29:06, in-group:n) similarity=100%
+#4516 (contabilidade-para-residentes-eletronicos-estonia, publish, mod 2026-11-04 15:42:08, in-group:y) vs #4504 (contabilidade-para-residentes-eletronicos-na-estonia, publish, mod 2026-11-04 15:30:46, in-group:n) similarity=100%
+#4471 (registo-de-empresas-por-procuraso, publish, mod 2026-11-03 12:56:29, in-group:y) vs #4468 (registo-de-empresas-por-procuraco, publish, mod 2026-11-03 12:44:36, in-group:n) similarity=100%
+#2461 (cryptomonnaie-web3, publish, mod 2026-09-28 11:33:18, in-group:y) vs #2456 (cryptomonnaies-web3, publish, mod 2026-09-28 11:31:06, in-group:n) similarity=98%
+#2376 (une-soci-t-estonienne-destin-e-aux-fondateurs-originaires-de-pays-hors-de-l-ue, publish, mod 2026-09-24 04:22:26, in-group:y) vs #2372 (une-soci-t-estonienne-pour-les-ressortissants-hors-ue, publish, mod 2026-09-24 04:21:11, in-group:n) similarity=98%
+#2378 (uma-empresa-est-nia-destinada-a-fundadores-de-fora-da-ue, publish, mod 2026-09-24 04:23:33, in-group:y) vs #2373 (uma-empresa-est-nia-para-fundadores-de-fora-da-ue, publish, mod 2026-09-24 04:18:54, in-group:y) similarity=98%
+#2526 (crypto-igaming-projects, publish, mod 2026-09-29 07:15:18, in-group:y) vs #2515 (holding-crypto-igaming, publish, mod 2026-09-29 07:06:07, in-group:n) similarity=80%
+#3641 (mtu, publish, mod 2026-11-03 07:53:43, in-group:y) vs #3642 (registering-an-mt-in-estonia-2, publish, mod 2026-11-03 07:53:53, in-group:y) similarity=3%
+
+== TSD posts
+#3633 en publish New TSD rules from October 2026: what has changed tr={"en":3633,"ru":3629}
+#3629 ru publish Новые правила TSD с октября 2026: что изменилось tr={"ru":3629}
+#3039 uk publish Юридична адреса проти фізичного офісу в Естонії tr={"uk":3039,"en":3035,"ru":3030}
+#3035 en publish Legal address vs physical office in Estonia tr={"en":3035,"uk":3039,"ru":3030}
+#3030 ru publish Юридический адрес vs реальный офис в Эстонии tr={"ru":3030,"uk":3039,"en":3035}
+#2829 en publish How to Read the Balance Sheet and Income Statement of an Estonian OÜ tr={"en":2829,"ru":2824}
+#2824 ru publish Как читать баланс и отчёт о прибыли эстонской OÜ tr={"ru":2824,"en":2829}
+#2509 en publish Dividends or salary: How an Estonian OÜ owner can withdraw money from the company tr={"en":2509,"ru":2499}
+#2499 ru publish Дивиденды или зарплата: как владельцу эстонской OÜ забирать деньги из компании tr={"ru":2499,"en":2509}
+#2240 de publish Mehrwertsteuerregistrierung in Estland: Schwellenwerte und Vorschriften tr={"de":2240,"en":2113,"ru":2107,"uk":2114}
+#2227 uk publish Як обрати бухгалтера в Естонії у 2026 році tr={"uk":2227,"en":2223,"ru":2219}
+#2223 en publish How to choose an accountant in Estonia in 2026 tr={"en":2223,"uk":2227,"ru":2219}
+#2219 ru publish Как выбрать бухгалтера в Эстонии tr={"ru":2219,"uk":2227,"en":2223}
+#2105 uk publish Корпоративні послуги та юридичний супровід бізнесу в Естонії tr={"uk":2105,"en":910,"ru":942,"de":923,"pt":956,"tr":945,"es":939,"zh":953,"fr":936}
+#1394 uk publish Як відкрити компанію в Естонії нерезиденту tr={"uk":1394,"en":1388,"ru":1384}
+#1389 en publish What is Estonian e-Residency and Who Is It For? tr={"en":1389,"uk":1393,"ru":1380}
+#1380 ru publish Что такое e-Residency Эстонии и кому подходит tr={"ru":1380,"uk":1393,"en":1389}
+#1357 en publish Estonian Corporate Tax Guide: Complete Breakdown of Rates, Rules, Limits, and Reform Changes tr={"en":1357,"uk":1362,"ru":1037}
+#1362 uk publish Податковий гайд з естонського бізнесу tr={"uk":1362,"en":1357,"ru":1037}
+#1393 uk publish Що таке e-Residency Естонії та кому вона підходить? tr={"uk":1393,"en":1389,"ru":1380}
+#1388 en publish How to Open a Company in Estonia as a Non-Resident tr={"en":1388,"uk":1394,"ru":1384}
+#1037 ru publish Налоги для компаний в Эстонии в 2026 году tr={"ru":1037,"uk":1362,"en":1357}
+#1384 ru publish Как открыть компанию в Эстонии нерезиденту в 2026 году tr={"ru":1384,"uk":1394,"en":1388}
+#923 de publish Legaladdressinestonia.com (eBusiness Solutions OÜ). Umfassende Unternehmensbetreuung in Estland tr={"de":923,"uk":2105,"en":910,"ru":942,"pt":956,"tr":945,"es":939,"zh":953,"fr":936}
+#906 zh publish 爱沙尼亚企业税（2026年）。基于分配的企业所得税（CIT）、24% 增值税（VAT）、股息与股权出售退出模式比较，以及欧盟对比 tr={"zh":906,"ru":844,"en":825,"de":865,"fr":876,"es":881,"pt":898,"tr":902}
+#902 tr publish Estonya’da Kurumlar Vergisi (2026). Dağıtım Esaslı Kurumlar Vergisi (CIT), %24 KDV, Temettü ve Hisse Satışı Yoluyla Çıkış Modellemesi ve AB Karşılaştırmaları tr={"tr":902,"ru":844,"en":825,"de":865,"fr":876,"es":881,"pt":898,"zh":906}
+#898 pt publish Imposto sobre Sociedades na Estónia (2026). CIT baseado em distribuições, IVA a 24%, modelação de saída via dividendos vs venda de participações, e comparações na UE tr={"pt":898,"ru":844,"en":825,"de":865,"fr":876,"es":881,"tr":902,"zh":906}
+#844 ru publish Корпоративный налог в Эстонии 2026 tr={"ru":844,"en":825,"de":865,"fr":876,"es":881,"pt":898,"tr":902,"zh":906}
+#881 es publish Impuesto de Sociedades en Estonia (2026). IS basado en distribuciones, IVA al 24%, modelización de salida vía dividendos vs venta de participaciones y comparaciones en la UE tr={"es":881,"ru":844,"en":825,"de":865,"fr":876,"pt":898,"tr":902,"zh":906}
+#876 fr publish Impôt sur les sociétés en Estonie (2026). IS fondé sur la distribution, TVA à 24 %, modélisation de sortie par dividende vs cession de parts, et comparaisons au sein de l’UE tr={"fr":876,"ru":844,"en":825,"de":865,"es":881,"pt":898,"tr":902,"zh":906}
+#825 en publish Corporate Tax in Estonia tr={"en":825,"ru":844,"de":865,"fr":876,"es":881,"pt":898,"tr":902,"zh":906}
+#865 de publish Körperschaftsteuer in Estland (2026). Ausschüttungsbasierte KSt, 24 % MwSt, Exit-Modellierung. Dividende vs. Share Deal, und EU-Vergleiche tr={"de":865,"ru":844,"en":825,"fr":876,"es":881,"pt":898,"tr":902,"zh":906}
+#689 de publish Registrierungsprozess für eine estnische OÜ: Ein schneller Leitfaden für Unternehmer tr={"de":689,"en":685,"ru":699,"tr":723,"pt":730,"es":743,"fr":757,"zh":760}

@@ -20,9 +20,9 @@ function lai_ab_lang(): string {
 
 function lai_ab_label( string $key ): string {
 	$t = array(
-		'about'   => array( 'en' => 'About the author', 'ru' => 'Об авторе', 'uk' => 'Про автора', 'de' => 'Über die Autorin', 'fr' => 'À propos de l’auteure', 'es' => 'Sobre la autora', 'pt' => 'Sobre a autora', 'tr' => 'Yazar hakkında', 'zh' => '关于作者' ),
+		'about'   => array( 'en' => 'About the author', 'ru' => 'Об авторе', 'uk' => 'Про автора', 'de' => 'Über den Autor', 'fr' => 'À propos de l’auteur', 'es' => 'Sobre el autor', 'pt' => 'Sobre o autor', 'tr' => 'Yazar hakkında', 'zh' => '关于作者' ),
 		'updated' => array( 'en' => 'Updated', 'ru' => 'Обновлено', 'uk' => 'Оновлено', 'de' => 'Aktualisiert', 'fr' => 'Mis à jour', 'es' => 'Actualizado', 'pt' => 'Atualizado', 'tr' => 'Güncellendi', 'zh' => '更新于' ),
-		'all'     => array( 'en' => 'All articles by the author', 'ru' => 'Все статьи автора', 'uk' => 'Усі статті автора', 'de' => 'Alle Artikel der Autorin', 'fr' => 'Tous les articles de l’auteure', 'es' => 'Todos los artículos de la autora', 'pt' => 'Todos os artigos da autora', 'tr' => 'Yazarın tüm makaleleri', 'zh' => '作者的全部文章' ),
+		'all'     => array( 'en' => 'All articles by the author', 'ru' => 'Все статьи автора', 'uk' => 'Усі статті автора', 'de' => 'Alle Artikel des Autors', 'fr' => 'Tous les articles de l’auteur', 'es' => 'Todos los artículos del autor', 'pt' => 'Todos os artigos do autor', 'tr' => 'Yazarın tüm makaleleri', 'zh' => '作者的全部文章' ),
 	);
 	$l = lai_ab_lang();
 	return $t[ $key ][ $l ] ?? $t[ $key ]['en'];
@@ -35,7 +35,11 @@ function lai_author_profile( int $uid ): array {
 	if ( '' === trim( $bio ) ) {
 		$bio = (string) get_the_author_meta( 'description', $uid );
 	}
-	$bio = trim( html_entity_decode( wp_strip_all_tags( $bio ), ENT_QUOTES, 'UTF-8' ) );
+	$bio = wp_strip_all_tags( $bio );
+	for ( $i = 0; $i < 3 && $bio !== html_entity_decode( $bio, ENT_QUOTES, 'UTF-8' ); $i++ ) {
+		$bio = html_entity_decode( $bio, ENT_QUOTES, 'UTF-8' ); // в профиле встречается «&amp;amp;»
+	}
+	$bio = trim( $bio );
 	// должность = первое предложение био («… at eBusiness Solutions OÜ.»)
 	$job = trim( (string) preg_split( '/\.\s|。/u', $bio, 2 )[0] );
 	$slug = (string) get_the_author_meta( 'user_nicename', $uid );

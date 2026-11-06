@@ -32,7 +32,7 @@ foreach ( array_chunk( $chs, 8, true ) as $batch ) {
 			$b = $x;
 		}
 		$rows[ $id ]['len'] = strlen( $b );
-		preg_match_all( '#<a\b([^>]*)href="([^"#]+)[^"]*"([^>]*)>(.*?)</a>#si', $b, $m, PREG_SET_ORDER );
+		preg_match_all( '~<a\b([^>]*)href="([^"#]+)[^"]*"([^>]*)>(.*?)</a>~si', $b, $m, PREG_SET_ORDER );
 		foreach ( $m as $a ) {
 			$h = html_entity_decode( $a[2] );
 			$host = wp_parse_url( $h, PHP_URL_HOST );

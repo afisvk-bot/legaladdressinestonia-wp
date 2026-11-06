@@ -1612,18 +1612,20 @@
      "не з ЄС"
     ],
     "de": [
-     "außerhalb der EU"
+     "Nicht-EU-Bürger",
+     "Gründer aus Drittstaaten"
     ],
     "fr": [
      "non-Européens",
-     "hors de l'UE",
      "hors UE"
     ],
     "es": [
-     "fuera de la UE"
+     "ciudadanos no UE",
+     "fundadores de fuera de la UE"
     ],
     "pt": [
-     "fora da UE"
+     "cidadãos não UE",
+     "fundadores de fora da UE"
     ],
     "tr": [
      "AB dışından",

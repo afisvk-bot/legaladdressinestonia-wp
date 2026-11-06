@@ -1,0 +1,14 @@
+Success: Успешная очистка всех кэшей.
+<link data-optimized="2" rel="stylesheet" href="https://staging.dragonslots-gr.gr/wp-content/litespeed/css/9f8bbfee5732b6be0c90f534c5fa5320.css?ver=a7e61" />
+<link data-noptimize="1" data-no-optimize="1" data-no-minify="1" data-no-defer="1" rel="stylesheet" href="https://staging.dragonslots-gr.gr/wp-content/uploads/trustindex-google-widget.css?1793885414" media="all">
+COMBINED fontfaces: 3
+  @font-face{font-display:swap;font-family:'Poppins';font-style:normal;font-weight:400;src:url(https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf) format('truetype')}
+  @font-face{font-display:swap;font-family:'Poppins';font-style:normal;font-weight:600;src:url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf) format('truetype')}
+  @font-face{font-display:swap;font-family:'Poppins';font-style:normal;font-weight:700;src:url(https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf) format('truetype')}
+MONT: 
+optm-localize=""
+optm-localize_domains="[\"### Popular scripts ###\",\"https:\\\/\\\/platform.twitter.com\\\/widgets.js\",\"https:\\\/\\\/connect.facebook.net\\\/en_US\\\/fbevents.js\"]"
+optm-css_exc="[]"
+optm-css_async=""
+optm-ccss_per_url=""
+optm-css_font_display="1"

@@ -1,0 +1,12 @@
+Success: Успешная очистка всех кэшей.
+updated 9 fields, already ok 1321, kept manual edits 0, skipped pages 0
+robots #1308 -> noindex,nofollow
+robots #1304 -> noindex,nofollow
+robots #1317 -> noindex,nofollow
+linked {"en":1629,"ru":1620,"uk":1630}
+#1415 Ready-Made Companies in Estonia with VAT — from €1,200
+#1401 Готовые компании в Эстонии с VAT — от 1 200 €
+#2574 爱沙尼亚现成公司｜带增值税号，1200欧元起
+#1308 robots: nofollow, noindex
+#1304 robots: nofollow, noindex
+#1317 robots: nofollow, noindex

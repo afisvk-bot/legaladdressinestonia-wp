@@ -1,0 +1,17 @@
+len 125477 a=162
+header: len 109036 a=69 err=0
+footer: len 116150 a=137 err=0
+nav: len 104137 a=41 err=0
+script: len 105541 a=161 err=0
+style: len 125477 a=162 err=0
+<header itemscope itemtype="http://schema.org/WPHeader">
+<nav class="primary-menu d-none d-sm-none d-md-none d-lg-block" itemscope itemtype="https://schema.org/SiteNavigationElement">
+<nav class="navbar navbar-expand-md">
+<nav class="menu" id="mm-panel" itemscope itemtype="https://schema.org/SiteNavigationElement">
+<nav aria-label="breadcrumbs" class="rank-math-breadcrumb">
+<nav class="i10v-toc__nav" aria-label="Table of Contents">
+<footer itemscope itemtype="https://schema.org/WPFooter">
+<nav class="menu-footer" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<nav class="menu-footer" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<nav class="menu-social mb-4">
+autolinks 6

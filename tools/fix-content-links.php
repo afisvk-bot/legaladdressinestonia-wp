@@ -67,6 +67,7 @@ foreach ( $path2id as $id ) {
 }
 // CF7
 $cf7lang = array( 'form_EN' => 'en', 'form_RU' => 'ru', 'form_UK' => 'uk', 'form_DE' => 'de', 'form_FR' => 'fr', 'form_PT' => 'pt', 'form_TR' => 'tr', 'form_ES' => 'es', 'form_CN' => 'zh' );
+foreach ( $cf7lang as $k => $v ) $cf7lang[ 'cont_' . $k ] = $v;
 foreach ( get_posts( array( 'post_type' => 'wpcf7_contact_form', 'numberposts' => -1, 'post_status' => 'any', 'lang' => '' ) ) as $f ) {
 	$lang = $cf7lang[ $f->post_title ] ?? '';
 	if ( ! $lang ) { $log[] = "cf7 skip '{$f->post_title}'"; continue; }

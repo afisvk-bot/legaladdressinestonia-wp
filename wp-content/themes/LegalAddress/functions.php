@@ -186,6 +186,7 @@ function get_localized_cf7_form() {
         'tr' => [ 'id' => 'd448ac2', 'title' => 'form_TR', 'class' => 'TR' ],
         'es' => [ 'id' => 'bbfc08b', 'title' => 'form_ES', 'class' => 'ES' ],
         'cn' => [ 'id' => '243c53c', 'title' => 'form_CN', 'class' => 'CN' ],
+        'zh' => [ 'id' => '243c53c', 'title' => 'form_CN', 'class' => 'CN' ], // Polylang: китайский = zh
     ];
     $current_lang = function_exists( 'pll_current_language' )
         ? pll_current_language()

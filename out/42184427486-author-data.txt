@@ -1,0 +1,88 @@
+== USER 6 Jana Kamoza slug=jana-kamoza
+  first_name = Jana
+  last_name = Kamoza
+  description = Chief Executive Officer &amp; Legal Consultant at eBusiness Solutions OÜ. Over 6 years of experience in corporate services, compliance, and international business.
+  additional_profile_urls = 
+  description_ru = Генеральный директор и юрисконсульт компании eBusiness Solutions OÜ. Более 6 лет опыта работы в сфере корпоративных услуг, соблюдения нормативных требований и международного бизнеса.
+  description_uk = Генеральний директор (CEO) та юридичний консультант у eBusiness Solutions OÜ. Понад 6 років досвіду у сфері корпоративних послуг, комплаєнсу та міжнародного бізнесу.
+  description_de = Chief Executive Officer &amp; Legal Consultant bei eBusiness Solutions OÜ. Über 6 Jahre Erfahrung in den Bereichen Unternehmensdienstleistungen, Compliance und internationales Geschäft.
+  description_pt = Chief Executive Officer &amp; Legal Consultant na eBusiness Solutions OÜ. Mais de 6 anos de experiência em serviços corporativos, conformidade (compliance) e negócios internacionais.
+  description_tr = eBusiness Solutions OÜ Şirket Üst Yöneticisi (CEO) ve Hukuk Danışmanı. Kurumsal hizmetler, uyum (compliance) ve uluslararası ticaret alanlarında 6 yılı aşkın deneyim.
+  description_es = Director Ejecutivo y Consultor Legal en eBusiness Solutions OÜ. Más de 6 años de experiencia en servicios corporativos, cumplimiento normativo (compliance) y negocios internacionales.
+  description_zh = eBusiness Solutions OÜ 首席执行官（CEO）兼法律顾问。在企业服务、合规审查（Compliance）及国际商业领域拥有超过 6 年的从业经验。
+  description_fr = Chief Executive Officer &amp; Consultant Juridique chez eBusiness Solutions OÜ. Plus de 6 ans d'expérience dans les services aux entreprises, la conformité (compliance) et les affaires internationales.
+  twitter = 
+  facebook = 
+  simple_local_avatar = a:11:{s:8:"media_id";i:1652;s:4:"full";s:85:"https://staging.dragonslots-gr.gr/wp-content/uploads/2026/08/cropped-jana-kamoza.webp";s:7:"blog_id";i:1;i:192;s:85:"https://staging.dragonslots-gr.gr/wp-content/uploads/2026/08/cropped-jana-kamoza.webp";i:96;s:91:"https://staging.dragonslots-gr.gr/wp-con
+  simple_local_avatar_rating = G
+  rank_math_title = Jana Kamoza | Estonia Business &amp; e-Residency Expert %sep% eBusiness Solutions OÜ
+  rank_math_description = Articles by Jana Kamoza at eBusiness Solutions. Expert insights on e-Residency, legal address services, and company formation in Estonia. Read profile!
+  rank_math_title_en = Jana Kamoza | Estonia Business & e-Residency Expert — eBusiness Solutions OÜ
+  rank_math_description_en = Articles by Jana Kamoza at eBusiness Solutions. Expert insights on e-Residency, legal address services, and company formation in Estonia. Read profile.
+  rank_math_title_zh = Jana Kamoza | 愛沙尼亞商業與電子居留權專家 — eBusiness Solutions OÜ
+  rank_math_description_zh = Jana Kamoza 在 eBusiness Solutions 發表的文章。關於愛沙尼亞電子居留權、法定地址服務及公司設立的專家見解。閱讀個人簡介。
+  rank_math_title_de = Jana Kamoza | Expertin für Wirtschaft und E-Residency in Estland — eBusiness Solutions OÜ
+  rank_math_description_de = Artikel von Jana Kamoza bei eBusiness Solutions. Experteneinblicke zu E-Residency, Dienstleistungen rund um den Firmensitz und Unternehmensgründung in Estland. Profil lesen.
+  rank_math_title_es = Jana Kamoza | Experta en negocios y residencia electrónica en Estonia — eBusiness Solutions OÜ
+  rank_math_description_es = Artículos de Jana Kamoza en eBusiness Solutions. Opiniones de expertos sobre la residencia electrónica, los servicios de domicilio social y la constitución de empresas en Estonia. Leer perfil.
+  rank_math_title_fr = Jana Kamoza | Experte en affaires et en e-résidence en Estonie — eBusiness Solutions OÜ
+  rank_math_description_fr = Articles de Jana Kamoza sur eBusiness Solutions. Avis d'experte sur l'e-résidence, les services d'adresse légale et la création d'entreprise en Estonie. Lire le profil.
+  rank_math_title_ru = Яна Камоза | Эксперт по бизнесу и электронному резидентству в Эстонии – eBusiness Solutions OÜ
+  rank_math_description_ru = Статьи Яны Камозы на eBusiness Solutions. Экспертные мнения по вопросам электронного резидентства, услуг по предоставлению юридического адреса и регистрации компаний в Эстонии. Читать профиль.
+  rank_math_title_pt = Jana Kamoza | Especialista em negócios e e-Residency na Estónia — eBusiness Solutions OÜ
+  rank_math_description_pt = Artigos de Jana Kamoza na eBusiness Solutions. Análises especializadas sobre e-Residency, serviços de endereço legal e constituição de empresas na Estónia. Ler perfil.
+  rank_math_title_tr = Jana Kamoza | Estonya İş Dünyası ve e-Yerleşim Uzmanı — eBusiness Solutions OÜ
+  rank_math_description_tr = Jana Kamoza’nın eBusiness Solutions’da yayınlanan makaleleri. Estonya’da e-Yerleşim, yasal adres hizmetleri ve şirket kurma konularında uzman görüşleri. Profili okuyun.
+  rank_math_title_uk = Яна Камоза | Експерт з питань бізнесу та е-резиденства в Естонії — eBusiness Solutions OÜ
+  rank_math_description_uk = Статті Яни Камози на сайті eBusiness Solutions. Експертні матеріали про е-резиденство, послуги з надання юридичної адреси та реєстрацію компаній в Естонії. Переглянути профіль.
+  avatar_url(256)=https://staging.dragonslots-gr.gr/wp-content/uploads/2026/08/cropped-jana-kamoza.webp
+  posts by lang: {"en":15,"ru":13,"tr":6,"pt":6,"fr":6,"es":6,"de":6,"zh":5,"uk":5}
+== USER 7 Jekaterina Semjonova slug=kate
+  first_name = Jekaterina
+  last_name = Semjonova
+  description = Operations &amp; Compliance Manager at eBusiness Solutions OÜ. 10+ years of experience in financial services, operations management, AML/KYC and corporate services.
+  twitter = 
+  facebook = 
+  additional_profile_urls = 
+  simple_local_avatar = a:9:{s:8:"media_id";i:1966;s:4:"full";s:98:"https://staging.dragonslots-gr.gr/wp-content/uploads/2026/08/cropped-IMAGE-2026-08-25-09-29-42.jpg";s:7:"blog_id";i:1;i:192;s:106:"https://staging.dragonslots-gr.gr/wp-content/uploads/2026/08/cropped-IMAGE-2026-08-25-09-29-42-192x192.jpg";i:96;s:104:"https
+  simple_local_avatar_rating = G
+  description_ru = Менеджер по операционной деятельности и обеспечению соответствия в компании eBusiness Solutions OÜ. Более 10 лет опыта работы в сфере финансовых услуг, управления операционной деятельностью, AML/KYC и корпоративных услуг.
+  description_uk = Менеджер з операційної діяльності та дотримання нормативних вимог у компанії eBusiness Solutions OÜ. Понад 10 років досвіду роботи у сфері фінансових послуг, управління операційною діяльністю, AML/KYC та корпоративних послуг.
+  description_de = Leiter Operations &amp; Compliance bei eBusiness Solutions OÜ. Über 10 Jahre Erfahrung in den Bereichen Finanzdienstleistungen, Betriebsmanagement, AML/KYC und Unternehmensdienstleistungen.
+  description_pt = Gestor de Operações e Conformidade na eBusiness Solutions OÜ. Mais de 10 anos de experiência em serviços financeiros, gestão de operações, AML/KYC e serviços empresariais.
+  description_tr = eBusiness Solutions OÜ’de Operasyon ve Uyum Müdürü. Finansal hizmetler, operasyon yönetimi, AML/KYC ve kurumsal hizmetler alanlarında 10 yılı aşkın deneyime sahiptir.
+  description_es = Responsable de Operaciones y Cumplimiento Normativo en eBusiness Solutions OÜ. Más de 10 años de experiencia en servicios financieros, gestión de operaciones, AML/KYC y servicios corporativos.
+  description_zh = eBusiness Solutions OÜ 營運與合規經理。在金融服務、營運管理、反洗錢／客戶盡職調查（AML/KYC）及企業服務領域擁有 10 年以上經驗。
+  description_fr = Responsable des opérations et de la conformité chez eBusiness Solutions OÜ. Plus de 10 ans d'expérience dans les services financiers, la gestion des opérations, la lutte contre le blanchiment d'argent (AML) et la connaissance du client (KYC), ainsi que les services aux entreprises.
+  rank_math_title = Jekaterina Semjonova | Estonia Business &amp; Legal Expert %sep% %sitename% %page%
+  rank_math_description = Articles by Jekaterina Semjonova at eBusiness Solutions. Expert guides on company setup, legal address services, and e-Residency in Estonia. Read profile!
+  rank_math_title_en = Jekaterina Semjonova | Estonia Business & Legal Expert — eBusiness Solutions OÜ
+  rank_math_description_en = Articles by Jekaterina Semjonova at eBusiness Solutions. Expert guides on company setup, legal address services, and e-Residency in Estonia. Read profile!
+  rank_math_title_zh = 葉卡捷琳娜·塞姆約諾娃 | 愛沙尼亞商業與法律專家 — eBusiness Solutions OÜ
+  rank_math_description_zh = 葉卡捷琳娜·塞姆約諾娃在 eBusiness Solutions 發表的文章。關於愛沙尼亞公司設立、法定地址服務及電子居留權的專家指南。閱讀個人簡介！
+  rank_math_title_de = Jekaterina Semjonova | Expertin für Wirtschaft und Recht in Estland — eBusiness Solutions OÜ
+  rank_math_description_de = Artikel von Jekaterina Semjonova bei eBusiness Solutions. Fachliche Leitfäden zur Unternehmensgründung, zu Dienstleistungen rund um den Firmensitz und zur E-Residency in Estland. Profil lesen!
+  rank_math_title_es = Jekaterina Semjonova | Experta en asuntos empresariales y jurídicos de Estonia — eBusiness Solutions OÜ
+  rank_math_description_es = Artículos de Jekaterina Semjonova en eBusiness Solutions. Guías especializadas sobre la constitución de empresas, servicios de domicilio social y la residencia electrónica en Estonia. ¡Lee su perfil!
+  rank_math_title_fr = Jekaterina Semjonova | Experte en affaires et en droit estonien — eBusiness Solutions OÜ
+  rank_math_description_fr = Articles de Jekaterina Semjonova sur eBusiness Solutions. Guides d'experts sur la création d'entreprise, les services de siège social et l'e-résidence en Estonie. Consultez son profil !
+  rank_math_title_ru = Екатерина Семёнова | Эксперт по бизнесу и праву в Эстонии – eBusiness Solutions OÜ
+  rank_math_description_ru = Статьи Екатерины Семёновой на eBusiness Solutions. Экспертные руководства по регистрации компаний, услугам юридического адреса и электронному резидентству в Эстонии. Читать профиль!
+  rank_math_title_pt = Jekaterina Semjonova | Especialista em Negócios e Assuntos Jurídicos na Estónia — eBusiness Solutions OÜ
+  rank_math_description_pt = Artigos de Jekaterina Semjonova na eBusiness Solutions. Guias especializados sobre a constituição de empresas, serviços de endereço social e e-Residency na Estónia. Leia o perfil!
+  rank_math_title_tr = Jekaterina Semjonova | Estonya İş ve Hukuk Uzmanı — eBusiness Solutions OÜ
+  rank_math_description_tr = Jekaterina Semjonova’nın eBusiness Solutions’da yayınlanan makaleleri. Estonya’da şirket kurma, yasal adres hizmetleri ve e-Residency konularında uzman rehberleri. Profili okuyun!
+  rank_math_title_uk = Катерина Семйонова | Експерт з питань бізнесу та права в Естонії — eBusiness Solutions OÜ
+  rank_math_description_uk = Статті Катерини Семйонової на сайті eBusiness Solutions. Експертні посібники щодо реєстрації компаній, послуг з надання юридичної адреси та програми «е-резиденства» в Естонії. Переглянути профіль!
+  avatar_url(256)=https://staging.dragonslots-gr.gr/wp-content/uploads/2026/08/cropped-IMAGE-2026-08-25-09-29-42-256x256.jpg
+  posts by lang: {"en":7,"ru":8,"uk":5,"de":1}
+expert page en #1199: ["Jana Kamoza","CEO & Legal Advisor at eBusiness Solutions OÜ","6+ years of experience in corporate services, compliance and international business","Verified by an expert","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page zh #1950: ["Jana Kamoza","eBusiness Solutions OÜ 首席执行官兼法律顾问","拥有6年以上企业服务、合规和国际业务经验","经专家验证","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page de #1913: ["Jana Kamoza","Geschäftsführer und Rechtsberater bei eBusiness Solutions OÜ","Über 6 Jahre Erfahrung in den Bereichen Corporate Services, Compliance und internationales Geschäft","Von einem Experten bestätigt","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page es #1937: ["Jana Kamoza","Director ejecutivo y asesor legal en eBusiness Solutions OÜ","Más de 6 años de experiencia en servicios corporativos, cumplimiento normativo y negocios internacionales","Verificado por un experto","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page fr #1945: ["Jana Kamoza","PDG et conseiller juridique chez eBusiness Solutions OÜ","Plus de 6 ans d'expérience dans les services aux entreprises, la conformité et le commerce international","Vérifié par un expert","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page ru #1201: ["Яна Камоза","Генеральный директор и юридический консультант в eBusiness Solutions OÜ","Более 6 лет опыта в сфере корпоративных услуг, комплаенса и международного бизнеса","Подтверждено экспертом","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page pt #1926: ["Jana Kamoza","CEO e Consultor Jurídico da eBusiness Solutions OÜ","Mais de 6 anos de experiência em serviços corporativos, compliance e negócios internacionais","Verificado por um especialista","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page tr #1943: ["Jana Kamoza","eBusiness Solutions OÜ'de CEO ve Hukuk Danışmanı","Kurumsal hizmetler, uyumluluk ve uluslararası iş alanlarında 6+ yıllık deneyim","Uzman tarafından doğrulanmış","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+expert page uk #1666: ["Яна Камоза","Генеральний директор та юридичний консультант в eBusiness Solutions OÜ","Понад 6 років досвіду у сфері корпоративних послуг, комплаєнсу та міжнародного бізнесу","Підтверджено експертом","https://www.linkedin.com/in/jana-kamoza-international-business-legal"]
+post authors: {"7":21,"6":68,"5":1,"4":1}

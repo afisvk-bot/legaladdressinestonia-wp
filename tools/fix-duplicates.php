@@ -72,21 +72,9 @@ foreach ( $pairs as $p ) {
 	$log[] = sprintf( '%s #%d %s "%s" -> trash; 301 %s -> %s', $dry ? '[dry]' : 'done', $stray->ID, pll_get_post_language( $stray->ID ), $stray->post_title, $stray_path, $new_keep_url );
 }
 
-/* ---------- 3. Редиректы ---------- */
+/* ---------- 3. Редиректы — в mu-plugins/lai-redirects.php (карта путь => ID) ---------- */
 foreach ( $redirects as $r ) {
-	$from = ltrim( $r['from'], '/' );
-	if ( $dry ) { $log[] = "[dry] redirect /$from -> {$r['to']}"; continue; }
-	if ( $rm_ok ) {
-		$red = \RankMath\Redirections\Redirection::from( array( 'url_to' => $r['to'], 'header_code' => 301, 'status' => 'active' ) );
-		$red->add_source( untrailingslashit( $from ), 'exact' );
-		$red->add_source( trailingslashit( $from ), 'exact' );
-		$id = $red->save();
-		$log[] = "rank math redirect #$id /$from -> {$r['to']}";
-	} else {
-		$target = url_to_postid( $r['to'] );
-		add_post_meta( $target, '_wp_old_slug', basename( untrailingslashit( $from ) ) );
-		$log[] = "old_slug /$from -> #$target";
-	}
+	$log[] = ( $dry ? '[dry] ' : '' ) . "redirect {$r['from']} -> {$r['to']}" . ( function_exists( 'lai_redirect_map' ) && isset( lai_redirect_map()[ trailingslashit( $r['from'] ) ] ) ? ' (in map)' : ' (NOT IN MAP)' );
 }
 
 /* ---------- 4. DE «Terms and Conditions» ---------- */

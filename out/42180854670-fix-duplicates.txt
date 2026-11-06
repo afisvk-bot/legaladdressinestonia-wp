@@ -1,0 +1,34 @@
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+link #3641 as zh into group of #3639: {"en":3639,"tr":3652,"zh":3642,"de":3644,"es":3646,"fr":3648,"ru":3586,"pt":3650,"uk":3591} -> {"en":3639,"tr":3652,"zh":3641,"de":3644,"es":3646,"fr":3648,"ru":3586,"pt":3650,"uk":3591}
+link #3629 as ru into group of #3633: {"en":3633,"ru":3629} -> {"en":3633,"ru":3629}
+rank math redirections module: not active (fallback: _wp_old_slug)
+done #4535 de "Ein estnisches Unternehmen für Start-ups" -> trash; 301 /fur-start-ups/ -> https://staging.dragonslots-gr.gr/fur-start-ups/
+done #4504 pt "Contabilidade para residentes eletrónicos na Estónia" -> trash; 301 /contabilidade-para-residentes-eletronicos-na-estonia/ -> https://staging.dragonslots-gr.gr/contabilidade-para-residentes-eletronicos-estonia/
+done #4468 pt "Registo de empresas na Estónia por procuração" -> trash; 301 /registo-de-empresas-por-procuraco/ -> https://staging.dragonslots-gr.gr/registo-de-empresas-por-procuraso/
+done #2456 fr "Une entreprise estonienne spécialisée dans les projets liés aux cryptomonnaies et au Web3" -> trash; 301 /industry/cryptomonnaies-web3/ -> https://staging.dragonslots-gr.gr/industry/cryptomonnaie-web3/
+done #2372 fr "Une société estonienne destinée aux fondateurs originaires de pays hors de l'UE" -> trash; 301 /target/une-soci-t-estonienne-pour-les-ressortissants-hors-ue/ -> https://staging.dragonslots-gr.gr/target/une-soci-t-estonienne-destin-e-aux-fondateurs-originaires-de-pays-hors-de-l-ue/
+done #2373 pt "Uma empresa estónia para fundadores de fora da UE" -> trash; 301 /target/uma-empresa-est-nia-para-fundadores-de-fora-da-ue/ -> https://staging.dragonslots-gr.gr/target/uma-empresa-est-nia-destinada-a-fundadores-de-fora-da-ue/
+done #2515 zh "爱沙尼亚针对加密货币和在线博彩项目的控股公司架构" -> trash; 301 /licensing/holding-crypto-igaming/ -> https://staging.dragonslots-gr.gr/licensing/crypto-igaming-projects/
+done #3642 zh "Registering an MTÜ in Estonia" -> trash; 301 /registering-an-mt-in-estonia-2/ -> https://staging.dragonslots-gr.gr/mtu/
+redirect /fur-start-ups/ -> https://staging.dragonslots-gr.gr/fur-start-ups/ (NOT IN MAP)
+redirect /fur-start-ups-2/ -> https://staging.dragonslots-gr.gr/fur-start-ups/ (in map)
+redirect /contabilidade-para-residentes-eletronicos-na-estonia/ -> https://staging.dragonslots-gr.gr/contabilidade-para-residentes-eletronicos-estonia/ (in map)
+redirect /registo-de-empresas-por-procuraco/ -> https://staging.dragonslots-gr.gr/registo-de-empresas-por-procuraso/ (in map)
+redirect /industry/cryptomonnaies-web3/ -> https://staging.dragonslots-gr.gr/industry/cryptomonnaie-web3/ (in map)
+redirect /target/une-soci-t-estonienne-pour-les-ressortissants-hors-ue/ -> https://staging.dragonslots-gr.gr/target/une-soci-t-estonienne-destin-e-aux-fondateurs-originaires-de-pays-hors-de-l-ue/ (in map)
+redirect /target/uma-empresa-est-nia-para-fundadores-de-fora-da-ue/ -> https://staging.dragonslots-gr.gr/target/uma-empresa-est-nia-destinada-a-fundadores-de-fora-da-ue/ (in map)
+redirect /licensing/holding-crypto-igaming/ -> https://staging.dragonslots-gr.gr/licensing/crypto-igaming-projects/ (in map)
+redirect /registering-an-mt-in-estonia-2/ -> https://staging.dragonslots-gr.gr/mtu/ (in map)
+DE #198 title -> Allgemeine Geschäftsbedingungen
+menu sync: zh ~33 +1 -0; zh ~33 +1 -0
+check /fur-start-ups/ -> 200 
+check /fur-start-ups-2/ -> 301 https://staging.dragonslots-gr.gr/fur-start-ups/
+check /contabilidade-para-residentes-eletronicos-na-estonia/ -> 301 https://staging.dragonslots-gr.gr/contabilidade-para-residentes-eletronicos-estonia/
+check /registo-de-empresas-por-procuraco/ -> 301 https://staging.dragonslots-gr.gr/registo-de-empresas-por-procuraso/
+check /industry/cryptomonnaies-web3/ -> 301 https://staging.dragonslots-gr.gr/industry/cryptomonnaie-web3/
+check /target/une-soci-t-estonienne-pour-les-ressortissants-hors-ue/ -> 301 https://staging.dragonslots-gr.gr/target/une-soci-t-estonienne-destin-e-aux-fondateurs-originaires-de-pays-hors-de-l-ue/
+check /target/uma-empresa-est-nia-para-fundadores-de-fora-da-ue/ -> 301 https://staging.dragonslots-gr.gr/target/uma-empresa-est-nia-destinada-a-fundadores-de-fora-da-ue/
+check /licensing/holding-crypto-igaming/ -> 301 https://staging.dragonslots-gr.gr/licensing/crypto-igaming-projects/
+check /registering-an-mt-in-estonia-2/ -> 301 https://staging.dragonslots-gr.gr/mtu/

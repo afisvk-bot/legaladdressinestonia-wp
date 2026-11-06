@@ -18,7 +18,7 @@ add_action( 'admin_notices', function () {
 		return;
 	}
 	$url = wp_nonce_url( admin_url( 'admin-post.php?action=lai_mig_20261106b' ), 'lai_mig_20261106b' );
-	echo '<div class="notice notice-warning"><p><b>LAI: готова миграция «SEO title/description» (2026-11-06b).</b> Обновит Rank Math title, description и фокусные слова ~470 страниц на 9 языках (ручные правки, сделанные после 06.11, не перезаписываются) и свяжет переводы статьи о банковском счёте. Перед запуском сделайте бэкап базы.</p><p><a class="button button-primary" href="' . esc_url( $url ) . '">Применить миграцию SEO</a></p></div>';
+	echo '<div class="notice notice-warning"><p><b>LAI: готова миграция «SEO title/description» (2026-11-06b).</b> Обновит Rank Math title, description и фокусные слова ~470 страниц на 9 языках (ручные правки, сделанные после 06.11, не перезаписываются) свяжет переводы статьи о банковском счёте и закроет от индексации украинские юридические страницы (как на остальных языках). Перед запуском сделайте бэкап базы.</p><p><a class="button button-primary" href="' . esc_url( $url ) . '">Применить миграцию SEO</a></p></div>';
 } );
 
 add_action( 'admin_post_lai_mig_20261106b', function () {
@@ -45,10 +45,19 @@ function lai_mig_20261106b_run(): array {
 			if ( empty( $r[ $k ] ) ) continue;
 			$cur = (string) get_post_meta( $id, $meta, true );
 			if ( $cur === $r[ $k ] ) { $n['same']++; continue; }
-			if ( '' !== trim( $cur ) && $cur !== $r['old'][ $k ] ) { $n['kept']++; $log[] = "KEPT #$id $k (edited manually): $cur"; continue; }
+			if ( '' !== trim( $cur ) && ! in_array( $cur, (array) $r['old'][ $k ], true ) ) { $n['kept']++; $log[] = "KEPT #$id $k (edited manually): $cur"; continue; }
 			update_post_meta( $id, $meta, wp_slash( $r[ $k ] ) );
 			$n['set']++;
 		}
+	}
+	foreach ( (array) ( $d['robots'] ?? array() ) as $rb ) {
+		$id = (int) $rb['id'];
+		if ( 'publish' !== get_post_status( $id ) || pll_get_post_language( $id ) !== $rb['lang'] ) continue;
+		$cur = array_values( (array) get_post_meta( $id, 'rank_math_robots', true ) );
+		if ( $cur === $rb['set'] ) continue;
+		if ( $cur && $cur !== $rb['old'] ) { $log[] = "KEPT robots #$id: " . wp_json_encode( $cur ); continue; }
+		update_post_meta( $id, 'rank_math_robots', $rb['set'] );
+		$log[] = "robots #$id -> " . implode( ',', $rb['set'] );
 	}
 	foreach ( (array) ( $d['links'] ?? array() ) as $g ) {
 		$g = array_filter( array_map( 'intval', $g ), fn( $p ) => 'publish' === get_post_status( $p ) );

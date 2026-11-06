@@ -500,6 +500,7 @@ function i10v_toc_title() {
     'tr' => 'İçindekiler',
     'es' => 'Tabla de contenido',
     'cn' => '目录',
+    'zh' => '目录',
   );
   if ( function_exists( 'pll__' ) ) {
     $t = pll__( 'Содержание' );

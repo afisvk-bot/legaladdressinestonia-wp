@@ -1,7 +1,7 @@
 {
  "_comment": "Цели — ID записей на EN (мастер). Переводы на другие языки находятся автоматически через Polylang. Анкоры: фокусные ключи Rank Math + короткие естественные формы. Регистр не важен, апостроф ' = ’.",
  "settings": {
-  "max_links_per_post": 6,
+  "max_links_per_post": 8,
   "max_links_per_block": 1,
   "link_class": "lai-autolink"
  },
@@ -512,7 +512,7 @@
   {
    "id": "notary-registration",
    "target": 2257,
-   "priority": 50,
+   "priority": 47,
    "anchors": {
     "en": [
      "registering an Estonian OÜ company via a notary",
@@ -555,7 +555,7 @@
   {
    "id": "change-legal-address",
    "target": 1482,
-   "priority": 45,
+   "priority": 46,
    "anchors": {
     "en": [
      "change legal address in Estonia",
@@ -773,7 +773,7 @@
   {
    "id": "licence-financial",
    "target": 2528,
-   "priority": 35,
+   "priority": 44,
    "anchors": {
     "en": [
      "financial licence in Estonia",
@@ -795,6 +795,7 @@
     ],
     "de": [
      "Finanzlizenz in Estland",
+     "Finanzlizenzen",
      "Finanzlizenz"
     ],
     "es": [
@@ -811,6 +812,7 @@
     ],
     "tr": [
      "Estonya'da finans lisansı",
+     "finansal lisans",
      "finans lisansı"
     ],
     "zh": [
@@ -822,7 +824,7 @@
   {
    "id": "licence-casp-mica",
    "target": 2543,
-   "priority": 35,
+   "priority": 42,
    "anchors": {
     "en": [
      "MiCA (CASP) licence in Estonia",
@@ -878,59 +880,83 @@
   {
    "id": "licence-emi",
    "target": 2731,
-   "priority": 30,
+   "priority": 43,
    "anchors": {
     "en": [
      "EMI licence in Estonia",
+     "payment institution",
      "EMI licence",
-     "EMI license"
+     "EMI license",
+     "EMI"
     ],
     "ru": [
+     "платёжное учреждение",
      "лицензия EMI",
      "лицензию EMI",
-     "лицензии EMI"
+     "лицензии EMI",
+     "EMI"
     ],
     "uk": [
      "ліцензія EMI в Естонії",
+     "платіжна установа",
      "ліцензія EMI",
-     "ліцензію EMI"
+     "ліцензію EMI",
+     "EMI"
     ],
     "de": [
-     "EMI-Lizenz"
+     "Zahlungsinstitut",
+     "EMI-Lizenz",
+     "EMI"
     ],
     "es": [
-     "licencia EMI"
+     "entidad de pago",
+     "licencia EMI",
+     "EMI"
     ],
     "fr": [
-     "licence EMI"
+     "établissement de paiement",
+     "licence EMI",
+     "EMI"
     ],
     "pt": [
-     "licença EMI"
+     "instituição de pagamento",
+     "licença EMI",
+     "EMI"
     ],
     "tr": [
-     "EMI lisansı"
+     "ödeme kuruluşu",
+     "EMI lisansı",
+     "EMI"
     ],
     "zh": [
-     "EMI许可证"
+     "EMI许可证",
+     "电子货币机构",
+     "支付机构"
     ]
    }
   },
   {
    "id": "accounting-e-residents",
    "target": 4490,
-   "priority": 42,
+   "priority": 47,
    "anchors": {
     "en": [
-     "accounting for e-residents"
+     "accounting for e-residents",
+     "e-resident companies",
+     "e-resident company"
     ],
     "ru": [
-     "бухгалтерия для e-резидентов"
+     "бухгалтерия для e-резидентов",
+     "компания e-резидента",
+     "компании e-резидента"
     ],
     "uk": [
-     "бухгалтерія для e-резидентів"
+     "бухгалтерія для e-резидентів",
+     "компаній e-резидентів"
     ],
     "de": [
-     "Buchhaltung für E-Residents"
+     "Buchhaltung für E-Residents",
+     "E-Resident-Unternehmen"
     ],
     "fr": [
      "comptabilité pour e-résidents"
@@ -952,7 +978,7 @@
   {
    "id": "startups",
    "target": 4529,
-   "priority": 40,
+   "priority": 30,
    "anchors": {
     "en": [
      "startups"
@@ -995,7 +1021,7 @@
   {
    "id": "registration-poa",
    "target": 4457,
-   "priority": 45,
+   "priority": 33,
    "anchors": {
     "en": [
      "by power of attorney",
@@ -1148,7 +1174,7 @@
   {
    "id": "monthly-accounting",
    "target": 2696,
-   "priority": 42,
+   "priority": 32,
    "anchors": {
     "en": [
      "monthly bookkeeping",
@@ -1196,7 +1222,7 @@
   {
    "id": "legal-services",
    "target": 2805,
-   "priority": 30,
+   "priority": 22,
    "anchors": {
     "en": [
      "legal services",
@@ -1246,7 +1272,7 @@
   {
    "id": "holding",
    "target": 2508,
-   "priority": 38,
+   "priority": 34,
    "anchors": {
     "en": [
      "holding company",
@@ -1283,41 +1309,50 @@
   {
    "id": "fiu-to-fma",
    "target": 2665,
-   "priority": 33,
+   "priority": 41,
    "anchors": {
     "en": [
-     "FIU licence"
+     "FIU licence",
+     "FIU"
     ],
     "ru": [
-     "лицензия FIU"
+     "лицензия FIU",
+     "FIU"
     ],
     "uk": [
-     "ліцензія FIU"
+     "ліцензія FIU",
+     "FIU"
     ],
     "de": [
-     "FIU-Lizenz"
+     "FIU-Lizenz",
+     "FIU"
     ],
     "fr": [
-     "licence FIU"
+     "licence FIU",
+     "FIU"
     ],
     "es": [
-     "licencia FIU"
+     "licencia FIU",
+     "FIU"
     ],
     "pt": [
-     "licença FIU"
+     "licença FIU",
+     "FIU"
     ],
     "tr": [
-     "FIU lisansı"
+     "FIU lisansı",
+     "FIU"
     ],
     "zh": [
-     "FIU牌照"
+     "FIU牌照",
+     "FIU"
     ]
    }
   },
   {
    "id": "substance",
    "target": 2716,
-   "priority": 34,
+   "priority": 36,
    "anchors": {
     "en": [
      "economic substance",
@@ -1401,33 +1436,42 @@
   {
    "id": "industry-igaming-affiliates",
    "target": 2419,
-   "priority": 24,
+   "priority": 25,
    "anchors": {
     "en": [
-     "affiliates"
+     "affiliates",
+     "iGaming"
     ],
     "ru": [
-     "iGaming-аффилиат"
+     "iGaming-аффилиат",
+     "iGaming"
     ],
     "uk": [
-     "iGaming-афіліат"
+     "iGaming-афіліат",
+     "iGaming"
     ],
     "de": [
-     "Affiliate"
+     "Affiliate",
+     "iGaming"
     ],
     "fr": [
-     "affiliation"
+     "affiliation",
+     "iGaming"
     ],
     "es": [
-     "afiliación"
+     "afiliación",
+     "iGaming"
     ],
     "pt": [
-     "afiliação"
+     "afiliação",
+     "iGaming"
     ],
     "tr": [
-     "affiliate"
+     "affiliate",
+     "iGaming"
     ],
     "zh": [
+     "iGaming",
      "联盟营销"
     ]
    }
@@ -1521,7 +1565,7 @@
   {
    "id": "target-e-residents",
    "target": 2266,
-   "priority": 30,
+   "priority": 29,
    "anchors": {
     "en": [
      "services for e-residents"

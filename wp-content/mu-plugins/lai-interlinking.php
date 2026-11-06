@@ -2,7 +2,7 @@
 /**
  * Plugin Name: LAI — Multilingual auto interlinking
  * Description: Контекстная перелинковка по матрице ключевых слов. Строгая языковая изоляция, Silo-ограничения, лимиты на страницу, кэш. Работает с the_content и с полями ACF.
- * Version:     1.1.0
+ * Version:     1.2.0
  * Requires:    lai-i18n-helpers.php
  *
  * ПРИНЦИПЫ
@@ -310,7 +310,10 @@ function lai_inject_links( string $content, array $rules, array $s, int $budget,
 			$quoted  = preg_quote( $anchor, '/' );
 			$quoted  = str_replace( ' ', '[\s\x{00A0}]+', $quoted );
 			$quoted  = preg_replace( "/['’]/u", "['’]", $quoted ); // Estonya’da = Estonya'da
-			$pattern = '/(?<![\p{L}\p{N}_-])' . $quoted . '(?![\p{L}\p{N}_-])/iu';
+			// CJK пишется без пробелов: границы слов по \p{L} там не работают — ищем подстроку.
+			$pattern = preg_match( '/\p{Han}/u', $anchor )
+				? '/' . $quoted . '/iu'
+				: '/(?<![\p{L}\p{N}_-])' . $quoted . '(?![\p{L}\p{N}_-])/iu';
 
 			$linked = false;
 			foreach ( $xpath->query( $query, $root ) as $node ) {
@@ -425,7 +428,8 @@ if ( defined( 'WP_CLI' ) && WP_CLI ) {
 					}
 					foreach ( $anc as $a ) {
 						$a = str_replace( array( "'", '’' ), "['’]", preg_quote( html_entity_decode( $a, ENT_QUOTES, 'UTF-8' ), '/' ) );
-						if ( preg_match( '/(?<![\p{L}\p{N}_-])' . $a . '(?![\p{L}\p{N}_-])/iu', $txt ) ) {
+						$re = preg_match( '/\p{Han}/u', $a ) ? '/' . $a . '/iu' : '/(?<![\p{L}\p{N}_-])' . $a . '(?![\p{L}\p{N}_-])/iu';
+						if ( preg_match( $re, $txt ) ) {
 							$pages++;
 							break;
 						}

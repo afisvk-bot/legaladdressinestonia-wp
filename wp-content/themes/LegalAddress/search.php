@@ -24,7 +24,7 @@
 
 			<div class="row">
 				<?php while (have_posts()) : the_post(); ?>
-			        <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 arhive" itemscope itemtype="http://schema.org/Article">
+			        <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 arhive">
 			        	<article class="article-box">
 			        		<a href="<?php the_permalink() ?>">
 			                  	<div class="article-img">
@@ -36,7 +36,7 @@
 						             </div>
 			                  	</div>
 			                  	<div class="article-body">
-			                    	<h3 itemprop="headline"><?php the_title(); ?></h3>
+			                    	<h3><?php the_title(); ?></h3>
 			                    	<?php the_excerpt();?>
 			                    </div>
 			                    <div class="article-footer">

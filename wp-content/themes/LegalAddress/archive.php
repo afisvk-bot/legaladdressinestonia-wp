@@ -20,12 +20,12 @@
 				<?php if (function_exists("rank_math_the_breadcrumbs")) rank_math_the_breadcrumbs(); ?>
 				<div class="row mt-5">
 					<?php while (have_posts()) : the_post(); ?>
-			            <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4 arhive" itemscope itemtype="http://schema.org/Article">
+			            <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4 arhive">
 			            	<article class="article-box">
 			            		<a href="<?php the_permalink() ?>">
 			                      	<span class="date d-block mb-2"><?php echo get_the_date( 'F j, Y' ); ?></span>
 			                      	<?php if ( has_post_thumbnail() ) { the_post_thumbnail( 'thumbnail', [ 'alt' => esc_html ( get_the_title() ), 'title' => esc_html ( get_the_title() )] ); } ?>
-			                        <h3 class="h5 mt-3" itemprop="headline"><?php the_title(); ?></h3>
+			                        <h3 class="h5 mt-3"><?php the_title(); ?></h3>
 			                        <span class="txt-grey"><?php the_excerpt(); ?></span>
 			                    </a>
 			                </article>

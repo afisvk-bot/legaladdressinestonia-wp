@@ -523,35 +523,35 @@ if ( $schema_min_price ) :
 </div>
 
 
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Person",
-          "@id": "https://legaladdressinestonia.com/author/jana-kamoza/",
-          "name": "Jana Kamoza",
-          "jobTitle": "CEO & Legal Advisor at eBusiness Solutions OÜ",
-          "image": "/wp-content/uploads/2026/07/jana-kamoza.webp",
-          "sameAs": [
-            "https://www.linkedin.com/in/jana-kamoza-international-business-legal"
-          ],
-          "worksFor": {
-            "@type": "Organization",
-            "name": "eBusiness Solutions OÜ"
-          }
-        },
-        {
-          "@type": "Service",
-          "@id": "https://legaladdressinestonia.com/services/",
-          "name": "Chief accountant",
-          "url": "https://legaladdressinestonia.com/services/",
-          "reviewedBy": { "@id": "https://legaladdressinestonia.com/#jana-kamoza" },
-          "author": { "@id": "https://legaladdressinestonia.com/author/jana-kamoza/" }
-        }
-      ]
-    }
-</script>
+<?php
+// Эксперт, проверивший страницу (виден в блоке «Verified by an expert»): Person + WebPage.reviewedBy
+$lai_expert_user = get_user_by( 'slug', 'jana-kamoza' );
+$lai_expert_page = function_exists( 'pll_get_post' ) ? ( pll_get_post( 1199, pll_current_language() ) ?: 1199 ) : 1199;
+$lai_expert_id   = $lai_expert_user ? get_author_posts_url( $lai_expert_user->ID ) : home_url( '/author/jana-kamoza/' );
+$lai_expert_ld   = array(
+    '@context' => 'https://schema.org',
+    '@graph'   => array(
+        array(
+            '@type'    => 'Person',
+            '@id'      => $lai_expert_id,
+            'name'     => get_field( 'expert-name', $lai_expert_page ) ?: 'Jana Kamoza',
+            'jobTitle' => get_field( 'expert-jobtitle', $lai_expert_page ) ?: 'CEO & Legal Advisor at eBusiness Solutions OÜ',
+            'url'      => $lai_expert_id,
+            'image'    => home_url( '/wp-content/uploads/2026/08/jana-kamoza.webp' ),
+            'sameAs'   => array_values( array_filter( array( get_field( 'expert-linkedin', $lai_expert_page ) ?: 'https://www.linkedin.com/in/jana-kamoza-international-business-legal' ) ) ),
+            'worksFor' => array( '@id' => home_url( '/#organization' ) ),
+        ),
+        array(
+            '@type'      => 'WebPage',
+            '@id'        => get_permalink() . '#webpage',
+            'url'        => get_permalink(),
+            'name'       => wp_strip_all_tags( get_the_title() ),
+            'reviewedBy' => array( '@id' => $lai_expert_id ),
+        ),
+    ),
+);
+?>
+<script type="application/ld+json"><?php echo wp_json_encode( $lai_expert_ld, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES ); ?></script>
 
 <div class="modal fade form_<?php echo esc_attr( $form_id_class ); ?>" tabindex="-1" role="dialog">
     <div class="modal-dialog">

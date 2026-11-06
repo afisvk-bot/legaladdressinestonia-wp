@@ -1,0 +1,45 @@
+PHP Warning:  preg_match_all(): Unknown modifier ']' in phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code on line 7
+Warning: preg_match_all(): Unknown modifier ']' in phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code on line 7
+PHP Fatal error:  Uncaught TypeError: array_slice(): Argument #1 ($array) must be of type array, null given in phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code:8
+Stack trace:
+#0 phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code(8): array_slice()
+#1 phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85): eval()
+#2 phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(59): EvalFile_Command::execute_eval()
+#3 [internal function]: EvalFile_Command->__invoke()
+#4 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php(100): call_user_func()
+#5 [internal function]: WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure}()
+#6 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php(497): call_user_func()
+#7 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(470): WP_CLI\Dispatcher\Subcommand->invoke()
+#8 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(493): WP_CLI\Runner->run_command()
+#9 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(136): WP_CLI\Runner->run_command_and_exit()
+#10 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1228): WP_CLI\Runner->do_early_invoke()
+#11 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#12 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/bootstrap.php(84): WP_CLI\Bootstrap\LaunchRunner->process()
+#13 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/wp-cli.php(35): WP_CLI\bootstrap()
+#14 phar:///usr/bin/wp/php/boot-phar.php(20): include('...')
+#15 /usr/bin/wp(4): include('...')
+#16 {main}
+  thrown in phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code on line 8
+Fatal error: Uncaught TypeError: array_slice(): Argument #1 ($array) must be of type array, null given in phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code:8
+Stack trace:
+#0 phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code(8): array_slice()
+#1 phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85): eval()
+#2 phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(59): EvalFile_Command::execute_eval()
+#3 [internal function]: EvalFile_Command->__invoke()
+#4 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/CommandFactory.php(100): call_user_func()
+#5 [internal function]: WP_CLI\Dispatcher\CommandFactory::WP_CLI\Dispatcher\{closure}()
+#6 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Dispatcher/Subcommand.php(497): call_user_func()
+#7 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(470): WP_CLI\Dispatcher\Subcommand->invoke()
+#8 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(493): WP_CLI\Runner->run_command()
+#9 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(136): WP_CLI\Runner->run_command_and_exit()
+#10 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1228): WP_CLI\Runner->do_early_invoke()
+#11 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php(28): WP_CLI\Runner->start()
+#12 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/bootstrap.php(84): WP_CLI\Bootstrap\LaunchRunner->process()
+#13 phar:///usr/bin/wp/vendor/wp-cli/wp-cli/php/wp-cli.php(35): WP_CLI\bootstrap()
+#14 phar:///usr/bin/wp/php/boot-phar.php(20): include('...')
+#15 /usr/bin/wp(4): include('...')
+#16 {main}
+  thrown in phar:///usr/bin/wp/vendor/wp-cli/eval-command/src/EvalFile_Command.php(85) : eval()'d code on line 8
+Error: На сайте возникла критическая ошибка.Узнайте больше про решение проблем с WordPress. На сайте возникла критическая ошибка.
+home=staging.dragonslots-gr.gr len=78169 a=31
+matches  err 1

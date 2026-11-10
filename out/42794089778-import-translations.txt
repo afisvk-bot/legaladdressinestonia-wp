@@ -1,0 +1,198 @@
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+{
+    "source": 4565,
+    "translations": {
+        "en": 4565,
+        "ru": 4559,
+        "uk": 4658,
+        "de": 4659,
+        "es": 4660,
+        "fr": 4661,
+        "pt": 4662,
+        "tr": 4663,
+        "zh": 4664
+    },
+    "report": [
+        {
+            "lang": "uk",
+            "title": "Трудовий договір в Естонії: ключові вимоги",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/blog-uk/shho-take-e-residency-estoniyi/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/robocha-viza-ta-vnzh-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/dlya-tsyfrovykh-koshevnykiv/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/blog-uk/podatki-dlya-kompanij-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-uk/korporativni-poslugi-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/robocha-viza-ta-vnzh-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/blog-uk/yak-vidkriti-bankivskij-rahunok-dlya-estonskoyi-kompaniyi/",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/blog-uk/shho-take-e-residency-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/blog-uk/yak-vidkriti-kompaniyu-v-estoniyi-nerezidentu/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/robocha-viza-ta-vnzh-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-uk/korporativni-poslugi-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/blog-uk/yak-obrati-buhgaltera-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/robocha-viza-ta-vnzh-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/blog-uk/podatki-dlya-kompanij-v-estoniyi/"
+            ],
+            "cats": [
+                142
+            ],
+            "status": "created #4658",
+            "url": "https://staging.dragonslots-gr.gr/blog-uk/trudovyy-dohovir-v-estoniyi/"
+        },
+        {
+            "lang": "de",
+            "title": "Arbeitsvertrag in Estland: die wichtigsten Anforderungen",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/grundung-eines-unternehmens-in-estland-uber-die-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/arbeitsvisa-und-aufenthaltsgenehmigungen-in-estland/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/digitale-nomaden/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/steuerberatung-in-estland/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-de/unternehmensdienstleistungen-estland/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/arbeitsvisa-und-aufenthaltsgenehmigungen-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/unternehmensgrundung-in-estland/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/grundung-eines-unternehmens-in-estland-uber-die-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/unternehmensgrundung-in-estland/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/arbeitsvisa-und-aufenthaltsgenehmigungen-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-de/unternehmensdienstleistungen-estland/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/buchhaltungsdienstleistungen-in-estland/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/arbeitsvisa-und-aufenthaltsgenehmigungen-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/steuerberatung-in-estland/ (no translation: related service)"
+            ],
+            "cats": [
+                108
+            ],
+            "status": "created #4659",
+            "url": "https://staging.dragonslots-gr.gr/blog-de/arbeitsvertrag-in-estland/"
+        },
+        {
+            "lang": "es",
+            "title": "Contrato de trabajo en Estonia: requisitos clave",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/constituir-una-empresa-en-estonia-a-traves-de-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visados-de-trabajo-y-permisos-de-residencia-en-estonia/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/namadas-digitales/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/asesoramiento-fiscal-en-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-es/servicios-corporativos-estonia/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visados-de-trabajo-y-permisos-de-residencia-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/registro-de-empresas-en-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/constituir-una-empresa-en-estonia-a-traves-de-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/registro-de-empresas-en-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visados-de-trabajo-y-permisos-de-residencia-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-es/servicios-corporativos-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/servicios-de-contabilidad-en-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visados-de-trabajo-y-permisos-de-residencia-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/asesoramiento-fiscal-en-estonia/ (no translation: related service)"
+            ],
+            "cats": [
+                114
+            ],
+            "status": "created #4660",
+            "url": "https://staging.dragonslots-gr.gr/blog-es/contrato-de-trabajo-en-estonia/"
+        },
+        {
+            "lang": "fr",
+            "title": "Contrat de travail en Estonie : les exigences essentielles",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/creer-une-societe-en-estonie-via-le-programme-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visas-de-travail-et-titres-de-sejour-en-estonie/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/destination-nomades/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/conseil-fiscal-en-estonie/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blogue-fr/services-entreprises-estonie/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visas-de-travail-et-titres-de-sejour-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/enregistrement-dune-societ-en-estonie/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/creer-une-societe-en-estonie-via-le-programme-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/enregistrement-dune-societ-en-estonie/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visas-de-travail-et-titres-de-sejour-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blogue-fr/services-entreprises-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/services-comptables-en-estonie/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visas-de-travail-et-titres-de-sejour-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/conseil-fiscal-en-estonie/ (no translation: related service)"
+            ],
+            "cats": [
+                110
+            ],
+            "status": "created #4661",
+            "url": "https://staging.dragonslots-gr.gr/blogue-fr/contrat-de-travail-en-estonie/"
+        },
+        {
+            "lang": "pt",
+            "title": "Contrato de trabalho na Estónia: requisitos essenciais",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/registar-uma-empresa-na-estonia-atraves-do-programa-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visto-de-trabalho-e-autorizacoes-de-residencia-na-estonia/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/namadas-digitais/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/consultoria-fiscal-na-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blogue-pt/servicos-corporativos-estonia/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visto-de-trabalho-e-autorizacoes-de-residencia-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/registo-de-empresas-na-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/registar-uma-empresa-na-estonia-atraves-do-programa-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/registo-de-empresas-na-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visto-de-trabalho-e-autorizacoes-de-residencia-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blogue-pt/servicos-corporativos-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/servi-os-de-contabilidade-na-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/visto-de-trabalho-e-autorizacoes-de-residencia-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/consultoria-fiscal-na-estonia/ (no translation: related service)"
+            ],
+            "cats": [
+                118
+            ],
+            "status": "created #4662",
+            "url": "https://staging.dragonslots-gr.gr/blogue-pt/contrato-de-trabalho-na-estonia/"
+        },
+        {
+            "lang": "tr",
+            "title": "Estonya’da iş sözleşmesi: temel gereklilikler",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/e-residency-aracgliyla-estonyada-sirket-kurmak/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/estonya-da-al-ma-vizesi-ve-oturma-izinleri/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/dijital-goebeler/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/estonya-da-vergi-danimanlgi/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-tr/legaladdressinestonia-com-kurumsal-hizmetler-estonya/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/estonya-da-al-ma-vizesi-ve-oturma-izinleri/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/estonyada-irket-tescili/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/e-residency-aracgliyla-estonyada-sirket-kurmak/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/estonyada-irket-tescili/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/estonya-da-al-ma-vizesi-ve-oturma-izinleri/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-tr/legaladdressinestonia-com-kurumsal-hizmetler-estonya/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-da-muhasebe-hizmetleri/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/estonya-da-al-ma-vizesi-ve-oturma-izinleri/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/estonya-da-vergi-danimanlgi/ (no translation: related service)"
+            ],
+            "cats": [
+                122
+            ],
+            "status": "created #4663",
+            "url": "https://staging.dragonslots-gr.gr/blog-tr/estonyada-is-sozlesmesi/"
+        },
+        {
+            "lang": "zh",
+            "title": "爱沙尼亚劳动合同指南：关键要求",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/register-company-estonia-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/",
+                "https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/ -> https://staging.dragonslots-gr.gr/target/digital-nomads/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/tax-consulting-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-cn/corporate-services-estonia-zh/",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ -> https://staging.dragonslots-gr.gr/company-registration-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ -> https://staging.dragonslots-gr.gr/register-company-estonia-e-residency/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ -> https://staging.dragonslots-gr.gr/company-registration-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-services-estonia/ -> https://staging.dragonslots-gr.gr/blog-cn/corporate-services-estonia-zh/",
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/accounting-services-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/work-visa-residence-permit/ -> https://staging.dragonslots-gr.gr/work-visa-and-residence-permits/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-corporate-tax/ -> https://staging.dragonslots-gr.gr/tax-consulting-estonia/ (no translation: related service)"
+            ],
+            "cats": [
+                116
+            ],
+            "status": "created #4664",
+            "url": "https://staging.dragonslots-gr.gr/blog-cn/aishaniya-laodong-hetong-zhinan/"
+        }
+    ]
+}

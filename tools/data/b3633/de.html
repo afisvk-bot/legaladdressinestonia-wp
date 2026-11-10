@@ -1,0 +1,236 @@
+<blockquote>Dieser Beitrag stützt sich auf die offiziellen Hinweise der estnischen Steuer- und Zollbehörde (EMTA) zur Umstellung der TSD-Erklärung auf datenbasierte Meldung (andmepõhine TSD), den Leitfaden „TSD-Erklärung einreichen“ und die Liste kompatibler Buchhaltungsprogramme. Technische Details und Fristen prüfen Sie bitte auf emta.ee.</blockquote>
+<h2>Kurz und knapp: das Wichtigste in 60 Sekunden</h2>
+Seit dem 1. Oktober 2026 kann die TSD – die Erklärung zur Einkommen- und Sozialsteuer – nicht mehr nur als Formular, sondern als Datenstrom aus der Buchhaltungssoftware eingereicht werden. Das Unternehmen übermittelt Daten zu den Auszahlungen, und die EMTA erstellt daraus automatisch die Erklärung und berechnet die Steuern.
+
+Die wichtigsten Fakten:
+<ul>
+ 	<li><b>Zahlungs- und Abgabefristen bleiben unverändert.</b> Die TSD muss weiterhin bis zum 10. des Monats bestätigt werden, der auf den Auszahlungsmonat folgt.</li>
+ 	<li><b>Die TSD für September wird noch auf dem alten Weg eingereicht.</b> Da der 10. Oktober 2026 ein Samstag ist, verlängert sich die Frist auf den 12. Oktober.</li>
+ 	<li><b>Auszahlungen für Oktober laufen nach den neuen Regeln.</b> Die Frist für die TSD für Oktober ist der 10. November 2026.</li>
+ 	<li><b>Anlagen 1 und 2 werden durch ein einheitliches Formular „Auszahlungen“ ersetzt.</b> Es umfasst Ansässige und Nichtansässige sowie Auszahlungen und Rückerstattungen.</li>
+ 	<li><b>Anlagen 3–8 bleiben vorerst unverändert.</b> Sie werden 2028 auf Datenübermittlung umgestellt.</li>
+ 	<li><b>Das alte XML-Format gilt nicht mehr.</b> Das neue Dateiformat ist XML nach dem Standard XBRL GL; der Upload im bisherigen CSV-Format wird übergangsweise bis Ende 2027 unterstützt.</li>
+ 	<li><b>Die manuelle Eingabe in e-MTA bleibt möglich.</b> Der Umstieg auf Software ist keine Pflicht, wird von der EMTA aber dringend empfohlen.</li>
+ 	<li><b>Die Bankmodule von SEB und LHV arbeiten bereits nach dem neuen System.</b> Für kleine Unternehmen ist das die einfachste Lösung.</li>
+</ul>
+Im Folgenden erklären wir, was sich genau geändert hat, wie der neue Ablauf aussieht, was eine kleine E-Resident-Firma wählen sollte und welche Fehler am teuersten sind.
+<h2>Weggabelung: welche Einreichungsart für Sie gilt</h2>
+Die EMTA beschreibt drei Ausgangssituationen. Wie stark Sie die Änderungen betreffen, hängt davon ab, welche auf Sie zutrifft.
+
+<b>Situation 1. Sie nutzen bereits eine Buchhaltungssoftware mit maschinenlesbarer Schnittstelle.</b> Für Sie ändert sich nur das technische Übertragungsformat. Das neue Format XBRL GL setzt Ihr Softwareanbieter um – prüfen Sie, ob er auf der Liste der EMTA steht.
+
+<b>Situation 2. Ihre Buchhaltung läuft in einer Software, aber die TSD laden Sie als Datei hoch oder tippen sie in e-MTA ein.</b> Kanal, Format und Ablauf ändern sich. Die EMTA rät, die Maschinenschnittstelle der Software vorab zu aktivieren und sich bei Bedarf an den Anbieter zu wenden.
+
+<b>Situation 3. Sie verwenden keine Buchhaltungssoftware.</b> Es gibt drei Möglichkeiten: ein Programm wählen, das die neue TSD unterstützt, das Lohnmodul von SEB oder LHV nutzen oder den kostenlosen staatlichen Dienst e-arveldaja für Start-ups und Kleinunternehmen verwenden. Auch die manuelle Eingabe in e-MTA bleibt bestehen.
+
+Die praktische Schlussfolgerung für eine typische E-Resident-Firma mit einer einzigen Zahlung an ein Vorstandsmitglied: Es muss nichts überstürzt gekauft werden. Führt jedoch ein Buchhalter Ihre Bücher, klären Sie mit ihm, über welchen Kanal die TSD für Oktober eingereicht wird – und zwar vor dem 10. November, nicht am Stichtag selbst. Wie Sie einen Buchhalter mit der passenden Infrastruktur finden, lesen Sie in unserem Leitfaden <a href="/blog/how-to-choose-an-accountant-in-estonia/">zur Wahl eines Buchhalters in Estland</a>.
+<h2>Was sich geändert hat und was gleich bleibt</h2>
+Die wichtigste Verschiebung ist ein neuer Ansatz: Das Unternehmen übermittelt der EMTA Daten statt fertiger Erklärungen. Alles Weitere ergibt sich daraus.
+<table>
+<tbody>
+<tr>
+<td><b>Parameter</b></td>
+<td><b>Bis Oktober 2026</b></td>
+<td><b>Ab Oktober 2026</b></td>
+</tr>
+<tr>
+<td>Was das Unternehmen einreicht</td>
+<td>Eine ausgefüllte Erklärung</td>
+<td>Angaben zu Auszahlungen</td>
+</tr>
+<tr>
+<td>Wer die Erklärung erstellt</td>
+<td>Das Unternehmen oder ein Buchhalter</td>
+<td>Die EMTA anhand der erhaltenen Daten</td>
+</tr>
+<tr>
+<td>Kanal</td>
+<td>e-MTA manuell, Datei-Upload, X-tee</td>
+<td>Programm-API; e-MTA manuell oder per Datei als Ausweichlösung</td>
+</tr>
+<tr>
+<td>Anlagen 1 und 2</td>
+<td>Getrennte Formulare für Ansässige und Nichtansässige</td>
+<td>Einheitliches Formular „Auszahlungen“</td>
+</tr>
+<tr>
+<td>Anlagen 3–8</td>
+<td>Keine Änderungen</td>
+<td>Keine Änderungen bis 2028</td>
+</tr>
+<tr>
+<td>Dateiformat</td>
+<td>Bisheriges XML oder CSV</td>
+<td>Neues XML nach XBRL GL; CSV bis Ende 2027</td>
+</tr>
+<tr>
+<td>Wann einreichen</td>
+<td>Kurz vor Fristende</td>
+<td>Direkt nach der Auszahlung, fortlaufend</td>
+</tr>
+<tr>
+<td>Rückmeldung</td>
+<td>Nach dem Ausfüllen des Formulars in e-MTA</td>
+<td>Sofort in der Buchhaltungssoftware, inklusive Fehlern und Steuerberechnung</td>
+</tr>
+<tr>
+<td>Bestätigung</td>
+<td>Abgabe der Erklärung</td>
+<td>Bestätigung der von e-MTA erstellten Erklärung</td>
+</tr>
+<tr>
+<td>Frist</td>
+<td>Der 10. des Folgemonats</td>
+<td>Der 10. des Folgemonats</td>
+</tr>
+</tbody>
+</table>
+Die Kontrolle über die Daten bleibt beim Unternehmen. Die EMTA betont, dass sie keinen Zugriff auf die Buchhaltungssoftware hat und der Unternehmer selbst entscheidet, wann die Daten übertragen werden. Aus der Software lassen sich außerdem der Saldo des Vorauszahlungskontos und Angaben zu Forderungen abrufen.
+<h2>Übergangszeit und Fristen</h2>
+Der Übergang richtet sich nach dem Auszahlungsmonat, nicht nach dem Abgabedatum. Das ist der Kernpunkt für Oktober und November 2026.
+<table>
+<tbody>
+<tr>
+<td><b>Auszahlungen im Monat</b></td>
+<td><b>Wie die TSD eingereicht wird</b></td>
+<td><b>Frist</b></td>
+</tr>
+<tr>
+<td>September 2026</td>
+<td>Bisherige Lösung in e-MTA</td>
+<td>12. Oktober 2026 (der 10. Oktober ist ein Samstag)</td>
+</tr>
+<tr>
+<td>Oktober 2026</td>
+<td>Neue datenbasierte Lösung</td>
+<td>10. November 2026</td>
+</tr>
+<tr>
+<td>November 2026 und später</td>
+<td>Neue datenbasierte Lösung</td>
+<td>Der 10. des Folgemonats</td>
+</tr>
+</tbody>
+</table>
+Für Datei-Uploads gilt eine eigene Übergangsregelung. Das bisherige XML-Format wird nicht mehr akzeptiert; das neue Format ist XML nach dem Standard XBRL GL. Den Upload vorhandener CSV-Dateien unterstützt e-MTA bis Ende 2027.
+<h2>Der neue Ablauf Schritt für Schritt</h2>
+<h3>Schritt 1. Auszahlung und Datenübertragung</h3>
+Nach der Auszahlung von Lohn oder Vergütung startet der Buchhalter die Übertragung der Daten aus der Software an die EMTA. Das kann sofort geschehen, ohne bis zum Monatsende zu warten.
+<h3>Schritt 2. Rückmeldung der EMTA</h3>
+Die EMTA prüft die Daten und sendet das Ergebnis direkt in die Software zurück: berechnete Steuern, Warnungen und Fehler. Fehler lassen sich dort sofort korrigieren und die Daten erneut senden – ein Login in e-MTA ist nicht nötig.
+<h3>Schritt 3. Die Erklärung wird automatisch erstellt</h3>
+Auf Grundlage der erhaltenen Daten erstellt die EMTA die Erklärung. Der Bericht ist in der Buchhaltungssoftware sichtbar.
+<h3>Schritt 4. Bestätigung</h3>
+Das Unternehmen oder der Buchhalter muss die Erklärung bis zum 10. bestätigen. Ohne Bestätigung gilt die Abgabepflicht als nicht erfüllt.
+<h3>Besonderheit des LHV-Bankmoduls</h3>
+Wird eine Lohnzahlung im Online-Banking der LHV bestätigt, gehen die Daten über X-tee an e-MTA und füllen die TSD vor. Die Erklärung wird bis zur TSD-Frist automatisch bestätigt, wenn drei Bedingungen erfüllt sind: Sie wurde über eine LHV-Lohnzahlung erstellt, sie wurde in e-MTA nicht geändert, und sie enthält keine Fehler. Haben Sie manuell etwas geändert, bestätigen Sie die Erklärung bitte selbst.
+<h2>Was 2026 in der TSD erklärt wird</h2>
+Die neue Technik ändert keine Steuersätze. Diese Sätze muss Ihre Software 2026 auf Auszahlungen anwenden:
+<table>
+<tbody>
+<tr>
+<td><b>Steuer oder Beitrag</b></td>
+<td><b>Satz 2026</b></td>
+<td><b>Wer zahlt</b></td>
+</tr>
+<tr>
+<td>Einkommensteuer</td>
+<td>22 % nach Abzug des Grundfreibetrags</td>
+<td>Wird vom Lohn des Arbeitnehmers einbehalten</td>
+</tr>
+<tr>
+<td>Grundfreibetrag</td>
+<td>700 € pro Monat für alle, unabhängig vom Einkommen</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Sozialsteuer</td>
+<td>33 %; Mindestbemessungsgrundlage 886 €, Mindestzahlung 292,38 € pro Monat</td>
+<td>Arbeitgeber</td>
+</tr>
+<tr>
+<td>Arbeitslosenversicherung</td>
+<td>1,6 %</td>
+<td>Arbeitnehmer</td>
+</tr>
+<tr>
+<td>Arbeitslosenversicherung</td>
+<td>0,8 %</td>
+<td>Arbeitgeber</td>
+</tr>
+<tr>
+<td>Kapitalgedeckte Rente (zweite Säule)</td>
+<td>2 %, 4 % oder 6 %, nach Wahl des Arbeitnehmers</td>
+<td>Arbeitnehmer</td>
+</tr>
+</tbody>
+</table>
+Der Grundfreibetrag wird nur berücksichtigt, wenn der Arbeitnehmer einen entsprechenden Antrag gestellt hat. 2026 wurde er pauschal – die frühere Staffel, nach der der Freibetrag mit steigendem Einkommen sank, ist abgeschafft. Programme, die noch nach der alten Formel rechnen, berechnen die Abzüge falsch.
+<h3>Was für E-Resident-Firmen wichtig ist</h3>
+<b>Vergütung eines Vorstandsmitglieds.</b> Sie unterliegt 22 % Einkommensteuer und 33 % Sozialsteuer, aber keiner Arbeitslosenversicherung. Das gilt auch für Nichtansässige, die die Firma aus dem Ausland führen: Solche Zahlungen fallen zusammen mit denen an Ansässige in die einheitliche Kategorie „Auszahlungen“.
+
+<b>Keine Auszahlungen – keine TSD.</b> Hat das Unternehmen im Monat weder Auszahlungen noch Ausschüttungen vorgenommen, ist in der Regel keine Erklärung nötig. Von der Pflicht zum Jahresbericht befreit das nicht – siehe <a href="/blog/annual-report-estonia/">Jahresbericht in Estland</a>.
+
+<b>Dividenden und verdeckte Ausschüttungen.</b> Gewinnausschüttungen, Sondervergünstigungen, Geschenke und nicht betriebliche Ausgaben werden in den Anlagen 3–8 erklärt. Für sie gelten vorerst die alten Regeln, und der Einkommensteuersatz auf Ausschüttungen beträgt 22/78. Mehr dazu im Beitrag <a href="/blog/corporate-tax-estonia-2026/">Körperschaftsteuer in Estland 2026</a>.
+<h2>Häufige Fehler</h2>
+<b>Die TSD für September über das neue System einreichen.</b> Auszahlungen für September werden nach den alten Regeln mit Frist bis 12. Oktober erklärt. Das neue System gilt für Auszahlungen ab Oktober.
+
+<b>Daten senden und vergessen, die Erklärung zu bestätigen.</b> Die Datenübertragung ist noch keine Abgabe. Die von der EMTA erstellte Erklärung muss bis zum 10. bestätigt werden.
+
+<b>Eine über LHV erstellte Erklärung in e-MTA ändern und auf die automatische Bestätigung warten.</b> Nach manuellen Änderungen greift die automatische Bestätigung nicht.
+
+<b>Eine Datei im alten XML-Format hochladen.</b> Sie wird nicht mehr angenommen. Nötig ist XBRL GL oder bis Ende 2027 das bisherige CSV-Format.
+
+<b>Die alte Staffel des Grundfreibetrags verwenden.</b> Seit 2026 beträgt der Freibetrag pauschal 700 € pro Monat. Veraltete Programmeinstellungen führen zu Fehlern in jeder Lohnabrechnung.
+
+<b>Die Mindestsozialsteuer vergessen.</b> Bei Teilzeit zahlt der Arbeitgeber weiterhin Sozialsteuer auf mindestens 886 € pro Monat, sofern keine Ausnahme greift.
+
+<b>Bis zum 10. warten, um Fehler zu entdecken.</b> Die neue Lösung erlaubt es, Daten direkt nach der Auszahlung zu senden und vorab zu korrigieren. Der Stichtag ist der schlechteste Moment für die erste Übermittlung.
+
+<b>Annehmen, die Änderungen beträfen nur große Unternehmen.</b> Auch eine Firma mit einem einzigen Vorstandsmitglied reicht die TSD nach denselben Regeln ein.
+<h2>Die Infrastruktur, die das System tragfähig macht</h2>
+Die neue TSD spart Zeit für alle, die ihre Bücher bereits in einer Software führen und saubere Daten haben. Für alle anderen ist der Übergang ein Anlass, die Lohnbuchhaltung in Ordnung zu bringen, bevor KMD und Beschäftigungsregister 2027 auf Datenübermittlung umgestellt werden.
+
+Legal Address in Estonia ist ein Projekt des lizenzierten Corporate-Service-Providers eBusiness Solutions OÜ (Lizenz FIU000421), offizielles Mitglied des e-Residency-Marktplatzes. Wir stellen eine <a href="/legal-address/">Geschäftsadresse</a> und den <a href="/contact-person-in-estonia/">Kontaktperson-Service</a> bereit, leiten amtliche Post weiter und erinnern an Fristen der EMTA und des Handelsregisters. Wir unterstützen bei <a href="/monthly-accounting-in-estonia/">monatlicher Buchhaltung</a>, <a href="/tax-consulting-in-estonia/">Steuerberatung</a> und <a href="/annual-report-for-estonian-companies/">Jahresberichten</a>.
+
+Für die TSD heißt das dreierlei: Zahlungen an Vorstandsmitglieder werden korrekt und pünktlich erklärt. Anfragen der EMTA zu Erklärungen gehen nicht unter. Und der Wechsel ins neue Format gelingt ohne manuelle Korrekturen in letzter Minute.
+<h2>Drei Praxisszenarien</h2>
+<b>Szenario 1. E-Resident-Firma mit Zahlungen nur an ein Vorstandsmitglied.</b> Der Inhaber lebt im Ausland, erhält einmal im Monat eine Vorstandsvergütung, die Bücher führt ein externer Buchhalter. Lösung: beim Buchhalter klären, ob seine Software die neue TSD unterstützt; falls ja, ändert sich für den Inhaber nichts. Hat der Buchhalter bisher manuell erfasst, bleibt die manuelle Eingabe in e-MTA möglich, doch der Umstieg auf Software senkt das Fehlerrisiko.
+
+<b>Szenario 2. Kleines Team in Estland ohne Buchhaltungssoftware.</b> Drei Mitarbeitende, Löhne werden per Online-Banking gezahlt. Lösung: das Lohnmodul von SEB oder LHV – die Daten gehen bei Bestätigung der Zahlung an die EMTA. Bei LHV wird die Erklärung rechtzeitig automatisch bestätigt, sofern sie nicht geändert wurde und fehlerfrei ist.
+
+<b>Szenario 3. Wachsendes Unternehmen mit eigener Lohnbuchhaltung.</b> 20 Mitarbeitende, Ansässige und Nichtansässige, Boni und Rückerstattungen. Lösung: ein Programm von der EMTA-Liste mit Maschinenschnittstelle; Daten werden nach jeder Auszahlung übertragen und Fehler innerhalb des Monats korrigiert. Für ein solches Unternehmen ist der Nutzen am größten – die monatliche Datenübertragung zwischen Systemen entfällt.
+
+Gemeinsam ist allen Szenarien: Wie stark Sie die Änderungen trifft, hängt nicht von der Unternehmensgröße ab, sondern davon, wie Ihre Lohnbuchhaltung heute organisiert ist.
+<h2>Wie es weitergeht</h2>
+Die neue TSD ist nur der erste Schritt der EMTA hin zur datenbasierten Berichterstattung. Die nächsten Etappen sind bereits angekündigt:
+<ul>
+ 	<li><b>Frühjahr 2027</b> – Umsatzsteuererklärung (KMD) und Beschäftigungsregister (TÖR) werden auf Datenübermittlung umgestellt;</li>
+ 	<li><b>Ende 2027</b> – die Unterstützung für den Upload der bisherigen CSV-Datei endet;</li>
+ 	<li><b>2028</b> – die Anlagen 3–8 der TSD, einschließlich Gewinnausschüttungen, werden auf Datenübermittlung umgestellt.</li>
+</ul>
+Nach Schätzung der EMTA kann die Umstellung auf datenbasierte Meldungen Unternehmen bis zu 5 Millionen Arbeitsstunden pro Jahr sparen. Unternehmen ohne geeignete Software bietet der Staat Digitalisierungszuschüsse über die EIS an. Wenn Sie umsatzsteuerpflichtig sind, lohnt es sich, schon jetzt zu prüfen, wie Ihre Software mit der KMD umgehen wird – siehe <a href="/blog/vat-registration-estonia/">Umsatzsteuerregistrierung in Estland: wann sie nötig ist</a> und <a href="/blog/oss-and-ioss-in-estonia/">OSS und IOSS in Estland</a>.
+<h2>Mini-Glossar</h2>
+<b>TSD</b> – monatliche Erklärung zu Einkommensteuer, Sozialsteuer, Arbeitslosenversicherung und Rentenbeiträgen.
+
+<b>Datenbasierte TSD (andmepõhine TSD)</b> – das Unternehmen übermittelt Auszahlungsdaten, die EMTA erstellt daraus die Erklärung.
+
+<b>Maschinenschnittstelle (masin-masin liides)</b> – direkter Datenaustausch zwischen Buchhaltungssoftware und EMTA.
+
+<b>XBRL GL</b> – Datenformatstandard, in dem TSD-Dateien nun hochgeladen werden.
+
+<b>X-tee</b> – die staatliche Datenaustauschplattform Estlands; die LHV übermittelt darüber Lohndaten an e-MTA.
+
+<b>e-arveldaja</b> – kostenloses staatliches Buchhaltungsprogramm für Start-ups und Kleinunternehmen.
+
+<b>KMD und TÖR</b> – Umsatzsteuererklärung und Beschäftigungsregister; sie werden im Frühjahr 2027 auf elektronische Datenübermittlung umgestellt.
+<h2>Was jetzt zu tun ist</h2>
+<ol>
+ 	<li>Sicherstellen, dass die TSD für September bis zum 12. Oktober 2026 auf dem alten Weg eingereicht wurde.</li>
+ 	<li>Den Kanal für die Oktober-Auszahlungen festlegen: Software, SEB/LHV-Bankmodul, e-arveldaja oder manuelle Eingabe.</li>
+ 	<li>Prüfen, ob Ihre Software auf der EMTA-Liste steht, und die Maschinenschnittstelle aktivieren.</li>
+ 	<li>Die Einstellungen für den Grundfreibetrag von 700 € und die Mindestsozialsteuer prüfen.</li>
+ 	<li>Die Oktober-Daten frühzeitig senden und die Erklärung bis zum 10. November bestätigen.</li>
+ 	<li>Die Vorbereitung auf die datenbasierte KMD ab Frühjahr 2027 planen.</li>
+</ol>
+<i>Dieser Beitrag dient nur der Information und stellt keine Steuer- oder Buchhaltungsberatung dar. Technische Anforderungen an die Datenübermittlung, Übergangsfristen und Steuersätze können sich ändern. Prüfen Sie vor der Abgabe Ihrer Erklärung die Angaben auf emta.ee oder wenden Sie sich an unsere Fachleute.</i>

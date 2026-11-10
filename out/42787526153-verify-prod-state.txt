@@ -1,0 +1,28 @@
+mu/staging-guard.php                      MISSING
+mu/lai-disclaimer.php                     md5 8458b44235bf2c11b616ffc202f0eca7
+mu/lai-redirects.php                      md5 c9da67b5317d40e2d7958554e5805ed1
+mu/lai-article-schema.php                 md5 b4558f27d3b363f790846125abbd63f9
+mu/lai-interlinking.php                   md5 cbe7c01d193e2cab0d82049db8d8b0db
+mu/lai-migrate-20261106.php               md5 ec235d2ae5d242a563fc9db38840a763
+mu/lai-migrate-20261106b.php              md5 1d7d91a53fa6d3b40901cf435dee4c10
+mu/lai-migrate-20261106c.php              md5 f94d2b6b02dcf6cee247b79b6ab5bbd5
+mu/lai-data/lai-link-matrix.json          md5 3176f93667fea2a15293d2c6d367081e
+mu/lai-data/meta-20261106.json            md5 871e86c95ba3683fc4df2f9dd7f0baf0
+th/functions.php                          md5 26abc9bed259124889dc4f05cebfd960
+th/single.php                             md5 f25e7e721e9657dec74090dffeec9d16
+th/template-parts/content-flex.php        md5 cef3bf1b6bc89999b4ffad0010fef567
+th/inc/mobile-menu.php                    md5 1791df1a06a470d902bb9536a1357ee2
+lai_mig_20261106: 2026-11-06 07:54:25 
+lai_mig_20261106b: 2026-11-06 09:11:08 updated 1303 fields, already ok 24, kept manual edits 0, skipped pages 1
+lai_mig_20261106c: 2026-11-06 16:32:07 pages 85, fields 115, {"broken-legal":80,"xlang":275,"broken":20,"xlang-no-translation":11}
+blog_public=1 home=https://staging.dragonslots-gr.gr
+UK accounting page: #4575 publish https://staging.dragonslots-gr.gr/bukhhalteriya-dlya-kompaniy-e-rezydentiv-estoniyi/
+3641 zh group: {"en":3639,"zh":3641,"tr":3652,"de":3644,"es":3646,"fr":3648,"ru":3586,"pt":3650,"uk":3591}
+stray 4535 status: trash, 3642: trash
+1269 rm_title: Legal Address in Estonia from €250/Year — Setup in 1 Day
+4529 rm_title: Estonian Company for Startups — Register Online
+bank article group 1629: {"en":1629,"ru":1620,"uk":1630}
+uk legal robots 1308: ["noindex","nofollow"]
+en privacy links in content (xlang sample): 2 cf7 forms still link /privacy-policy
+posts count: {"en":24,"zh":6,"de":7,"es":6,"fr":6,"ru":23,"pt":6,"tr":6,"uk":11}
+last modified posts: #4614 post 2026-11-10 08:19:40 | #4610 post 2026-11-10 08:13:27 | #4572 service 2026-11-06 12:10:18 | #4599 service 2026-11-06 12:05:19 | #4597 service 2026-11-06 12:04:45 | 

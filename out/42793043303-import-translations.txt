@@ -1,0 +1,75 @@
+{
+    "source": 3633,
+    "translations": {
+        "en": 3633,
+        "ru": 3629,
+        "uk": 4644,
+        "de": 4645,
+        "es": 4646
+    },
+    "report": [
+        {
+            "lang": "uk",
+            "title": "Нові правила TSD з жовтня 2026: що змінилося",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> https://staging.dragonslots-gr.gr/blog-uk/yak-obrati-buhgaltera-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/annual-report-estonia/ -> (no uk translation, kept)",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> (no uk translation, kept)",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/yurydychna-adresa-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/kontaktna-osoba-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/ -> https://staging.dragonslots-gr.gr/shchomisyachnyy-bukhhalterskyy-oblik-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/tax-consulting-in-estonia/ -> https://staging.dragonslots-gr.gr/podatkovyy-konsaltynh-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/ -> https://staging.dragonslots-gr.gr/richnyy-zvit-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> https://staging.dragonslots-gr.gr/blog-uk/vat-reiestratsiia-estonii-koly-potribna/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> https://staging.dragonslots-gr.gr/blog-uk/oss-ta-ioss-v-estoniyi/"
+            ],
+            "cats": [
+                142
+            ],
+            "status": "updated #4644",
+            "url": "https://staging.dragonslots-gr.gr/blog-uk/novi-pravyla-tsd-z-zhovtnya-2026/"
+        },
+        {
+            "lang": "de",
+            "title": "Neue TSD-Regeln ab Oktober 2026: Was sich geändert hat",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> (no de translation, kept)",
+                "https://staging.dragonslots-gr.gr/blog/annual-report-estonia/ -> https://staging.dragonslots-gr.gr/blog-de/jahresbericht-estland/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blog-de/koerperschaftsteuer-estland-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/eingetragene-gesch-ftsadresse-in-estland/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/",
+                "https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/ -> https://staging.dragonslots-gr.gr/monatliche-buchhaltung-in-estland/",
+                "https://staging.dragonslots-gr.gr/tax-consulting-in-estonia/ -> https://staging.dragonslots-gr.gr/steuerberatung-in-estland/",
+                "https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/ -> https://staging.dragonslots-gr.gr/jahresbericht-f-r-estnische-unternehmen/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> https://staging.dragonslots-gr.gr/blog-de/mehrwertsteuerregistrierung-in-estland-schwellenwerte-und-vorschriften/",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> https://staging.dragonslots-gr.gr/oss-und-ioss-registrierung-in-estland/ (no translation: related service)"
+            ],
+            "cats": [
+                108
+            ],
+            "status": "updated #4645",
+            "url": "https://staging.dragonslots-gr.gr/blog-de/neue-tsd-regeln-ab-oktober-2026/"
+        },
+        {
+            "lang": "es",
+            "title": "Nuevas normas de la TSD desde octubre de 2026: qué ha cambiado",
+            "links": [
+                "https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ -> (no es translation, kept)",
+                "https://staging.dragonslots-gr.gr/blog/annual-report-estonia/ -> https://staging.dragonslots-gr.gr/blog-es/informe-anual-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/ -> https://staging.dragonslots-gr.gr/blog-es/impuesto-sociedades-estonia-2026/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/domicilio-social-en-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/",
+                "https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/ -> https://staging.dragonslots-gr.gr/contabilidad-mensual-en-estonia/",
+                "https://staging.dragonslots-gr.gr/tax-consulting-in-estonia/ -> https://staging.dragonslots-gr.gr/asesoramiento-fiscal-en-estonia/",
+                "https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/ -> https://staging.dragonslots-gr.gr/informe-anual-de-las-empresas-estonias/",
+                "https://staging.dragonslots-gr.gr/blog/vat-registration-estonia/ -> https://staging.dragonslots-gr.gr/solicitud-de-un-numero-de-iva-en-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/blog/oss-and-ioss-in-estonia/ -> https://staging.dragonslots-gr.gr/registro-de-oss-e-ioss-en-estonia/ (no translation: related service)"
+            ],
+            "cats": [
+                114
+            ],
+            "status": "updated #4646",
+            "url": "https://staging.dragonslots-gr.gr/blog-es/nuevas-normas-tsd-octubre-2026/"
+        }
+    ]
+}

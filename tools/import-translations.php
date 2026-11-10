@@ -135,6 +135,11 @@ foreach ( $data['langs'] as $lang => $tr ) {
 		}
 	}
 	update_post_meta( $id, '_lai_tr_source', $src->ID );
+	if ( ! empty( $tr['rm'] ) ) {
+		foreach ( array( 'title' => 'rank_math_title', 'desc' => 'rank_math_description', 'kw' => 'rank_math_focus_keyword' ) as $k => $mk ) {
+			if ( ! empty( $tr['rm'][ $k ] ) ) update_post_meta( $id, $mk, wp_slash( $tr['rm'][ $k ] ) );
+		}
+	}
 
 	$translations[ $lang ] = $id;
 	pll_save_post_translations( $translations );

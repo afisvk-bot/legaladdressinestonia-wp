@@ -41,6 +41,9 @@ $langs     = pll_languages_list( array( 'fields' => 'slug' ) );
 function lai_tr_localize_links( string $html, string $lang, string $home_host, array &$log ): string {
 	return preg_replace_callback( '#href="([^"]+)"#', function ( $m ) use ( $lang, $home_host, &$log ) {
 		$url = html_entity_decode( $m[1] );
+		if ( 0 === strpos( $url, '/' ) && 0 !== strpos( $url, '//' ) ) {
+			$url = home_url( $url ); // относительная ссылка
+		}
 		if ( wp_parse_url( $url, PHP_URL_HOST ) !== $home_host ) {
 			return $m[0];
 		}
@@ -54,6 +57,12 @@ function lai_tr_localize_links( string $html, string $lang, string $home_host, a
 			$new = get_permalink( $tid );
 			$log[] = "$url -> $new";
 			return 'href="' . esc_url( $new ) . '"';
+		}
+		$fb = array( 'vat-registration-estonia' => 2261, 'oss-and-ioss-in-estonia' => 2791, 'estonian-corporate-tax' => 2761, 'how-to-open-a-company-in-estonia-as-a-non-resident' => 2263, 'what-is-estonian-e-residency' => 2247, 'estonian-ou-balance-sheet-income-statement' => 2746, 'how-to-open-a-bank-account-for-an-estonian-company' => 2263 );
+		$slug = basename( untrailingslashit( (string) wp_parse_url( $url, PHP_URL_PATH ) ) );
+		if ( isset( $fb[ $slug ] ) && ( $alt = pll_get_post( $fb[ $slug ], $lang ) ) && 'publish' === get_post_status( $alt ) ) {
+			$log[] = "$url -> " . get_permalink( $alt ) . ' (no translation: related service)';
+			return 'href="' . esc_url( get_permalink( $alt ) ) . '"';
 		}
 		$log[] = "$url -> (no $lang translation, kept)";
 		return $m[0];

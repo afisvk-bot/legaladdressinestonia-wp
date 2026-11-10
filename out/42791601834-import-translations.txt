@@ -1,0 +1,248 @@
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+{
+    "source": 2995,
+    "translations": {
+        "en": 2995,
+        "ru": 4630,
+        "uk": 4631,
+        "de": 4632,
+        "es": 4633,
+        "fr": 4634,
+        "pt": 4635,
+        "tr": 4636,
+        "zh": 4637
+    },
+    "report": [
+        {
+            "lang": "ru",
+            "title": "Корпоративные услуги в Эстонии: почему хороший комплаенс — это не отказы клиентам",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/kontaktnoe-litso-v-estonii/",
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/perehod-fiu-finansovaya-inspektsiya/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/estonskaya-holdingovaya-kompaniya/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/kompaniya-dlya-osnovatelej-iz-za-predelov-es/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/uslugi-dlya-e-rezidentov-estonii/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/registratsiya-kompanii-v-estonii/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/substance-v-estonii/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/buhgalterskoe-obsluzhivanie-v-estonii/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/finansovaya-litsenziya-v-estonii/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/blog-ru/kak-chitat-balans-i-otchyot-o-pribyli-estonskoj-ou/",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtualnyj-ofis-v-estonii/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/litsenziya-casp-po-mica/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/yuridicheskij-adres-v-estonii/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/kontaktnoe-litso-v-estonii/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/registratsiya-kompanii-v-estonii/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/politika-aml/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/kontakty/"
+            ],
+            "cats": [
+                112
+            ],
+            "status": "created #4630",
+            "url": "https://staging.dragonslots-gr.gr/blog-ru/pochemu-horoshij-komplaens-eto-ne-otkazy-klientam/"
+        },
+        {
+            "lang": "uk",
+            "title": "Корпоративні послуги в Естонії: чому хороший комплаєнс — це не відмови клієнтам",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/kontaktna-osoba-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/perekhid-kryptolitsenziyi-fiu-do-fi-estoniya/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/kholdynhova-struktura-v-estoniyi-krypto-igaming/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/estonska-kompaniya-dlya-ne-rezydentiv-yes/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/posluhy-dlya-e-rezydentiv-estoniyi/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/reyestratsiya-kompaniyi-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/substance-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/bukhhalterske-obsluhovuvannya-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/finansova-licenziya-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/bukhhalterske-obsluhovuvannya-v-estoniyi/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtualnij-ofis-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/licenziya-casp-mica/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/yurydychna-adresa-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/kontaktna-osoba-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/reyestratsiya-kompaniyi-v-estoniyi/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/politika-borotbi-z-vidmivannyam-koshtiv-finansuvannyam-terorizmu/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/kontakti/"
+            ],
+            "cats": [
+                142
+            ],
+            "status": "created #4631",
+            "url": "https://staging.dragonslots-gr.gr/blog-uk/chomu-khoroshyy-komplayens-tse-ne-vidmovy-kliyentam/"
+        },
+        {
+            "lang": "de",
+            "title": "Unternehmensdienstleistungen in Estland: Warum gute Compliance nicht heißt, Kunden abzulehnen",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/",
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/dienstleistungen-zum-bergang-von-der-fiu-zur-fma-lizenz-in-estland/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/holding-krypto-und-igaming-projekte/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/ein-estnisches-unternehmen-f-r-gr-nder-aus-l-ndern-au-erhalb-der-eu/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/dienstleistungen-fur-estnische-e-residenten/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/unternehmensgrundung-in-estland/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/drogen-in-estland/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/buchhaltungsdienstleistungen-in-estland/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/finanzlizenz-in-estland/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/buchhaltungsdienstleistungen-in-estland/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtuelles-buro-in-estland/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/casp-lizenz-mica/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/eingetragene-gesch-ftsadresse-in-estland/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/unternehmensgrundung-in-estland/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/aml-cft-richtlinie/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/kontakte/"
+            ],
+            "cats": [
+                108
+            ],
+            "status": "created #4632",
+            "url": "https://staging.dragonslots-gr.gr/blog-de/gute-compliance-heisst-nicht-kunden-abzulehnen/"
+        },
+        {
+            "lang": "es",
+            "title": "Servicios corporativos en Estonia: por qué un buen cumplimiento no consiste en rechazar clientes",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/servicios-de-transicion-de-la-licencia-fiu-a-la-fma-en-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/criptomonedas-y-juegos-de-azar-en-linea/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/una-empresa-estonia-para-fundadores-de-fuera-de-la-ue/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/para-los-residentes/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/registro-de-empresas-en-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/sustancia-en-estonia/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/servicios-de-contabilidad-en-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/licencia-financiera-en-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/servicios-de-contabilidad-en-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/oficina-virtual-en-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/licencia-casp-mica/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/domicilio-social-en-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/registro-de-empresas-en-estonia/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/politica-de-pbc-ft/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/contactos/"
+            ],
+            "cats": [
+                114
+            ],
+            "status": "created #4633",
+            "url": "https://staging.dragonslots-gr.gr/blog-es/buen-cumplimiento-no-es-rechazar-clientes/"
+        },
+        {
+            "lang": "fr",
+            "title": "Services aux entreprises en Estonie : pourquoi une bonne conformité ne consiste pas à refuser des clients",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/interlocuteur-en-estonie/",
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/services-daccompagnement-la-transition-de-la-licence-fiu-vers-la-licence-fma-en-estonie/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/holding-projets-cryptomonnaies-argent-en-ligne/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/une-soci-t-estonienne-destin-e-aux-fondateurs-originaires-de-pays-hors-de-l-ue/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/services-destin-s-aux-r-sidents-lectroniques-estoniens/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/enregistrement-dune-societ-en-estonie/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/substance-en-estonie/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/services-comptables-en-estonie/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/licence-financi-re-en-estonie/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/services-comptables-en-estonie/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/bureau-virtuel-en-estonie/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/licence-casp-de-la-mica/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/siege-social-en-estonie/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/interlocuteur-en-estonie/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/enregistrement-dune-societ-en-estonie/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/politique-lcb-ft-aml-cft/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/contacts-fr/"
+            ],
+            "cats": [
+                110
+            ],
+            "status": "created #4634",
+            "url": "https://staging.dragonslots-gr.gr/blogue-fr/bonne-conformite-ne-pas-refuser-des-clients/"
+        },
+        {
+            "lang": "pt",
+            "title": "Serviços corporativos na Estónia: porque um bom compliance não é recusar clientes",
+            "links": [
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/pessoa-de-contacto-na-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/servicos-de-transicao-da-licen-a-fiu-para-a-licenca-fma-na-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/holding-projetos-criptomoedas-igaming/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/uma-empresa-est-nia-destinada-a-fundadores-de-fora-da-ue/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/para-os-residentes/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/registo-de-empresas-na-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/substancia-na-estonia/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/servi-os-de-contabilidade-na-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/licenca-financeira-na-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/servi-os-de-contabilidade-na-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/escritorio-virtual-na-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/licenia-casp-mica/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/domicilio-social-na-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/pessoa-de-contacto-na-estonia/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/registo-de-empresas-na-estonia/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/politica-aml-cft/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/contactos-pt/"
+            ],
+            "cats": [
+                118
+            ],
+            "status": "created #4635",
+            "url": "https://staging.dragonslots-gr.gr/blogue-pt/bom-compliance-nao-e-recusar-clientes/"
+        },
+        {
+            "lang": "tr",
+            "title": "Estonya’da kurumsal hizmetler: İyi uyum neden müşteri reddetmek değildir",
+            "links": [
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/estonyada-fiu-dan-fma-lisansna-geci-hizmetleri/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-daki-irtibat-kisisi/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/kripto-igaming-projeleri/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/ab-d-ndan-gelen-giri-imciler-i-in-bir-estonya-irketi/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/e-vatandalarna/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/estonyada-irket-tescili/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/estonya-da-madde/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-da-muhasebe-hizmetleri/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/estonyada-finans-lisansi/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/estonya-da-muhasebe-hizmetleri/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/estonyada-sanal-ofis/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/mica-casp-lisans/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/estonya-daki-yasal-adres/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/estonya-daki-irtibat-kisisi/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/estonyada-irket-tescili/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/aml-cft-politikas/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/kisiler/"
+            ],
+            "cats": [
+                122
+            ],
+            "status": "created #4636",
+            "url": "https://staging.dragonslots-gr.gr/blog-tr/iyi-uyum-musteri-reddetmek-degildir/"
+        },
+        {
+            "lang": "zh",
+            "title": "爱沙尼亚企业服务：为什么良好的合规不等于拒绝客户",
+            "links": [
+                "https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ -> https://staging.dragonslots-gr.gr/licensing/fiu-fma/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/contact-person-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ -> https://staging.dragonslots-gr.gr/licensing/crypto-igaming-projects/",
+                "https://staging.dragonslots-gr.gr/target/non-residents/ -> https://staging.dragonslots-gr.gr/target/an-estonian-company-for-founders-from-outside-the-eu/",
+                "https://staging.dragonslots-gr.gr/target/services-for-e-residents/ -> https://staging.dragonslots-gr.gr/target/e-residents/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/company-registration-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/substance-estonia/",
+                "https://staging.dragonslots-gr.gr/accounting-services-in-estonia/ -> https://staging.dragonslots-gr.gr/accounting-services-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ -> https://staging.dragonslots-gr.gr/licensing/financial-licence-estonia/",
+                "https://staging.dragonslots-gr.gr/blog/estonian-ou-balance-sheet-income-statement/ -> https://staging.dragonslots-gr.gr/accounting-services-estonia/ (no translation: related service)",
+                "https://staging.dragonslots-gr.gr/virtual-office-in-estonia/ -> https://staging.dragonslots-gr.gr/virtual-office-estonia/",
+                "https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ -> https://staging.dragonslots-gr.gr/licensing/mica-casp/",
+                "https://staging.dragonslots-gr.gr/legal-address/ -> https://staging.dragonslots-gr.gr/legal-address-estonia/",
+                "https://staging.dragonslots-gr.gr/contact-person-in-estonia/ -> https://staging.dragonslots-gr.gr/contact-person-estonia/",
+                "https://staging.dragonslots-gr.gr/company-registration-in-estonia/ -> https://staging.dragonslots-gr.gr/company-registration-estonia/",
+                "https://staging.dragonslots-gr.gr/aml-cft-policy/ -> https://staging.dragonslots-gr.gr/aml-cft-policy-cn/",
+                "https://staging.dragonslots-gr.gr/contacts/ -> https://staging.dragonslots-gr.gr/contact-cn/"
+            ],
+            "cats": [
+                116
+            ],
+            "status": "created #4637",
+            "url": "https://staging.dragonslots-gr.gr/blog-cn/lianghao-hegui-bu-dengyu-jujue-kehu/"
+        }
+    ]
+}

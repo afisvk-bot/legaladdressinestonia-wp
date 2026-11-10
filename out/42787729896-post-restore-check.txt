@@ -1,0 +1,9 @@
+home robots meta: nofollow, noindex | X-Robots-Tag: noindex, nofollow, noarchive
+robots.txt: User-agent: * / Disallow: /
+mail blocked: yes
+mig b skipped: SKIP #4563: not published or language differs
+#4610 ru publish "Виза и ВНЖ для основателя эстонской компании" https://staging.dragonslots-gr.gr/blog-ru/viza-i-vnzh-dlya-osnovatelya-estonskoj-kompanii/ group={"ru":4610,"en":4614} words=79
+#4614 en publish "Visas and residence permits for founders of Estonian companies" https://staging.dragonslots-gr.gr/blog/visas-and-residence-permits-for-founders-of-estonian-companies/ group={"en":4614,"ru":4610} words=1990
+#4572 service uk publish "Відновлення бухгалтерського обліку в Естонії"
+#4597 service es publish "Restoration of the Accounting System in Estonia"
+#4599 service zh publish "爱沙尼亚会计制度的重建"

@@ -1,0 +1,236 @@
+<blockquote>Cet article s’appuie sur les indications officielles de l’administration fiscale et douanière estonienne (EMTA) concernant le passage de la déclaration TSD à une transmission fondée sur les données (andmepõhine TSD), le guide « Déposer la déclaration TSD » et la liste des logiciels comptables compatibles. Vérifiez les détails techniques et les échéances sur emta.ee.</blockquote>
+<h2>En bref : l’essentiel en 60 secondes</h2>
+Depuis le 1er octobre 2026, la TSD – la déclaration d’impôt sur le revenu et de taxe sociale – peut être déposée non plus sous forme de formulaire, mais comme un flux de données issu du logiciel comptable. L’entreprise transmet les données de paie, et l’EMTA génère automatiquement la déclaration et calcule les impôts.
+
+Points clés :
+<ul>
+ 	<li><b>Les délais de paiement et de dépôt ne changent pas.</b> La TSD doit toujours être confirmée avant le 10 du mois suivant celui du paiement.</li>
+ 	<li><b>La TSD de septembre se dépose selon l’ancienne méthode.</b> Le 10 octobre 2026 tombant un samedi, l’échéance est reportée au 12 octobre.</li>
+ 	<li><b>Les paiements d’octobre relèvent des nouvelles règles.</b> L’échéance de la TSD d’octobre est le 10 novembre 2026.</li>
+ 	<li><b>Les annexes 1 et 2 sont remplacées par un formulaire unique « paiements ».</b> Il couvre résidents et non-résidents, ainsi que les paiements et remboursements.</li>
+ 	<li><b>Les annexes 3 à 8 restent inchangées pour l’instant.</b> Elles passeront à la transmission de données en 2028.</li>
+ 	<li><b>L’ancien format XML n’est plus valable.</b> Le nouveau format est un XML conforme au standard XBRL GL ; l’import de l’ancien format CSV reste possible à titre transitoire jusqu’à fin 2027.</li>
+ 	<li><b>La saisie manuelle dans e-MTA reste possible.</b> Passer à un logiciel n’est pas obligatoire, mais l’EMTA le recommande vivement.</li>
+ 	<li><b>Les modules bancaires de SEB et LHV fonctionnent déjà selon le nouveau système.</b> Pour les petites entreprises, c’est l’option la plus simple.</li>
+</ul>
+Nous expliquons ci-dessous ce qui a changé exactement, à quoi ressemble la nouvelle procédure, que choisir pour une petite société d’e-résident et quelles erreurs coûtent le plus cher.
+<h2>À la croisée des chemins : quel mode de dépôt vous concerne</h2>
+L’EMTA décrit trois situations de départ. L’ampleur des changements dépend de celle qui vous correspond.
+
+<b>Situation 1. Vous utilisez déjà un logiciel comptable doté d’une interface automatique.</b> Pour vous, seul le format technique de transmission change. Le nouveau format XBRL GL est mis en place par votre éditeur : vérifiez qu’il figure sur la liste de l’EMTA.
+
+<b>Situation 2. Votre comptabilité est tenue dans un logiciel, mais vous importez la TSD sous forme de fichier ou la saisissez à la main dans e-MTA.</b> Le canal, le format et la procédure changent. L’EMTA conseille d’activer à l’avance l’interface automatique du logiciel et, si nécessaire, de demander l’aide de l’éditeur.
+
+<b>Situation 3. Vous n’utilisez pas de logiciel comptable.</b> Trois options s’offrent à vous : choisir un logiciel compatible avec la nouvelle TSD, utiliser le module de paie de SEB ou LHV, ou le service public gratuit e-arveldaja destiné aux start-up et aux petites entreprises. La saisie manuelle dans e-MTA reste également possible.
+
+Conclusion pratique pour une société type d’e-résident avec un seul paiement à un membre du conseil : inutile d’acheter quoi que ce soit dans l’urgence. Mais si un comptable tient vos comptes, vérifiez avec lui par quel canal sera déposée la TSD d’octobre, et faites-le avant le 10 novembre, pas le jour de l’échéance. Pour choisir un comptable disposant de la bonne infrastructure, consultez notre guide <a href="/blog/how-to-choose-an-accountant-in-estonia/">sur le choix d’un comptable en Estonie</a>.
+<h2>Ce qui change et ce qui reste</h2>
+Le principal changement est une nouvelle logique : l’entreprise transmet des données à l’EMTA, et non des déclarations remplies. Tout le reste en découle.
+<table>
+<tbody>
+<tr>
+<td><b>Paramètre</b></td>
+<td><b>Jusqu’en octobre 2026</b></td>
+<td><b>À partir d’octobre 2026</b></td>
+</tr>
+<tr>
+<td>Ce que dépose l’entreprise</td>
+<td>Une déclaration remplie</td>
+<td>Les données de paiement</td>
+</tr>
+<tr>
+<td>Qui établit la déclaration</td>
+<td>L’entreprise ou un comptable</td>
+<td>L’EMTA à partir des données reçues</td>
+</tr>
+<tr>
+<td>Canal</td>
+<td>e-MTA manuellement, import de fichier, X-tee</td>
+<td>API du logiciel ; e-MTA manuellement ou par fichier en solution de repli</td>
+</tr>
+<tr>
+<td>Annexes 1 et 2</td>
+<td>Formulaires distincts pour résidents et non-résidents</td>
+<td>Formulaire unique « paiements »</td>
+</tr>
+<tr>
+<td>Annexes 3 à 8</td>
+<td>Aucun changement</td>
+<td>Aucun changement jusqu’en 2028</td>
+</tr>
+<tr>
+<td>Format de fichier</td>
+<td>Ancien XML ou CSV</td>
+<td>Nouveau XML au standard XBRL GL ; CSV jusqu’à fin 2027</td>
+</tr>
+<tr>
+<td>Quand déposer</td>
+<td>À l’approche de l’échéance</td>
+<td>Juste après le paiement, au fil des événements</td>
+</tr>
+<tr>
+<td>Retour d’information</td>
+<td>Après avoir rempli le formulaire dans e-MTA</td>
+<td>Immédiatement dans le logiciel, erreurs et calcul des impôts compris</td>
+</tr>
+<tr>
+<td>Validation</td>
+<td>Dépôt de la déclaration</td>
+<td>Confirmation de la déclaration générée par e-MTA</td>
+</tr>
+<tr>
+<td>Échéance</td>
+<td>Le 10 du mois suivant</td>
+<td>Le 10 du mois suivant</td>
+</tr>
+</tbody>
+</table>
+L’entreprise garde la maîtrise de ses données. L’EMTA souligne qu’elle n’a pas accès au logiciel comptable et que c’est l’entrepreneur qui décide du moment de la transmission. Le logiciel permet aussi de consulter le solde du compte de prépaiement et les créances.
+<h2>Période transitoire et échéances</h2>
+La transition dépend du mois de paiement, et non de la date de dépôt. C’est le point essentiel à retenir en octobre et novembre 2026.
+<table>
+<tbody>
+<tr>
+<td><b>Paiements du mois</b></td>
+<td><b>Comment déposer la TSD</b></td>
+<td><b>Échéance</b></td>
+</tr>
+<tr>
+<td>Septembre 2026</td>
+<td>Ancienne solution dans e-MTA</td>
+<td>12 octobre 2026 (le 10 octobre est un samedi)</td>
+</tr>
+<tr>
+<td>Octobre 2026</td>
+<td>Nouvelle solution fondée sur les données</td>
+<td>10 novembre 2026</td>
+</tr>
+<tr>
+<td>Novembre 2026 et après</td>
+<td>Nouvelle solution fondée sur les données</td>
+<td>Le 10 du mois suivant</td>
+</tr>
+</tbody>
+</table>
+L’import de fichiers obéit à un régime transitoire distinct. L’ancien format XML n’est plus accepté ; le nouveau format est un XML au standard XBRL GL. e-MTA acceptera l’import des fichiers CSV existants jusqu’à fin 2027.
+<h2>La nouvelle procédure, étape par étape</h2>
+<h3>Étape 1. Paiement et transmission des données</h3>
+Une fois les salaires ou rémunérations versés, le comptable lance la transmission des données du logiciel vers l’EMTA. Cela peut se faire immédiatement, sans attendre la fin du mois.
+<h3>Étape 2. Retour de l’EMTA</h3>
+L’EMTA contrôle les données et renvoie directement le résultat au logiciel : impôts calculés, avertissements et erreurs. Les erreurs peuvent être corrigées sur place et les données renvoyées, sans passer par e-MTA.
+<h3>Étape 3. La déclaration est générée automatiquement</h3>
+À partir des données reçues, l’EMTA établit la déclaration. Le rapport est visible dans le logiciel comptable.
+<h3>Étape 4. Confirmation</h3>
+L’entreprise ou le comptable doit confirmer la déclaration avant le 10. Sans confirmation, l’obligation déclarative n’est pas considérée comme remplie.
+<h3>Particularité du module bancaire LHV</h3>
+Lorsqu’un paiement de salaire est validé dans la banque en ligne LHV, les données sont transmises à e-MTA via X-tee et pré-remplissent la TSD. La déclaration est confirmée automatiquement à l’échéance de la TSD si trois conditions sont réunies : elle a été créée via un paiement de salaire LHV, elle n’a pas été modifiée dans e-MTA et elle ne contient aucune erreur. Si vous avez apporté des modifications manuelles, confirmez vous-même la déclaration.
+<h2>Ce qui se déclare dans la TSD en 2026</h2>
+La nouvelle technologie ne modifie pas les taux. Voici ceux que votre logiciel doit appliquer aux paiements de 2026 :
+<table>
+<tbody>
+<tr>
+<td><b>Impôt ou cotisation</b></td>
+<td><b>Taux 2026</b></td>
+<td><b>Qui paie</b></td>
+</tr>
+<tr>
+<td>Impôt sur le revenu</td>
+<td>22 % après l’abattement</td>
+<td>Retenu sur le salaire du salarié</td>
+</tr>
+<tr>
+<td>Abattement</td>
+<td>700 € par mois pour tous, quel que soit le revenu</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Taxe sociale</td>
+<td>33 % ; assiette minimale de 886 €, paiement minimal de 292,38 € par mois</td>
+<td>Employeur</td>
+</tr>
+<tr>
+<td>Assurance chômage</td>
+<td>1,6 %</td>
+<td>Salarié</td>
+</tr>
+<tr>
+<td>Assurance chômage</td>
+<td>0,8 %</td>
+<td>Employeur</td>
+</tr>
+<tr>
+<td>Retraite par capitalisation (deuxième pilier)</td>
+<td>2 %, 4 % ou 6 %, au choix du salarié</td>
+<td>Salarié</td>
+</tr>
+</tbody>
+</table>
+L’abattement ne s’applique que si le salarié a demandé à en bénéficier. En 2026, il est devenu forfaitaire : l’ancien barème, qui réduisait l’abattement à mesure que le revenu augmentait, a été supprimé. Les logiciels qui calculent encore selon l’ancienne formule se trompent dans les retenues.
+<h3>Ce qui compte pour les sociétés d’e-résidents</h3>
+<b>Rémunération d’un membre du conseil.</b> Elle est soumise à 22 % d’impôt sur le revenu et à 33 % de taxe sociale, mais pas à l’assurance chômage. Cela vaut aussi pour les non-résidents qui dirigent la société depuis l’étranger : ces paiements entrent dans la catégorie unique des paiements, avec ceux des résidents.
+
+<b>Pas de paiement, pas de TSD.</b> Si la société n’a effectué ni paiement ni distribution au cours du mois, la déclaration n’est en général pas requise. Cela ne dispense pas du rapport annuel – voir <a href="/blog/annual-report-estonia/">le rapport annuel en Estonie</a>.
+
+<b>Dividendes et distributions déguisées.</b> Les distributions de bénéfices, avantages particuliers, cadeaux et dépenses étrangères à l’activité se déclarent dans les annexes 3 à 8. Elles restent pour l’instant soumises aux anciennes règles, et le taux de l’impôt sur les distributions est de 22/78. Plus de détails dans l’article <a href="/blog/corporate-tax-estonia-2026/">L’impôt sur les sociétés en Estonie en 2026</a>.
+<h2>Erreurs fréquentes</h2>
+<b>Déposer la TSD de septembre via le nouveau système.</b> Les paiements de septembre se déclarent selon les anciennes règles, avec une échéance au 12 octobre. Le nouveau système s’applique aux paiements à partir d’octobre.
+
+<b>Transmettre les données et oublier de confirmer la déclaration.</b> Transmettre des données n’est pas déposer. La déclaration générée par l’EMTA doit être confirmée avant le 10.
+
+<b>Modifier dans e-MTA une déclaration créée via LHV et attendre la confirmation automatique.</b> Après des modifications manuelles, la confirmation automatique ne fonctionne pas.
+
+<b>Importer un fichier dans l’ancien format XML.</b> Il n’est plus accepté. Il faut du XBRL GL ou, jusqu’à fin 2027, l’ancien CSV.
+
+<b>Appliquer l’ancien barème d’abattement.</b> Depuis 2026, l’abattement est forfaitaire : 700 € par mois. Des paramètres obsolètes faussent chaque bulletin de paie.
+
+<b>Oublier la taxe sociale minimale.</b> Pour un temps partiel, l’employeur paie toujours la taxe sociale sur au moins 886 € par mois, sauf exonération.
+
+<b>Attendre le 10 pour repérer les erreurs.</b> La nouvelle solution permet de transmettre les données juste après le paiement et de les corriger à l’avance. L’échéance est le pire moment pour un premier envoi.
+
+<b>Croire que les changements ne concernent que les grandes entreprises.</b> Une société avec un seul membre du conseil dépose la TSD selon les mêmes règles.
+<h2>L’infrastructure qui rend le dispositif durable</h2>
+La nouvelle TSD fait gagner du temps à ceux qui tiennent déjà leur comptabilité dans un logiciel avec des données exactes. Pour les autres, la transition est l’occasion de mettre de l’ordre dans la paie avant que la KMD et le registre de l’emploi ne passent à la transmission de données en 2027.
+
+Legal Address in Estonia est un projet du prestataire agréé de services aux entreprises eBusiness Solutions OÜ (licence FIU000421), membre officiel de la marketplace e-Residency. Nous fournissons une <a href="/legal-address/">adresse légale</a> et un <a href="/contact-person-in-estonia/">service de personne de contact</a>, transmettons le courrier officiel et rappelons les échéances de l’EMTA et du registre du commerce. Nous accompagnons la <a href="/monthly-accounting-in-estonia/">comptabilité mensuelle</a>, le <a href="/tax-consulting-in-estonia/">conseil fiscal</a> et les <a href="/annual-report-for-estonian-companies/">rapports annuels</a>.
+
+Pour la TSD, cela signifie trois choses : les paiements aux membres du conseil sont déclarés correctement et à temps, les demandes de l’EMTA ne restent pas sans suite, et le passage au nouveau format se fait sans corrections manuelles de dernière minute.
+<h2>Trois cas concrets</h2>
+<b>Cas 1. Société d’e-résident avec des paiements uniquement à un membre du conseil.</b> Le propriétaire vit à l’étranger, perçoit une rémunération mensuelle de membre du conseil, et un comptable externe tient les comptes. Solution : vérifier avec le comptable que son logiciel prend en charge la nouvelle TSD ; si oui, rien ne change pour le propriétaire. Si le comptable saisissait les données à la main, la saisie manuelle dans e-MTA reste possible, mais passer à un logiciel réduit le risque d’erreur.
+
+<b>Cas 2. Petite équipe en Estonie sans logiciel comptable.</b> Trois salariés, salaires versés par la banque en ligne. Solution : le module de paie de SEB ou LHV – les données partent vers l’EMTA lors de la validation du paiement. Avec LHV, la déclaration est confirmée automatiquement à temps si elle n’a pas été modifiée et ne contient pas d’erreur.
+
+<b>Cas 3. Entreprise en croissance avec une paie dédiée.</b> 20 salariés, résidents et non-résidents, primes et remboursements. Solution : un logiciel de la liste de l’EMTA avec interface automatique ; les données sont transmises après chaque paiement et les erreurs corrigées dans le mois. Pour une telle entreprise, le gain est maximal : fini le transfert mensuel de données entre systèmes.
+
+Point commun : l’ampleur des changements ne dépend pas de la taille de l’entreprise, mais de l’organisation actuelle de votre paie.
+<h2>La suite</h2>
+La nouvelle TSD n’est que la première étape de l’EMTA vers des déclarations fondées sur les données. Les étapes suivantes sont déjà annoncées :
+<ul>
+ 	<li><b>printemps 2027</b> – la déclaration de TVA (KMD) et le registre de l’emploi (TÖR) passeront à la transmission de données ;</li>
+ 	<li><b>fin 2027</b> – fin de la prise en charge de l’import de l’ancien fichier CSV ;</li>
+ 	<li><b>2028</b> – les annexes 3 à 8 de la TSD, y compris les distributions de bénéfices, passeront à la transmission de données.</li>
+</ul>
+Selon l’EMTA, le passage aux déclarations fondées sur les données pourrait faire économiser aux entreprises jusqu’à 5 millions d’heures de travail par an. Pour les entreprises sans logiciel adapté, l’État propose des aides à la numérisation via l’EIS. Si vous êtes assujetti à la TVA, vérifiez dès maintenant comment votre logiciel gérera la KMD – voir <a href="/blog/vat-registration-estonia/">Immatriculation à la TVA en Estonie : quand est-elle obligatoire</a> et <a href="/blog/oss-and-ioss-in-estonia/">OSS et IOSS en Estonie</a>.
+<h2>Mini-glossaire</h2>
+<b>TSD</b> – déclaration mensuelle de l’impôt sur le revenu, de la taxe sociale, de l’assurance chômage et des cotisations de retraite.
+
+<b>TSD fondée sur les données (andmepõhine TSD)</b> – l’entreprise transmet les données de paiement, l’EMTA établit la déclaration.
+
+<b>Interface automatique (masin-masin liides)</b> – échange direct de données entre le logiciel comptable et l’EMTA.
+
+<b>XBRL GL</b> – standard de format de données dans lequel les fichiers TSD sont désormais importés.
+
+<b>X-tee</b> – plateforme publique estonienne d’échange de données ; LHV l’utilise pour transmettre les données de paie à e-MTA.
+
+<b>e-arveldaja</b> – logiciel comptable public et gratuit pour les start-up et les petites entreprises.
+
+<b>KMD et TÖR</b> – déclaration de TVA et registre de l’emploi ; ils passeront à la transmission électronique de données au printemps 2027.
+<h2>Que faire maintenant</h2>
+<ol>
+ 	<li>Vérifier que la TSD de septembre a été déposée selon l’ancienne méthode avant le 12 octobre 2026.</li>
+ 	<li>Choisir le canal pour les paiements d’octobre : logiciel, module bancaire SEB/LHV, e-arveldaja ou saisie manuelle.</li>
+ 	<li>Vérifier que votre logiciel figure sur la liste de l’EMTA et activer l’interface automatique.</li>
+ 	<li>Contrôler le paramétrage de l’abattement de 700 € et de la taxe sociale minimale.</li>
+ 	<li>Transmettre à l’avance les données d’octobre et confirmer la déclaration avant le 10 novembre.</li>
+ 	<li>Planifier la préparation à la KMD fondée sur les données à partir du printemps 2027.</li>
+</ol>
+<i>Cet article est fourni à titre informatif et ne constitue pas un conseil fiscal ou comptable. Les exigences techniques de transmission, les délais transitoires et les taux d’imposition peuvent évoluer. Avant de déposer votre déclaration, consultez emta.ee ou contactez nos spécialistes.</i>

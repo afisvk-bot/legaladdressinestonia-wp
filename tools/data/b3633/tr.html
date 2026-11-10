@@ -1,0 +1,236 @@
+<blockquote>Bu yazı, Estonya Vergi ve Gümrük İdaresi’nin (EMTA) TSD beyannamesinin veriye dayalı bildirime (andmepõhine TSD) geçişine ilişkin resmi açıklamalarına, “TSD beyannamesinin verilmesi” kılavuzuna ve uyumlu muhasebe programları listesine dayanmaktadır. Teknik ayrıntıları ve süreleri emta.ee üzerinden kontrol edin.</blockquote>
+<h2>Kısaca: 60 saniyede en önemli noktalar</h2>
+1 Ekim 2026’dan itibaren TSD — gelir vergisi ve sosyal vergi beyannamesi — bir form olarak değil, muhasebe programından gelen bir veri akışı olarak verilebiliyor. İşletme ödemelere ilişkin verileri gönderiyor; EMTA bu verilerden beyannameyi otomatik olarak oluşturuyor ve vergileri hesaplıyor.
+
+Temel bilgiler:
+<ul>
+ 	<li><b>Ödeme ve beyan süreleri değişmiyor.</b> TSD, ödemenin yapıldığı ayı izleyen ayın 10’una kadar onaylanmaya devam etmelidir.</li>
+ 	<li><b>Eylül TSD’si eski yöntemle verilir.</b> 10 Ekim 2026 cumartesiye denk geldiği için süre 12 Ekim’e uzatıldı.</li>
+ 	<li><b>Ekim ödemeleri yeni kurallara tabidir.</b> Ekim TSD’sinin son günü 10 Kasım 2026’dır.</li>
+ 	<li><b>Ek 1 ve Ek 2, tek bir “ödemeler” formuyla değiştirildi.</b> Bu form hem yerleşikleri hem yerleşik olmayanları, ayrıca ödemeleri ve iadeleri kapsar.</li>
+ 	<li><b>Ek 3–8 şimdilik değişmiyor.</b> 2028’de veri iletimine geçirilecekler.</li>
+ 	<li><b>Eski XML formatı artık geçerli değil.</b> Yeni dosya formatı XBRL GL standardında XML’dir; önceki CSV formatının yüklenmesi geçiş önlemi olarak 2027 sonuna kadar destekleniyor.</li>
+ 	<li><b>e-MTA’ya elle giriş seçeneği devam ediyor.</b> Programa geçmek zorunlu değil, ancak EMTA bunu kuvvetle öneriyor.</li>
+ 	<li><b>SEB ve LHV bankacılık modülleri zaten yeni sistemle çalışıyor.</b> Küçük şirketler için en basit seçenek budur.</li>
+</ul>
+Aşağıda tam olarak neyin değiştiğini, yeni sürecin nasıl işlediğini, küçük bir e-Resident şirketinin neyi seçmesi gerektiğini ve hangi hataların en pahalıya mal olduğunu açıklıyoruz.
+<h2>Yol ayrımı: size hangi beyan yöntemi uygulanır</h2>
+EMTA üç başlangıç durumu tanımlıyor. Değişikliklerin kapsamı hangisinin sizin durumunuz olduğuna bağlıdır.
+
+<b>Durum 1. Zaten otomatik arayüzü olan bir muhasebe programı kullanıyorsunuz.</b> Sizin için yalnızca veri aktarımının teknik formatı değişiyor. Yeni XBRL GL formatını program sağlayıcınız uyguluyor — EMTA listesinde olup olmadığını kontrol edin.
+
+<b>Durum 2. Muhasebeniz bir programda tutuluyor, ancak TSD’yi dosya olarak yüklüyor veya e-MTA’ya elle giriyorsunuz.</b> Kanal, format ve sürecin kendisi değişiyor. EMTA, programdaki otomatik arayüzü önceden etkinleştirmenizi ve gerekirse sağlayıcıdan yardım istemenizi öneriyor.
+
+<b>Durum 3. Muhasebe programı kullanmıyorsunuz.</b> Üç seçenek var: yeni TSD’yi destekleyen bir program seçmek, SEB veya LHV maaş modülünü kullanmak ya da girişimler ve küçük işletmeler için ücretsiz devlet hizmeti e-arveldaja’dan yararlanmak. e-MTA’ya elle giriş de mümkün olmaya devam ediyor.
+
+Yönetim kurulu üyesine tek bir ödeme yapan tipik bir e-Resident şirketi için pratik sonuç şu: Acilen bir şey satın almanıza gerek yok. Ancak hesaplarınızı bir muhasebeci tutuyorsa, Ekim TSD’sinin hangi kanaldan verileceğini onunla teyit edin — bunu son gün değil, 10 Kasım’dan önce yapın. Doğru altyapıya sahip bir muhasebeciyi nasıl seçeceğinizi <a href="/blog/how-to-choose-an-accountant-in-estonia/">Estonya’da muhasebeci seçimi</a> rehberimizde bulabilirsiniz.
+<h2>Neler değişti, neler aynı kaldı</h2>
+Asıl değişim yaklaşımda: İşletme EMTA’ya doldurulmuş beyanname değil, veri gönderiyor. Geri kalan her şey bundan kaynaklanıyor.
+<table>
+<tbody>
+<tr>
+<td><b>Parametre</b></td>
+<td><b>Ekim 2026’ya kadar</b></td>
+<td><b>Ekim 2026’dan itibaren</b></td>
+</tr>
+<tr>
+<td>Şirketin sunduğu</td>
+<td>Doldurulmuş beyanname</td>
+<td>Ödeme verileri</td>
+</tr>
+<tr>
+<td>Beyannameyi kim hazırlar</td>
+<td>Şirket veya muhasebeci</td>
+<td>Alınan verilere dayanarak EMTA</td>
+</tr>
+<tr>
+<td>Kanal</td>
+<td>e-MTA’ya elle giriş, dosya yükleme, X-tee</td>
+<td>Program API’si; yedek seçenek olarak e-MTA’ya elle veya dosyayla</td>
+</tr>
+<tr>
+<td>Ek 1 ve Ek 2</td>
+<td>Yerleşik ve yerleşik olmayanlar için ayrı formlar</td>
+<td>Tek “ödemeler” formu</td>
+</tr>
+<tr>
+<td>Ek 3–8</td>
+<td>Değişiklik yok</td>
+<td>2028’e kadar değişiklik yok</td>
+</tr>
+<tr>
+<td>Dosya formatı</td>
+<td>Önceki XML veya CSV</td>
+<td>XBRL GL standardında yeni XML; CSV 2027 sonuna kadar</td>
+</tr>
+<tr>
+<td>Ne zaman verilir</td>
+<td>Son güne yakın</td>
+<td>Ödemeden hemen sonra, olaylar gerçekleştikçe</td>
+</tr>
+<tr>
+<td>Geri bildirim</td>
+<td>e-MTA’da form doldurulduktan sonra</td>
+<td>Hatalar ve vergi hesaplaması dahil, anında muhasebe programında</td>
+</tr>
+<tr>
+<td>Onay</td>
+<td>Beyannamenin verilmesi</td>
+<td>e-MTA’nın oluşturduğu beyannamenin onaylanması</td>
+</tr>
+<tr>
+<td>Son tarih</td>
+<td>İzleyen ayın 10’u</td>
+<td>İzleyen ayın 10’u</td>
+</tr>
+</tbody>
+</table>
+Veriler üzerindeki kontrol şirkette kalıyor. EMTA, muhasebe programına erişimi olmadığını ve verilerin ne zaman aktarılacağına girişimcinin karar verdiğini vurguluyor. Programdan ön ödeme hesabının bakiyesi ve alacaklara ilişkin bilgiler de sorgulanabiliyor.
+<h2>Geçiş dönemi ve süreler</h2>
+Geçiş, beyan tarihine değil ödemenin yapıldığı aya bağlıdır. Ekim–Kasım 2026’da akılda tutulması gereken temel nokta budur.
+<table>
+<tbody>
+<tr>
+<td><b>Ödemelerin ait olduğu ay</b></td>
+<td><b>TSD nasıl verilir</b></td>
+<td><b>Son tarih</b></td>
+</tr>
+<tr>
+<td>Eylül 2026</td>
+<td>e-MTA’daki önceki çözüm</td>
+<td>12 Ekim 2026 (10 Ekim cumartesi)</td>
+</tr>
+<tr>
+<td>Ekim 2026</td>
+<td>Veriye dayalı yeni çözüm</td>
+<td>10 Kasım 2026</td>
+</tr>
+<tr>
+<td>Kasım 2026 ve sonrası</td>
+<td>Veriye dayalı yeni çözüm</td>
+<td>İzleyen ayın 10’u</td>
+</tr>
+</tbody>
+</table>
+Dosya yüklemeleri için ayrı bir geçiş düzenlemesi geçerlidir. Önceki XML formatı artık kabul edilmiyor; yeni format XBRL GL standardında XML’dir. e-MTA, mevcut CSV dosyalarının yüklenmesini 2027 sonuna kadar destekleyecek.
+<h2>Adım adım yeni süreç</h2>
+<h3>Adım 1. Ödeme ve veri aktarımı</h3>
+Maaş veya ücret ödendikten sonra muhasebeci, verilerin programdan EMTA’ya aktarımını başlatır. Bu, ay sonunu beklemeden hemen yapılabilir.
+<h3>Adım 2. EMTA’nın geri bildirimi</h3>
+EMTA verileri kontrol eder ve sonucu doğrudan programa geri gönderir: hesaplanan vergiler, uyarılar ve hatalar. Hatalar orada düzeltilip veriler yeniden gönderilebilir — e-MTA’ya giriş yapmaya gerek yoktur.
+<h3>Adım 3. Beyanname otomatik oluşturulur</h3>
+EMTA alınan verilere dayanarak beyannameyi oluşturur. Rapor muhasebe programında görünür.
+<h3>Adım 4. Onay</h3>
+Şirket veya muhasebeci beyannameyi ayın 10’una kadar onaylamalıdır. Onay olmadan beyan yükümlülüğü yerine getirilmiş sayılmaz.
+<h3>LHV bankacılık modülünün özelliği</h3>
+LHV internet bankacılığında bir maaş ödemesi onaylandığında veriler X-tee üzerinden e-MTA’ya gider ve TSD’yi önceden doldurur. Beyanname üç koşul sağlanırsa TSD son tarihine kadar otomatik olarak onaylanır: LHV maaş ödemesiyle oluşturulmuş olmalı, e-MTA’da değiştirilmemiş olmalı ve hata içermemelidir. Elle değişiklik yaptıysanız beyannameyi kendiniz onaylayın.
+<h2>2026’da TSD’de neler beyan edilir</h2>
+Yeni teknoloji vergi oranlarını değiştirmiyor. Programınızın 2026 ödemelerine uygulaması gereken oranlar şunlardır:
+<table>
+<tbody>
+<tr>
+<td><b>Vergi veya prim</b></td>
+<td><b>2026 oranı</b></td>
+<td><b>Kim öder</b></td>
+</tr>
+<tr>
+<td>Gelir vergisi</td>
+<td>Vergiden muaf tutar düşüldükten sonra %22</td>
+<td>Çalışanın ücretinden kesilir</td>
+</tr>
+<tr>
+<td>Vergiden muaf tutar</td>
+<td>Gelirden bağımsız olarak herkes için aylık 700 €</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Sosyal vergi</td>
+<td>%33; asgari matrah 886 €, asgari ödeme aylık 292,38 €</td>
+<td>İşveren</td>
+</tr>
+<tr>
+<td>İşsizlik sigortası</td>
+<td>%1,6</td>
+<td>Çalışan</td>
+</tr>
+<tr>
+<td>İşsizlik sigortası</td>
+<td>%0,8</td>
+<td>İşveren</td>
+</tr>
+<tr>
+<td>Fonlu emeklilik (ikinci basamak)</td>
+<td>Çalışanın tercihine göre %2, %4 veya %6</td>
+<td>Çalışan</td>
+</tr>
+</tbody>
+</table>
+Vergiden muaf tutar yalnızca çalışan bunun dikkate alınması için başvuru yaptıysa uygulanır. 2026’da sabit hale geldi — gelir arttıkça muaf tutarı azaltan önceki ölçek kaldırıldı. Hâlâ eski formülle hesaplayan programlar kesintilerde hata yapıyor.
+<h3>e-Resident şirketleri için önemli olanlar</h3>
+<b>Yönetim kurulu üyesi ücreti.</b> %22 gelir vergisi ve %33 sosyal vergiye tabidir, ancak işsizlik sigortasına tabi değildir. Bu, şirketi yurt dışından yöneten yerleşik olmayanlar için de geçerlidir: bu tür ödemeler, yerleşiklere yapılanlarla birlikte tek ödemeler kategorisine dahil edilir.
+
+<b>Ödeme yoksa TSD de yok.</b> Şirket ay içinde herhangi bir ödeme veya dağıtım yapmadıysa genellikle beyanname gerekmez. Bu, yıllık rapor yükümlülüğünü ortadan kaldırmaz — bkz. <a href="/blog/annual-report-estonia/">Estonya’da yıllık rapor</a>.
+
+<b>Temettüler ve örtülü ödemeler.</b> Kâr dağıtımları, özel menfaatler, hediyeler ve işle ilgisi olmayan giderler Ek 3–8’de beyan edilir. Bunlara şimdilik eski kurallar uygulanıyor ve dağıtımlarda gelir vergisi oranı 22/78’dir. Ayrıntılar için <a href="/blog/corporate-tax-estonia-2026/">Estonya kurumlar vergisi 2026</a> yazısına bakın.
+<h2>Sık yapılan hatalar</h2>
+<b>Eylül TSD’sini yeni sistem üzerinden vermek.</b> Eylül ödemeleri eski kurallara göre ve 12 Ekim son tarihiyle beyan edilir. Yeni sistem Ekim’den itibaren yapılan ödemelere uygulanır.
+
+<b>Verileri gönderip beyannameyi onaylamayı unutmak.</b> Veri göndermek beyan vermek demek değildir. EMTA’nın oluşturduğu beyanname ayın 10’una kadar onaylanmalıdır.
+
+<b>LHV üzerinden oluşturulan beyannameyi e-MTA’da değiştirip otomatik onay beklemek.</b> Elle yapılan değişikliklerden sonra otomatik onay çalışmaz.
+
+<b>Eski XML formatında dosya yüklemek.</b> Artık kabul edilmiyor. XBRL GL veya 2027 sonuna kadar önceki CSV formatı gerekiyor.
+
+<b>Eski vergiden muaf tutar ölçeğini kullanmak.</b> 2026’dan itibaren muaf tutar sabit: aylık 700 €. Güncel olmayan program ayarları her bordroda hataya yol açar.
+
+<b>Asgari sosyal vergiyi unutmak.</b> Kısmi zamanlı çalışmada, bir muafiyet olmadıkça işveren aylık en az 886 € üzerinden sosyal vergi ödemeye devam eder.
+
+<b>Hataları görmek için ayın 10’unu beklemek.</b> Yeni çözüm, verileri ödemeden hemen sonra gönderip önceden düzeltmeye olanak tanır. Son gün, ilk gönderim için en kötü andır.
+
+<b>Değişikliklerin yalnızca büyük şirketleri ilgilendirdiğini sanmak.</b> Tek yönetim kurulu üyesi olan bir şirket de TSD’yi aynı kurallara göre verir.
+<h2>Sistemi sürdürülebilir kılan altyapı</h2>
+Yeni TSD, hesaplarını zaten bir programda tutan ve doğru verilere sahip olanlara zaman kazandırıyor. Diğerleri için geçiş, KMD ve istihdam sicili 2027’de veri iletimine geçmeden önce bordro kayıtlarını düzene sokmak için bir fırsat.
+
+Legal Address in Estonia, e-Residency pazar yerinin resmi üyesi olan lisanslı kurumsal hizmet sağlayıcı eBusiness Solutions OÜ’nün (lisans FIU000421) bir projesidir. <a href="/legal-address/">Yasal adres</a> ve <a href="/contact-person-in-estonia/">irtibat kişisi hizmeti</a> sağlıyor, resmi yazışmaları iletiyor ve EMTA ile Ticaret Sicili sürelerini hatırlatıyoruz. <a href="/monthly-accounting-in-estonia/">Aylık muhasebe</a>, <a href="/tax-consulting-in-estonia/">vergi danışmanlığı</a> ve <a href="/annual-report-for-estonian-companies/">yıllık raporlar</a> konusunda destek veriyoruz.
+
+TSD açısından bu üç anlama geliyor: Yönetim kurulu üyelerine yapılan ödemeler doğru ve zamanında beyan edilir. EMTA’nın beyannamelerle ilgili talepleri gözden kaçmaz. Ve yeni formata geçiş son dakika elle düzeltmelere gerek kalmadan gerçekleşir.
+<h2>Gerçek hayattan üç senaryo</h2>
+<b>Senaryo 1. Yalnızca yönetim kurulu üyesine ödeme yapan bir e-Resident şirketi.</b> Sahibi yurt dışında yaşıyor, ayda bir yönetim kurulu üyesi ücreti alıyor ve hesapları dış bir muhasebeci tutuyor. Çözüm: muhasebeciye programının yeni TSD’yi destekleyip desteklemediğini sormak; destekliyorsa sahip için hiçbir şey değişmez. Muhasebeci verileri elle giriyorsa e-MTA’ya elle giriş hâlâ mümkün, ancak programa geçmek hata riskini azaltır.
+
+<b>Senaryo 2. Estonya’da muhasebe programı olmayan küçük bir ekip.</b> Üç çalışan; maaşlar internet bankacılığıyla ödeniyor. Çözüm: SEB veya LHV maaş modülü — veriler ödeme onaylandığında EMTA’ya gider. LHV’de, değiştirilmemiş ve hata içermeyen beyanname zamanında otomatik olarak onaylanır.
+
+<b>Senaryo 3. Ayrı bordro muhasebesi olan büyüyen bir şirket.</b> 20 çalışan, yerleşik ve yerleşik olmayanlar, primler ve iadeler. Çözüm: EMTA listesinden otomatik arayüzlü bir program; veriler her ödemeden sonra aktarılır ve hatalar ay içinde düzeltilir. Böyle bir şirket için fayda en yüksek düzeydedir — sistemler arası aylık veri aktarımı ortadan kalkar.
+
+Ortak nokta: Değişikliklerin kapsamını işletmenin büyüklüğü değil, bordro sisteminizin bugün nasıl düzenlendiği belirler.
+<h2>Sırada ne var</h2>
+Yeni TSD, EMTA’nın veriye dayalı raporlamaya yönelik ilk adımı. Sonraki aşamalar şimdiden açıklandı:
+<ul>
+ 	<li><b>2027 baharı</b> — KDV beyannamesi (KMD) ve istihdam sicili (TÖR) veri iletimine geçecek;</li>
+ 	<li><b>2027 sonu</b> — önceki CSV dosyasının yüklenmesine verilen destek sona erecek;</li>
+ 	<li><b>2028</b> — kâr dağıtımı dahil TSD’nin Ek 3–8’i veri iletimine geçecek.</li>
+</ul>
+EMTA’nın tahminlerine göre veriye dayalı raporlamaya geçiş, işletmelere yılda 5 milyon çalışma saatine kadar tasarruf sağlayabilir. Uygun programı olmayan şirketlere devlet, EIS aracılığıyla dijitalleşme hibeleri sunuyor. KDV mükellefiyseniz, programınızın KMD ile nasıl çalışacağını şimdiden kontrol etmeye değer — bkz. <a href="/blog/vat-registration-estonia/">Estonya’da KDV kaydı: ne zaman gerekli</a> ve <a href="/blog/oss-and-ioss-in-estonia/">Estonya’da OSS ve IOSS</a>.
+<h2>Mini sözlük</h2>
+<b>TSD</b> — gelir vergisi, sosyal vergi, işsizlik sigortası ve emeklilik primleri için aylık beyanname.
+
+<b>Veriye dayalı TSD (andmepõhine TSD)</b> — şirket ödeme verilerini iletir, beyannameyi EMTA oluşturur.
+
+<b>Otomatik arayüz (masin-masin liides)</b> — muhasebe programı ile EMTA arasında doğrudan veri alışverişi.
+
+<b>XBRL GL</b> — TSD dosyalarının artık yüklendiği veri formatı standardı.
+
+<b>X-tee</b> — Estonya devletinin veri alışverişi platformu; LHV bordro verilerini e-MTA’ya bunun üzerinden iletir.
+
+<b>e-arveldaja</b> — girişimler ve küçük işletmeler için ücretsiz devlet muhasebe programı.
+
+<b>KMD ve TÖR</b> — KDV beyannamesi ve istihdam sicili; 2027 baharında elektronik veri iletimine geçecekler.
+<h2>Şimdi ne yapmalı</h2>
+<ol>
+ 	<li>Eylül TSD’sinin 12 Ekim 2026’ya kadar eski yöntemle verildiğinden emin olun.</li>
+ 	<li>Ekim ödemeleri için kanala karar verin: program, SEB/LHV bankacılık modülü, e-arveldaja veya elle giriş.</li>
+ 	<li>Programınızın EMTA listesinde olup olmadığını kontrol edin ve otomatik arayüzü etkinleştirin.</li>
+ 	<li>700 € vergiden muaf tutar ve asgari sosyal vergi ayarlarını kontrol edin.</li>
+ 	<li>Ekim verilerini önceden gönderin ve beyannameyi 10 Kasım’a kadar onaylayın.</li>
+ 	<li>2027 baharından itibaren veriye dayalı KMD için hazırlığı planlayın.</li>
+</ol>
+<i>Bu yazı yalnızca bilgilendirme amaçlıdır ve vergi veya muhasebe danışmanlığı niteliği taşımaz. Veri iletimine ilişkin teknik gereklilikler, geçiş dönemi süreleri ve vergi oranları değişebilir. Beyannamenizi vermeden önce emta.ee’yi kontrol edin veya uzmanlarımıza başvurun.</i>

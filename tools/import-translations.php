@@ -58,7 +58,7 @@ function lai_tr_localize_links( string $html, string $lang, string $home_host, a
 			$log[] = "$url -> $new";
 			return 'href="' . esc_url( $new ) . '"';
 		}
-		$fb = array( 'vat-registration-estonia' => 2261, 'oss-and-ioss-in-estonia' => 2791, 'estonian-corporate-tax' => 2761, 'how-to-open-a-company-in-estonia-as-a-non-resident' => 2263, 'what-is-estonian-e-residency' => 2247, 'estonian-ou-balance-sheet-income-statement' => 2746, 'how-to-open-a-bank-account-for-an-estonian-company' => 2263 );
+		$fb = array( 'vat-registration-estonia' => 2261, 'oss-and-ioss-in-estonia' => 2791, 'estonian-corporate-tax' => 2761, 'how-to-open-a-company-in-estonia-as-a-non-resident' => 2263, 'what-is-estonian-e-residency' => 2247, 'estonian-ou-balance-sheet-income-statement' => 2746, 'how-to-open-a-bank-account-for-an-estonian-company' => 2263, 'annual-report-estonia' => 1398, 'corporate-tax-estonia-2026' => 2761, 'how-to-choose-an-accountant-in-estonia' => 2746, 'dividends-or-salary-estonia' => 2761, 'what-is-e-residency' => 2247, 'how-to-get-e-residency' => 2247 );
 		$slug = basename( untrailingslashit( (string) wp_parse_url( $url, PHP_URL_PATH ) ) );
 		if ( isset( $fb[ $slug ] ) && ( $alt = pll_get_post( $fb[ $slug ], $lang ) ) && 'publish' === get_post_status( $alt ) ) {
 			$log[] = "$url -> " . get_permalink( $alt ) . ' (no translation: related service)';

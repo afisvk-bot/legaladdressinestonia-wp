@@ -1,9 +1,65 @@
 {
-"uk":{"title":"Нові правила TSD з жовтня 2026: що змінилося","slug":"novi-pravyla-tsd-z-zhovtnya-2026","rm":["Нові правила TSD з жовтня 2026: що змінилося","З жовтня 2026 декларація TSD в Естонії переходить на передачу даних: кого стосується, перехідний період, новий порядок і що важливо e-резидентам.","нові правила TSD"]},
-"de":{"title":"Neue TSD-Regeln ab Oktober 2026: Was sich geändert hat","slug":"neue-tsd-regeln-ab-oktober-2026","rm":["Neue TSD-Regeln ab Oktober 2026: Was sich ändert","Ab Oktober 2026 wird die estnische TSD datenbasiert gemeldet: wen es betrifft, Übergangsfrist, neuer Ablauf und was E-Residents jetzt tun müssen.","neue TSD-Regeln"]},
-"es":{"title":"Nuevas normas de la TSD desde octubre de 2026: qué ha cambiado","slug":"nuevas-normas-tsd-octubre-2026","rm":["Nuevas normas de la TSD desde octubre de 2026","Desde octubre de 2026 la TSD estonia se presenta con datos: a quién afecta, periodo transitorio, el nuevo proceso y qué deben hacer los e-residentes.","nuevas normas de la TSD"]},
-"fr":{"title":"Nouvelles règles TSD dès octobre 2026 : ce qui a changé","slug":"nouvelles-regles-tsd-octobre-2026","rm":["Nouvelles règles TSD dès octobre 2026","Dès octobre 2026, la déclaration TSD estonienne passe aux données : qui est concerné, période transitoire, nouvelles étapes et ce que doivent faire les e-résidents.","nouvelles règles TSD"]},
-"pt":{"title":"Novas regras da TSD a partir de outubro de 2026: o que mudou","slug":"novas-regras-tsd-outubro-2026","rm":["Novas regras da TSD a partir de outubro de 2026","A partir de outubro de 2026 a TSD estónia passa a ser entregue com dados: a quem se aplica, período transitório, novo processo e o que os e-residentes devem fazer.","novas regras da TSD"]},
-"tr":{"title":"Ekim 2026’dan itibaren yeni TSD kuralları: Neler değişti?","slug":"ekim-2026-yeni-tsd-kurallari","rm":["Ekim 2026’dan İtibaren Yeni TSD Kuralları","Ekim 2026’dan itibaren Estonya TSD beyannamesi veriye dayalı hale geliyor: kimleri etkiliyor, geçiş dönemi, yeni adımlar ve e-Residentların yapması gerekenler.","yeni TSD kuralları"]},
-"zh":{"title":"2026年10月起TSD新规：有哪些变化","slug":"2026-10-tsd-xin-gui","rm":["2026年10月起爱沙尼亚TSD新规解读","2026年10月起爱沙尼亚TSD申报改为基于数据提交：适用对象、过渡期、新流程步骤以及电子居民公司需要注意的事项。","TSD新规"]}
+ "uk": {
+  "title": "Нові правила TSD з жовтня 2026: що змінилося",
+  "slug": "novi-pravyla-tsd-z-zhovtnya-2026",
+  "rm": [
+   "Нові правила TSD з жовтня 2026: що змінилося",
+   "З жовтня 2026 декларація TSD в Естонії переходить на передачу даних: кого стосується, перехідний період, новий порядок і що важливо e-резидентам.",
+   "нові правила TSD"
+  ]
+ },
+ "de": {
+  "title": "Neue TSD-Regeln ab Oktober 2026: Was sich geändert hat",
+  "slug": "neue-tsd-regeln-ab-oktober-2026",
+  "rm": [
+   "Neue TSD-Regeln ab Oktober 2026: Was sich ändert",
+   "Ab Oktober 2026 wird die estnische TSD datenbasiert gemeldet: wen es betrifft, Übergangsfrist, neuer Ablauf und was E-Residents jetzt tun müssen.",
+   "neue TSD-Regeln"
+  ]
+ },
+ "es": {
+  "title": "Nuevas normas de la TSD desde octubre de 2026: qué ha cambiado",
+  "slug": "nuevas-normas-tsd-octubre-2026",
+  "rm": [
+   "Nuevas normas de la TSD desde octubre de 2026",
+   "Desde octubre de 2026 la TSD estonia se presenta con datos: a quién afecta, periodo transitorio, el nuevo proceso y qué deben hacer los e-residentes.",
+   "nuevas normas de la TSD"
+  ]
+ },
+ "fr": {
+  "title": "Nouvelles règles TSD dès octobre 2026 : ce qui a changé",
+  "slug": "nouvelles-regles-tsd-octobre-2026",
+  "rm": [
+   "Nouvelles règles TSD dès octobre 2026",
+   "Dès octobre 2026, la TSD estonienne passe aux données : qui est concerné, période transitoire, nouvelles étapes et ce que doivent faire les e-résidents.",
+   "nouvelles règles TSD"
+  ]
+ },
+ "pt": {
+  "title": "Novas regras da TSD a partir de outubro de 2026: o que mudou",
+  "slug": "novas-regras-tsd-outubro-2026",
+  "rm": [
+   "Novas regras da TSD a partir de outubro de 2026",
+   "A partir de outubro de 2026 a TSD estónia passa a ser entregue com dados: a quem se aplica, período transitório, novo processo e o que fazem os e-residentes.",
+   "novas regras da TSD"
+  ]
+ },
+ "tr": {
+  "title": "Ekim 2026’dan itibaren yeni TSD kuralları: Neler değişti?",
+  "slug": "ekim-2026-yeni-tsd-kurallari",
+  "rm": [
+   "Ekim 2026’dan İtibaren Yeni TSD Kuralları",
+   "Ekim 2026’dan itibaren Estonya TSD beyannamesi veriye dayalı: kimleri etkiliyor, geçiş dönemi, yeni adımlar ve e-Residentların yapması gerekenler.",
+   "yeni TSD kuralları"
+  ]
+ },
+ "zh": {
+  "title": "2026年10月起TSD新规：有哪些变化",
+  "slug": "2026-10-tsd-xin-gui",
+  "rm": [
+   "2026年10月起爱沙尼亚TSD新规解读",
+   "2026年10月起爱沙尼亚TSD申报改为基于数据提交：适用对象、过渡期、新流程步骤以及电子居民公司需要注意的事项。",
+   "TSD新规"
+  ]
+ }
 }

@@ -13,30 +13,30 @@
    "priority": 100,
    "anchors": {
     "en": [
-     "legal address in Estonia",
      "registered address in Estonia",
      "registered office address",
+     "legal address in Estonia",
      "legal address"
     ],
     "ru": [
-     "юридический адрес в Эстонии",
      "юридического адреса в Эстонии",
-     "юридический адрес",
+     "юридический адрес в Эстонии",
      "юридического адреса",
-     "юридическим адресом"
+     "юридическим адресом",
+     "юридический адрес"
     ],
     "uk": [
+     "юридичної адреси в Естонії",
      "юридична адреса в Естонії",
      "юридичну адресу в Естонії",
-     "юридичної адреси в Естонії",
+     "юридичної адреси",
      "юридична адреса",
-     "юридичну адресу",
-     "юридичної адреси"
+     "юридичну адресу"
     ],
     "de": [
      "eingetragene Geschäftsadresse in Estland",
-     "Geschäftsadresse in Estland",
      "eingetragene Geschäftsadresse",
+     "Geschäftsadresse in Estland",
      "Geschäftsadresse"
     ],
     "es": [
@@ -45,24 +45,24 @@
      "domicilio social"
     ],
     "fr": [
-     "siège social en Estonie",
      "adresse légale en Estonie",
      "domiciliation en Estonie",
+     "siège social en Estonie",
      "siège social"
     ],
     "pt": [
      "endereço fiscal na Estónia",
-     "morada social na Estónia",
      "endereço legal na Estónia",
-     "morada social",
-     "sede social",
-     "endereço legal",
+     "morada social na Estónia",
      "endereço registado",
-     "morada registada"
+     "morada registada",
+     "endereço legal",
+     "morada social",
+     "sede social"
     ],
     "tr": [
-     "Estonya'da yasal adres",
      "Estonya'daki yasal adres",
+     "Estonya'da yasal adres",
      "yasal adres"
     ],
     "zh": [
@@ -98,22 +98,22 @@
     ],
     "de": [
      "Unternehmensgründung in Estland",
-     "Firmengründung in Estland",
-     "Unternehmen in Estland gründen"
+     "Unternehmen in Estland gründen",
+     "Firmengründung in Estland"
     ],
     "es": [
+     "constituir una empresa en Estonia",
      "registro de empresas en Estonia",
      "registro de empresa en Estonia",
-     "abrir una empresa en Estonia",
-     "constituir una empresa en Estonia"
+     "abrir una empresa en Estonia"
     ],
     "fr": [
      "enregistrement d'une société en Estonie",
      "création d'entreprise en Estonie",
      "créer une société en Estonie",
-     "création de société",
+     "enregistrement de société",
      "créer une entreprise",
-     "enregistrement de société"
+     "création de société"
     ],
     "pt": [
      "registo de empresas na Estónia",
@@ -121,17 +121,17 @@
      "abrir uma empresa na Estónia"
     ],
     "tr": [
+     "Estonya'da şirket kuruluşu",
      "Estonya'da şirket tescili",
      "Estonya'da şirket kurmak",
-     "Estonya'da şirket kuruluşu",
-     "şirket tescili",
      "şirket kuruluşu",
+     "şirket tescili",
      "şirket kurma"
     ],
     "zh": [
      "爱沙尼亚的公司注册",
-     "爱沙尼亚公司注册",
-     "在爱沙尼亚注册公司"
+     "在爱沙尼亚注册公司",
+     "爱沙尼亚公司注册"
     ]
    }
   },
@@ -148,19 +148,19 @@
     "ru": [
      "виртуальный офис в Эстонии",
      "виртуальный офис в Таллине",
-     "виртуальный офис",
-     "виртуального офиса"
+     "виртуального офиса",
+     "виртуальный офис"
     ],
     "uk": [
      "віртуальний офіс в Естонії",
-     "віртуальний офіс",
-     "віртуального офісу"
+     "віртуального офісу",
+     "віртуальний офіс"
     ],
     "de": [
      "virtuelles Büro in Estland",
      "virtuelles Büro in Tallinn",
-     "virtuelles Büro",
-     "virtuellen Büros"
+     "virtuellen Büros",
+     "virtuelles Büro"
     ],
     "es": [
      "oficina virtual en Estonia",
@@ -197,17 +197,17 @@
      "contact person"
     ],
     "ru": [
-     "контактное лицо в Эстонии",
      "контактного лица в Эстонии",
-     "контактное лицо",
+     "контактное лицо в Эстонии",
      "контактного лица",
-     "контактным лицом"
+     "контактным лицом",
+     "контактное лицо"
     ],
     "uk": [
-     "контактна особа в Естонії",
      "контактної особи в Естонії",
-     "контактна особа",
+     "контактна особа в Естонії",
      "контактної особи",
+     "контактна особа",
      "контактну особу"
     ],
     "de": [
@@ -220,8 +220,8 @@
      "persona de contacto"
     ],
     "fr": [
-     "interlocuteur en Estonie",
      "personne de contact en Estonie",
+     "interlocuteur en Estonie",
      "personne de contact"
     ],
     "pt": [
@@ -246,13 +246,13 @@
    "anchors": {
     "en": [
      "accounting services in Estonia",
-     "accounting services",
-     "bookkeeping in Estonia"
+     "bookkeeping in Estonia",
+     "accounting services"
     ],
     "ru": [
-     "бухгалтерия в Эстонии",
      "бухгалтерское обслуживание в Эстонии",
      "бухгалтерское обслуживание",
+     "бухгалтерия в Эстонии",
      "бухгалтерские услуги"
     ],
     "uk": [
@@ -262,8 +262,8 @@
     ],
     "de": [
      "Buchhaltungsdienstleistungen in Estland",
-     "Buchhaltung in Estland",
-     "Buchhaltungsdienstleistungen"
+     "Buchhaltungsdienstleistungen",
+     "Buchhaltung in Estland"
     ],
     "es": [
      "servicios de contabilidad en Estonia",
@@ -299,20 +299,20 @@
     "ru": [
      "годовой отчет в Эстонии",
      "годовой отчёт в Эстонии",
-     "годовой отчет",
-     "годовой отчёт",
      "годового отчета",
-     "годового отчёта"
+     "годового отчёта",
+     "годовой отчет",
+     "годовой отчёт"
     ],
     "uk": [
      "річний звіт в Естонії",
-     "річний звіт",
-     "річного звіту"
+     "річного звіту",
+     "річний звіт"
     ],
     "de": [
      "Jahresbericht in Estland",
-     "Jahresbericht",
-     "Jahresabschluss"
+     "Jahresabschluss",
+     "Jahresbericht"
     ],
     "es": [
      "informe anual en Estonia",
@@ -351,23 +351,23 @@
      "регистрация VAT номера в Эстонии",
      "регистрация VAT",
      "регистрации VAT",
+     "регистрация НДС",
+     "регистрации НДС",
+     "НДС-номера",
      "VAT номер",
      "номер VAT",
      "НДС-номер",
-     "НДС-номера",
      "номер НДС",
-     "регистрация НДС",
-     "регистрации НДС",
      "VAT-номер"
     ],
     "uk": [
      "реєстрація VAT в Естонії",
      "реєстрація VAT",
      "реєстрації VAT",
-     "номер VAT",
-     "номер ПДВ",
      "реєстрація ПДВ",
      "реєстрації ПДВ",
+     "номер VAT",
+     "номер ПДВ",
      "VAT-номер"
     ],
     "de": [
@@ -377,8 +377,8 @@
     ],
     "es": [
      "número de IVA en Estonia",
-     "número de IVA",
-     "registro del IVA"
+     "registro del IVA",
+     "número de IVA"
     ],
     "fr": [
      "immatriculation à la TVA en Estonie",
@@ -387,8 +387,8 @@
     ],
     "pt": [
      "número de IVA na Estónia",
-     "número de IVA",
-     "registo de IVA"
+     "registo de IVA",
+     "número de IVA"
     ],
     "tr": [
      "Estonya'da KDV numarası",
@@ -397,8 +397,8 @@
     ],
     "zh": [
      "在爱沙尼亚申请增值税号",
-     "增值税号",
-     "增值税注册"
+     "增值税注册",
+     "增值税号"
     ]
    }
   },
@@ -559,8 +559,8 @@
    "anchors": {
     "en": [
      "change legal address in Estonia",
-     "change of legal address",
-     "change your legal address"
+     "change your legal address",
+     "change of legal address"
     ],
     "ru": [
      "смена юридического адреса в Эстонии",
@@ -570,9 +570,9 @@
     ],
     "uk": [
      "зміна юридичної адреси в Естонії",
+     "змінити юридичну адресу",
      "зміна юридичної адреси",
-     "зміну юридичної адреси",
-     "змінити юридичну адресу"
+     "зміну юридичної адреси"
     ],
     "de": [
      "Änderung der eingetragenen Geschäftsadresse in Estland",
@@ -581,8 +581,8 @@
     ],
     "es": [
      "cambiar la dirección social en Estonia",
-     "cambio de domicilio social",
-     "cambiar el domicilio social"
+     "cambiar el domicilio social",
+     "cambio de domicilio social"
     ],
     "fr": [
      "modification de l'adresse sociale en Estonie",
@@ -619,14 +619,14 @@
     ],
     "ru": [
      "налоговый консалтинг в Эстонии",
-     "налоговый консалтинг",
      "налоговая консультация",
-     "налоговые консультации"
+     "налоговые консультации",
+     "налоговый консалтинг"
     ],
     "uk": [
      "податковий консалтинг в Естонії",
-     "податковий консалтинг",
-     "податкові консультації"
+     "податкові консультації",
+     "податковий консалтинг"
     ],
     "de": [
      "Steuerberatung in Estland",
@@ -722,17 +722,17 @@
     ],
     "ru": [
      "рабочая виза и ВНЖ в Эстонии",
+     "вид на жительство",
      "ВНЖ в Эстонии",
      "рабочая виза",
-     "рабочую визу",
-     "вид на жительство"
+     "рабочую визу"
     ],
     "uk": [
      "робоча віза та ВНЖ в Естонії",
+     "посвідка на проживання",
      "ВНЖ в Естонії",
      "робоча віза",
-     "робочу візу",
-     "посвідка на проживання"
+     "робочу візу"
     ],
     "de": [
      "Arbeitsvisa und Aufenthaltsgenehmigungen in Estland",
@@ -760,8 +760,8 @@
     ],
     "tr": [
      "Estonya'da çalışma vizeleri ve oturma izinleri",
-     "oturma izni",
-     "çalışma vizesi"
+     "çalışma vizesi",
+     "oturma izni"
     ],
     "zh": [
      "爱沙尼亚的工作签证和居留许可",
@@ -1612,20 +1612,20 @@
      "не з ЄС"
     ],
     "de": [
-     "Nicht-EU-Bürger",
-     "Gründer aus Drittstaaten"
+     "Gründer aus Drittstaaten",
+     "Nicht-EU-Bürger"
     ],
     "fr": [
      "non-Européens",
      "hors UE"
     ],
     "es": [
-     "ciudadanos no UE",
-     "fundadores de fuera de la UE"
+     "fundadores de fuera de la UE",
+     "ciudadanos no UE"
     ],
     "pt": [
-     "cidadãos não UE",
-     "fundadores de fora da UE"
+     "fundadores de fora da UE",
+     "cidadãos não UE"
     ],
     "tr": [
      "AB dışından",
@@ -1672,6 +1672,65 @@
     ],
     "zh": [
      "数字游民"
+    ]
+   }
+  },
+  {
+   "id": "accounting-restoration",
+   "target": 4578,
+   "priority": 46,
+   "anchors": {
+    "en": [
+     "restore the accounting",
+     "accounting restoration",
+     "overdue annual report",
+     "late annual report",
+     "overdue reports"
+    ],
+    "ru": [
+     "восстановление бухгалтерского учёта",
+     "просроченный годовой отчёт",
+     "восстановление учёта",
+     "просроченные отчёты",
+     "восстановить учёт"
+    ],
+    "uk": [
+     "відновлення бухгалтерського обліку",
+     "прострочений річний звіт",
+     "відновлення обліку",
+     "прострочені звіти"
+    ],
+    "de": [
+     "überfälliger Jahresbericht",
+     "überfällige Jahresberichte",
+     "verspäteter Jahresbericht",
+     "Buchhaltung nachholen"
+    ],
+    "fr": [
+     "remise à niveau comptable",
+     "rapport annuel en retard",
+     "rapports en retard"
+    ],
+    "es": [
+     "restablecimiento de la contabilidad",
+     "restablecer la contabilidad",
+     "informe anual atrasado",
+     "informes atrasados"
+    ],
+    "pt": [
+     "relatório anual em atraso",
+     "contabilidade em atraso",
+     "relatórios em atraso"
+    ],
+    "tr": [
+     "geciken yıllık rapor",
+     "muhasebe düzeltme",
+     "geciken raporlar"
+    ],
+    "zh": [
+     "逾期年度报告",
+     "逾期年报",
+     "账务恢复"
     ]
    }
   }

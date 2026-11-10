@@ -2,7 +2,7 @@
 /**
  * Plugin Name: LAI — Redirects
  * Description: 301-редиректы с адресов объединённых страниц-дублей на основные страницы. Срабатывает только если по старому адресу 404 (копия удалена).
- * Version:     1.0.0
+ * Version:     1.1.0
  *
  * Карта: путь (без домена) => ID основной записи. ID одинаковы на staging и проде (одна база).
  * Цель берётся через get_permalink(), поэтому редирект не ломается при смене slug основной страницы.
@@ -21,6 +21,8 @@ function lai_redirect_map(): array {
 		'/target/uma-empresa-est-nia-para-fundadores-de-fora-da-ue/'               => 2378, // PT
 		'/licensing/holding-crypto-igaming/'                                       => 2526, // ZH
 		'/registering-an-mt-in-estonia-2/'                                         => 3641, // ZH: английская копия → китайский перевод
+		// 2026-11-10: ES-версия «Восстановления бухучёта» получила испанский адрес
+		'/clean-up-2/'                                                             => 4597, // ES
 	);
 }
 

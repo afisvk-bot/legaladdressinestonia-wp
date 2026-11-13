@@ -1,0 +1,195 @@
+{
+ "info": {
+  "title": "Company Formation Services – International Company Formation",
+  "els": [
+   {
+    "sel": "body",
+    "text": "En\n\nEnRu\n\n\n                \n            \n            \n      ",
+    "ff": "Inter, sans-serif",
+    "fs": "15px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "h1",
+    "text": "We build working structures  not just register companies",
+    "ff": "Inter, sans-serif",
+    "fs": "56.925px",
+    "fw": "400",
+    "lh": "62.6175px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "h2",
+    "text": "Where are you headed?Start here",
+    "ff": "Inter, sans-serif",
+    "fs": "45px",
+    "fw": "400",
+    "lh": "51.75px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "h3",
+    "text": "Company formation",
+    "ff": "Inter, sans-serif",
+    "fs": "20px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "p",
+    "text": "Built to survive banking, licensing and compliance — not jus",
+    "ff": "Inter, sans-serif",
+    "fs": "15px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "nav a",
+    "text": "En",
+    "ff": "Inter, sans-serif",
+    "fs": "16px",
+    "fw": "500",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "uppercase"
+   },
+   {
+    "sel": "header a",
+    "text": "En",
+    "ff": "Inter, sans-serif",
+    "fs": "16px",
+    "fw": "500",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "uppercase"
+   },
+   {
+    "sel": "button",
+    "text": "",
+    "ff": "Arial",
+    "fs": "13.3333px",
+    "fw": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": ".btn",
+    "text": "Get a free consultation",
+    "ff": "Inter, sans-serif",
+    "fs": "15px",
+    "fw": "500",
+    "lh": "18.75px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "a",
+    "text": "En",
+    "ff": "Inter, sans-serif",
+    "fs": "16px",
+    "fw": "500",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "uppercase"
+   },
+   {
+    "sel": "li",
+    "text": "En\n\nEnRu",
+    "ff": "Inter, sans-serif",
+    "fs": "15px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "input",
+    "text": "",
+    "ff": "Arial",
+    "fs": "13.3333px",
+    "fw": "400",
+    "lh": "normal",
+    "ls": "normal",
+    "tt": "none"
+   },
+   {
+    "sel": "footer",
+    "text": "Home        \n        \n        \n            PFSER\nServices 20",
+    "ff": "Inter, sans-serif",
+    "fs": "15px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "tt": "none"
+   }
+  ],
+  "faces": [
+   "CROSS-ORIGIN https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.0.0/dist/tabler-icons.min.css",
+   "CROSS-ORIGIN https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+   "@font-face { font-family: FontAwesome; src: url(\"../fonts/fontawesome-webfont.woff2?v=4.3.0\") format(\"woff2\"), url(\"../fonts/fontawesome-webfont.woff?v=4.3.0\") format(\"woff\"), url(\"../fonts/fontawesome-webfont.ttf?v=4.3.0\") format(\"truetype\"); font-weight: normal; font-style: normal; }",
+   "@font-face { font-family: tabler-icons; font-style: normal; font-weight: 400; src: url(\"./fonts/tabler-icons.woff2?v3.0.0\") format(\"woff2\"), url(\"./fonts/tabler-icons.woff?\") format(\"woff\"), url(\"./fonts/tabler-icons.ttf?v3.0.0\") format(\"truetype\"); }"
+  ],
+  "loaded": [
+   "tabler-icons 400 normal unloaded",
+   "Inter 400 normal unloaded",
+   "Inter 400 normal unloaded",
+   "Inter 400 normal unloaded",
+   "Inter 400 normal unloaded",
+   "Inter 400 normal unloaded",
+   "Inter 400 normal unloaded",
+   "Inter 400 normal loaded",
+   "Inter 500 normal unloaded",
+   "Inter 500 normal unloaded",
+   "Inter 500 normal unloaded",
+   "Inter 500 normal unloaded",
+   "Inter 500 normal unloaded",
+   "Inter 500 normal unloaded",
+   "Inter 500 normal loaded",
+   "Inter 600 normal unloaded",
+   "Inter 600 normal unloaded",
+   "Inter 600 normal unloaded",
+   "Inter 600 normal unloaded",
+   "Inter 600 normal unloaded",
+   "Inter 600 normal unloaded",
+   "Inter 600 normal unloaded",
+   "Inter 700 normal unloaded",
+   "Inter 700 normal unloaded",
+   "Inter 700 normal unloaded",
+   "Inter 700 normal unloaded",
+   "Inter 700 normal unloaded",
+   "Inter 700 normal unloaded",
+   "Inter 700 normal unloaded",
+   "FontAwesome normal normal loaded",
+   "tabler-icons 400 normal unloaded"
+  ],
+  "links": [
+   "https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.0.0/dist/tabler-icons.min.css",
+   "https://staging.skin/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7",
+   "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+   "https://staging.skin/wp-content/themes/pfser/CSS/style.css?ver=1794555521",
+   "https://staging.skin/wp-content/themes/pfser/CSS/bootstrap.css?ver=4.0.0",
+   "https://staging.skin/wp-content/themes/pfser/CSS/slick.min.css?ver=1.8.1",
+   "https://staging.skin/wp-content/themes/pfser/CSS/blocks.css?ver=1794555521",
+   "https://staging.skin/wp-content/themes/pfser/CSS/font-awesome.min.css?ver=1794555521",
+   "https://staging.skin/wp-content/themes/pfser/CSS/ie.css?ver=1794555521",
+   "https://staging.skin/wp-content/themes/pfser/CSS/fm.revealator.jquery.css?ver=1794555521",
+   "https://staging.skin/wp-content/themes/pfser/CSS/flag-icons.min.css?ver=1794555521",
+   "https://staging.skin/wp-content/themes/pfser/CSS/tabler-icons.min.css?ver=1794555521"
+  ]
+ },
+ "fontReqs": [
+  "200 https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap",
+  "200 https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+  "200 https://staging.skin/wp-content/themes/pfser/fonts/fontawesome-webfont.woff2?v=4.3.0"
+ ]
+}

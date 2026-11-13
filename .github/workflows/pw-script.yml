@@ -1,0 +1,47 @@
+name: Playwright script
+
+# Запускает node-скрипт Playwright из репозитория (ветка ref).
+# Скрипт получает каталог вывода первым аргументом; всё из него коммитится в wp-output: out/pw-<run_id>/
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Ветка со скриптом"
+        required: true
+        default: "staging"
+      script:
+        description: "Путь к скрипту в репозитории"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+          path: src
+      - name: Install Playwright
+        run: |
+          mkdir -p /tmp/pw && cd /tmp/pw && npm init -y >/dev/null
+          npm i -s playwright@1.48.2 >/dev/null
+          npx playwright install --with-deps chromium >/dev/null
+      - name: Run
+        env:
+          SCRIPT: ${{ inputs.script }}
+        run: |
+          mkdir -p "$GITHUB_WORKSPACE/pwout"
+          cp "$GITHUB_WORKSPACE/src/$SCRIPT" /tmp/pw/run.js
+          cd /tmp/pw && node run.js "$GITHUB_WORKSPACE/pwout" 2>&1 | tee "$GITHUB_WORKSPACE/pwout/_stdout.log"
+      - name: Commit to wp-output
+        if: always()
+        run: |
+          mkdir -p /tmp/o && cd /tmp/o
+          git init -q && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git config user.name "github-actions" && git config user.email "github-actions@users.noreply.github.com"
+          git fetch -q --depth 1 origin wp-output && git checkout -q -b wp-output FETCH_HEAD
+          mkdir -p "out/pw-${GITHUB_RUN_ID}" && cp -r "$GITHUB_WORKSPACE/pwout/." "out/pw-${GITHUB_RUN_ID}/" 2>/dev/null || true
+          git add -f out && git commit -qm "pw ${GITHUB_RUN_ID}" && git push -q origin wp-output

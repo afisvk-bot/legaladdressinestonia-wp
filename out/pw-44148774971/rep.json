@@ -1,0 +1,51 @@
+{
+ "session": "{\"c\":\"AI: ChatGPT\",\"r\":\"https://chatgpt.com/\",\"u\":\"source=chatgpt.com\",\"l\":\"/annual-report-for-estonian-companies/?utm_source=chatgpt.com\"}",
+ "consult": {
+  "id": "456",
+  "options": [
+   "How did you hear about us? (optional)=",
+   "Google search=Google search",
+   "ChatGPT / AI assistant=ChatGPT / AI assistant",
+   "Recommendation=Recommendation",
+   "LinkedIn / Facebook / Instagram=LinkedIn / Facebook / Instagram",
+   "YouTube / TikTok=YouTube / TikTok",
+   "e-Residency Marketplace=e-Residency Marketplace",
+   "Trustpilot / reviews=Trustpilot / reviews",
+   "Other=Other"
+  ],
+  "hidden": [
+   "lead-channel:AI: ChatGPT",
+   "lead-referrer:https://chatgpt.com/",
+   "lead-utm:source=chatgpt.com",
+   "lead-landing:/annual-report-for-estonian-companies/?utm_source=chatgpt.com"
+  ]
+ },
+ "book": {
+  "options": [
+   "Select an option=",
+   "Google search=Google search",
+   "ChatGPT / AI assistant=ChatGPT / AI assistant",
+   "Recommendation=Recommendation",
+   "LinkedIn / Facebook / Instagram=LinkedIn / Facebook / Instagram",
+   "YouTube / TikTok=YouTube / TikTok",
+   "e-Residency Marketplace=e-Residency Marketplace",
+   "Trustpilot / reviews=Trustpilot / reviews",
+   "Other=Other"
+  ],
+  "hidden": [
+   "lead-channel:AI: ChatGPT",
+   "lead-referrer:https://chatgpt.com/",
+   "lead-utm:source=chatgpt.com",
+   "lead-landing:/annual-report-for-estonian-companies/?utm_source=chatgpt.com"
+  ]
+ },
+ "submit": {
+  "done": true,
+  "resp": "Thank you! We will contact you within 1 working day."
+ },
+ "ruBook": {
+  "label": "Откуда вы о нас узнали? (необязательно)",
+  "opts": "Выберите вариант | Поиск Google | ChatGPT / ИИ-ассистент | Рекомендация | LinkedIn / Facebook / Instagram | YouTube / TikTok | Маркетплейс e-Residency | Trustpilot / отзывы | Другое",
+  "ch": "Search: Google"
+ }
+}

@@ -1,0 +1,55 @@
+locations: {"primary-menu":{"zh":165,"de":161,"en":154,"es":163,"fr":166,"pt":162,"ru":155,"tr":164,"uk":156},"lan-menu":{"zh":85,"de":81,"en":80,"es":84,"fr":82,"pt":86,"ru":83,"tr":87,"uk":139},"menu-footer":{"zh":96,"de":92,"en":4,"es":95,"fr":93,"pt":97,"ru":94,"tr":98,"uk":140},"menu-footer-2":{"zh":171,"de":167,"en":141,"es":170,"fr":172,"pt":168,"ru":144,"tr":169,"uk":145},"menu-soc":{"zh":165,"de":99,"en":5,"es":102,"fr":100,"pt":104,"ru":101,"tr":105,"uk":146},"mobile_menu":{"zh":177,"de":161,"en":154,"es":163,"fr":166,"pt":162,"ru":155,"tr":164,"uk":156},"menu-mob":[],"main-menu":[],"menu-coc":[]}
+== 171 Footer 2 CN: no accounting item
+== 167 Footer 2 DE: no accounting item
+== 141 Footer 2 EN: no accounting item
+== 170 Footer 2 ES: no accounting item
+== 172 Footer 2 FR: no accounting item
+== 168 Footer 2 PT: no accounting item
+== 144 Footer 2 RU: no accounting item
+== 169 Footer 2 TR: no accounting item
+== 145 Footer 2 UK: no accounting item
+== 96 Footer CN: no accounting item
+== 92 Footer DE: no accounting item
+== 4 Footer EN: no accounting item
+== 95 Footer ES: no accounting item
+== 93 Footer FR: no accounting item
+== 97 Footer PT: no accounting item
+== 94 Footer RU: no accounting item
+== 98 Footer TR: no accounting item
+== 140 Footer UK: no accounting item
+== 85 Lan menu CN: no accounting item
+== 81 Lan menu DE: no accounting item
+== 80 Lan menu EN: no accounting item
+== 84 Lan menu ES: no accounting item
+== 82 Lan menu FR: no accounting item
+== 86 Lan menu PT: no accounting item
+== 83 Lan menu RU: no accounting item
+== 87 Lan menu TR: no accounting item
+== 139 Lan menu UK: no accounting item
+== 5 Menu Social: no accounting item
+== 103 Menu Social CN: no accounting item
+== 99 Menu Social DE: no accounting item
+== 102 Menu Social ES: no accounting item
+== 100 Menu Social FR: no accounting item
+== 104 Menu Social PT: no accounting item
+== 101 Menu Social RU: no accounting item
+== 105 Menu Social TR: no accounting item
+== 146 Menu Social UK: no accounting item
+== 177 Mobile Menu CN: «会计与税务» → 月度记账 | 更换会计 | 税务咨询 | 爱沙尼亚电子居民的会计核算 | 爱沙尼亚会计制度的重建 | 爱沙尼亚的中期财务报表 | 年度报告
+== 173 Mobile Menu DE: «Buchhaltung & Steuern» → Monatliche Buchhaltung | Steuerberatung
+== 157 Mobile Menu EN: «Accounting & Tax» → Monthly Accounting | Tax Consulting
+== 176 Mobile Menu ES: «Contabilidad e impuestos» → Contabilidad mensual | Asesoría fiscal
+== 178 Mobile Menu FR: «Comptabilité et fiscalité» → Comptabilité mensuelle | Conseil fiscal
+== 174 Mobile Menu PT: «Contabilidade e impostos» → Contabilidade mensal | Consultoria fiscal
+== 158 Mobile Menu RU: «Бухучет и налоги» → Ежемесячный учет | Налоговый консалтинг
+== 175 Mobile Menu TR: «Muhasebe ve vergi» → Aylık muhasebe | Vergi danışmanlığı
+== 159 Mobile Menu UK: «Бухоблік і податки» → Щомісячний облік | Податковий консалтинг
+== 165 Primary CN: «会计与税务» → 月度记账 | 更换会计 | 税务咨询 | 电子居民 | 财务整顿 | 中期报告 | 年度报告
+== 161 Primary DE: «Buchhaltung & Steuern» → Monatliche Buchhaltung | Buchhalterwechsel | Steuerberatung | Für e-Residents | Buchhaltungsaufarbeitung | Zwischenberichte | Jahresbericht
+== 154 Primary EN: «Accounting & Tax» → Monthly Accounting | Change of Accountant | Tax Consulting | For e-Residents | Accounting Reconstruction | Interim Reports | Annual Report
+== 163 Primary ES: «Contabilidad e impuestos» → Contabilidad mensual | Cambio de contable | Asesoría fiscal | La e-Residents | Reconstrucción Contable | Informes intermedios | Informe anual
+== 166 Primary FR: «Comptabilité et fiscalité» → Comptabilité mensuelle | Changement de comptable | Conseil fiscal | Les e-résidents | Reconstitution Comptable | Rapports intermédiaires | Rapport annuel
+== 162 Primary PT: «Contabilidade e impostos» → Contabilidade mensal | Mudança de contabilista | Consultoria fiscal | E-Residency | Reconstrução Contábil | Relatórios interinos | Relatório anual
+== 155 Primary RU: «Бухучет и налоги» → Ежемесячный учет | Смена бухгалтера | Налоговый консалтинг | Для е-резидентов | Восстановление бухучета | Промежуточная отчетность | Годовой отчет
+== 164 Primary TR: «Muhasebe ve vergi» → Aylık muhasebe | Muhasebeci değişikliği | Vergi danışmanlığı | E-Rezidentler için | Muhasebe Kurtarma | Ara Raporlar | Yıllık rapor
+== 156 Primary UK: «Бухоблік і податки» → Щомісячний облік | Зміна бухгалтера | Податковий консалтинг | Для e-резидентів | Відновлення бухобліку | Проміжна звітність | Річний звіт

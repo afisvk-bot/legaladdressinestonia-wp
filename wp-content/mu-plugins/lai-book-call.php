@@ -249,13 +249,12 @@ add_action( 'wp_footer', function () {
 :root{--lcf-g:#31d44b;--lcf-ink:#151a2d}
 /* шапка: десктоп */
 .lai-hc{display:none}
-@media (min-width:992px){.lai-hc{display:flex;flex-direction:column;align-items:flex-end;gap:2px;margin-left:20px;line-height:1.25}
+@media (min-width:1400px){.lai-hc{display:flex;flex-direction:column;align-items:flex-end;gap:2px;margin-left:20px;line-height:1.25}
 .lai-hc__tel{font-size:17px;font-weight:500;color:var(--lcf-ink)!important;text-decoration:none!important;white-space:nowrap}
 .lai-hc__book{font-size:15px;font-weight:500;color:var(--lcf-g)!important;text-decoration:none!important;border-bottom:1.5px solid currentColor;white-space:nowrap}}
-@media (min-width:992px) and (max-width:1239px){.lai-hc__tel{font-size:15px}.lai-hc__book{font-size:14px}.lai-hc{margin-left:12px}}
 /* шапка: мобильная */
 .lai-hm{display:none}
-@media (max-width:991px){.mob_ready{display:flex;align-items:center}.lai-hm{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:44px;height:44px;margin-right:10px;border-radius:14px;border:1px solid #e3e5ea;background:#fff;box-shadow:0 2px 8px rgba(20,30,50,.06);color:var(--lcf-g)!important}}
+@media (max-width:1399px){.mob_ready{display:flex;align-items:center}.lai-hm{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:44px;height:44px;margin-right:10px;border-radius:14px;border:1px solid #e3e5ea;background:#fff;box-shadow:0 2px 8px rgba(20,30,50,.06);color:var(--lcf-g)!important}}
 /* мобильное меню */
 .lai-mmc{margin:20px 30px 10px;padding-top:18px;border-top:1px solid #e9ebef}
 .lai-mmc a{display:flex;align-items:center;gap:10px;color:var(--lcf-ink)!important;text-decoration:none!important;margin-bottom:12px}

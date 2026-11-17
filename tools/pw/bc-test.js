@@ -7,13 +7,14 @@ const HIDE = '#lae-cookie-consent,[class*="lae-cookie"],[class*="cookie-consent"
   p.on('console', m => { if (m.type() === 'error') (rep.console = rep.console || []).push(m.text().slice(0, 200)); });
   await p.goto(B + '/', { waitUntil: 'networkidle' }); await p.addStyleTag({ content: HIDE });
   await p.screenshot({ path: out + '/d-header.png', clip: { x: 0, y: 0, width: 1440, height: 110 } });
-  for (const w of [1240, 1024]) { await p.setViewportSize({ width: w, height: 900 }); await p.waitForTimeout(300); await p.screenshot({ path: out + `/d-header-${w}.png`, clip: { x: 0, y: 0, width: w, height: 110 } }); }
+  for (const w of [1399, 1280, 1200, 1024, 992]) { await p.setViewportSize({ width: w, height: 900 }); await p.waitForTimeout(300); await p.screenshot({ path: out + `/d-header-${w}.png`, clip: { x: 0, y: 0, width: w, height: 110 } }); }
   await p.setViewportSize({ width: 1440, height: 900 });
   await p.locator('footer .lai-fc').scrollIntoViewIfNeeded(); await p.waitForTimeout(500);
   await p.locator('footer').first().screenshot({ path: out + '/d-footer.png' });
   await p.evaluate(() => window.scrollTo(0, 0));
   await p.click('.lai-hc__book'); await p.waitForTimeout(600);
   rep.modalVisible = await p.isVisible('#book-a-call');
+  rep.fixed = await p.evaluate(() => [...document.querySelectorAll('body *')].filter(e => { const s = getComputedStyle(e); if (s.position !== 'fixed') return false; const r = e.getBoundingClientRect(); return r.right > innerWidth - 150 && r.bottom > innerHeight - 200 && r.width > 0; }).map(e => e.tagName + '#' + e.id + '.' + String(e.className).slice(0, 80) + ' vis=' + getComputedStyle(e).visibility).slice(0, 12));
   await p.screenshot({ path: out + '/d-modal.png' });
   await p.click('.lcf .wpcf7-radio >> text=Telegram'); await p.waitForTimeout(300);
   rep.afterTg = await p.evaluate(() => [document.querySelector('.lcf-contact-label').textContent, document.querySelector('#lcf-contact').placeholder]);

@@ -1,0 +1,18 @@
+UK pages URLs: contacts=https://staging.dragonslots-gr.gr/kontakti/ annual=https://staging.dragonslots-gr.gr/richnyy-zvit-v-estoniyi/ team=https://staging.dragonslots-gr.gr/our-team/
+home UK id=1297 shortcode field: [contact-form-7 id="680abc5" title="form_UK"]
+form_UK resolves: 1301; by theme hash: NOT FOUND (fallback by title)
+form_EN resolves: 456; by theme hash: NOT FOUND (fallback by title)
+CF7 additional settings with webhooks/pipedrive: 
+options with pipedrive/webhook/zapier: vxcf_pipedrive_install_data, vxcf_pipedrive_version
+leads cols: id,form_id,status,type,is_read,is_star,user_id,ip,browser,screen,os,vis_id,url,meta,created,updated
+latest 5 leads: 
+  574 cf_4741 2026-11-17 16:30:27 https://staging.dragonslots-gr.gr/ru/
+  573 cf_456 2026-11-16 15:41:54 https://staging.dragonslots-gr.gr/ready-made-company-in-estonia/
+  572 cf_456 2026-11-13 06:53:27 https://staging.dragonslots-gr.gr/work-visa-residence-permit/
+  571 cf_456 2026-11-12 10:36:49 https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/
+  570 cf_491 2026-11-12 09:59:12 https://staging.dragonslots-gr.gr/jahresbericht-f-r-estnische-unternehmen/
+  569 cf_456 2026-11-11 20:04:04 https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/
+  568 cf_539 2026-11-09 14:09:49 https://staging.dragonslots-gr.gr/contacts/
+  567 cf_456 2026-11-09 05:36:47 https://staging.dragonslots-gr.gr/register-company-in-estonia-via-e-residency/
+UK-language leads (url contains /uk/): 0 by form: 
+PD plugins active? ["pipedrive-chatbot\/pipedrive-chatbot.php"]

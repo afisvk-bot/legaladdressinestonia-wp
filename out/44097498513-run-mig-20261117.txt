@@ -1,0 +1,33 @@
+Success: Успешная очистка всех кэшей.
+unsync #4578: not synchronized
+unsync #3639: not synchronized
+EN #4578 skipped: title is «Restoration of the Accounting System in Estonia»
+trash #1610: skipped (trash «Годовой отчет компании»)
+trash #2879: skipped (trash «Річний звіт компанії»)
+RU #3627 content_blocks_10_text_left: changed manually, kept
+  en: updated #4724 https://staging.dragonslots-gr.gr/change-of-accountant-in-estonia/
+  uk: updated #4521 https://staging.dragonslots-gr.gr/zmina-bukhhaltera-estonskoyi-kompaniyi/
+  de: updated #4725 https://staging.dragonslots-gr.gr/buchhalterwechsel-estland/
+  es: updated #4726 https://staging.dragonslots-gr.gr/cambio-de-contable-estonia/
+  fr: updated #4727 https://staging.dragonslots-gr.gr/changement-de-comptable-estonie/
+  pt: updated #4728 https://staging.dragonslots-gr.gr/mudanca-de-contabilista-estonia/
+  tr: updated #4729 https://staging.dragonslots-gr.gr/estonya-sirketi-muhasebeci-degisikligi/
+  zh: updated #4730 https://staging.dragonslots-gr.gr/change-of-accountant-zh/
+menu: «Annual Report» moved under Accounting & Tax
+menu: reordered (44 items)
+menu sync zh/primary-menu: +0 ~0 -0
+menu sync de/primary-menu: +0 ~0 -0
+menu sync es/primary-menu: +0 ~0 -0
+menu sync fr/primary-menu: +0 ~0 -0
+menu sync ru/primary-menu: +0 ~0 -0
+menu sync pt/primary-menu: +0 ~0 -0
+menu sync tr/primary-menu: +0 ~0 -0
+menu sync uk/primary-menu: +0 ~0 -0
+menu sync zh/mobile_menu: +0 ~0 -0
+menu sync de/mobile_menu: +0 ~0 -0
+menu sync es/mobile_menu: +0 ~0 -0
+menu sync fr/mobile_menu: +0 ~0 -0
+menu sync ru/mobile_menu: +0 ~0 -0
+menu sync pt/mobile_menu: +0 ~0 -0
+menu sync tr/mobile_menu: +0 ~0 -0
+menu sync uk/mobile_menu: +0 ~0 -0

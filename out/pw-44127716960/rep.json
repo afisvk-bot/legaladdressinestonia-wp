@@ -1,0 +1,26 @@
+{
+ "console": [
+  "requestStorageAccess: Permission denied.",
+  "requestStorageAccess: Permission denied."
+ ],
+ "modalVisible": true,
+ "fixed": [
+  "DIV#book-a-call.lcf-ov vis=visible",
+  "IFRAME#LeadboosterContainer.proactiveChat vis=hidden"
+ ],
+ "afterTg": [
+  "Telegram",
+  "@username or phone"
+ ],
+ "emptySubmit": {
+  "resp": "Please check the highlighted fields.",
+  "tips": [
+   "Please fill in this field.",
+   "Please fill in this field."
+  ]
+ },
+ "badEmail": [
+  "Please enter a valid email."
+ ],
+ "closedByEsc": true
+}

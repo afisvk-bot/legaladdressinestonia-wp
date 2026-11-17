@@ -1,0 +1,3 @@
+term 221 sync={"zh":"en","en":"en"} | zh:3641 en:3639 tr:3652 de:3644 es:3646 fr:3648 ru:3586 pt:3650 uk:3591 | service "Registering an MTÜ in Estonia"
+term 228 sync={"es":"en","en":"en"} | en:4578 fr:4588 de:4584 ru:3625 uk:4572 pt:4590 tr:4595 es:4597 zh:4599 | service "Restablecimiento de la contabilidad en Estonia"
+groups with sync: 2

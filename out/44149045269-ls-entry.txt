@@ -1,0 +1,11 @@
+lead #575
+  your-name = TEST Claude — lead source check
+  contact-method = ["Phone"]
+  contact-value = +372 5555 0000
+  lead-source = ["ChatGPT \/ AI assistant"]
+  lead-channel = AI: ChatGPT
+  lead-referrer = https://chatgpt.com/
+  lead-utm = source=chatgpt.com
+  lead-landing = /annual-report-for-estonian-companies/?utm_source=chatgpt.com
+  your-message = Test request from staging. Please ignore.
+  lcf-website = 

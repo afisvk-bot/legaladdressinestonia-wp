@@ -1,0 +1,19 @@
+aiowps_enable_rename_login_page = 1
+aiowps_login_page_slug = setting
+aiowps_enable_login_lockdown = 
+aiowps_enable_brute_force_attack_prevention = 
+aiowps_enable_whitelisting = 
+aiowps_allowed_ip_addresses = 
+aiowps_enable_6g_firewall = 
+aiowps_prevent_users_enumeration = 1
+aiowps_enable_login_captcha = 1
+aiowps_default_captcha = google-recaptcha-v2
+lockouts (last 10): 
+latest posts:
+  #4671 post 2026-11-10 10:11:22 爱沙尼亚公司创始人的签证与居留许可
+  #4670 post 2026-11-10 10:11:21 Estonya şirket kurucuları için vize ve oturma izin
+  #4669 post 2026-11-10 10:11:20 Vistos e autorizações de residência para fundadore
+  #4667 post 2026-11-10 10:11:19 Visados y permisos de residencia para fundadores d
+  #4668 post 2026-11-10 10:11:19 Visas et titres de séjour pour les fondateurs de s
+updraft last restore: false
+files mtime functions.php: 2026-11-10T10:10:03+00:00

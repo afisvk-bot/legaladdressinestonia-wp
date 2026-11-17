@@ -28,7 +28,7 @@ def bullets(intro, items, outro=None):
 
 def related(items, art_text, art_anchor):
     lis = '\n'.join(f' \t<li><a href="{LINKS[k]}"><b>{name}</b></a> — {why}</li>' for k, name, why in items)
-    return f'<ul>\n{lis}\n</ul>\n<p>{art_text} <a href="{LINKS["blog"]}">{art_anchor}</a>.</p>'
+    return f'<ul>\n{lis}\n</ul>\n<p class="lai-art">{art_text} <a href="{LINKS["blog"]}">{art_anchor}</a>.</p>'
 
 
 def practice(h2, h_check, check_head, check, h_access, access, h_when, when, h_noreply, noreply, h_dur, dur_head, dur):

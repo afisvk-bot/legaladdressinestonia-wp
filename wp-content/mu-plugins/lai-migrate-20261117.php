@@ -138,7 +138,14 @@ function lai_mig_20261117_run(): array {
 				foreach ( $vals as $v ) add_post_meta( $id, $k, wp_slash( maybe_unserialize( $v ) ) );
 			}
 			$miss = 0;
-			foreach ( $tr['fields'] as $k => $v ) update_post_meta( $id, $k, wp_slash( lai_mig_20261117_links( $v, $lang, $miss ) ) );
+			foreach ( $tr['fields'] as $k => $v ) {
+				// Абзац со ссылкой на статью блога: если статьи на этом языке нет — абзац убираем.
+				$v = preg_replace_callback( '#<p class="lai-art">.*?</p>#s', function ( $m ) use ( $lang ) {
+					$x = 0; $p = lai_mig_20261117_links( $m[0], $lang, $x );
+					return $x ? '' : $p;
+				}, $v );
+				update_post_meta( $id, $k, wp_slash( lai_mig_20261117_links( $v, $lang, $miss ) ) );
+			}
 			update_post_meta( $id, '_lai_tr_source', $src->ID );
 			$tpl = get_page_template_slug( $src->ID );
 			if ( $tpl ) update_post_meta( $id, '_wp_page_template', $tpl );

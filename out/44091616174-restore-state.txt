@@ -1,0 +1,48 @@
+lai_mig_20261106: applied 2026-11-06 07:54:25 (15 log lines)
+lai_mig_20261106b: applied 2026-11-06 09:11:08 (5 log lines)
+lai_mig_20261106c: applied 2026-11-06 16:32:07 (1 log lines)
+lai_mig_20261110: applied 2026-11-10 10:18:29 (37 log lines)
+lai_mig_20261110b: applied 2026-11-10 10:19:34 (40 log lines)
+  issues: none
+#3035 langs=9 en,uk,ru,de,fr,es,pt,tr,zh
+#2995 langs=9 en,ru,uk,de,es,fr,pt,tr,zh
+#3633 langs=9 en,ru,uk,de,es,fr,pt,tr,zh
+#4565 langs=9 en,ru,uk,de,es,fr,pt,tr,zh
+#4614 langs=9 en,ru,uk,de,es,fr,pt,tr,zh
+4565 title: Estonia Employment Contract Guide: Key Requirements
+redirect /industry/startups/: present
+4610 content len=27955 modified=2026-11-10 08:13:27 blocks=1
+4614 content len=21288 blocks=1
+latest modified:
+  #4723 post auto-draft 2026-11-16 15:38:35 Черновик
+  #3627 service publish 2026-11-13 11:33:22 Смена бухгалтера эстонской компании
+  #4573 service publish 2026-11-13 11:21:52 Проміжна фінансова звітність в Естонії
+  #4712 service publish 2026-11-13 11:08:37 Estonya’da Ara Dönem Mali Tabloları
+  #4711 service auto-draft 2026-11-13 11:08:16 Черновик
+  #4710 service publish 2026-11-13 11:08:00 Demonstrações financeiras intercalares na Estónia
+  #4709 service auto-draft 2026-11-13 11:07:30 Черновик
+  #4708 service publish 2026-11-13 11:07:11 États financiers intermédiaires en Estonie
+  #4707 service auto-draft 2026-11-13 11:06:45 Черновик
+  #4706 service publish 2026-11-13 11:06:27 Estados financieros provisionales en Estonia
+  #4705 service auto-draft 2026-11-13 11:06:15 Черновик
+  #4704 service publish 2026-11-13 11:05:58 Zwischenabschlüsse in Estland
+new since 2026-11-10:
+  #3626 service publish ru 2026-11-13 09:24:36 Промежуточная финансовая отчетность в Эстонии
+  #3627 service publish ru 2026-11-13 11:33:22 Смена бухгалтера эстонской компании
+  #4573 service publish uk 2026-11-13 11:21:52 Проміжна фінансова звітність в Естонії
+  #4697 post auto-draft ru 2026-11-13 09:18:43 Черновик
+  #4698 service auto-draft en 2026-11-13 09:25:03 Черновик
+  #4699 service publish en 2026-11-13 09:27:38 Interim Financial Statements in Estonia
+  #4701 service auto-draft zh 2026-11-13 11:04:47 Черновик
+  #4702 service publish zh 2026-11-13 11:05:11 爱沙尼亚的中期财务报表
+  #4703 service auto-draft de 2026-11-13 11:05:29 Черновик
+  #4704 service publish de 2026-11-13 11:05:48 Zwischenabschlüsse in Estland
+  #4705 service auto-draft es 2026-11-13 11:06:15 Черновик
+  #4706 service publish es 2026-11-13 11:06:27 Estados financieros provisionales en Estonia
+  #4707 service auto-draft fr 2026-11-13 11:06:45 Черновик
+  #4708 service publish fr 2026-11-13 11:07:11 États financiers intermédiaires en Estonie
+  #4709 service auto-draft pt 2026-11-13 11:07:30 Черновик
+  #4710 service publish pt 2026-11-13 11:08:00 Demonstrações financeiras intercalares na Estónia
+  #4711 service auto-draft tr 2026-11-13 11:08:16 Черновик
+  #4712 service publish tr 2026-11-13 11:08:37 Estonya’da Ara Dönem Mali Tabloları
+  #4723 post auto-draft en 2026-11-16 15:38:35 Черновик

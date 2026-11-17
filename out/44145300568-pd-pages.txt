@@ -1,0 +1,8 @@
+#2 page en «Legal address» https://staging.dragonslots-gr.gr/ tpl= key=shortcode
+#141 page de «Firmenadresse» https://staging.dragonslots-gr.gr/de/ tpl= key=shortcode
+#142 page fr «Adresse juridique» https://staging.dragonslots-gr.gr/fr/ tpl= key=shortcode
+#143 page ru «Юридический адрес» https://staging.dragonslots-gr.gr/ru/ tpl= key=shortcode
+#144 page es «Domicilio legal» https://staging.dragonslots-gr.gr/es/ tpl= key=shortcode
+#145 page zh «合法地址» https://staging.dragonslots-gr.gr/zh/ tpl= key=shortcode
+#146 page pt «Endereço legal» https://staging.dragonslots-gr.gr/pt/ tpl= key=shortcode
+#147 page tr «Yasal adres» https://staging.dragonslots-gr.gr/tr/ tpl= key=shortcode

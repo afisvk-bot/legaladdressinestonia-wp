@@ -314,7 +314,7 @@ body.lcf-open #LeadboosterContainer,body.lcf-open [id^="Leadbooster"],body.lcf-o
 (function(){
  var ov=document.getElementById('book-a-call'); if(!ov) return;
  var cfg=<?php echo wp_json_encode( $cfg ); ?>, last=null;
- function open(e){ if(e) e.preventDefault(); last=document.activeElement; ov.hidden=false; document.body.classList.add('lcf-open'); setTimeout(function(){var i=ov.querySelector('#lcf-name'); if(i) i.focus();},50); }
+ function open(e){ if(e) e.preventDefault(); last=document.activeElement; ov.hidden=false; document.body.classList.add('lcf-open'); if(window.matchMedia&&matchMedia('(pointer:fine)').matches) setTimeout(function(){var i=ov.querySelector('#lcf-name'); if(i) i.focus();},50); }
  function close(){ ov.hidden=true; document.body.classList.remove('lcf-open'); var b=ov.querySelector('.lcf__body'), d=ov.querySelector('.lcf__done'); if(!d.hidden){d.hidden=true;b.hidden=false;} if(last&&last.focus) last.focus(); }
  document.addEventListener('click',function(e){ var a=e.target.closest('[data-lai-book],a[href$="#book-a-call"]'); if(a){ open(e); var mm=document.querySelector('.mm-toggle[aria-expanded="true"]'); if(mm) mm.click(); return; } if(e.target===ov||e.target.closest('[data-lcf-close]')) close(); });
  document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!ov.hidden) close(); });

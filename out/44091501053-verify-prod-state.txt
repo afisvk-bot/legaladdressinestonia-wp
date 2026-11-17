@@ -1,0 +1,28 @@
+mu/staging-guard.php                      md5 8495de808ac273440f72ef904bcb05a7
+mu/lai-disclaimer.php                     md5 8458b44235bf2c11b616ffc202f0eca7
+mu/lai-redirects.php                      md5 7891a8e3d41befe515c18d10ec8acbee
+mu/lai-article-schema.php                 md5 b4558f27d3b363f790846125abbd63f9
+mu/lai-interlinking.php                   md5 cbe7c01d193e2cab0d82049db8d8b0db
+mu/lai-migrate-20261106.php               MISSING
+mu/lai-migrate-20261106b.php              MISSING
+mu/lai-migrate-20261106c.php              MISSING
+mu/lai-data/lai-link-matrix.json          md5 33385cea2c6be1f0b34f8a268137db73
+mu/lai-data/meta-20261106.json            MISSING
+th/functions.php                          md5 26abc9bed259124889dc4f05cebfd960
+th/single.php                             md5 f25e7e721e9657dec74090dffeec9d16
+th/template-parts/content-flex.php        md5 cef3bf1b6bc89999b4ffad0010fef567
+th/inc/mobile-menu.php                    md5 1791df1a06a470d902bb9536a1357ee2
+lai_mig_20261106: 2026-11-06 07:54:25 
+lai_mig_20261106b: 2026-11-06 09:11:08 updated 1303 fields, already ok 24, kept manual edits 0, skipped pages 1
+lai_mig_20261106c: 2026-11-06 16:32:07 pages 85, fields 115, {"broken-legal":80,"xlang":275,"broken":20,"xlang-no-translation":11}
+blog_public=0 home=https://staging.dragonslots-gr.gr
+UK accounting page: #4575 publish https://staging.dragonslots-gr.gr/bukhhalteriya-dlya-kompaniy-e-rezydentiv-estoniyi/
+3641 zh group: {"en":3639,"zh":3641,"tr":3652,"de":3644,"es":3646,"fr":3648,"ru":3586,"pt":3650,"uk":3591}
+stray 4535 status: trash, 3642: trash
+1269 rm_title: Legal Address in Estonia from €250/Year — Setup in 1 Day
+4529 rm_title: Estonian Company for Startups — Register Online
+bank article group 1629: {"en":1629,"ru":1620,"uk":1630}
+uk legal robots 1308: ["noindex","nofollow"]
+en privacy links in content (xlang sample): 2 cf7 forms still link /privacy-policy
+posts count: {"en":24,"zh":16,"de":12,"es":11,"fr":11,"ru":24,"pt":11,"tr":14,"uk":15}
+last modified posts: #3627 service 2026-11-13 11:33:22 | #4573 service 2026-11-13 11:21:52 | #4712 service 2026-11-13 11:08:37 | #4710 service 2026-11-13 11:08:00 | #4708 service 2026-11-13 11:07:11 | 

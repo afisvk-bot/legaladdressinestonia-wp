@@ -254,7 +254,8 @@ add_action( 'wp_footer', function () {
 .lai-hc__book{font-size:15px;font-weight:500;color:var(--lcf-g)!important;text-decoration:none!important;border-bottom:1.5px solid currentColor;white-space:nowrap}}
 /* шапка: мобильная */
 .lai-hm{display:none}
-@media (max-width:1399px){.mob_ready{display:flex;align-items:center}.lai-hm{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:44px;height:44px;margin-right:10px;border-radius:14px;border:1px solid #e3e5ea;background:#fff;box-shadow:0 2px 8px rgba(20,30,50,.06);color:var(--lcf-g)!important}}
+@media (max-width:991px),(min-width:1280px) and (max-width:1399px){.mob_ready{display:flex;align-items:center}.lai-hm{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:44px;height:44px;margin-right:10px;border-radius:14px;border:1px solid #e3e5ea;background:#fff;box-shadow:0 2px 8px rgba(20,30,50,.06);color:var(--lcf-g)!important}}
+@media (min-width:1280px) and (max-width:1399px){.lai-hm{width:38px;height:38px;border-radius:8px;box-shadow:none;border-color:#c9ccd3}}
 /* мобильное меню */
 .lai-mmc{margin:20px 30px 10px;padding-top:18px;border-top:1px solid #e9ebef}
 .lai-mmc a{display:flex;align-items:center;gap:10px;color:var(--lcf-ink)!important;text-decoration:none!important;margin-bottom:12px}
@@ -271,7 +272,7 @@ add_action( 'wp_footer', function () {
 .lcf-ov{position:fixed;inset:0;z-index:100000;background:rgba(15,22,38,.55);backdrop-filter:blur(3px);display:flex;align-items:center;justify-content:center;padding:16px;overflow:auto}
 .lcf-ov[hidden]{display:none}
 body.lcf-open{overflow:hidden}
-body.lcf-open [class*="chat"],body.lcf-open [id*="chat"],body.lcf-open iframe[title*="chat" i]{visibility:hidden!important}
+body.lcf-open #LeadboosterContainer,body.lcf-open [id^="Leadbooster"],body.lcf-open [class*="proactiveChat"]{visibility:hidden!important}
 .lcf{position:relative;background:#fff;border-radius:24px;width:100%;max-width:720px;margin:auto;padding:46px 56px 36px;color:var(--lcf-ink);box-shadow:0 30px 80px rgba(10,20,40,.25)}
 .lcf__x{position:absolute;top:20px;right:22px;width:40px;height:40px;border-radius:12px;border:1px solid #e3e5ea;background:#fff;font-size:26px;line-height:1;color:var(--lcf-ink);cursor:pointer;padding:0}
 .lcf__h{font-size:34px;font-weight:500;line-height:1.15;margin:0 0 8px;letter-spacing:-.4px}

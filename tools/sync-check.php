@@ -1,8 +1,13 @@
 <?php
 global $wpdb;
-echo "polylang sync option: ", wp_json_encode( ( get_option( 'polylang' ) )['sync'] ?? null ), "\n";
-foreach ( $wpdb->get_results( "SELECT post_id, meta_key, meta_value FROM {$wpdb->postmeta} WHERE meta_key LIKE '%pll%sync%' OR meta_key = '_pll_sync_post' ORDER BY post_id" ) as $r ) {
-	$p = get_post( $r->post_id );
-	echo "#{$r->post_id} {$p->post_type} {$p->post_status} ", pll_get_post_language( $r->post_id ), " \"", mb_substr( $p->post_title, 0, 50 ), "\" {$r->meta_key}={$r->meta_value}\n";
+$n = 0;
+foreach ( $wpdb->get_results( "SELECT t.term_id, tt.description FROM {$wpdb->term_taxonomy} tt JOIN {$wpdb->terms} t ON t.term_id=tt.term_id WHERE tt.taxonomy='post_translations'" ) as $r ) {
+	$d = maybe_unserialize( $r->description );
+	if ( is_array( $d ) && ! empty( $d['sync'] ) ) {
+		$n++;
+		$ids = array(); foreach ( $d as $l => $id ) if ( 'sync' !== $l ) $ids[] = "$l:$id";
+		$first = (int) ( $d['en'] ?? $d['ru'] ?? reset( $d ) );
+		echo "term {$r->term_id} sync=", wp_json_encode( $d['sync'] ), " | ", implode( ' ', $ids ), " | ", get_post_type( $first ), " \"", mb_substr( get_the_title( $first ), 0, 50 ), "\"\n";
+	}
 }
-echo "pll meta keys on 4578: ", implode( ',', array_filter( array_keys( get_post_meta( 4578 ) ), function ( $k ) { return false !== stripos( $k, 'pll' ); } ) ), "\n";
+echo "groups with sync: $n\n";

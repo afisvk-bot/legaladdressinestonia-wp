@@ -1,0 +1,106 @@
+== #4578
+content_blocks_1_anchor :: Enviar solicitud
+content_blocks_2_anchor :: Obtener asesoramiento
+content_blocks_6_tariff_title :: Precio de los servicios
+content_blocks_6_tariff_items_0_name :: Paquete «Diagnóstico» 
+content_blocks_6_tariff_items_0_description_green :: 
+content_blocks_6_tariff_items_0_description :: 
+content_blocks_6_tariff_items_0_price_from :: desde
+content_blocks_6_tariff_items_0_price_up_to :: 
+content_blocks_6_tariff_items_0_price_year :: 
+content_blocks_6_tariff_items_0_package_star :: 
+content_blocks_6_tariff_items_0_package_anchor :: Solicitar
+content_blocks_6_tariff_items_1_description_green :: 
+content_blocks_6_tariff_items_1_description :: 
+content_blocks_6_tariff_items_1_price_from :: desde
+content_blocks_6_tariff_items_1_price_up_to :: 
+content_blocks_6_tariff_items_1_price_year :: 
+content_blocks_6_tariff_items_1_package_star :: 
+content_blocks_6_tariff_items_1_package_anchor :: Solicitar
+content_blocks_6_tariff_items_2_name :: Paquete «Restablecimiento integral» 
+content_blocks_6_tariff_items_2_description_green :: 
+content_blocks_6_tariff_items_2_description :: 
+content_blocks_6_tariff_items_2_price_from :: desde
+content_blocks_6_tariff_items_2_price_up_to :: 
+content_blocks_6_tariff_items_2_price_year :: 
+content_blocks_6_tariff_items_2_package_anchor :: Solicitar
+content_blocks_11_faq_title :: Preguntas frecuentes
+content_blocks_12_final_cta_ancor :: Solicitar
+content_blocks_1_button_styles :: 
+content_blocks_2_button_styles :: 
+content_blocks_6_tariff_items_0_package_button_styles :: 
+content_blocks_6_tariff_items_1_package_button_styles :: 
+content_blocks_6_tariff_items_2_package_button_styles :: 
+== #4584
+content_blocks_1_anchor :: Anfrage senden 
+content_blocks_2_anchor :: Lassen Sie sich beraten
+content_blocks_6_tariff_title :: Kosten für Dienstleistungen
+content_blocks_6_tariff_items_0_name :: Das „Diagnostik“-Paket 
+content_blocks_6_tariff_items_0_description_green :: 
+content_blocks_6_tariff_items_0_description :: 
+content_blocks_6_tariff_items_0_price_from :: aus
+content_blocks_6_tariff_items_0_price_up_to :: 
+content_blocks_6_tariff_items_0_price_year :: 
+content_blocks_6_tariff_items_0_package_star :: 
+content_blocks_6_tariff_items_0_package_anchor :: Bestellung
+content_blocks_6_tariff_items_1_name :: Das Paket „Genesung in einem Jahr“ 
+content_blocks_6_tariff_items_1_description_green :: 
+content_blocks_6_tariff_items_1_description :: 
+content_blocks_6_tariff_items_1_price_from :: aus
+content_blocks_6_tariff_items_1_price_up_to :: 
+content_blocks_6_tariff_items_1_price_year :: 
+content_blocks_6_tariff_items_1_package_star :: 
+content_blocks_6_tariff_items_1_package_anchor :: Bestellung
+content_blocks_6_tariff_items_2_description_green :: 
+content_blocks_6_tariff_items_2_description :: 
+content_blocks_6_tariff_items_2_price_from :: aus
+content_blocks_6_tariff_items_2_price_up_to :: 
+content_blocks_6_tariff_items_2_price_year :: 
+content_blocks_6_tariff_items_2_package_anchor :: Bestellung
+content_blocks_11_faq_title :: Häufig gestellte Fragen
+content_blocks_12_final_cta_ancor :: Bestellung
+content_blocks_1_button_styles :: green
+content_blocks_2_button_styles :: 
+content_blocks_6_tariff_items_0_package_button_styles :: 
+content_blocks_6_tariff_items_1_package_button_styles :: 
+content_blocks_6_tariff_items_2_package_button_styles :: 
+== #3627
+content_blocks_1_anchor :: Отправить запрос
+content_blocks_1_button_styles :: green
+content_blocks_2_anchor :: Получить консультацию
+content_blocks_2_button_styles :: 
+content_blocks_4_steps_title :: Как перейти к нам: 4 шага
+content_blocks_6_tariff_title :: Стоимость услуг
+content_blocks_6_tariff_items_0_name :: Пакет «Приём учёта» 
+content_blocks_6_tariff_items_0_description_green :: 
+content_blocks_6_tariff_items_0_description :: 
+content_blocks_6_tariff_items_0_price_from :: от
+content_blocks_6_tariff_items_0_price_up_to :: 
+content_blocks_6_tariff_items_0_price_year :: 
+content_blocks_6_tariff_items_0_package_star :: 
+content_blocks_6_tariff_items_0_package_anchor :: Заказать
+content_blocks_6_tariff_items_0_package_button_styles :: 
+content_blocks_6_tariff_items_1_name :: Пакет «Переход + ежемесячный учёт» 
+content_blocks_6_tariff_items_1_description_green :: 
+content_blocks_6_tariff_items_1_description :: 
+content_blocks_6_tariff_items_1_price_from :: от
+content_blocks_6_tariff_items_1_price_up_to :: 
+content_blocks_6_tariff_items_1_price_year :: 
+content_blocks_6_tariff_items_1_package_star :: 
+content_blocks_6_tariff_items_1_package_anchor :: Заказать
+content_blocks_6_tariff_items_1_package_button_styles :: 
+content_blocks_6_tariff_items_2_name :: Пакет «Переход с восстановлением»
+content_blocks_6_tariff_items_2_description_green :: 
+content_blocks_6_tariff_items_2_description :: 
+content_blocks_6_tariff_items_2_price_from :: от
+content_blocks_6_tariff_items_2_price_up_to :: 
+content_blocks_6_tariff_items_2_price_year :: 
+content_blocks_6_tariff_items_2_package_anchor :: 
+content_blocks_6_tariff_items_2_package_button_styles :: 
+content_blocks_7_title_right :: Когда пора менять бухгалтера
+content_blocks_12_faq_title :: Часто задаваемые вопросы
+content_blocks_12_faq_items_3_question :: Как закрыть доступ прежнему бухгалтеру?
+content_blocks_12_faq_items_7_question :: Сколько стоит переход?
+content_blocks_12_faq_items_8_question :: Сколько длится переход?
+content_blocks_13_final_cta_ancor :: Заказать
+content_blocks_10_title_left :: Услуги раздела «Бухгалтерия» под связку

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Staging Guard
  * Description: На staging-хостах: noindex, robots Disallow, без писем, без Pipedrive, UpdraftPlus без расписания и удалённого хранилища, плашка STAGING. На продакшене ничего не делает.
- * Version: 1.1.0
+ * Version: 1.2.0
  */
 
 defined( 'ABSPATH' ) || exit;
@@ -47,6 +47,8 @@ add_filter( 'rank_math/sitemap/enable', '__return_false' );
 
 // 5. Письма с staging никуда не уходят (формы заявок, уведомления).
 add_filter( 'pre_wp_mail', function ( $return, $atts ) {
+	// Исключение для проверки: письмо формы «Book a call» (lai-book-call.php ставит флаг).
+	if ( ! empty( $GLOBALS['lai_allow_staging_mail'] ) ) { $GLOBALS['lai_allow_staging_mail'] = false; return $return; }
 	error_log( '[staging-guard] mail blocked: ' . ( is_array( $atts['to'] ) ? implode( ',', $atts['to'] ) : $atts['to'] ) );
 	return true;
 }, 10, 2 );

@@ -93,6 +93,7 @@ if ( ! function_exists( 'lae_add_cookie_settings_item' ) ) {
             ) );
           ?>
         </nav>
+        <?php do_action( 'lai_footer_contacts' ); ?>
 
         <?php 
           $licence_link   = get_field('licence-link', 1199);

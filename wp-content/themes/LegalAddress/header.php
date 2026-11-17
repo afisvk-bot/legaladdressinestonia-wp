@@ -58,6 +58,7 @@
         ?>
       </nav>
       <div class="mob_ready">
+        <?php do_action( 'lai_header_mobile_contacts' ); ?>
         <nav class="navbar navbar-expand-md">
           <?php
             wp_nav_menu( array(
@@ -93,6 +94,7 @@
           </nav>
         </div>
       </div>
+      <?php do_action( 'lai_header_contacts' ); ?>
     </div>
   </div>
 </header>

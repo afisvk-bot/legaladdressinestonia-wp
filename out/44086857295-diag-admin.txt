@@ -1,0 +1,16 @@
+prefix: wp_
+siteurl: https://staging.dragonslots-gr.gr | home: https://staging.dragonslots-gr.gr
+user_roles option: administrator,editor,author,contributor,subscriber
+admin caps: 95 manage_options=true
+#1 s__user caps=a:1:{s:13:"administrator";b:1;} keys=wp_capabilities
+#2 _seo__user caps=a:1:{s:13:"administrator";b:1;} keys=wp_capabilities
+#3 daivan4ik@gmail.com caps=a:1:{s:13:"administrator";b:1;} keys=wp_capabilities
+#4 smm caps=a:1:{s:6:"editor";b:1;} keys=wp_capabilities
+#5 SEO-Viktor caps=a:1:{s:13:"administrator";b:1;} keys=wp_capabilities
+#6 Jana Kamoza caps=a:1:{s:6:"author";b:1;} keys=wp_capabilities
+#7 Kate caps=a:1:{s:6:"author";b:1;} keys=wp_capabilities
+active plugins: polylang-pro/polylang.php, DAI/services-cpt.php, advanced-custom-fields-pro/acf.php, all-in-one-wp-security-and-firewall/wp-security.php, code-snippets/code-snippets.php, contact-form-7/wp-contact-form-7.php, contact-form-entries/contact-form-entries.php, cyr3lat/cyr-to-lat.php, easy-table-of-contents/easy-table-of-contents.php, html-editor-syntax-highlighter/html-editor-syntax-highlighter.php, litespeed-cache/litespeed-cache.php, regenerate-thumbnails/regenerate-thumbnails.php, safe-svg/safe-svg.php, seo-by-rank-math/rank-math.php, simple-local-avatars/simple-local-avatars.php, updraftplus/updraftplus.php, wp-reviews-plugin-for-google/wp-reviews-plugin-for-google.php, wp-scss/wp-scss.php, wpcf7-recaptcha/wpcf7-recaptcha.php
+mu: lai-article-schema.php, lai-auto-menu.php, lai-0-config.php, lai-disclaimer.php, lai-i18n-helpers.php, lai-menu-sync.php, lai-migrate-20261106.php, lai-migrate-20261106b.php, lai-migrate-20261106c.php, lai-migrate-20261110.php, lai-migrate-20261110b.php, lai-interlinking.php, lai-redirects.php, lai-table-format.php, rank-math-author-seo-per-language.php, staging-guard.php
+updraft restore in progress: false
+maintenance file: no
+aiowps: 'present'

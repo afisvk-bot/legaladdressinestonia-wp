@@ -1,0 +1,27 @@
+{
+ "console": [
+  "requestStorageAccess: Permission denied.",
+  "requestStorageAccess: Permission denied."
+ ],
+ "modalVisible": true,
+ "afterTg": [
+  "Telegram",
+  "@username or phone"
+ ],
+ "emptySubmit": {
+  "resp": "Please check the highlighted fields.",
+  "tips": [
+   "Please fill in this field.",
+   "Please fill in this field."
+  ]
+ },
+ "badEmail": [
+  "Please enter a valid email."
+ ],
+ "closedByEsc": true,
+ "ruSubmit": {
+  "done": true,
+  "resp": "Спасибо! Мы свяжемся с вами в течение рабочего дня.",
+  "tips": []
+ }
+}

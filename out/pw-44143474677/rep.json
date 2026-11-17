@@ -1,0 +1,7 @@
+{
+ "d-btn": 1,
+ "err": "locator.click: Element is outside of the viewport\nCall log:\n  - waiting for locator('[data-mm-modal]').first()\n  -   locator resolved to <a class=\"mm-cta\" data-mm-modal=\".form_EN\" href=\"https://staging.dragonslots-gr.gr/contacts/\">Get a consultation</a>\n  - attempting click action\n  -   scrolling into view if needed\n  -   done scrolling\n",
+ "d-form": "no visible form",
+ "m-btn": 1,
+ "m-form": "no visible form"
+}

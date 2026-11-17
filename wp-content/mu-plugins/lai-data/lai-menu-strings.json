@@ -36,5 +36,6 @@
   "Corporate Substance": {"de": "Unternehmenssubstanz", "es": "Sustancia corporativa", "fr": "Substance économique", "pt": "Substância corporativa", "tr": "Kurumsal varlık", "uk": "Корпоративна присутність", "zh": "经济实质"},
   "Holding Structures": {"de": "Holdingstrukturen", "es": "Estructuras holding", "fr": "Structures de holding", "pt": "Estruturas de holding", "tr": "Holding yapıları", "uk": "Холдингові структури", "zh": "控股结构"},
   "AS Company": {"de": "AS-Gesellschaft", "es": "Sociedad AS", "fr": "Société AS", "pt": "Sociedade AS", "tr": "AS Şirketi", "uk": "Компанія AS", "zh": "AS 股份公司"},
-  "MTÜ (Non-Profit)": {"de": "MTÜ (gemeinnützig)", "es": "MTÜ (sin ánimo de lucro)", "fr": "MTÜ (association)", "pt": "MTÜ (sem fins lucrativos)", "tr": "MTÜ (kâr amacı gütmeyen)", "uk": "MTÜ (неприбуткова)", "zh": "MTÜ（非营利组织）"}
+  "MTÜ (Non-Profit)": {"de": "MTÜ (gemeinnützig)", "es": "MTÜ (sin ánimo de lucro)", "fr": "MTÜ (association)", "pt": "MTÜ (sem fins lucrativos)", "tr": "MTÜ (kâr amacı gütmeyen)", "uk": "MTÜ (неприбуткова)", "zh": "MTÜ（非营利组织）"},
+  "Change of Accountant": {"de": "Buchhalterwechsel", "es": "Cambio de contable", "fr": "Changement de comptable", "pt": "Mudança de contabilista", "tr": "Muhasebeci değişikliği", "uk": "Зміна бухгалтера", "zh": "更换会计"}
 }

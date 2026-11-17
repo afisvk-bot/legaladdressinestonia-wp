@@ -1,0 +1,98 @@
+===== #456 form_EN
+--- FORM
+[text* your-name placeholder " Full name*"]
+[email* your-email placeholder "Email*"]
+[tel tel-627 placeholder "Phone number"]
+[select menu-212 "Choose a service" "Package for 1 year" "Package for 2 years" "Package for 3 years" "Legal address" "Contact person" "Company registration" "Consultation"]
+
+<div class="politika mb-4">
+[checkbox politika ""] I agree to the processing of personal data and accept the <a target="_blank" href="/privacy-policy/">Privacy Policy</a>.
+</div>
+
+<div class="mb-4">
+[recaptcha]
+</div>
+
+[submit "Send"]
+--- MAIL BODY
+От: [your-name], [your-email] [tel-627]
+
+Заяка на: [menu-212]
+
+
+-- 
+Это письмо было отправлено из контактной формы на [_site_title] ([_site_url])
+--- subject: Cообщение - [_site_title]
+--- additional: 
+===== #496 form_RU
+--- FORM
+[text* your-name placeholder "Имя*"]
+[email* your-email placeholder "Email*"]
+[tel tel-627 placeholder "Номер телефона"]
+[select menu-212 "Выбрать услугу" "Пакет на 1 год" "Пакет на 2 года" "Пакет на 3 года" "Юридический адрес" "Контактное лицо" "Регистрация компании" "Консультация"]
+<div class="politika mb-4">
+[checkbox politika ""] Я соглашаюсь на обработку своих персональных данных и прочитал <a target="_blank" href="https://staging.dragonslots-gr.gr/politika-konfidentsialnosti/">Политику конфиденциальности</a>.
+</div>
+<div class="mb-4">
+[recaptcha]
+</div>
+[submit "Отправить"]
+--- MAIL BODY
+От: [your-name], [your-email] [tel-627]
+
+Заяка на: [menu-212]
+
+
+-- 
+Это письмо было отправлено из контактной формы на [_site_title] ([_site_url])
+--- subject: Cообщение - [_site_title]
+--- additional: 
+===== #502 form_CN
+--- FORM
+[text* your-name placeholder "姓名 *"]
+[email* your-email placeholder "联络电邮*"]
+[tel tel-627 placeholder "电话号码"]
+[select menu-212 "选择服务" "年套餐" "两年套餐" "三年套餐" "合法地址" "合伙人代表服务" "公司注册" "咨询"]
+<div class="politika mb-4">
+[checkbox politika ""] 按下「提交」即表示您已经细阅及同意我们的隐私政策及网站条款。.
+</div>
+<div class="mb-4">
+[recaptcha]
+</div>
+[submit "提交"]
+--- MAIL BODY
+От: [your-name], [your-email] [tel-627]
+
+Заяка на: [menu-212]
+
+
+-- 
+Это письмо было отправлено из контактной формы на [_site_title] ([_site_url])
+--- subject: Cообщение - [_site_title]
+--- additional: 
+===== #1301 form_UK
+--- FORM
+[text* your-name placeholder "Повне ім'я*"]
+[email* your-email placeholder "Email*"]
+[tel tel-627 placeholder "Номер телефону"]
+[select menu-212 "Виберіть послугу" "Пакет на 1 рік" "Пакет на 2 роки" "Пакет на 3 роки" "Юридична адреса" "Контактна особа" "Реєстрація компанії" "Консультація"]
+
+<div class="politika mb-5">
+[checkbox politika ""] Я погоджуюся на обробку персональних даних та приймаю <a target="_blank" href="/politika-konfidentsijnosti/">Політика конфіденційності</a>.
+</div>
+
+<div class="mb-4">
+[recaptcha]
+</div>
+
+[submit "Надіслати"]
+--- MAIL BODY
+От: [your-name], [your-email] [tel-627]
+
+Заяка на: [menu-212]
+
+
+-- 
+Это письмо было отправлено из контактной формы на [_site_title] ([_site_url])
+--- subject: Cообщение - [_site_title]
+--- additional: 

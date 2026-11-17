@@ -1,0 +1,9 @@
+<?php
+foreach ( array( 'lai_mig_20261106', 'lai_mig_20261106b', 'lai_mig_20261106c', 'lai_mig_20261110', 'lai_mig_20261110b' ) as $o ) { $v = get_option( $o ); echo $o, ': ', is_array( $v ) ? 'applied ' . ( $v['time'] ?? '' ) . ' (' . count( $v['log'] ?? array() ) . ' log lines)' : 'NOT applied', "\n"; }
+$v = get_option( 'lai_mig_20261110b' ); if ( is_array( $v ) ) echo '  issues: ', implode( ' | ', preg_grep( '/ERROR|SKIP|skipped|kept/', $v['log'] ) ) ?: 'none', "\n";
+foreach ( array( 3035, 2995, 3633, 4565, 4614 ) as $id ) { $t = pll_get_post_translations( $id ); echo "#$id langs=", count( $t ), ' ', implode( ',', array_keys( $t ) ), "\n"; }
+echo "4565 title: ", get_the_title( 4565 ), "\n";
+echo "redirect /industry/startups/: ", ( false !== strpos( file_get_contents( WPMU_PLUGIN_DIR . '/lai-redirects.php' ), '/industry/startups/' ) ) ? 'present' : 'absent', "\n";
+$p = get_post( 4610 ); echo "4610 content len=", strlen( $p->post_content ), " modified=", $p->post_modified, " blocks=", count( (array) get_post_meta( 4610, 'content_blocks', true ) ), "\n";
+$p = get_post( 4614 ); echo "4614 content len=", strlen( $p->post_content ), " blocks=", count( (array) get_post_meta( 4614, 'content_blocks', true ) ), "\n";
+echo "latest modified:\n"; global $wpdb; foreach ( $wpdb->get_results( "SELECT ID,post_type,post_status,post_modified,LEFT(post_title,60) t FROM {$wpdb->posts} WHERE post_type NOT IN ('revision','nav_menu_item','attachment','wpcf7_contact_form') ORDER BY post_modified DESC LIMIT 12" ) as $r ) echo "  #$r->ID $r->post_type $r->post_status $r->post_modified $r->t\n";

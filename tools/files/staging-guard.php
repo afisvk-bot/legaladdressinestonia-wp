@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Staging Guard
  * Description: На staging-хостах: noindex, robots Disallow, без писем, без Pipedrive, UpdraftPlus без расписания и удалённого хранилища, плашка STAGING. На продакшене ничего не делает.
- * Version: 1.0.0
+ * Version: 1.1.0
  */
 
 defined( 'ABSPATH' ) || exit;
@@ -85,3 +85,15 @@ add_action( 'admin_head', 'lae_staging_css' );
 function lae_staging_css() {
 	echo '<style>#wpadminbar{background:#b45309!important}#wp-admin-bar-lae-staging>.ab-item{font-weight:700}</style>';
 }
+
+// 7. reCAPTCHA ключ привязан к домену прода — на staging капча AIOWPS ломает вход.
+//    Отключаем все капчи AIOWPS только здесь (в базе настройки не меняются).
+add_filter( 'option_aio_wp_security_configs', function ( $c ) {
+	if ( is_array( $c ) ) {
+		foreach ( array( 'aiowps_enable_login_captcha', 'aiowps_enable_registration_page_captcha', 'aiowps_enable_comment_captcha', 'aiowps_enable_lost_password_captcha', 'aiowps_enable_custom_login_captcha', 'aiowps_enable_woo_login_captcha', 'aiowps_enable_woo_register_captcha', 'aiowps_enable_woo_lostpassword_captcha', 'aiowps_enable_bp_register_captcha', 'aiowps_enable_bbp_new_topic_captcha', 'aiowps_enable_contact_form_7_captcha', 'aiowps_enable_password_protected_captcha' ) as $k ) {
+			if ( isset( $c[ $k ] ) ) $c[ $k ] = '';
+		}
+		$c['aiowps_default_captcha'] = 'none';
+	}
+	return $c;
+}, PHP_INT_MAX );

@@ -1,0 +1,9 @@
+{
+ "mob": "<div class=\"mob_ready\"><nav class=\"navbar navbar-expand-md\"><div id=\"navbarsExampleDefault\" class=\"collapse navbar-collapse\"><UL/><div class=\"mm-foot\"><a class=\"mm-cta\" href=\"https://staging.dragonslots-gr.gr/contacts/\" data-mm-modal=\".form_EN\">Get a consultation</a></div></nav></div></div>",
+ "cand": [
+  "A.nav-link dropdown-toggle#",
+  "BUTTON.contact_btn mob_btn mm-toggle#btnContact"
+ ],
+ "burger": "BUTTON.contact_btn mob_btn mm-toggle",
+ "panel": "NAV.menu active"
+}

@@ -1,0 +1,45 @@
+map: {"primary-menu":154,"mobile_menu":154}
+== menu 154 Primary EN
+#2835 o=1 custom:custom/2835 cls= "Services" #
+  #2837 o=2 post_type:service/2263 cls= "Company Formation" https://staging.dragonslots-gr.gr/company-registration-in-estonia/
+    #2838 o=3 post_type:target/2250 cls= "For Non-Residents" https://staging.dragonslots-gr.gr/target/non-residents/
+    #2841 o=4 post_type:service/2247 cls= "Via e-Residency" https://staging.dragonslots-gr.gr/register-company-in-estonia-via-e-residency/
+    #2839 o=5 post_type:service/2257 cls= "Via Notary" https://staging.dragonslots-gr.gr/company-registration-ou-notary/
+    #2840 o=6 post_type:service/1415 cls= "Ready-Made Companies" https://staging.dragonslots-gr.gr/ready-made-company-in-estonia/
+    #3613 o=7 post_type:service/3597 cls= "AS Company" https://staging.dragonslots-gr.gr/as-registration-in-estonia/
+    #3653 o=8 post_type:service/3639 cls= "MTÜ (Non-Profit)" https://staging.dragonslots-gr.gr/registering-an-mt-in-estonia/
+    #4444 o=9 post_type:service/4427 cls= "Branch Registration" https://staging.dragonslots-gr.gr/branch-office/
+    #4472 o=10 post_type:service/4457 cls= "By Power of Attorney" https://staging.dragonslots-gr.gr/power-of-attorney/
+  #2843 o=11 custom:custom/2843 cls= "Legal Address" https://staging.dragonslots-gr.gr/legal-address/
+    #2844 o=12 post_type:service/1482 cls= "Change Address" https://staging.dragonslots-gr.gr/change-legal-address-in-estonia/
+  #2845 o=13 post_type:service/1410 cls= "Virtual Office" https://staging.dragonslots-gr.gr/virtual-office-in-estonia/
+  #2846 o=14 post_type:service/2254 cls= "Contact Person" https://staging.dragonslots-gr.gr/contact-person-in-estonia/
+  #2847 o=15 post_type:service/2746 cls= "Accounting & Tax" https://staging.dragonslots-gr.gr/accounting-services-in-estonia/
+    #2848 o=16 post_type:service/2696 cls= "Monthly Accounting" https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/
+    #2849 o=17 post_type:service/2761 cls= "Tax Consulting" https://staging.dragonslots-gr.gr/tax-consulting-in-estonia/
+    #4507 o=18 post_type:service/4490 cls= "For e-Residents" https://staging.dragonslots-gr.gr/accounting-e-residents/
+    #4600 o=19 post_type:service/4578 cls= "Accounting Reconstruction" https://staging.dragonslots-gr.gr/restablecimiento-de-la-contabilidad-en-estonia-2/
+    #4713 o=20 post_type:service/4699 cls= "Interim Reports" https://staging.dragonslots-gr.gr/interim-reports/
+  #2850 o=21 post_type:service/1398 cls= "Annual Report" https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/
+  #2851 o=22 custom:custom/2851 cls= "Registration Numbers" #
+    #2852 o=23 post_type:service/2261 cls= "VAT & EORI" https://staging.dragonslots-gr.gr/vat-registration/
+    #2853 o=24 post_type:service/2791 cls= "IOSS & OSS" https://staging.dragonslots-gr.gr/oss-and-ioss-registration-in-estonia/
+  #2854 o=25 custom:custom/2854 cls= "Residency & Visas" #
+    #2855 o=26 post_type:service/2776 cls= "Work Visas & Permits" https://staging.dragonslots-gr.gr/work-visa-residence-permit/
+#2856 o=27 custom:custom/2856 cls= "Licenses" #
+  #2860 o=28 post_type:licensing/2528 cls= "Financial" https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/
+  #2859 o=29 post_type:licensing/2543 cls= "MiCA CASP" https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/
+  #2857 o=30 post_type:licensing/2731 cls= "EMI & PI" https://staging.dragonslots-gr.gr/licensing/emi-licence-in-estonia/
+  #2858 o=31 post_type:licensing/2665 cls= "FIU to FMA" https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/
+#2861 o=32 custom:custom/2861 cls= "Industries" #
+  #2862 o=33 post_type:industry/2446 cls= "Crypto & Web3" https://staging.dragonslots-gr.gr/industry/crypto-and-web3-projects/
+  #2863 o=34 post_type:industry/2419 cls= "iGaming & Media" https://staging.dragonslots-gr.gr/industry/igaming-affiliates-and-media/
+  #2864 o=35 post_type:industry/2398 cls= "IT & SaaS" https://staging.dragonslots-gr.gr/industry/saas-it-and-developers/
+  #2865 o=36 post_type:industry/2383 cls= "E-commerce & Dropshipping" https://staging.dragonslots-gr.gr/industry/e-commerce-and-dropshipping/
+  #4548 o=37 post_type:service/4529 cls= "Start-ups" https://staging.dragonslots-gr.gr/startups/
+#2866 o=38 custom:custom/2866 cls= "Who We Serve" #
+  #2868 o=39 post_type:target/2266 cls= "e-Residents" https://staging.dragonslots-gr.gr/target/services-for-e-residents/
+  #2867 o=40 post_type:target/2649 cls= "Digital Nomads" https://staging.dragonslots-gr.gr/target/estonia-for-digital-nomads/
+#2869 o=41 custom:custom/2869 cls= "Other Services" #
+  #2870 o=42 post_type:licensing/2716 cls= "Corporate Substance" https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/
+  #2871 o=43 post_type:licensing/2508 cls= "Holding Structures" https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/

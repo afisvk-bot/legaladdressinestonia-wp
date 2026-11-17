@@ -1,0 +1,18 @@
+rules: 283
+  ^change\-of\-accountant\-in\-estonia/?$ => index.php?service=change-of-accountant-in-estonia
+  ^interim\-reports/?$ => index.php?service=interim-reports
+  ^accounting\-restoration\-in\-estonia/?$ => index.php?service=accounting-restoration-in-estonia
+  ^startups/?$ => index.php?service=startups
+  ^accounting\-e\-residents/?$ => index.php?service=accounting-e-residents
+  ^power\-of\-attorney/?$ => index.php?service=power-of-attorney
+  ^branch\-office/?$ => index.php?service=branch-office
+  ^registering\-an\-mt\-in\-estonia/?$ => index.php?service=registering-an-mt-in-estonia
+  ^as\-registration\-in\-estonia/?$ => index.php?service=as-registration-in-estonia
+  ^legal\-services\-in\-estonia/?$ => index.php?service=legal-services-in-estonia
+  ^oss\-and\-ioss\-registration\-in\-estonia/?$ => index.php?service=oss-and-ioss-registration-in-estonia
+  ^work\-visa\-residence\-permit/?$ => index.php?service=work-visa-residence-permit
+#1372 https://staging.dragonslots-gr.gr/godovoj-otchet-v-estonii/
+#2564 https://staging.dragonslots-gr.gr/jahresbericht-f-r-estnische-unternehmen/
+#4725 https://staging.dragonslots-gr.gr/buchhalterwechsel-estland/
+#3627 https://staging.dragonslots-gr.gr/smena-buhgaltera-estonskoj-kompanii/
+pll options: hide_default=1 force_lang=0 rewrite=1 post_types=["service","licensing","industry","target"]

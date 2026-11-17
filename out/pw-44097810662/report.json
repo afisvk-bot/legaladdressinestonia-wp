@@ -1,0 +1,67 @@
+{
+ "en": {
+  "title": "Change of Accountant in Estonia: Smooth Handover for Your OÜ",
+  "h1": "Changing the Accountant of an Estonian Company",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "ORDER | ORDER | ORDER",
+  "related": 23,
+  "lang": "en-GB",
+  "status": 200
+ },
+ "de": {
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "h1": "Error 404: page not found",
+  "hreflang": "",
+  "btns": "",
+  "related": 20,
+  "lang": "en-GB",
+  "status": 404
+ },
+ "zh": {
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "h1": "Error 404: page not found",
+  "hreflang": "",
+  "btns": "",
+  "related": 11,
+  "lang": "en-GB",
+  "status": 404
+ },
+ "uk": {
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "h1": "Error 404: page not found",
+  "hreflang": "",
+  "btns": "",
+  "related": 11,
+  "lang": "en-GB",
+  "status": 404
+ },
+ "ru": {
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "h1": "Error 404: page not found",
+  "hreflang": "",
+  "btns": "",
+  "related": 11,
+  "lang": "en-GB",
+  "status": 404
+ },
+ "restore-en": {
+  "title": "Accounting Restoration in Estonia — Overdue Annual Reports",
+  "h1": "Restoration of the Accounting System in Estonia",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "ORDER | ORDER | ORDER",
+  "related": 38,
+  "lang": "en-GB",
+  "status": 200
+ },
+ "restore-es": {
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "h1": "Error 404: page not found",
+  "hreflang": "",
+  "btns": "",
+  "related": 20,
+  "lang": "en-GB",
+  "status": 404
+ },
+ "redir /clean-up/": "https://staging.dragonslots-gr.gr/ru/accounting-restoration-in-estonia/ 404",
+ "redir /restablecimiento-de-la-contabilidad-en-estonia-2/": "https://staging.dragonslots-gr.gr/restablecimiento-de-la-contabilidad-en-estonia-2/ 404"
+}

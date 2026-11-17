@@ -1,0 +1,41 @@
+== #1301 «form_UK» hash=680abc5
+== #1300 «cont_form_UK» hash=80fed24
+== #556 «cont_form_CN» hash=d87b7da
+== #554 «cont_form_TR» hash=ae14cd7
+== #552 «cont_form_PT» hash=9105597
+== #550 «cont_form_ES» hash=e573923
+== #548 «cont_form_RU» hash=d3733c1
+== #546 «cont_form_FR» hash=cebd9a8
+== #544 «cont_form_DE» hash=d578eaa
+== #539 «cont_form_EN» hash=f37a431
+== #506 «form_PT» hash=66dcdde
+== #504 «form_TR» hash=d448ac2
+== #502 «form_CN» hash=243c53c
+== #500 «form_ES» hash=bbfc08b
+== #498 «form_FR» hash=f230389
+== #496 «form_RU» hash=9b68a9b
+== #491 «form_DE» hash=a90e33c
+== #456 «form_EN» hash=ef9f468
+FORM:
+[text* your-name placeholder " Full name*"]
+[email* your-email placeholder "Email*"]
+[tel tel-627 placeholder "Phone number"]
+[select menu-212 "Choose a service" "Package for 1 year" "Package for 2 years" "Package for 3 years" "Legal address" "Contact person" "Company registration" "Consultation"]
+
+<div class="politika mb-4">
+[checkbox politika ""] I agree to the processing of personal data and accept the <a target="_blank" href="/privacy-policy/">Privacy Policy</a>.
+</div>
+
+<div class="mb-4">
+[recaptcha]
+</div>
+
+[submit "Send"]
+MAIL to=***@legaladdressinestonia.com subject=Cообщение - [_site_title] additional=
+MAIL2 active=false
+additional_settings: 
+  meta _additional_settings = 
+  meta _locale = en_US
+  meta _hash = ef9f4682dc42727cf323aad5287edc145d4ff821
+active plugins with pipedrive/cf7: contact-form-7/wp-contact-form-7.php, contact-form-entries/contact-form-entries.php, wpcf7-recaptcha/wpcf7-recaptcha.php
+options vxcf_pipedrive: vxcf_pipedrive_install_data,vxcf_pipedrive_version

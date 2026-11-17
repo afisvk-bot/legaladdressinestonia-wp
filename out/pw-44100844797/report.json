@@ -1,0 +1,68 @@
+{
+ "en": {
+  "title": "Change of Accountant in Estonia: Smooth Handover for Your OÜ",
+  "h1": "Changing the Accountant of an Estonian Company",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "ORDER | ORDER | ORDER",
+  "related": 23,
+  "lang": "en-GB",
+  "status": 200
+ },
+ "de": {
+  "title": "Buchhalterwechsel in Estland: reibungslose Übergabe Ihrer OÜ",
+  "h1": "Buchhalterwechsel für estnische Unternehmen",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "BESTELLEN | BESTELLEN | BESTELLEN",
+  "related": 34,
+  "lang": "de-DE",
+  "status": 200
+ },
+ "zh": {
+  "title": "爱沙尼亚公司更换会计：平稳交接账务",
+  "h1": "爱沙尼亚公司更换会计",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "订购 | 订购 | 订购",
+  "related": 24,
+  "lang": "zh-CN",
+  "status": 200
+ },
+ "uk": {
+  "title": "Зміна бухгалтера естонської компанії: передача без ризиків",
+  "h1": "Зміна бухгалтера естонської компанії",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "ЗАМОВИТИ | ЗАМОВИТИ | ЗАМОВИТИ",
+  "related": 5,
+  "lang": "uk-UA",
+  "status": 200
+ },
+ "ru": {
+  "title": "Смена бухгалтера эстонской компании | Переход на бухгалтерское обслуживание в Эстонии",
+  "h1": "Смена бухгалтера эстонской компании",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "ЗАКАЗАТЬ | ЗАКАЗАТЬ | ЗАКАЗАТЬ",
+  "related": 5,
+  "lang": "ru-RU",
+  "status": 200
+ },
+ "restore-en": {
+  "title": "Accounting Restoration in Estonia — Overdue Annual Reports",
+  "h1": "Restoration of the Accounting System in Estonia",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "ORDER | ORDER | ORDER",
+  "related": 38,
+  "lang": "en-GB",
+  "status": 200
+ },
+ "restore-es": {
+  "title": "Restablecimiento contable en Estonia — informes atrasados",
+  "h1": "Restablecimiento de la contabilidad en Estonia",
+  "hreflang": "en,zh,de,es,fr,ru,pt,tr,uk,x-default",
+  "btns": "SOLICITAR | SOLICITAR | SOLICITAR",
+  "related": 34,
+  "lang": "es-ES",
+  "status": 200
+ },
+ "redir /clean-up/": "https://staging.dragonslots-gr.gr/accounting-restoration-in-estonia/ 200",
+ "redir /restablecimiento-de-la-contabilidad-en-estonia-2/": "https://staging.dragonslots-gr.gr/accounting-restoration-in-estonia/ 200",
+ "redir /industry/startups/": "https://staging.dragonslots-gr.gr/industry/saas-it-and-developers/ 200"
+}

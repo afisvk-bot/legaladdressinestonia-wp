@@ -26,6 +26,7 @@ function lai_redirect_map(): array {
 		// 2026-11-10: в статье о визах (EN/RU) ссылка на несуществующую /industry/startups/
 		// 2026-11-17: EN «Восстановление учёта» — исходный адрес /clean-up/ (новый slug accounting-restoration-in-estonia)
 		'/clean-up/'                                                               => 4578, // EN
+		'/restablecimiento-de-la-contabilidad-en-estonia-2/'                       => 4578, // EN (был испанский slug)
 		'/industry/startups/'                                                      => 2398, // EN SaaS, IT & developers
 	);
 }

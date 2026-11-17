@@ -1,0 +1,18 @@
+rules: 485
+  ^change\-of\-accountant\-zh/?$ => index.php?service=change-of-accountant-zh
+  ^estonya\-sirketi\-muhasebeci\-degisikligi/?$ => index.php?service=estonya-sirketi-muhasebeci-degisikligi
+  ^mudanca\-de\-contabilista\-estonia/?$ => index.php?service=mudanca-de-contabilista-estonia
+  ^changement\-de\-comptable\-estonie/?$ => index.php?service=changement-de-comptable-estonie
+  ^cambio\-de\-contable\-estonia/?$ => index.php?service=cambio-de-contable-estonia
+  ^buchhalterwechsel\-estland/?$ => index.php?service=buchhalterwechsel-estland
+  ^zmina\-bukhhaltera\-estonskoyi\-kompaniyi/?$ => index.php?service=zmina-bukhhaltera-estonskoyi-kompaniyi
+  ^change\-of\-accountant\-in\-estonia/?$ => index.php?service=change-of-accountant-in-estonia
+  ^smena\-buhgaltera\-estonskoj\-kompanii/?$ => index.php?service=smena-buhgaltera-estonskoj-kompanii
+  ^promizhna\-finansova\-zvitnist\-v\-estoniyi/?$ => index.php?service=promizhna-finansova-zvitnist-v-estoniyi
+  ^estonya\-da\-ara\-donem\-mali\-tablolar/?$ => index.php?service=estonya-da-ara-donem-mali-tablolar
+  ^demonstracoes\-financeiras\-intercalares\-na\-estonia/?$ => index.php?service=demonstracoes-financeiras-intercalares-na-estonia
+#1372 https://staging.dragonslots-gr.gr/godovoj-otchet-v-estonii/
+#2564 https://staging.dragonslots-gr.gr/jahresbericht-f-r-estnische-unternehmen/
+#4725 https://staging.dragonslots-gr.gr/buchhalterwechsel-estland/
+#3627 https://staging.dragonslots-gr.gr/smena-buhgaltera-estonskoj-kompanii/
+pll options: hide_default=1 force_lang=0 rewrite=1 post_types=["service","licensing","industry","target"]

@@ -1,0 +1,44 @@
+pipedrive feeds: 17 | accounts: 2
+  feed: {"id":"1","form_id":"cf_456","is_active":"1","name":"Request EN (lead)","object":"lead","time":"2022-12-03 13:39:46"}
+  feed: {"id":"3","form_id":"cf_456","is_active":"1","name":"Request EN (contact)","object":"person","time":"2022-12-03 13:35:46"}
+  feed: {"id":"4","form_id":"cf_491","is_active":"1","name":"Request DE (contact)","object":"person","time":"2022-12-03 16:53:55"}
+  feed: {"id":"5","form_id":"cf_491","is_active":"1","name":"Request DE (lead)","object":"lead","time":"2022-12-03 16:55:23"}
+  feed: {"id":"6","form_id":"cf_498","is_active":"1","name":"Request FR (contact)","object":"person","time":"2022-12-03 16:57:53"}
+  feed: {"id":"7","form_id":"cf_498","is_active":"1","name":"Request FR (lead)","object":"lead","time":"2022-12-03 16:58:58"}
+  feed: {"id":"8","form_id":"cf_496","is_active":"1","name":"Request RU (contact)","object":"person","time":"2022-12-03 17:01:46"}
+  feed: {"id":"9","form_id":"cf_496","is_active":"1","name":"Request RU (lead)","object":"lead","time":"2022-12-03 17:03:09"}
+  feed: {"id":"10","form_id":"cf_500","is_active":"1","name":"Request ES (contact)","object":"person","time":"2022-12-03 17:04:55"}
+  feed: {"id":"11","form_id":"cf_500","is_active":"1","name":"Request ES (lead)","object":"lead","time":"2022-12-03 17:06:49"}
+  feed: {"id":"12","form_id":"cf_502","is_active":"1","name":"Request CN (contact)","object":"person","time":"2022-12-03 17:08:23"}
+  feed: {"id":"13","form_id":"cf_502","is_active":"1","name":"Request CN (lead)","object":"lead","time":"2022-12-03 17:09:17"}
+  feed: {"id":"14","form_id":"cf_506","is_active":"1","name":"Request PT (contact)","object":"person","time":"2022-12-03 17:11:34"}
+  feed: {"id":"15","form_id":"cf_506","is_active":"1","name":"Request PT (lead)","object":"lead","time":"2022-12-03 17:12:35"}
+  feed: {"id":"16","form_id":"cf_504","is_active":"1","name":"Request TR (contact)","object":"person","time":"2022-12-03 17:14:02"}
+  feed: {"id":"17","form_id":"cf_504","is_active":"1","name":"Request EN (lead)","object":"lead","time":"2022-12-03 17:15:43"}
+  feed: {"id":"18","form_id":"","is_active":"1","name":"","object":"","time":null}
+log total: 56 last: 2023-04-10 09:42:52
+  log: {"form_id":"cf_500","status":"1","c":"3","t":"2023-04-10 09:42:52"}
+  log: {"form_id":"cf_456","status":"1","c":"27","t":"2023-01-16 13:54:38"}
+  log: {"form_id":"cf_456","status":"2","c":"2","t":"2023-01-16 13:54:37"}
+  log: {"form_id":"cf_504","status":"1","c":"1","t":"2022-12-05 19:56:23"}
+  log: {"form_id":"cf_504","status":"2","c":"1","t":"2022-12-05 19:56:22"}
+  log: {"form_id":"cf_506","status":"2","c":"1","t":"2022-12-05 19:53:05"}
+  log: {"form_id":"cf_506","status":"1","c":"1","t":"2022-12-05 19:53:05"}
+  log: {"form_id":"cf_502","status":"2","c":"1","t":"2022-12-05 19:51:34"}
+  log: {"form_id":"cf_502","status":"1","c":"1","t":"2022-12-05 19:51:34"}
+  log: {"form_id":"cf_500","status":"2","c":"1","t":"2022-12-05 19:49:13"}
+  log: {"form_id":"cf_496","status":"2","c":"1","t":"2022-12-05 19:48:12"}
+  log: {"form_id":"cf_496","status":"1","c":"3","t":"2022-12-05 19:48:12"}
+  log: {"form_id":"cf_491","status":"1","c":"1","t":"2022-12-05 19:47:03"}
+  log: {"form_id":"cf_491","status":"2","c":"1","t":"2022-12-05 19:47:02"}
+  log: {"form_id":"cf_498","status":"1","c":"1","t":"2022-12-05 19:44:38"}
+meta with pipedrive: 
+  #2 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/63oB1YrbExfTq3ZqALEaQUdA0UfOvucqRx8XcA
+  #141 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6k342HWDK7tAM2OkSALKSUzaZgHmYpZBeHONsE
+  #142 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/crZZwDZ5NgpHpluW46khyndmZVpv6DgLYtblxU
+  #143 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6qfHVLUQUt8jzuGL90bzRzS36W5rBt9CZYOudp
+  #144 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6b5ixdAoBAYwS3GXgFvEutMlzKDWJpyvrwAiAj
+  #145 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/czO1JlBXZbKGmDdEU9viUDQArae2ZSyZXoPMQg
+  #146 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6aW2TURXzUADDV2yTsDc3gVvMuY0RG97eqebaN
+  #147 shortcode: <div class="pipedriveWebForms" data-pd-webforms="https://webforms.pipedrive.com/f/6iCndKMB42aZ5zrbPpQLYk5h12SJQrfcDlhTTl
+plugins dir: cf7-pipedrive-pro, integration-for-contact-form-7-and-pipedrive, pipedrive-chatbot, wpcf7-recaptcha

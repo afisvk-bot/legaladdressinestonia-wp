@@ -26,7 +26,7 @@ const HIDE = '#lae-cookie-consent,[class*="lae-cookie"],[class*="cookie-consent"
   await p.locator('header nav >> text=Услуги').first().hover().catch(() => {}); await p.waitForTimeout(600);
   await p.locator('header >> text=Бухучет и налоги').first().hover().catch(() => {}); await p.waitForTimeout(800);
   await p.screenshot({ path: `${out}/menu-ru.png` });
-  for (const old of ['/clean-up/', '/restablecimiento-de-la-contabilidad-en-estonia-2/']) { const r = await p.goto(B + old, { waitUntil: 'load' }); rep['redir ' + old] = p.url() + ' ' + (r && r.status()); }
+  for (const old of ['/clean-up/', '/restablecimiento-de-la-contabilidad-en-estonia-2/', '/industry/startups/']) { const r = await p.goto(B + old, { waitUntil: 'load' }); rep['redir ' + old] = p.url() + ' ' + (r && r.status()); }
   fs.writeFileSync(out + '/report.json', JSON.stringify(rep, null, 1));
   await b.close();
 })();

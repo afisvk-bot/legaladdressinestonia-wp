@@ -38,7 +38,13 @@ add_action( 'template_redirect', function () {
 	$path = trailingslashit( (string) wp_parse_url( $_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH ) );
 	$map  = lai_redirect_map();
 	if ( isset( $map[ $path ] ) && 'publish' === get_post_status( $map[ $path ] ) ) {
-		wp_safe_redirect( get_permalink( $map[ $path ] ), 301, 'LAI Redirects' );
+		$url = get_permalink( $map[ $path ] );
+		// Polylang может подставить префикс языка из cookie посетителя (/ru/…) — ставим язык самой страницы.
+		if ( function_exists( 'PLL' ) && function_exists( 'pll_get_post_language' ) && isset( PLL()->links_model ) ) {
+			$lang = PLL()->model->get_language( (string) pll_get_post_language( $map[ $path ] ) );
+			if ( $lang ) $url = PLL()->links_model->switch_language_in_link( $url, $lang );
+		}
+		wp_safe_redirect( $url, 301, 'LAI Redirects' );
 		exit;
 	}
 }, 1 );

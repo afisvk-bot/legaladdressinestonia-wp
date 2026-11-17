@@ -1,0 +1,113 @@
+== CF7 forms
+#456 [publish] «form_EN» hash=ef9f468 mod=2023-10-16 14:10:16
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 37 | entries: 203 (last 2026-11-16 15:41:54)
+#491 [publish] «form_DE» hash=a90e33c mod=2026-11-06 16:32:07
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 9 | entries: 12 (last 2026-11-12 09:59:12)
+#496 [publish] «form_RU» hash=9b68a9b mod=2026-11-06 16:32:07
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 5 | entries: 31 (last 2026-10-27 16:30:45)
+#498 [publish] «form_FR» hash=f230389 mod=2026-11-06 16:32:07
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 19 | entries: 28 (last 2026-11-08 22:27:50)
+#500 [publish] «form_ES» hash=bbfc08b mod=2026-11-06 16:32:07
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 4 | entries: 10 (last 2026-03-23 14:26:53)
+#502 [publish] «form_CN» hash=243c53c mod=2023-10-16 14:09:20
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 6 | entries: 6 (last 2026-01-20 15:07:10)
+#504 [publish] «form_TR» hash=d448ac2 mod=2026-11-06 16:32:07
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 4 | entries: 6 (last 2025-07-03 17:34:28)
+#506 [publish] «form_PT» hash=66dcdde mod=2026-11-06 16:32:07
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 5 | entries: 3 (last 2026-09-16 15:19:41)
+#539 [publish] «cont_form_EN» hash=f37a431 mod=2023-10-16 14:06:33
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 120:page | in meta: 0 | entries: 226 (last 2026-11-09 14:09:49)
+#544 [publish] «cont_form_DE» hash=d578eaa mod=2023-10-16 14:05:38
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 166:page | in meta: 0 | entries: 2 (last 2026-03-08 06:23:18)
+#546 [publish] «cont_form_FR» hash=cebd9a8 mod=2023-10-16 14:07:49
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 164:page | in meta: 0 | entries: 9 (last 2026-04-02 09:58:45)
+#548 [publish] «cont_form_RU» hash=d3733c1 mod=2023-10-16 14:08:35
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 168:page | in meta: 0 | entries: 21 (last 2026-09-29 08:58:23)
+#550 [publish] «cont_form_ES» hash=e573923 mod=2023-10-16 14:07:15
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 170:page | in meta: 0 | entries: 5 (last 2026-05-06 14:14:10)
+#552 [publish] «cont_form_PT» hash=9105597 mod=2023-10-16 14:08:11
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 174:page | in meta: 0 | entries: 1 (last 2026-02-08 17:56:01)
+#554 [publish] «cont_form_TR» hash=ae14cd7 mod=2023-10-16 14:08:55
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 176:page | in meta: 0 | entries: 0 (last )
+#556 [publish] «cont_form_CN» hash=d87b7da mod=2023-10-16 14:04:04
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 172:page | in meta: 0 | entries: 9 (last 2026-04-15 09:10:29)
+#1300 [publish] «cont_form_UK» hash=80fed24 mod=2026-08-05 08:41:12
+   fields: text*:your-name, email*:your-email, textarea:textarea-764, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: 1310:page | in meta: 0 | entries: 1 (last 2026-08-06 12:26:41)
+#1301 [publish] «form_UK» hash=680abc5 mod=2026-08-05 08:41:25
+   fields: text*:your-name, email*:your-email, tel:tel-627, select:menu-212, checkbox:politika
+   mail_to: ***@legaladdressinestonia.com | subject: Cообщение - [_site_title]
+   in content: - | in meta: 6 | entries: 0 (last )
+#4741 [publish] «Book a call» hash=71a7edf mod=2026-11-17 16:28:11
+   fields: text*:your-name, radio:contact-method, text*:contact-value, textarea:your-message, text:lcf-website
+   mail_to: ***@legaladdressinestonia.com | subject: Book a call — [contact-method] — [your-name]
+   in content: - | in meta: 0 | entries: 1 (last 2026-11-17 16:30:27)
+
+== theme forms map (get_localized_cf7_form)
+  en => [contact-form-7 id="616a252" title="form_EN"]
+  ru => [contact-form-7 id="b8271e9" title="form_RU"]
+  uk => [contact-form-7 id="9fbb0a8" title="form_UK"]
+  de => [contact-form-7 id="a90e33c" title="form_DE"]
+  es => [contact-form-7 id="bbfc08b" title="form_ES"]
+  fr => [contact-form-7 id="f230389" title="form_FR"]
+  pt => [contact-form-7 id="66dcdde" title="form_PT"]
+  tr => [contact-form-7 id="d448ac2" title="form_TR"]
+  zh => [contact-form-7 id="243c53c" title="form_CN"]
+
+== entries tables: wp_vxcf_leads, wp_vxcf_leads_detail, wp_vxcf_leads_notes, wp_vxcf_pipedrive, wp_vxcf_pipedrive_accounts, wp_vxcf_pipedrive_log
+  cf_539: 226 (2022-12-03 17:34:35 … 2026-11-09 14:09:49)
+  cf_456: 203 (2022-12-02 10:53:52 … 2026-11-16 15:41:54)
+  cf_496: 31 (2022-12-03 11:44:30 … 2026-10-27 16:30:45)
+  cf_498: 28 (2022-12-05 19:44:37 … 2026-11-08 22:27:50)
+  cf_548: 21 (2024-01-03 08:10:40 … 2026-09-29 08:58:23)
+  cf_491: 12 (2022-12-05 19:47:02 … 2026-11-12 09:59:12)
+  cf_500: 10 (2022-12-05 19:49:13 … 2026-03-23 14:26:53)
+  cf_546: 9 (2024-01-31 19:08:37 … 2026-04-02 09:58:45)
+  cf_556: 9 (2024-07-29 04:00:23 … 2026-04-15 09:10:29)
+  cf_504: 6 (2022-12-05 19:56:22 … 2025-07-03 17:34:28)
+  cf_502: 6 (2022-12-05 19:51:33 … 2026-01-20 15:07:10)
+  cf_550: 5 (2023-10-30 23:10:59 … 2026-05-06 14:14:10)
+  cf_506: 3 (2022-12-05 19:53:04 … 2026-09-16 15:19:41)
+  cf_544: 2 (2025-03-08 18:24:23 … 2026-03-08 06:23:18)
+  cf_4741: 1 (2026-11-17 16:30:27 … 2026-11-17 16:30:27)
+  cf_1300: 1 (2026-08-06 12:26:41 … 2026-08-06 12:26:41)
+  cf_552: 1 (2026-02-08 17:56:01 … 2026-02-08 17:56:01)
+
+== third-party embeds in content/meta
+  pipedrive: posts=0 meta=8
+
+== active plugins (forms/crm/chat): contact-form-7/wp-contact-form-7.php, contact-form-entries/contact-form-entries.php, wpcf7-recaptcha/wpcf7-recaptcha.php
+== active plugins in DB (incl. disabled on staging): contact-form-7/wp-contact-form-7.php, contact-form-entries/contact-form-entries.php, pipedrive-chatbot/pipedrive-chatbot.php, wpcf7-recaptcha/wpcf7-recaptcha.php

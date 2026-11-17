@@ -1,0 +1,40 @@
+Success: Успешная очистка всех кэшей.
+form_EN #456: fields added
+form_RU #496: fields added
+form_UK #1301: fields added
+form_DE #491: fields added
+form_ES #500: fields added
+form_FR #498: fields added
+form_PT #506: fields added
+form_TR #504: fields added
+form_CN #502: fields added
+Book a call upgraded
+--- form_RU now:
+[text* your-name placeholder "Имя*"]
+[email* your-email placeholder "Email*"]
+[tel tel-627 placeholder "Номер телефона"]
+[select menu-212 "Выбрать услугу" "Пакет на 1 год" "Пакет на 2 года" "Пакет на 3 года" "Юридический адрес" "Контактное лицо" "Регистрация компании" "Консультация"]
+[select lead-source first_as_label "Откуда вы о нас узнали? (необязательно)" "Поиск Google|Google search" "ChatGPT / ИИ-ассистент|ChatGPT / AI assistant" "Рекомендация|Recommendation" "LinkedIn / Facebook / Instagram" "YouTube / TikTok" "Маркетплейс e-Residency|e-Residency Marketplace" "Trustpilot / отзывы|Trustpilot / reviews" "Другое|Other"]
+[hidden lead-channel class:lai-ls-channel][hidden lead-referrer class:lai-ls-referrer][hidden lead-utm class:lai-ls-utm][hidden lead-landing class:lai-ls-landing]
+<div class="politika mb-4">
+[checkbox politika ""] Я соглашаюсь на обработку своих персональных данных и прочитал <a target="_blank" href="https://staging.dragonslots-gr.gr/politika-konfidentsialnosti/">Политику конфиденциальности</a>.
+</div>
+<div class="mb-4">
+[recaptcha]
+</div>
+[submit "Отправить"]
+--- mail RU:
+От: [your-name], [your-email] [tel-627]
+
+Заяка на: [menu-212]
+
+
+Откуда узнали (ответ клиента): [lead-source]
+Канал (авто): [lead-channel]
+Реферер: [lead-referrer]
+UTM: [lead-utm]
+Первая страница визита: [lead-landing]
+Страница заявки: [_url]
+
+-- 
+Это письмо было отправлено из контактной формы на [_site_title] ([_site_url])

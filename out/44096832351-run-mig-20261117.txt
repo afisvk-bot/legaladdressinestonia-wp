@@ -1,0 +1,45 @@
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+unsync group of #4578 (term 228): removed sync {"es":"en","en":"en"}
+unsync group of #3639 (term 221): removed sync {"zh":"en","en":"en"}
+EN #4578 restored (49 fields + 7 short labels), URL https://staging.dragonslots-gr.gr/accounting-restoration-in-estonia/
+  ES #4597 still: «Restablecimiento de la contabilidad en Estonia» https://staging.dragonslots-gr.gr/restablecimiento-de-la-contabilidad-en-estonia/
+trash #1610 ru draft «Годовой отчет компании»
+trash #2879 uk draft «Річний звіт компанії»
+RU #3627 content_blocks_6_tariff_items_2_package_anchor set
+RU #3627 content_blocks_10_text_left updated (links)
+  en: created #4724 https://staging.dragonslots-gr.gr/change-of-accountant-in-estonia/
+  uk: updated #4521 https://staging.dragonslots-gr.gr/zmina-bukhhaltera-estonskoyi-kompaniyi/
+  de: created #4725 https://staging.dragonslots-gr.gr/buchhalterwechsel-estland/ (1 links without translation kept)
+  es: created #4726 https://staging.dragonslots-gr.gr/cambio-de-contable-estonia/ (1 links without translation kept)
+  fr: created #4727 https://staging.dragonslots-gr.gr/changement-de-comptable-estonie/ (1 links without translation kept)
+  pt: created #4728 https://staging.dragonslots-gr.gr/mudanca-de-contabilista-estonia/ (1 links without translation kept)
+  tr: created #4729 https://staging.dragonslots-gr.gr/estonya-sirketi-muhasebeci-degisikligi/ (1 links without translation kept)
+  zh: created #4730 https://staging.dragonslots-gr.gr/change-of-accountant-zh/ (1 links without translation kept)
+menu: added «Change of Accountant» #4731
+menu: «Annual Report» moved under Accounting & Tax
+menu: reordered (44 items)
+menu sync zh/primary-menu: +1 ~27 -0
+menu sync de/primary-menu: +1 ~27 -0
+menu sync es/primary-menu: +1 ~27 -0
+menu sync fr/primary-menu: +1 ~27 -0
+menu sync ru/primary-menu: +1 ~27 -0
+menu sync pt/primary-menu: +1 ~27 -0
+menu sync tr/primary-menu: +1 ~27 -0
+menu sync uk/primary-menu: +1 ~27 -0
+menu sync zh/mobile_menu: +1 ~27 -0
+menu sync de/mobile_menu: +0 ~0 -0
+menu sync es/mobile_menu: +0 ~0 -0
+menu sync fr/mobile_menu: +0 ~0 -0
+menu sync ru/mobile_menu: +0 ~0 -0
+menu sync pt/mobile_menu: +0 ~0 -0
+menu sync tr/mobile_menu: +0 ~0 -0
+menu sync uk/mobile_menu: +0 ~0 -0

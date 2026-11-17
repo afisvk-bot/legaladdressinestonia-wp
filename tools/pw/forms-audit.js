@@ -1,6 +1,6 @@
 const { chromium } = require('playwright'); const fs = require('fs');
 const B = 'https://staging.dragonslots-gr.gr';
-const pages = ['/', '/uk/', '/ru/', '/de/', '/contacts/', '/uk/kontakty/', '/ru/kontakty/', '/contact-person-in-estonia/', '/annual-report-for-estonian-companies/', '/uk/richnyj-zvit-dlya-estonskyh-kompanij/', '/blog/visas-and-residence-permits-for-founders-of-estonian-companies/', '/our-team/'];
+const pages = ['/kontakti/', '/richnyy-zvit-v-estoniyi/', '/', '/uk/', '/ru/', '/de/', '/contacts/', '/contact-person-in-estonia/', '/annual-report-for-estonian-companies/', '/blog/visas-and-residence-permits-for-founders-of-estonian-companies/', '/our-team/'];
 (async () => {
   const out = process.argv[2]; const b = await chromium.launch(); const rep = {};
   const ctx = await b.newContext({ viewport: { width: 1440, height: 900 } }); const p = await ctx.newPage();
@@ -19,7 +19,7 @@ const pages = ['/', '/uk/', '/ru/', '/de/', '/contacts/', '/uk/kontakty/', '/ru/
     })) };
   }
   // открыть «Get a consultation» на UK-странице услуги и проверить форму
-  await p.goto(B + '/uk/richnyj-zvit-dlya-estonskyh-kompanij/', { waitUntil: 'networkidle' }).catch(() => {});
+  await p.goto(B + { waitUntil: 'networkidle' }).catch(() => {});
   const btn = p.locator('main [data-mm-modal], .content [data-mm-modal], [data-toggle=modal]').first();
   rep.ukModal = { btns: await btn.count() };
   if (await btn.count()) { await btn.scrollIntoViewIfNeeded().catch(() => {}); await btn.click({ force: true }).catch(e => rep.ukModal.err = e.message); await p.waitForTimeout(1200);

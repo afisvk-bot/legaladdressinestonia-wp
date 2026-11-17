@@ -64,6 +64,8 @@ function lai_bc_form_template(): string {
 	return '<div class="lcf__r"><label for="lcf-name">{{name}}</label>[text* your-name id:lcf-name autocomplete:name placeholder "{{name_ph}}"]</div>
 <div class="lcf__r"><span class="lcf__lbl">{{method}}</span>[radio contact-method use_label_element default:1 "Phone" "Email" "Telegram" "WhatsApp"]</div>
 <div class="lcf__r"><label for="lcf-contact" class="lcf-contact-label">{{Phone}}</label>[text* contact-value id:lcf-contact class:lcf-contact autocomplete:tel placeholder "+372 5xxx xxxx"]</div>
+<div class="lcf__r"><label for="lcf-src">{{src}} <span class="lcf__opt">{{opt}}</span></label>[select lead-source id:lcf-src first_as_label "{{sel}}" "Google search" "ChatGPT / AI assistant" "Recommendation" "LinkedIn / Facebook / Instagram" "YouTube / TikTok" "e-Residency Marketplace" "Trustpilot / reviews" "Other"]</div>
+<div class="lcf__hp">[hidden lead-channel][hidden lead-referrer][hidden lead-utm][hidden lead-landing]</div>
 <div class="lcf__r lcf__r--top"><label for="lcf-msg">{{msg}}</label>[textarea your-message id:lcf-msg x4 placeholder "{{msg_ph}}"]</div>
 <div class="lcf__hp" aria-hidden="true">[text lcf-website tabindex:-1 autocomplete:off]</div>
 <div class="lcf__r"><span></span><div>[submit class:lcf__btn "{{send}}"]<p class="lcf__note">{{note}}</p></div></div>';
@@ -83,7 +85,7 @@ function lai_bc_install_form(): int {
 			'subject'            => 'Book a call — [contact-method] — [your-name]',
 			'sender'             => $mail['sender'] ?? '[_site_title] <wordpress@' . wp_parse_url( home_url(), PHP_URL_HOST ) . '>',
 			'recipient'          => $mail['recipient'] ?? LAI_BC_MAIL,
-			'body'               => "Name: [your-name]\nContact method: [contact-method]\nContact: [contact-value]\n\nMessage:\n[your-message]\n\n--\nLanguage: [_lai_lang]\nPage: [_url]\nDate: [_date] [_time]\nIP: [_remote_ip]",
+			'body'               => "Name: [your-name]\nContact method: [contact-method]\nContact: [contact-value]\n\nMessage:\n[your-message]\n\n--\nLanguage: [_lai_lang]\nPage: [_url]\nDate: [_date] [_time]\nIP: [_remote_ip]\n\nHow did you hear about us: [lead-source]\nChannel (auto): [lead-channel]\nReferrer: [lead-referrer]\nUTM: [lead-utm]\nLanding page: [lead-landing]",
 			'additional_headers' => '',
 			'attachments'        => '',
 			'use_html'           => false,
@@ -103,7 +105,19 @@ function lai_bc_install_form(): int {
 	if ( $id ) update_option( 'lai_bc_form_id', $id, false );
 	return $id;
 }
-add_action( 'admin_init', function () { if ( ! lai_bc_form_id() ) lai_bc_install_form(); } );
+const LAI_BC_FORM_VER = '2';
+add_action( 'admin_init', function () {
+	if ( ! lai_bc_form_id() ) { if ( lai_bc_install_form() ) update_option( 'lai_bc_form_ver', LAI_BC_FORM_VER, false ); return; }
+	if ( LAI_BC_FORM_VER === get_option( 'lai_bc_form_ver' ) || ! class_exists( 'WPCF7_ContactForm' ) ) return;
+	$f = WPCF7_ContactForm::get_instance( lai_bc_form_id() );
+	if ( $f ) {
+		$mail = $f->prop( 'mail' );
+		if ( false === strpos( (string) $mail['body'], '[lead-source]' ) ) $mail['body'] .= "\n\nHow did you hear about us: [lead-source]\nChannel (auto): [lead-channel]\nReferrer: [lead-referrer]\nUTM: [lead-utm]\nLanding page: [lead-landing]";
+		$f->set_properties( array( 'form' => lai_bc_form_template(), 'mail' => $mail ) );
+		$f->save();
+	}
+	update_option( 'lai_bc_form_ver', LAI_BC_FORM_VER, false );
+} );
 
 function lai_bc_is_ours( $form = null ): bool {
 	$form = $form ?: ( class_exists( 'WPCF7_ContactForm' ) ? WPCF7_ContactForm::get_current() : null );
@@ -122,6 +136,11 @@ add_filter( 'wpcf7_form_elements', function ( $html ) {
 	$map  = array( '{{note}}' => sprintf( esc_html( lai_bc_t( 'note' ) ), $link ) );
 	foreach ( array( 'name', 'name_ph', 'method', 'Phone', 'msg', 'msg_ph', 'send' ) as $k ) $map[ '{{' . $k . '}}' ] = esc_html( lai_bc_t( $k ) );
 	$html = strtr( $html, $map );
+	if ( function_exists( 'lai_ls_text' ) ) {
+		$l    = lai_bc_lang();
+		$html = strtr( $html, array( '{{src}}' => esc_html( lai_ls_text( 'q', $l ) ), '{{opt}}' => esc_html( lai_ls_text( 'opt', $l ) ), '{{sel}}' => esc_html( lai_ls_text( 'sel', $l ) ) ) );
+		foreach ( lai_ls_options() as $val => $tr ) if ( isset( $tr[ $l ] ) ) $html = str_replace( '>' . esc_html( $val ) . '</option>', '>' . esc_html( $tr[ $l ] ) . '</option>', $html );
+	}
 	foreach ( LAI_BC_METHODS as $m ) {
 		$html = str_replace( '<span class="wpcf7-list-item-label">' . $m . '</span>', '<span class="wpcf7-list-item-label">' . esc_html( lai_bc_t( $m ) ) . '</span>', $html );
 	}
@@ -224,6 +243,11 @@ add_action( 'wp_footer', function () {
 	$fid = lai_bc_form_id();
 	if ( ! $fid ) return;
 	$cfg = array();
+	if ( function_exists( 'lai_ls_text' ) ) {
+		$l    = lai_bc_lang();
+		$html = strtr( $html, array( '{{src}}' => esc_html( lai_ls_text( 'q', $l ) ), '{{opt}}' => esc_html( lai_ls_text( 'opt', $l ) ), '{{sel}}' => esc_html( lai_ls_text( 'sel', $l ) ) ) );
+		foreach ( lai_ls_options() as $val => $tr ) if ( isset( $tr[ $l ] ) ) $html = str_replace( '>' . esc_html( $val ) . '</option>', '>' . esc_html( $tr[ $l ] ) . '</option>', $html );
+	}
 	foreach ( LAI_BC_METHODS as $m ) {
 		$cfg[ $m ] = array(
 			'label' => lai_bc_t( 'Email' === $m ? 'Email' : ( 'Telegram' === $m ? 'Telegram' : 'Phone' ) ),
@@ -284,6 +308,9 @@ body.lcf-open #LeadboosterContainer,body.lcf-open [id^="Leadbooster"],body.lcf-o
 .lcf .wpcf7-form-control-wrap{display:block}
 .lcf input.wpcf7-text,.lcf input.wpcf7-email,.lcf textarea.wpcf7-textarea{width:100%!important;height:auto;border:1px solid #dfe2e8!important;border-radius:14px!important;padding:13px 18px!important;font:inherit;font-size:16px!important;color:var(--lcf-ink);background:#fff!important;box-shadow:none!important;outline:none;margin:0!important}
 .lcf textarea.wpcf7-textarea{height:110px!important;resize:vertical}
+.lcf select.wpcf7-select{width:100%!important;height:auto;-webkit-appearance:none;appearance:none;border:1px solid #dfe2e8!important;border-radius:14px!important;padding:13px 44px 13px 18px!important;font:inherit;font-size:16px!important;color:var(--lcf-ink);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23151a2d' stroke-width='2.4'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 18px center!important;box-shadow:none!important;margin:0!important;cursor:pointer}
+.lcf select.wpcf7-select:focus{border-color:var(--lcf-g)!important;outline:none}
+.lcf__opt{font-size:12px;color:#8a90a0;white-space:nowrap}
 .lcf input.wpcf7-text:focus,.lcf textarea.wpcf7-textarea:focus{border-color:var(--lcf-g)!important}
 .lcf .wpcf7-not-valid{border-color:#e5484d!important}
 .lcf .wpcf7-not-valid-tip{font-size:13px;color:#e5484d;margin-top:4px}

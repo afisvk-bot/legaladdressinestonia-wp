@@ -1,0 +1,204 @@
+/**
+ * Consent Mode v2 + GTM-5Z4N9J7T + связка с баннером .lae-cookie-consent
+ *
+ * Code Snippets: тип PHP, «Запускать только на сайте» (или «Запускать везде»).
+ * Перед активацией удалите старый код GTM-MTRXJR7 из header.php.
+ */
+
+/* 1. В <head>: согласие по умолчанию = запрещено, затем загрузка GTM */
+add_action( 'wp_head', function () {
+	if ( is_admin() ) {
+		return;
+	}
+	?>
+<script data-no-optimize="1" data-no-defer="1">
+window.dataLayer = window.dataLayer || [];
+function gtag(){ dataLayer.push(arguments); }
+gtag('consent', 'default', {
+  ad_storage: 'denied',
+  ad_user_data: 'denied',
+  ad_personalization: 'denied',
+  analytics_storage: 'denied',
+  functionality_storage: 'granted',
+  security_storage: 'granted',
+  wait_for_update: 500
+});
+gtag('set', 'ads_data_redaction', true);
+(function () {
+  var m = document.cookie.match(/(?:^|; )lae_cookie_consent=([^;]*)/);
+  if (m && m[1] === 'analytics_granted') {
+    gtag('consent', 'update', { analytics_storage: 'granted' });
+  }
+})();
+</script>
+<!-- Google Tag Manager -->
+<script data-no-optimize="1" data-no-defer="1">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5Z4N9J7T');</script>
+<!-- End Google Tag Manager -->
+	<?php
+}, 0 );
+
+/* 2. Внизу страницы: кнопки баннера передают выбор в Google + ссылка «Cookie settings» */
+add_action( 'wp_footer', function () {
+	if ( is_admin() ) {
+		return;
+	}
+	?>
+<script data-no-optimize="1" data-no-defer="1">
+(function () {
+  var NAME = 'lae_cookie_consent';
+
+  function gtag(){ window.dataLayer = window.dataLayer || []; window.dataLayer.push(arguments); }
+
+  function saveCookie(value) {
+    var d = new Date();
+    d.setTime(d.getTime() + 365 * 24 * 60 * 60 * 1000);
+    document.cookie = NAME + '=' + value + '; expires=' + d.toUTCString() + '; path=/; SameSite=Lax; Secure';
+  }
+
+  function deleteGaCookies() {
+    var host = location.hostname.replace(/^www\./, '');
+    document.cookie.split(';').forEach(function (c) {
+      var name = c.split('=')[0].trim();
+      if (/^(_ga|_gid|_gat)/.test(name)) {
+        ['', host, '.' + host].forEach(function (domain) {
+          document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + (domain ? '; domain=' + domain : '');
+        });
+      }
+    });
+  }
+
+  function choose(value) {
+    saveCookie(value);
+    var banner = document.getElementById('lae-cookie-consent');
+    if (banner) banner.setAttribute('hidden', '');
+
+    if (value === 'analytics_granted') {
+      gtag('consent', 'update', { analytics_storage: 'granted' });
+    } else {
+      gtag('consent', 'update', { analytics_storage: 'denied' });
+      deleteGaCookies();
+    }
+    window.dataLayer.push({ event: 'lae_consent_update', lae_consent: value });
+  }
+
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest) return;
+    var el = e.target.closest('#lae-cookie-accept, #lae-cookie-reject, #lae-cookie-close, [data-lae-cookie-settings]');
+    if (!el) return;
+
+    // «Cookie settings» в футере: сбросить выбор и показать баннер заново (на языке страницы)
+    if (el.hasAttribute('data-lae-cookie-settings')) {
+      e.preventDefault();
+      document.cookie = NAME + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/';
+      location.reload();
+      return;
+    }
+
+    choose(el.id === 'lae-cookie-accept' ? 'analytics_granted' : 'necessary_only');
+  }, true);
+})();
+</script>
+	<?php
+}, 100 );
+==== #12
+/** Preserve campaign attribution during a consented visit. Disable this snippet to roll back. */
+add_action('wp_head', function () {
+    if (is_admin()) {
+        return;
+    }
+    ?>
+<script id="lai-utm-persistence" data-no-optimize="1" data-no-defer="1">
+(function () {
+    'use strict';
+    const keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'];
+    const storageKey = 'lai_utm_visit_v1';
+    const lifetime = 30 * 60 * 1000;
+
+    function forget() {
+        try { sessionStorage.removeItem(storageKey); } catch (_) {}
+    }
+
+    function preserve() {
+        if (!/(?:^|;\s*)lae_cookie_consent=analytics_granted(?:;|$)/.test(document.cookie)) {
+            forget();
+            return;
+        }
+        const url = new URL(window.location.href);
+        const now = Date.now();
+        let values = {};
+        if (keys.some(key => url.searchParams.has(key))) {
+            // A new campaign replaces the whole set, never mixing old and new tags.
+            for (const key of keys) {
+                const value = url.searchParams.get(key);
+                if (value) values[key] = value;
+            }
+        } else {
+            let saved;
+            try { saved = JSON.parse(sessionStorage.getItem(storageKey)); } catch (_) {}
+            if (!saved || !Number.isFinite(saved.seenAt) || now < saved.seenAt
+                || now - saved.seenAt >= lifetime || !saved.values
+                || typeof saved.values !== 'object' || Array.isArray(saved.values))
+==== #8
+<!-- Cookie Consent Widget for legaladdressinestonia.com (Left Position + Mobile Adapted) -->
+<section 
+    class="lae-cookie-consent" 
+    id="lae-cookie-consent" 
+    role="region" 
+    aria-label="Cookie consent" 
+    hidden
+>
+    <p class="lae-cookie-consent__prompt">
+        <span data-i18n="text">Allow optional</span> 
+        <a class="lae-cookie-consent__link" href="https://staging.dragonslots-gr.gr/cookies/" data-i18n-href="cookies">cookies</a> 
+        <span data-i18n="suffix">to measure site usage?</span>
+    </p>
+
+    <div class="lae-cookie-consent__actions">
+        <button class="lae-cookie-consent__btn lae-cookie-consent__btn--reject" type="button" id="lae-cookie-reject">
+            <span data-i18n="reject">Reject</span>
+        </button>
+        <button class="lae-cookie-consent__btn lae-cookie-consent__btn--accept" type="button" id="lae-cookie-accept">
+            <span data-i18n="accept">Accept</span>
+        </button>
+    </div>
+
+    <button class="lae-cookie-consent__close" type="button" id="lae-cookie-close" aria-label="Close">
+        <svg class="lae-cookie-consent__close-icon" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <path d="M1 13L13 1M1 1L13 13" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+    </button>
+</section>
+
+<script>
+(function () {
+    const COOKIE_NAME = 'lae_cookie_consent';
+    const COOKIE_EXPIRY_DAYS = 365;
+
+    const translations = {
+        en: {
+            text: "Allow optional",
+            cookies: "cookies",
+            suffix: "to measure site usage?",
+            accept: "Accept",
+            reject: "Reject",
+            cookiesUrl: "https://staging.dragonslots-gr.gr/cookies/",
+            termsUrl: "https://staging.dragonslots-gr.gr/terms/"
+        },
+        ru: {
+            text: "Разрешить использование",
+            cookies: "файлов cookie",
+            suffix: "для оценки работы сайта?",
+            accept: "Принять",
+            reject: "Отклонить",
+            cookiesUrl: "https://staging.dragonslots-gr.gr/cookies-ru/",
+            termsUrl: "https://staging.dragonslots-gr.gr/usloviya/"
+        },
+        uk: {
+            text: "Дозволити необов'язково",
+            cookies: "файли cookie",
+            suffix: "виміряти використання сайту?",
+            accept: "Прий�

@@ -1,0 +1,47 @@
+active plugins: polylang-pro/polylang.php, DAI/services-cpt.php, advanced-custom-fields-pro/acf.php, all-in-one-wp-security-and-firewall/wp-security.php, code-snippets/code-snippets.php, contact-form-7/wp-contact-form-7.php, contact-form-entries/contact-form-entries.php, cyr3lat/cyr-to-lat.php, easy-table-of-contents/easy-table-of-contents.php, html-editor-syntax-highlighter/html-editor-syntax-highlighter.php, litespeed-cache/litespeed-cache.php, pipedrive-chatbot/pipedrive-chatbot.php, regenerate-thumbnails/regenerate-thumbnails.php, safe-svg/safe-svg.php, seo-by-rank-math/rank-math.php, simple-local-avatars/simple-local-avatars.php, updraftplus/updraftplus.php, wp-reviews-plugin-for-google/wp-reviews-plugin-for-google.php, wp-scss/wp-scss.php, wpcf7-recaptcha/wpcf7-recaptcha.php
+
+options mentioning GA/GTM ids:
+  wpseo_titles (len 5926): 
+  cfx_plugin_updates (len 38014): 
+  aiowps_core_checksums (len 1329963): 
+  aiowps_plugin_checksums (len 3355525): 
+  rank_math_indexnow_log (len 20249): 
+  rewrite_rules (len 51192): 
+  lai_mig_20261106c (len 38321): 
+  _transient_lai_il_b9d51fb2c4da97a3d1387bc9eb477680 (len 4232): 
+  _transient_lai_il_92db30d9413978de8d7685f994998a6f (len 1698): 
+  _transient_lai_il_a7f0c83c42867da71dea6ccd287f8b56 (len 1533): 
+  _transient_lai_il_42194176440a10729d976fd17bc560e2 (len 13816): 
+  _transient_lai_il_74573182624a62ada4ad78708848adad (len 10481): 
+  _transient_lai_il_98bdd259f66e08d4ba7f3ae5db43d5a7 (len 4751): 
+  _transient_lai_il_038851b437aa79ef6aefaec5a44119fc (len 2031): 
+  _transient_lai_il_05c009642d714d9c6ab0cb33aaaab8b3 (len 30860): 
+  _transient_lai_il_f83738ba28e07d2d5ffc106479e47614 (len 1651): 
+  _transient_lai_il_3ea5e2b189bb922a492b7647928fd177 (len 1909): 
+  _transient_lai_il_35811fabe14d1a28abbf5766dd527ce3 (len 1520): 
+  _transient_lai_il_f2005054e32b18ea1c3c891b316c0896 (len 23097): 
+  _transient_lai_il_6c636ea620b01b12a2d38b559e3cb1e6 (len 34324): 
+  _transient_lai_il_41abff0daba6139224617f1e2a7204c6 (len 2130): 
+  _transient_lai_il_9ef28acf678ddeeb8585d2209d80c99b (len 11476): 
+  _transient_lai_il_590aad1be717b73ff6a976c4b5034f8c (len 4200): 
+  _transient_lai_il_15dbc8ed96751b5e63e8b3f9d392c374 (len 1552): 
+  _transient_lai_il_dbca70e54c48ca0d3c66ea65a9e8205a (len 2766): 
+  _transient_lai_il_e2c01004de5dd9d1bd9b0c3b587d0420 (len 30140): 
+  _transient_lai_il_bf836f8b3bd1ba6bb8d1ece15596266b (len 1292): 
+  _transient_lai_il_1e0f7acc68af6aa622fa34586b06de76 (len 1537): 
+  _transient_lai_il_9bb8638d9180af581975734191432c96 (len 1856): 
+  _transient_lai_il_868590288bef4bb3b3de7ddfa1c629f3 (len 31260): 
+  _transient_lai_il_a8d966e7aa5d19855227fdcaa496ee32 (len 49354): 
+  _transient_lai_il_b0922c14ccb32a79c61908e9bfc27641 (len 44446): 
+  _transient_lai_il_019b2ce4e397a0af2ee311e719ef0e15 (len 7549): 
+  _transient_lai_il_4554387a03438521c818d5b44d94b2f9 (len 25251): 
+  _transient_lai_il_89ef15f84ef7d296c1cca4f61717d11d (len 3638): 
+  _transient_lai_il_c1c71513400c4abd38f508aa80d0be11 (len 1661): 
+  _transient_lai_il_3f3fd82c99cc7b24f0dd99e3ec171e0f (len 1973): 
+  _transient_lai_il_e2d7106ab21fca27bd3fcd90b2972c0e (len 10695): 
+  _transient_lai_il_ac2085fb70b9ace9ea5c81774e8e629b (len 1729): 
+  _transient_lai_il_f1152416525114c7468e2dd44141325d (len 31722): 
+
+postmeta/posts with gtag/GTM: 0 posts, 0 meta
+
+plugins dir: DAI, advanced-custom-fields-pro, all-in-one-wp-security-and-firewall, cf7-pipedrive-pro, code-snippets, contact-form-7, contact-form-entries, cyr3lat, easy-table-of-contents, html-editor-syntax-highlighter, index.php, integration-for-contact-form-7-and-pipedrive, litespeed-cache, pipedrive-chatbot, polylang, polylang-pro, regenerate-thumbnails, safe-svg, seo-by-rank-math, simple-local-avatars, updraftplus, wp-reviews-plugin-for-google, wp-scss, wpcf7-recaptcha

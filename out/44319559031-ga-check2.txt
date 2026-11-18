@@ -1,0 +1,16 @@
+cols: id,name,description,code,tags,scope,condition_id,priority,active,modified,revision,cloud_id,created_by,updated_by
+#1 active=0 scope=global modified=2026-04-01 15:17:54 «Сделать имена загружаемых файлов строчными» ids=
+#2 active=0 scope=front-end modified=2026-04-01 15:17:54 «Отключить панель администратора» ids=
+#3 active=0 scope=global modified=2026-04-01 15:17:54 «Разрешить смайлики» ids=
+#4 active=0 scope=content modified=2026-04-01 15:17:54 «Текущий год» ids=
+#5 active=0 scope=global modified=2026-04-01 15:26:50 «Pipedrive» ids=
+#6 active=0 scope=global modified=2026-04-01 16:18:37 «auto-translate» ids=
+#7 active=0 scope=content modified=2026-04-09 21:17:25 «China translation» ids=
+#8 active=1 scope=footer-content modified=2026-08-14 14:47:23 «Cookie Consent Widget » ids=
+#9 active=1 scope=global modified=2026-10-16 06:59:00 «x-default» ids=
+#10 active=1 scope=front-end modified=2026-10-17 13:07:43 «Consent Mode + GTM» ids=GTM-5Z4N9J7T,GTM-MTRXJR7,gtag,googletagmanager
+   code: /** * Consent Mode v2 + GTM-5Z4N9J7T + связка с баннером .lae-cookie-consent * * Code Snippets: тип PHP, «Запускать только на сайте» (или «Запускать везде»). * Перед активацией удалите старый код GTM-MTRXJR7 из header.php. */ /* 1. В <head>: согласие по умолчанию = запрещено, 
+#11 active=1 scope=front-end modified=2026-11-16 16:38:56 «LAI - Pipedrive forms - Contacts and address change» ids=
+#12 active=1 scope=front-end modified=2026-11-16 17:01:44 «LAI - UTM persistence between pages» ids=
+rank math analytics: {"adsense_id":"","account_id":"","property_id":"","view_id":"","measurement_id":"","stream_name":"","country":"all","install_code":"","anonymize_ip":"","local_ga_js":"","exclude_loggedin":""}
+rank math modules: ["link-counter","analytics","seo-analysis","sitemap","rich-snippet","woocommerce","buddypress","bbpress","acf","web-stories","content-ai","instant-indexing","ai-visibility","role-manager","local-seo","404-monitor","image-seo"]

@@ -1,0 +1,121 @@
+{
+ "https://legaladdressinestonia.com/": {
+  "status": 200,
+  "ids": [
+   "GTM-5Z4N9J7T"
+  ],
+  "hasConsentDefault": true,
+  "hasGtmSnippet": true,
+  "litespeed": "",
+  "reqsBeforeConsent": [
+   "https://www.googletagmanager.com/gtm.js?id=GTM-5Z4N9J7T",
+   "https://www.clarity.ms/tag/zcml4thw06?ref=gtm",
+   "https://scripts.clarity.ms/0.8.77/clarity.js",
+   "https://k.clarity.ms/collect",
+   "https://c.clarity.ms/c.gif",
+   "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=73CC3D5A966248D3BF2D53DD60208648&RedC=c.clarity.ms&MXFR=32356DC4C38C63D73C6275D1C78C6D12",
+   "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=73CC3D5A966248D3BF2D53DD60208648&MUID=16F9D35E16D5681D2ABBCB4B176F690A",
+   "https://k.clarity.ms/collect"
+  ],
+  "gtmLoaded": true,
+  "gtmKeys": [
+   "GTM-5Z4N9J7T"
+  ],
+  "dl": [
+   "{\"0\":\"consent\",\"1\":\"default\",\"2\":{\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\",\"analytics",
+   "{\"0\":\"set\",\"1\":\"ads_data_redaction\",\"2\":true}",
+   "{\"gtm.start\":1795010788716,\"event\":\"gtm.js\",\"gtm.uniqueEventId\":5}",
+   "{\"event\":\"gtm.dom\",\"gtm.uniqueEventId\":13}",
+   "{\"event\":\"gtm.load\",\"gtm.uniqueEventId\":14}"
+  ],
+  "banner": true,
+  "reqsAfterAccept": [
+   "https://www.google-analytics.com/g/collect?v=2&tid=G-QJR5RNWKWQ&gtm=45He6bg2v9267403208za208zd9267403208xf1&_p=1795010788716&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&are=1&cid=1002186990.1795010794&fr",
+   "https://k.clarity.ms/collect"
+  ]
+ },
+ "https://legaladdressinestonia.com/contact-person-in-estonia/": {
+  "status": 200,
+  "ids": [
+   "GTM-5Z4N9J7T"
+  ],
+  "hasConsentDefault": true,
+  "hasGtmSnippet": true,
+  "litespeed": "",
+  "reqsBeforeConsent": [
+   "https://www.googletagmanager.com/gtm.js?id=GTM-5Z4N9J7T",
+   "https://www.clarity.ms/tag/zcml4thw06?ref=gtm",
+   "https://scripts.clarity.ms/0.8.77/clarity.js",
+   "https://l.clarity.ms/collect",
+   "https://l.clarity.ms/collect",
+   "https://c.clarity.ms/c.gif",
+   "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=97E7D5446A9C4EFBBCAE0016F7468FAB&RedC=c.clarity.ms&MXFR=0636FD1DBE436D8B1513E508BA43634D",
+   "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=97E7D5446A9C4EFBBCAE0016F7468FAB&MUID=1F5452A8270466893A5B4ABD2629679E",
+   "https://l.clarity.ms/collect"
+  ],
+  "gtmLoaded": true,
+  "gtmKeys": [
+   "GTM-5Z4N9J7T"
+  ],
+  "dl": [
+   "{\"0\":\"consent\",\"1\":\"default\",\"2\":{\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\",\"analytics",
+   "{\"0\":\"set\",\"1\":\"ads_data_redaction\",\"2\":true}",
+   "{\"gtm.start\":1795010798807,\"event\":\"gtm.js\",\"gtm.uniqueEventId\":5}",
+   "{\"event\":\"gtm.dom\",\"gtm.uniqueEventId\":13}",
+   "{\"event\":\"gtm.load\",\"gtm.uniqueEventId\":14}"
+  ],
+  "banner": true,
+  "reqsAfterAccept": [
+   "https://www.google-analytics.com/g/collect?v=2&tid=G-QJR5RNWKWQ&gtm=45He6bg2v9267403208za208zd9267403208xf1&_p=1795010798807&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&are=1&cid=944326426.1795010804&frm",
+   "https://l.clarity.ms/collect"
+  ]
+ },
+ "https://staging.dragonslots-gr.gr/": {
+  "status": 200,
+  "ids": [
+   "GTM-5Z4N9J7T"
+  ],
+  "hasConsentDefault": true,
+  "hasGtmSnippet": true,
+  "litespeed": "hit",
+  "reqsBeforeConsent": [
+   "https://www.googletagmanager.com/gtm.js?id=GTM-5Z4N9J7T",
+   "https://www.clarity.ms/tag/zcml4thw06?ref=gtm",
+   "https://scripts.clarity.ms/0.8.77/clarity.js",
+   "https://n.clarity.ms/collect",
+   "https://n.clarity.ms/collect",
+   "https://c.clarity.ms/c.gif",
+   "https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=FB0DA75D14E342EB93DC0A016C133A43&RedC=c.clarity.ms&MXFR=0A9780F8D1646D45157F98EDD5646303",
+   "https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=FB0DA75D14E342EB93DC0A016C133A43&MUID=2172DD5A5D5F6B9F3ABCC54F5CE56AFD",
+   "https://n.clarity.ms/collect"
+  ],
+  "gtmLoaded": true,
+  "gtmKeys": [
+   "GTM-5Z4N9J7T"
+  ],
+  "dl": [
+   "{\"0\":\"consent\",\"1\":\"default\",\"2\":{\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"ad_personalization\":\"denied\",\"analytics",
+   "{\"0\":\"set\",\"1\":\"ads_data_redaction\",\"2\":true}",
+   "{\"gtm.start\":1795010808841,\"event\":\"gtm.js\",\"gtm.uniqueEventId\":5}",
+   "{\"event\":\"gtm.dom\",\"gtm.uniqueEventId\":13}",
+   "{\"event\":\"gtm.load\",\"gtm.uniqueEventId\":14}"
+  ],
+  "banner": true,
+  "reqsAfterAccept": [
+   "https://www.google-analytics.com/g/collect?v=2&tid=G-QJR5RNWKWQ&gtm=45He6bg2v9267403208za208zd9267403208xf1&_p=1795010808841&gcs=G101&gcd=13p3r3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&are=1&cid=955992978.1795010814&frm",
+   "https://n.clarity.ms/collect"
+  ]
+ },
+ "waybackCount": 15,
+ "wayback": {
+  "20250116151222": "none",
+  "20250222033937": "none",
+  "20250520192107": "none",
+  "20250912095639": "none",
+  "20251216150610": "none",
+  "20260218211234": "none",
+  "20260225180813": "none",
+  "20260612080815": "none",
+  "20260330211526": "none"
+ }
+}

@@ -1,0 +1,6 @@
+const { chromium } = require('playwright'); const fs = require('fs');
+const B = 'https://staging.dragonslots-gr.gr';
+const urls = ['/blog-cn/estonia-founder-visa-residence-permit-zh/', '/blog-cn/estonia-founder-visa-residence-permit-zh-2/', '/blog-tr/estonya-sirket-kuruculari-vize-oturma-izni-2/', '/blog-cn/lianghao-hegui-bu-dengyu-jujue-kehu/', '/blog-cn/lianghao-hegui-bu-dengyu-jujue-kehu-2/', '/blog-cn/lianghao-hegui-bu-dengyu-jujue-kehu-3/', '/blog-tr/iyi-uyum-musteri-reddetmek-degildir-2/', '/blog-cn/2026-10-tsd-xin-gui-2/', '/blog-tr/estonyada-is-sozlesmesi-2/', '/blog-cn/aishaniya-laodong-hetong-zhinan-2/'];
+(async () => { const out = process.argv[2]; const b = await chromium.launch(); const rep = {};
+  for (const u of urls) { const ctx = await b.newContext(); const p = await ctx.newPage(); const chain = []; p.on('response', r => { if (r.request().isNavigationRequest()) chain.push(r.status() + ' ' + r.url().replace(B, '')); }); await p.goto(B + u, { waitUntil: 'load' }).catch(() => {}); rep[u] = chain.join(' -> ') + ' | hreflang zh/tr: ' + (await p.evaluate(() => [...document.querySelectorAll('link[hreflang="zh"],link[hreflang^="zh"],link[hreflang="tr"]')].map(l => l.hreflang + '=' + l.href.replace(location.origin, '')).join(' '))); await ctx.close(); }
+  fs.writeFileSync(out + '/r.json', JSON.stringify(rep, null, 1)); await b.close(); })();

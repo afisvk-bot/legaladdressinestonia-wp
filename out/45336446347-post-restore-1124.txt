@@ -1,0 +1,43 @@
+== guard: present
+== mu-plugins: lai-0-config.php, lai-article-schema.php, lai-auto-menu.php, lai-book-call.php, lai-data, lai-disclaimer.php, lai-i18n-helpers.php, lai-interlinking.php, lai-lead-source.php, lai-menu-sync.php, lai-migrate-20261106.php, lai-migrate-20261106b.php, lai-migrate-20261106c.php, lai-migrate-20261110.php, lai-migrate-20261110b.php, lai-migrate-20261117.php, lai-redirects.php, lai-service-routes.php, lai-table-format.php, rank-math-author-seo-per-language.php, staging-guard.php
+lai_mig_20261110: applied 2026-11-10 10:18:29
+lai_mig_20261110b: applied 2026-11-10 10:19:34
+lai_mig_20261117: applied 2026-11-17 13:55:56
+lai_bc_form_id: '4741'
+lai_bc_form_ver: '2'
+lai_ls_forms_ver: '1'
+lai_service_routes_ver: '1.0.0'
+  20261117 issues: EN #4578 skipped: title is «Restoration of the Accounting System in Estonia» | trash #1610: skipped (trash «Годовой отчет компании») | trash #2879: skipped (trash «Річний звіт компанії»)
+change-accountant group: {"ru":3627,"uk":4521,"en":4724,"de":4725,"es":4726,"fr":4727,"pt":4728,"tr":4729,"zh":4730}
+4578 EN title: Restoration of the Accounting System in Estonia slug accounting-restoration-in-estonia
+form_EN has lead-source: yes
+Book a call form: 4741
+theme header hooks: yes
+snippets: 
+  #1 a=0 2026-04-01 15:17:54 Сделать имена загружаемых файлов строчными
+  #2 a=0 2026-04-01 15:17:54 Отключить панель администратора
+  #3 a=0 2026-04-01 15:17:54 Разрешить смайлики
+  #4 a=0 2026-04-01 15:17:54 Текущий год
+  #5 a=0 2026-04-01 15:26:50 Pipedrive
+  #6 a=0 2026-04-01 16:18:37 auto-translate
+  #7 a=0 2026-04-09 21:17:25 China translation
+  #8 a=1 2026-08-14 14:47:23 Cookie Consent Widget 
+  #9 a=1 2026-10-16 06:59:00 x-default
+  #10 a=1 2026-10-17 13:07:43 Consent Mode + GTM
+  #11 a=1 2026-11-16 16:38:56 LAI - Pipedrive forms - Contacts and address change
+  #12 a=1 2026-11-16 17:01:44 LAI - UTM persistence between pages
+== new/modified content since 2026-11-17 12:00:
+  #4742 post auto-draft ru d=2026-11-23 09:35:23 m=2026-11-23 09:35:23 Черновик
+  #4730 service publish zh d=2026-11-17 13:55:46 m=2026-11-17 13:55:46 爱沙尼亚公司更换会计
+  #4729 service publish tr d=2026-11-17 13:55:41 m=2026-11-17 13:55:41 Estonya şirketinde muhasebeci değişikliği
+  #4728 service publish pt d=2026-11-17 13:55:36 m=2026-11-17 13:55:36 Mudança de contabilista de uma empresa estónia
+  #4727 service publish fr d=2026-11-17 13:55:31 m=2026-11-17 13:55:31 Changer de comptable pour une société estonienne
+  #4726 service publish es d=2026-11-17 13:55:26 m=2026-11-17 13:55:26 Cambio de contable de una empresa estonia
+  #4725 service publish de d=2026-11-17 13:55:20 m=2026-11-17 13:55:20 Buchhalterwechsel für estnische Unternehmen
+  #4521 service publish uk d=2026-11-17 13:55:15 m=2026-11-17 13:55:15 Зміна бухгалтера естонської компанії
+  #4724 service publish en d=2026-11-17 13:55:10 m=2026-11-17 13:55:10 Changing the Accountant of an Estonian Company
+  #2879 service trash uk d=2026-11-17 13:51:18 m=2026-11-17 13:51:18 Річний звіт компанії
+  #1610 service trash ru d=2026-11-17 13:51:18 m=2026-11-17 13:51:18 Годовой отчет компании
+  #4578 service publish en d=2026-11-06 11:56:21 m=2026-11-17 13:51:16 Restoration of the Accounting System in Estonia
+== CF7 forms modified since 11-17: #4741 Book a call 2026-11-17 18:30:41; 
+== leads since 11-17: cf_4741=2 (last 2026-11-17 18:32:31); 

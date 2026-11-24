@@ -1,0 +1,43 @@
+#4684 zh slug=estonia-founder-visa-residence-permit-zh mod=2026-11-10 08:19:40 | keeper #4691 slug=estonia-founder-visa-residence-permit-zh-2 mod=2026-11-10 10:19:33 url=https://staging.dragonslots-gr.gr/blog-cn/estonia-founder-visa-residence-permit-zh-2/
+   content same: identical len 12385/12385
+#4682 tr slug=estonya-sirket-kuruculari-vize-oturma-izni mod=2026-11-10 08:19:40 | keeper #4690 slug=estonya-sirket-kuruculari-vize-oturma-izni-2 mod=2026-11-10 10:19:32 url=https://staging.dragonslots-gr.gr/blog-tr/estonya-sirket-kuruculari-vize-oturma-izni-2/
+   content same: identical len 14489/14489
+#4667 zh slug=aishaniya-laodong-hetong-zhinan mod=2026-11-05 15:07:09 | keeper #4680 slug=aishaniya-laodong-hetong-zhinan-2 mod=2026-11-10 10:19:28 url=https://staging.dragonslots-gr.gr/blog-cn/aishaniya-laodong-hetong-zhinan-2/
+   content same: identical len 10238/10238
+#4664 tr slug=estonyada-is-sozlesmesi mod=2026-11-05 15:07:09 | keeper #4679 slug=estonyada-is-sozlesmesi-2 mod=2026-11-10 10:19:27 url=https://staging.dragonslots-gr.gr/blog-tr/estonyada-is-sozlesmesi-2/
+   content same: identical len 12251/12251
+#4653 zh slug=2026-10-tsd-xin-gui mod=2026-11-03 07:41:08 | keeper #4666 slug=2026-10-tsd-xin-gui-2 mod=2026-11-10 10:19:23 url=https://staging.dragonslots-gr.gr/blog-cn/2026-10-tsd-xin-gui-2/
+   content same: identical len 13647/13647
+#4652 zh slug=lianghao-hegui-bu-dengyu-jujue-kehu-2 mod=2026-10-16 08:19:14 | keeper #4669 slug=lianghao-hegui-bu-dengyu-jujue-kehu-3 mod=2026-11-10 10:19:18 url=https://staging.dragonslots-gr.gr/blog-cn/lianghao-hegui-bu-dengyu-jujue-kehu-3/
+   content same: identical len 10919/10919
+#4638 zh slug=lianghao-hegui-bu-dengyu-jujue-kehu mod=2026-10-16 08:19:14 | keeper #4669 slug=lianghao-hegui-bu-dengyu-jujue-kehu-3 mod=2026-11-10 10:19:18 url=https://staging.dragonslots-gr.gr/blog-cn/lianghao-hegui-bu-dengyu-jujue-kehu-3/
+   content same: identical len 10919/10919
+#4636 tr slug=iyi-uyum-musteri-reddetmek-degildir mod=2026-10-16 08:19:14 | keeper #4650 slug=iyi-uyum-musteri-reddetmek-degildir-2 mod=2026-11-10 10:19:17 url=https://staging.dragonslots-gr.gr/blog-tr/iyi-uyum-musteri-reddetmek-degildir-2/
+   content same: identical len 12860/12860
+==== #13
+// Code Snippets: front-end only. Configure the matching GTM event tag before activation.
+add_action('wp_footer', function () {
+    if (is_admin()) return;
+    ?>
+<script data-no-optimize="1" data-no-defer="1">
+(function () {
+  'use strict';
+  if (window.__laePhoneAnalyticsInstalled) return;
+  window.__laePhoneAnalyticsInstalled = true;
+  document.addEventListener('click', function (event) {
+    if (event.defaultPrevented || (event.button !== undefined && event.button !== 0)) return;
+    var target = event.target;
+    var link = target && target.closest ? target.closest('a[href]') : null;
+    if (!link || !/^tel:/i.test(link.getAttribute('href') || '')) return;
+    // Recheck at click time: neither an earlier grant nor a page reload is required.
+    if (!/(?:^|;\s*)lae_cookie_consent=analytics_granted(?:;|$)/.test(document.cookie)) return;
+    if (!Array.isArray(window.dataLayer)) return;
+    window.dataLayer.push({
+      event: 'lae_phone_click',
+      link_location: link.closest('header') ? 'header' : link.closest('footer') ? 'footer' : 'content'
+    });
+  });
+})();
+</script>
+<?php
+}, 110);

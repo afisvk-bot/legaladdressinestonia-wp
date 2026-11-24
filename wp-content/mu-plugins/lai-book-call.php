@@ -347,7 +347,7 @@ body.lcf-open #LeadboosterContainer,body.lcf-open [id^="Leadbooster"],body.lcf-o
  document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!ov.hidden) close(); });
  function setMethod(m){ var c=cfg[m]||cfg.Phone, i=ov.querySelector('#lcf-contact'), l=ov.querySelector('.lcf-contact-label'); if(!i) return; l.textContent=c.label; i.placeholder=c.ph; i.type=c.type; i.setAttribute('autocomplete',c.ac); i.setAttribute('inputmode',c.type==='tel'?'tel':(c.type==='email'?'email':'text')); }
  ov.addEventListener('change',function(e){ if(e.target.name==='contact-method') setMethod(e.target.value); });
- document.addEventListener('wpcf7mailsent',function(e){ if(!ov.contains(e.target)) return; ov.querySelector('.lcf__body').hidden=true; ov.querySelector('.lcf__done').hidden=false; try{ if(window.gtag) gtag('event','generate_lead',{form_name:'book_a_call'}); if(window.clarity) clarity('event','book_a_call'); }catch(x){} });
+ document.addEventListener('wpcf7mailsent',function(e){ if(!ov.contains(e.target)) return; ov.querySelector('.lcf__body').hidden=true; ov.querySelector('.lcf__done').hidden=false; try{ if(window.clarity) clarity('event','book_a_call'); }catch(x){} });
  if(location.hash==='#book-a-call') open();
 })();
 </script>

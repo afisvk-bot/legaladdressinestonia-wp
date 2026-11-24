@@ -1,0 +1,71 @@
+{
+ "trackerPresent": true,
+ "events": [
+  {
+   "event": "click_phone",
+   "page_language": "en",
+   "page_path": "/annual-report-for-estonian-companies/",
+   "link_location": "header",
+   "gtm.uniqueEventId": 15
+  },
+  {
+   "event": "click_email",
+   "page_language": "en",
+   "page_path": "/annual-report-for-estonian-companies/",
+   "link_location": "footer",
+   "link_text": "info@legaladdressinestonia.com",
+   "gtm.uniqueEventId": 16
+  },
+  {
+   "event": "generate_lead",
+   "page_language": "en",
+   "page_path": "/annual-report-for-estonian-companies/",
+   "form_id": "4741",
+   "form_type": "book_a_call",
+   "lead_source": "ChatGPT / AI assistant",
+   "lead_channel": "AI: ChatGPT",
+   "contact_method": "WhatsApp",
+   "gtm.uniqueEventId": 17
+  },
+  {
+   "event": "generate_lead",
+   "page_language": "en",
+   "page_path": "/annual-report-for-estonian-companies/",
+   "form_id": "456",
+   "form_type": "consultation",
+   "lead_source": "(not answered)",
+   "lead_channel": "AI: ChatGPT",
+   "service": "Legal address",
+   "gtm.uniqueEventId": 18
+  },
+  {
+   "event": "calendly_booked",
+   "page_language": "en",
+   "page_path": "/annual-report-for-estonian-companies/",
+   "lead_channel": "AI: ChatGPT",
+   "form_type": "calendly",
+   "gtm.uniqueEventId": 19
+  },
+  {
+   "event": "pipedrive_form_submit",
+   "page_language": "en",
+   "page_path": "/annual-report-for-estonian-companies/",
+   "form_type": "pipedrive",
+   "lead_channel": "AI: ChatGPT",
+   "redirect_url": "https://legaladdressinestonia.com/contacts/?lai_lead=pd",
+   "gtm.uniqueEventId": 20
+  }
+ ],
+ "afterRedirect": [],
+ "directThankYou": [
+  {
+   "event": "pipedrive_form_submit",
+   "page_language": "en",
+   "page_path": "/contacts/",
+   "form_type": "pipedrive",
+   "via": "thank_you_url",
+   "gtm.uniqueEventId": 13
+  }
+ ],
+ "errors": []
+}

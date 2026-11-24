@@ -1,0 +1,12 @@
+Success: Успешная очистка всех кэшей.
+#4751: content updated (links fixed)
+#4751: date 2026-11-16 09:27:48, Rank Math meta set — https://staging.dragonslots-gr.gr/blog-ru/kak-vesti-buhgalteriyu-o-samostoyatelno/
+  en: updated #4768 https://staging.dragonslots-gr.gr/blog/how-to-do-accounting-for-estonian-ou-yourself/
+  uk: updated #4769 https://staging.dragonslots-gr.gr/blog-uk/yak-vesty-bukhhalteriyu-ou-samostiyno/
+  de: updated #4770 https://staging.dragonslots-gr.gr/blog-de/buchhaltung-estnische-oue-selbst-fuehren/
+  es: updated #4771 https://staging.dragonslots-gr.gr/blog-es/contabilidad-ou-estonia-por-cuenta-propia/
+  fr: updated #4772 https://staging.dragonslots-gr.gr/blogue-fr/tenir-soi-meme-comptabilite-ou-estonie/
+  pt: updated #4773 https://staging.dragonslots-gr.gr/blogue-pt/contabilidade-ou-estonia-sozinho/
+  tr: updated #4774 https://staging.dragonslots-gr.gr/blog-tr/estonya-ou-muhasebesi-kendiniz-yapin/
+  zh: updated #4775 https://staging.dragonslots-gr.gr/blog-cn/estonia-ou-diy-accounting-zh/
+crypto: updated #4776 https://staging.dragonslots-gr.gr/blog-ru/kriptovalyutnaya-kompaniya-v-estonii-2026/ (image #4777 https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp)

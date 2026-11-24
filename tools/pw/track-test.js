@@ -22,8 +22,8 @@ const B = 'https://staging.dragonslots-gr.gr';
   await p.goto(B + '/contacts/?lai_lead=pd', { waitUntil: 'networkidle' });
   rep.afterRedirect = await evs();
   // новый визит без предшествующего сообщения — событие по URL
-  const c2 = await b.newContext(); const q = await c2.newPage(); await q.goto(B + '/contacts/?lai_lead=pd', { waitUntil: 'networkidle' });
-  rep.directThankYou = await q.evaluate(() => (window.dataLayer || []).filter(x => x && x.event === 'pipedrive_form_submit'));
+  const c2 = await b.newContext({ locale: 'ru-RU' }); const q = await c2.newPage(); await q.goto(B + '/ru/kontakty/?lai_lead=pd', { waitUntil: 'networkidle' });
+  await q.screenshot({ path: out + '/thanks.png' }); rep.url = q.url(); rep.directThankYou = await q.evaluate(() => (window.dataLayer || []).filter(x => x && x.event === 'pipedrive_form_submit'));
   rep.errors = errs;
   fs.writeFileSync(out + '/rep.json', JSON.stringify(rep, null, 1)); await b.close();
 })();

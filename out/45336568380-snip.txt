@@ -1,0 +1,133 @@
+===== #11 LAI - Pipedrive forms - Contacts and address change scope=front-end
+/**
+ * Replace the approved contact forms on the nine Contacts and address-change pages.
+ * Original page content, CF7 templates and the Calendly consultation widget stay intact.
+ * Roll back by deactivating this snippet and refreshing affected page caches.
+ */
+add_filter('do_shortcode_tag', function ($output, $tag, $attributes) {
+    if (is_admin() || $tag !== 'contact-form-7' || !is_singular()) {
+        return $output;
+    }
+
+    $pages = array(
+        120 => array('form_id' => '539', 'language' => 'en'),
+        172 => array('form_id' => '556', 'language' => 'zh'),
+        166 => array('form_id' => '544', 'language' => 'de'),
+        170 => array('form_id' => '550', 'language' => 'es'),
+        164 => array('form_id' => '546', 'language' => 'fr'),
+        168 => array('form_id' => '548', 'language' => 'ru'),
+        174 => array('form_id' => '552', 'language' => 'pt'),
+        176 => array('form_id' => '554', 'language' => 'tr'),
+        1310 => array('form_id' => '1300', 'language' => 'uk'),
+        1482 => array('form_id' => '456', 'language' => 'en'),
+        2487 => array('form_id' => '502', 'language' => 'zh'),
+        2489 => array('form_id' => '491', 'language' => 'de'),
+        2491 => array('form_id' => '500', 'language' => 'es'),
+        2493 => array('form_id' => '498', 'language' => 'fr'),
+        1483 => array('form_id' => '496', 'language' => 'ru'),
+        2495 => array('form_id' => '506', 'language' => 'pt'),
+        2497 => array('form_id' => '504', 'language' => 'tr'),
+        3019 => array('form_id' => '1301', 'language' => 'uk'),
+    );
+    $target = $pages[get_queried_object_id()] ?? null;
+    if (!$target) {
+        return $output;
+    }
+
+    // Match CF7's resolved form, because legacy shortcode hashes may resolve by title.
+    if (!preg_match('/\A\s*<div\b[^>]*\sdata-wpcf7-id=["\'](\d+)["\']/', $output, $match)
+        || $match[1] !== $target['form_id']) {
+        return $output;
+    }
+
+    $forms = array(
+        'en' => 'https://webforms.pipedrive.com/f/63oB1YrbExfTq3ZqALEaQUdA0UfOvucqRx8XcA6cIJH699A8Iapf3ecLN1d5LQuIHF',
+        'ru' => 'https://webforms.pipedrive.com/f/6qfHVLUQUt8jzuGL90bzRzS36W5rBt9CZYOudpqyxHUO67C4XgZ9hBNfcP6mekKoTN',
+        'zh' => 'https://webforms.pipedrive.com/f/czO1JlBXZbKGmDdEU9viUDQArae2ZSyZXoPMQg11ZGUg94RIpFaZvK5Vb8o2jweDpp',
+        'fr' => 'https://webforms.pipedrive.com/f/crZZwDZ5NgpHpluW46khyndmZVpv6DgLYtblxU0ZSnB15alktxSxbI6sq0V6MvgjnB',
+        'es' => 'https://webforms.pipedrive.com/f/6b5ixdAoBAYwS3GXgFvEutMlzKDWJpyvrwAiAjSMX95YTTLy0Tn3v422n8AcrJtAXh',
+        'pt' => 'https://webforms.pipedrive.com/f/6aW2TURXzUADDV2yTsDc3gVvMuY0RG97eqebaNGV0jqda3z3xU2WYZnSacbmah5FBN',
+        'de' => 'https://webforms.pipedrive.com/f/6k342HWDK7tAM2OkSALKSUzaZgHmYpZBeHONsEhrdDjclzyQBbMIIVxjsSpgnMgL2r',
+        'tr' => 'https://webforms.pipedrive.com/f/6iCndKMB42aZ5zrbPpQLYk5h12SJQrfcDlhTTlnZUEdjAjy8c3jOygv8CBVrOAvfJ9',
+        'uk' => 'https://webforms.pipedrive.com/f/6N6NtYMAd6JqDv7ZfQ0pHeBxQPmK6Eh5ZYdJcjJj1lgrGvmRPZiKTpcUMcBrl0HPyz',
+    );
+
+    // Load the form independently of analytics or other optional page scripts.
+    wp_enqueue_script('lai-scoped-pipedrive-forms', 'https://webforms.pipedrive.com/f/loader', array(), null, true);
+    return '<div class="pipedriveWebForms" data-pd-webforms="' . esc_url($forms[$target['language']]) . '"></div>';
+}, 10, 3);
+
+===== #12 LAI - UTM persistence between pages scope=front-end
+/** Preserve campaign attribution during a consented visit. Disable this snippet to roll back. */
+add_action('wp_head', function () {
+    if (is_admin()) {
+        return;
+    }
+    ?>
+<script id="lai-utm-persistence" data-no-optimize="1" data-no-defer="1">
+(function () {
+    'use strict';
+    const keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'];
+    const storageKey = 'lai_utm_visit_v1';
+    const lifetime = 30 * 60 * 1000;
+
+    function forget() {
+        try { sessionStorage.removeItem(storageKey); } catch (_) {}
+    }
+
+    function preserve() {
+        if (!/(?:^|;\s*)lae_cookie_consent=analytics_granted(?:;|$)/.test(document.cookie)) {
+            forget();
+            return;
+        }
+        const url = new URL(window.location.href);
+        const now = Date.now();
+        let values = {};
+        if (keys.some(key => url.searchParams.has(key))) {
+            // A new campaign replaces the whole set, never mixing old and new tags.
+            for (const key of keys) {
+                const value = url.searchParams.get(key);
+                if (value) values[key] = value;
+            }
+        } else {
+            let saved;
+            try { saved = JSON.parse(sessionStorage.getItem(storageKey)); } catch (_) {}
+            if (!saved || !Number.isFinite(saved.seenAt) || now < saved.seenAt
+                || now - saved.seenAt >= lifetime || !saved.values
+                || typeof saved.values !== 'object' || Array.isArray(saved.values)) {
+                forget();
+                return;
+            }
+            for (const key of keys) {
+                if (typeof saved.values[key] === 'string' && saved.values[key]) {
+                    values[key] = saved.values[key];
+                    url.searchParams.set(key, values[key]);
+                }
+            }
+            // The native Pipedrive loader reads document.URL when it creates the iframe.
+            // Restore before that happens, without navigating or adding a history entry.
+            if (Object.keys(values).length) {
+                try { window.history.replaceState(window.history.state, '', url.href); } catch (_) {}
+            }
+        }
+        if (!Object.keys(values).length) {
+            forget();
+            return;
+        }
+        try { sessionStorage.setItem(storageKey, JSON.stringify({ seenAt: now, values: values })); } catch (_) {}
+    }
+
+    preserve();
+    // The existing consent handler writes its cookie in the capture phase.
+    document.addEventListener('click', function (event) {
+        const target = event.target;
+        if (target && typeof target.closest === 'function'
+            && target.closest('#lae-cookie-accept, #lae-cookie-reject, #lae-cookie-close')) {
+            preserve();
+        }
+    });
+})();
+</script>
+    <?php
+}, -1);
+

@@ -1,0 +1,32 @@
+#4490 /accounting-e-residents/ «Accounting for E-Residents in Estonia» langs=9
+#2746 /accounting-services-in-estonia/ «Accounting services in Estonia» langs=9
+#4529 /startups/ «An Estonian Company for Start-ups» langs=9
+#1398 /annual-report-for-estonian-companies/ «Annual report for Estonian companies» langs=9
+#3597 /as-registration-in-estonia/ «AS Registration in Estonia» langs=9
+#1482 /change-legal-address-in-estonia/ «Change Legal Address in Estonia» langs=9
+#4724 /change-of-accountant-in-estonia/ «Changing the Accountant of an Estonian Company» langs=9
+#2263 /company-registration-in-estonia/ «Company registration in Estonia» langs=9
+#4457 /power-of-attorney/ «Company registration in Estonia by power of attorney» langs=9
+#2254 /contact-person-in-estonia/ «Contact person in Estonia» langs=9
+#4699 /interim-reports/ «Interim Financial Statements in Estonia» langs=9
+#1269 /legal-address/ «Legal Address in Estonia» langs=9
+#2805 /legal-services-in-estonia/ «Legal services in Estonia» langs=9
+#2696 /monthly-accounting-in-estonia/ «Monthly accounting in Estonia» langs=9
+#2791 /oss-and-ioss-registration-in-estonia/ «OSS and IOSS registration in Estonia» langs=9
+#1415 /ready-made-company-in-estonia/ «Ready-made company in Estonia» langs=9
+#2247 /register-company-in-estonia-via-e-residency/ «Register company in Estonia via e-Residency» langs=9
+#4427 /branch-office/ «Registering a branch in Estonia» langs=9
+#2257 /company-registration-ou-notary/ «Registering an Estonian OÜ company via a notary» langs=9
+#3639 /registering-an-mt-in-estonia/ «Registering an MTÜ in Estonia» langs=9
+#2261 /vat-registration/ «Registering for a VAT number in Estonia» langs=9
+#4578 /accounting-restoration-in-estonia/ «Restoration of the Accounting System in Estonia» langs=9
+#2761 /tax-consulting-in-estonia/ «Tax consulting in Estonia» langs=9
+#1410 /virtual-office-in-estonia/ «Virtual office in Estonia» langs=9
+#2776 /work-visa-residence-permit/ «Work visa and residence permits in Estonia» langs=9
+#2446 /industry/crypto-and-web3-projects/ «An Estonian company specialising in crypto and Web3 projects»
+#2419 /industry/igaming-affiliates-and-media/ «An Estonian company for iGaming affiliates and media projects»
+#2398 /industry/saas-it-and-developers/ «An Estonian company for SaaS, IT and developers»
+#2383 /industry/e-commerce-and-dropshipping/ «A company in Estonia specialising in e-commerce and dropshipping»
+#2649 /target/estonia-for-digital-nomads/ «Estonia for digital nomads»
+#2266 /target/services-for-e-residents/ «Services for Estonian e-residents»
+#2250 /target/non-residents/ «An Estonian company for founders from outside the EU»

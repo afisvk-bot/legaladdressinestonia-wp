@@ -49,6 +49,12 @@ add_action( 'wp_footer', function () {
  });
  // страница «спасибо» после формы Pipedrive: ?lai_lead=pd (если событие не ушло до переадресации)
  if(/[?&]lai_lead=pd\b/.test(location.search)){
+  // сообщение «Спасибо» вместо стандартного экрана Pipedrive
+  var n=document.createElement('div'); n.className='lai-thanks'; n.setAttribute('role','status');
+  n.innerHTML='<b>'+<?php echo wp_json_encode( function_exists( 'lai_bc_t' ) ? lai_bc_t( 'ok_t' ) : 'Request sent' ); ?>+'</b><span>'+<?php echo wp_json_encode( function_exists( 'lai_bc_t' ) ? lai_bc_t( 'ok' ) : 'Thank you! We will contact you within 1 working day.' ); ?>+'</span><button type="button" aria-label="Close">&times;</button>';
+  n.querySelector('button').onclick=function(){ n.remove(); };
+  document.body.appendChild(n); setTimeout(function(){ if(n.parentNode) n.remove(); },12000);
+  try{ var u=new URL(location.href); u.searchParams.delete('lai_lead'); history.replaceState(history.state,'',u.href); }catch(x){}
   var t=0; try{ t=+sessionStorage.getItem(PD_KEY)||0; sessionStorage.removeItem(PD_KEY);}catch(x){}
   if(!t||Date.now()-t>60000) push('pipedrive_form_submit',{form_type:'pipedrive',lead_channel:src().c||'',via:'thank_you_url'});
  }
@@ -62,5 +68,6 @@ add_action( 'wp_footer', function () {
  },true);
 })();
 </script>
+<style>.lai-thanks{position:fixed;left:50%;top:24px;transform:translateX(-50%);z-index:100001;display:flex;flex-direction:column;gap:4px;max-width:min(92vw,460px);background:#fff;border-left:4px solid #31d44b;border-radius:14px;box-shadow:0 16px 40px rgba(10,20,40,.18);padding:16px 44px 16px 18px;color:#151a2d;font-size:15px;line-height:1.4}.lai-thanks b{font-size:17px}.lai-thanks button{position:absolute;top:8px;right:10px;border:0;background:none;font-size:24px;line-height:1;cursor:pointer;color:#151a2d}</style>
 	<?php
 }, 70 );

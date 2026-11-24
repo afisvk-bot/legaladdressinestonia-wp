@@ -1,0 +1,11 @@
+/blog-ru/vat-registratsiya-estoniya-kogda-nuzhna/ => #2107 post ru https://staging.dragonslots-gr.gr/blog-ru/vat-registratsiya-estoniya-kogda-nuzhna/ tr=ru,en,uk,de
+/blog-ru/godovoy-otchet-estoniya/ => #1017 post ru https://staging.dragonslots-gr.gr/blog-ru/godovoy-otchet-estoniya/ tr=ru,es,en,pt,tr,de,fr,zh
+/accounting/vat-returns/ => NOT FOUND
+/accounting/payroll/ => NOT FOUND
+/accounting/e-residents/ => #2353 target zh https://staging.dragonslots-gr.gr/target/e-residents/ tr=zh,uk,en,de,es,fr,ru,pt,tr
+/blog-ru/oss-i-ioss-v-estonii/ => #1898 post ru https://staging.dragonslots-gr.gr/blog-ru/oss-i-ioss-v-estonii/ tr=ru,uk,en
+/blog-ru/kak-vybrat-buhgaltera-v-estonii/ => #2219 post ru https://staging.dragonslots-gr.gr/blog-ru/kak-vybrat-buhgaltera-v-estonii/ tr=ru,uk,en
+/accounting-e-residents/ => #4490 service en https://staging.dragonslots-gr.gr/accounting-e-residents/ tr=en,ru,uk,zh,de,es,fr,pt,tr
+/monthly-accounting-in-estonia/ => #2696 service en https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/ tr=en,uk,zh,de,es,fr,ru,pt,tr
+/payroll-accounting-in-estonia/ => NOT FOUND
+/vat-registration-in-estonia/ => NOT FOUND

@@ -1,0 +1,130 @@
+{
+ "/blog-ru/kriptovalyutnaya-kompaniya-v-estonii-2026/": {
+  "status": 200,
+  "title": "Криптовалютная компания в Эстонии 2026: MiCA и CASP",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 27,
+  "bad": []
+ },
+ "/blog/crypto-company-in-estonia-2026/": {
+  "status": 200,
+  "title": "Crypto Company in Estonia 2026: MiCA and CASP Licence",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 31,
+  "bad": []
+ },
+ "/blog-uk/kryptovalyutna-kompaniya-v-estoniyi-2026/": {
+  "status": 200,
+  "title": "Криптовалютна компанія в Естонії 2026: MiCA і CASP",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 27,
+  "bad": []
+ },
+ "/blog-de/kryptounternehmen-in-estland-2026/": {
+  "status": 200,
+  "title": "Kryptounternehmen in Estland 2026: MiCA und CASP-Lizenz",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 27,
+  "bad": []
+ },
+ "/blog-es/empresa-cripto-en-estonia-2026/": {
+  "status": 200,
+  "title": "Empresa cripto en Estonia 2026: MiCA y licencia CASP",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 25,
+  "bad": []
+ },
+ "/blogue-fr/societe-crypto-en-estonie-2026/": {
+  "status": 200,
+  "title": "Société crypto en Estonie 2026 : MiCA et licence CASP",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 28,
+  "bad": []
+ },
+ "/blogue-pt/empresa-cripto-na-estonia-2026/": {
+  "status": 200,
+  "title": "Empresa cripto na Estónia 2026: MiCA e licença CASP",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 27,
+  "bad": []
+ },
+ "/blog-tr/estonyada-kripto-sirketi-2026/": {
+  "status": 200,
+  "title": "Estonya'da kripto şirketi 2026: MiCA ve CASP lisansı",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 25,
+  "bad": []
+ },
+ "/blog-cn/estonia-crypto-company-2026-zh/": {
+  "status": 200,
+  "title": "2026年爱沙尼亚加密货币公司：MiCA与CASP",
+  "img": "https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/crypto-company-estonia-2026.webp",
+  "hreflang": 10,
+  "links": 26,
+  "bad": []
+ },
+ "LIST /blog/": {
+  "status": 200,
+  "first": [
+   "Crypto & Web3",
+   "Crypto & Web3"
+  ]
+ },
+ "LIST /blog-uk/": {
+  "status": 200,
+  "first": [
+   "Крипто і Web3",
+   "Крипто і Web3"
+  ]
+ },
+ "LIST /blog-de/": {
+  "status": 200,
+  "first": [
+   "Krypto & Web3",
+   "Krypto & Web3"
+  ]
+ },
+ "LIST /blog-es/": {
+  "status": 200,
+  "first": [
+   "Cripto y Web3",
+   "Cripto y Web3"
+  ]
+ },
+ "LIST /blogue-fr/": {
+  "status": 200,
+  "first": [
+   "Crypto et Web3",
+   "Crypto et Web3"
+  ]
+ },
+ "LIST /blogue-pt/": {
+  "status": 200,
+  "first": [
+   "Cripto e Web3",
+   "Cripto e Web3"
+  ]
+ },
+ "LIST /blog-tr/": {
+  "status": 200,
+  "first": [
+   "Kripto ve Web3",
+   "Kripto ve Web3"
+  ]
+ },
+ "LIST /blog-cn/": {
+  "status": 200,
+  "first": [
+   "加密与Web3",
+   "加密与Web3"
+  ]
+ }
+}

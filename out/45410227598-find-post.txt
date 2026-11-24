@@ -1,0 +1,23 @@
+#4751 publish ru date=2026-11-23 09:27:48 author=7 «Как вести бухгалтерию OÜ самостоятельно»
+group: {"ru":4751}
+cats: 112 thumb=4752 https://staging.dragonslots-gr.gr/wp-content/uploads/2026/11/How-to-manage-accounting-for-an-yourself.jpg
+rm:  |  | 
+len 15576
+crypto pages: 
+  #3035 post https://staging.dragonslots-gr.gr/blog/registered-address-vs-physical-office-in-estonia/ «Legal address vs physical office in Estonia»
+  #2995 post https://staging.dragonslots-gr.gr/blog/why-good-compliance-is-not-about-rejecting-clients/ «Corporate services in Estonia: why good compliance is not about rejecting clients»
+  #2508 licensing https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ «A holding company structure in Estonia for crypto and iGaming projects»
+  #2446 industry https://staging.dragonslots-gr.gr/industry/crypto-and-web3-projects/ «An Estonian company specialising in crypto and Web3 projects»
+  #2223 post https://staging.dragonslots-gr.gr/blog/how-to-choose-an-accountant-in-estonia/ «How to choose an accountant in Estonia in 2026»
+  #1629 post https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/ «How to Open a Bank Account for an Estonian Company»
+  #1389 post https://staging.dragonslots-gr.gr/blog/what-is-estonian-e-residency/ «What is Estonian e-Residency and Who Is It For?»
+  #1168 page https://staging.dragonslots-gr.gr/aml-cft-policy/ «AML/CFT Policy»
+  #1164 page https://staging.dragonslots-gr.gr/gdpr-compliance/ «GDPR Compliance»
+  #1388 post https://staging.dragonslots-gr.gr/blog/how-to-open-a-company-in-estonia-as-a-non-resident/ «How to Open a Company in Estonia as a Non-Resident»
+licensing en: 
+  #2731 https://staging.dragonslots-gr.gr/licensing/emi-licence-in-estonia/ «EMI licence and payment institution licence in Estonia»
+  #2716 https://staging.dragonslots-gr.gr/licensing/substance-in-estonia/ «Substance in Estonia»
+  #2665 https://staging.dragonslots-gr.gr/licensing/fiu-fma-transition/ «FIU to FMA License Transition Services in Estonia»
+  #2543 https://staging.dragonslots-gr.gr/licensing/casp-licence-under-mica/ «CASP licence under MiCA»
+  #2528 https://staging.dragonslots-gr.gr/licensing/financial-licence-in-estonia/ «Financial licence in Estonia»
+  #2508 https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/ «A holding company structure in Estonia for crypto and iGaming projects»

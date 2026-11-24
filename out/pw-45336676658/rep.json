@@ -1,0 +1,39 @@
+{
+ "msgs": [
+  {
+   "o": "https://staging.dragonslots-gr.gr",
+   "d": "recaptcha-setup"
+  },
+  {
+   "o": "https://webforms.pipedrive.com",
+   "d": "{\"type\":1,\"payload\":{\"version\":\"V2\",\"uuid\":\"id4ony98\",\"source\":\"pipedriveWebForms\"}}"
+  },
+  {
+   "o": "https://webforms.pipedrive.com",
+   "d": "{\"type\":4,\"payload\":{\"key\":1,\"name\":\"mousedown\",\"uuid\":\"id4ony98\",\"source\":\"pipedriveWebForms\"}}"
+  },
+  {
+   "o": "https://webforms.pipedrive.com",
+   "d": "{\"type\":0,\"payload\":{\"width\":370,\"height\":0,\"uuid\":\"id4ony98\",\"source\":\"pipedriveWebForms\"}}"
+  },
+  {
+   "o": "https://webforms.pipedrive.com",
+   "d": "{\"type\":0,\"payload\":{\"width\":370,\"height\":684,\"uuid\":\"id4ony98\",\"source\":\"pipedriveWebForms\"}}"
+  },
+  {
+   "o": "https://webforms.pipedrive.com",
+   "d": "{\"type\":0,\"payload\":{\"width\":370,\"height\":683,\"uuid\":\"id4ony98\",\"source\":\"pipedriveWebForms\"}}"
+  },
+  {
+   "o": "https://webforms.pipedrive.com",
+   "d": "{\"type\":0,\"payload\":{\"width\":370,\"height\":699,\"uuid\":\"id4ony98\",\"source\":\"pipedriveWebForms\"}}"
+  }
+ ],
+ "frameUrl": "https://webforms.pipedrive.com/f/63oB1YrbExfTq3ZqALEaQUdA0UfOvucqRx8XcA6cIJH699A8Iapf3ecLN1d5LQuIHF?embeded=1&uuid=id4ony98",
+ "frameScripts": [
+  "https://www.gstatic.com/recaptcha/releases/DqDoLJqJmjhqr0vRwNZ2MCHA/recaptcha__en.js",
+  "https://cdn.fra-1.pipedriveassets.com/leadbooster-chat/assets/web-forms/app.d5de2c6db60f8513a727.min.js",
+  "https://www.google.com/recaptcha/api.js?render=6LeTnQEsAAAAAK-R6-y5qMu8vQQ_wlnkbmX30bZJ"
+ ],
+ "calendly": []
+}

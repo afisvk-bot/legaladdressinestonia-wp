@@ -1,0 +1,55 @@
+== guard: present
+== mu-plugins: aios-firewall-loader.php, lai-0-config.php, lai-article-schema.php, lai-auto-menu.php, lai-book-call.php, lai-data, lai-disclaimer.php, lai-i18n-helpers.php, lai-interlinking.php, lai-lead-source.php, lai-menu-sync.php, lai-migrate-20261117.php, lai-redirects.php, lai-service-routes.php, lai-table-format.php, rank-math-author-seo-per-language.php, staging-guard.php
+lai_mig_20261110: applied 2026-11-10 10:18:29
+lai_mig_20261110b: applied 2026-11-10 10:19:34
+lai_mig_20261117: applied 2026-11-17 14:21:37
+lai_bc_form_id: '4741'
+lai_bc_form_ver: '2'
+lai_ls_forms_ver: '1'
+lai_service_routes_ver: '1.0.0'
+  20261117 issues: none
+change-accountant group: {"ru":3627,"uk":4521,"en":4724,"de":4725,"es":4726,"fr":4727,"pt":4728,"tr":4729,"zh":4730}
+4578 EN title: Restoration of the Accounting System in Estonia slug accounting-restoration-in-estonia
+form_EN has lead-source: yes
+Book a call form: 4741
+theme header hooks: yes
+snippets: 
+  #1 a=0 2026-04-01 15:17:54 Сделать имена загружаемых файлов строчными
+  #2 a=0 2026-04-01 15:17:54 Отключить панель администратора
+  #3 a=0 2026-04-01 15:17:54 Разрешить смайлики
+  #4 a=0 2026-04-01 15:17:54 Текущий год
+  #5 a=0 2026-04-01 15:26:50 Pipedrive
+  #6 a=0 2026-04-01 16:18:37 auto-translate
+  #7 a=0 2026-04-09 21:17:25 China translation
+  #8 a=1 2026-08-14 14:47:23 Cookie Consent Widget 
+  #9 a=1 2026-10-16 06:59:00 x-default
+  #10 a=1 2026-10-17 13:07:43 Consent Mode + GTM
+  #11 a=1 2026-11-16 16:38:56 LAI - Pipedrive forms - Contacts and address change
+  #12 a=1 2026-11-16 17:01:44 LAI - UTM persistence between pages
+  #13 a=1 2026-11-18 00:40:38 Phone click analytics - consent required
+== new/modified content since 2026-11-17 12:00:
+  #4758 service draft ru d=2026-11-23 21:19:16 m=2026-11-23 21:19:16 Ликвидация компании в Эстонии — закрыть, продать или восстановить OÜ п
+  #4757 target draft ru d=2026-11-23 21:03:53 m=2026-11-23 21:03:53 Эстонская компания для украинских предпринимателей — e-Residency, OÜ и
+  #4756 service auto-draft ru d=2026-11-23 20:48:06 m=2026-11-23 20:48:06 Черновик
+  #4751 post publish ru d=2026-11-23 09:27:48 m=2026-11-23 09:28:04 Как вести бухгалтерию OÜ самостоятельно
+  #4750 service auto-draft en d=2026-11-21 21:18:09 m=2026-11-21 21:18:09 Черновик
+  #4749 service draft ru d=2026-11-21 21:17:35 m=2026-11-21 21:17:35 Регистрация товарного знака и патента в Эстонии и ЕС — защита бренда: 
+  #4748 service auto-draft ru d=2026-11-21 21:01:03 m=2026-11-21 21:01:03 Черновик
+  #4747 service draft en d=2026-11-21 21:00:43 m=2026-11-21 21:00:43 Регистрация товарного знака и патента в Эстонии и ЕС — защита бренда о
+  #4746 post auto-draft en d=2026-11-21 20:24:52 m=2026-11-21 20:24:52 Черновик
+  #1269 service publish en d=2026-08-03 13:28:07 m=2026-11-19 15:18:58 Legal Address in Estonia
+  #1410 service publish en d=2026-08-08 06:37:05 m=2026-11-19 15:04:52 Virtual office in Estonia
+  #2263 service publish en d=2026-09-11 14:36:30 m=2026-11-19 15:00:01 Company registration in Estonia
+  #4730 service publish zh d=2026-11-17 14:21:33 m=2026-11-17 14:21:33 爱沙尼亚公司更换会计
+  #4729 service publish tr d=2026-11-17 14:21:32 m=2026-11-17 14:21:32 Estonya şirketinde muhasebeci değişikliği
+  #4728 service publish pt d=2026-11-17 14:21:31 m=2026-11-17 14:21:31 Mudança de contabilista de uma empresa estónia
+  #4727 service publish fr d=2026-11-17 14:21:30 m=2026-11-17 14:21:30 Changer de comptable pour une société estonienne
+  #4726 service publish es d=2026-11-17 14:21:29 m=2026-11-17 14:21:29 Cambio de contable de una empresa estonia
+  #4725 service publish de d=2026-11-17 14:21:28 m=2026-11-17 14:21:28 Buchhalterwechsel für estnische Unternehmen
+  #4521 service publish uk d=2026-11-17 14:21:27 m=2026-11-17 14:21:27 Зміна бухгалтера естонської компанії
+  #2879 service trash uk d=2026-11-17 14:21:25 m=2026-11-17 14:21:25 Річний звіт компанії
+  #1610 service trash ru d=2026-11-17 14:21:25 m=2026-11-17 14:21:25 Годовой отчет компании
+  #4724 service publish en d=2026-11-17 14:21:25 m=2026-11-17 14:21:25 Changing the Accountant of an Estonian Company
+  #4578 service publish en d=2026-11-06 11:56:21 m=2026-11-17 14:21:24 Restoration of the Accounting System in Estonia
+== CF7 forms modified since 11-17: #4741 Book a call 2026-11-17 18:43:16; 
+== leads since 11-17: cf_456=1 (last 2026-11-18 09:51:12); cf_4741=3 (last 2026-11-20 21:05:40); 

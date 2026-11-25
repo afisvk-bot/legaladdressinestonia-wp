@@ -1,0 +1,207 @@
+#4758 service publish parent=0 lang=ru date=2026-11-25 15:23:56 mod=2026-11-25 15:23:56
+  url https://staging.dragonslots-gr.gr/likvidatsiya-kompanii-v-estonii-zakryt-prodat-ili-vosstanovit-o-pravilno/
+  title «Ликвидация компании в Эстонии — закрыть, продать или восстановить OÜ правильно»
+  group {"ru":4758} tpl=single-service.php thumb=4788
+  content_len=0 acf_keys=89 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  rm: Ликвидация компании (OÜ) в Эстонии под ключ — сроки и стоимость %currentyear% | Официальная ликвидация компании OÜ в Эстонии под ключ: этапы, сроки, ликвидационный баланс и полное исключение из Коммерческого регистра. | Ликвидация компании (OÜ) в Эстонии
+  tax []
+#4749 service publish parent=0 lang=ru date=2026-11-25 15:30:13 mod=2026-11-25 15:34:49
+  url https://staging.dragonslots-gr.gr/registratsiya-tovarnogo-znaka-i-patenta-v-estonii-i-es-zashhita-brenda-ot-razrabotki-strategii-do-polucheniya-svidetelstva/
+  title «Регистрация товарного знака и патента в Эстонии и ЕС»
+  group {"ru":4749,"en":4747} tpl=default thumb=4790
+  content_len=0 acf_keys=89 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  rm: Регистрация товарного знака и патента в Эстонии и ЕС (EUIPO)  %currentyear% | Регистрация торговой марки и патента в Эстонии (EPA) и ЕС (EUIPO) под ключ: проверка бренда, классы МКТУ, подача заявки и защита прав. | Регистрация товарного знака и патента в Эстонии
+  tax []
+#4757 target publish parent=0 lang=ru date=2026-11-25 15:16:47 mod=2026-11-25 15:16:47
+  url https://staging.dragonslots-gr.gr/target/estonskaya-kompaniya-dlya-ukrainskih-predprinimatelej/
+  title «Эстонская компания (OÜ) для украинцев»
+  group {"ru":4757} tpl=single-service.php thumb=4786
+  content_len=0 acf_keys=87 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  rm: Эстонская компания (OÜ) для украинцев в 2026: e-Residency, налоги и КИК (70 символов) | Открытие OÜ в Эстонии для украинцев через e-Residency: регистрация, налог 0% в Эстонии, правила КИК и налоговые обязательства в Украине в 2026 году. | Эстонская компания (OÜ) для украинцев
+  tax []
+== EN master primary-menu menu 154 Primary EN
+#2835 o=1 custom:custom/2835 "Services" 
+  #2837 o=2 post_type:service/2263 "Company Formation" 
+    #2838 o=3 post_type:target/2250 "For Non-Residents" 
+    #2841 o=4 post_type:service/2247 "Via e-Residency" 
+    #2839 o=5 post_type:service/2257 "Via Notary" 
+    #2840 o=6 post_type:service/1415 "Ready-Made Companies" 
+    #3613 o=7 post_type:service/3597 "AS Company" 
+    #3653 o=8 post_type:service/3639 "MTÜ (Non-Profit)" 
+    #4444 o=9 post_type:service/4427 "Branch Registration" 
+    #4472 o=10 post_type:service/4457 "By Power of Attorney" 
+  #2843 o=11 custom:custom/2843 "Legal Address" 
+    #2844 o=12 post_type:service/1482 "Change Address" 
+  #2845 o=13 post_type:service/1410 "Virtual Office" 
+  #2846 o=14 post_type:service/2254 "Contact Person" 
+  #2847 o=15 post_type:service/2746 "Accounting & Tax" 
+    #2848 o=16 post_type:service/2696 "Monthly Accounting" 
+    #4731 o=17 post_type:service/4724 "Change of Accountant" 
+    #2849 o=18 post_type:service/2761 "Tax Consulting" 
+    #4507 o=19 post_type:service/4490 "For e-Residents" 
+    #4600 o=20 post_type:service/4578 "Accounting Reconstruction" 
+    #4713 o=21 post_type:service/4699 "Interim Reports" 
+    #2850 o=22 post_type:service/1398 "Annual Report" 
+  #2851 o=23 custom:custom/2851 "Registration Numbers" 
+    #2852 o=24 post_type:service/2261 "VAT & EORI" 
+    #2853 o=25 post_type:service/2791 "IOSS & OSS" 
+  #2854 o=26 custom:custom/2854 "Residency & Visas" 
+    #2855 o=27 post_type:service/2776 "Work Visas & Permits" 
+#2856 o=28 custom:custom/2856 "Licenses" 
+  #2860 o=29 post_type:licensing/2528 "Financial" 
+  #2859 o=30 post_type:licensing/2543 "MiCA CASP" 
+  #2857 o=31 post_type:licensing/2731 "EMI & PI" 
+  #2858 o=32 post_type:licensing/2665 "FIU to FMA" 
+#2861 o=33 custom:custom/2861 "Industries" 
+  #2862 o=34 post_type:industry/2446 "Crypto & Web3" 
+  #2863 o=35 post_type:industry/2419 "iGaming & Media" 
+  #2864 o=36 post_type:industry/2398 "IT & SaaS" 
+  #2865 o=37 post_type:industry/2383 "E-commerce & Dropshipping" 
+  #4548 o=38 post_type:service/4529 "Start-ups" 
+#2866 o=39 custom:custom/2866 "Who We Serve" 
+  #2868 o=40 post_type:target/2266 "e-Residents" 
+  #2867 o=41 post_type:target/2649 "Digital Nomads" 
+#2869 o=42 custom:custom/2869 "Other Services" 
+  #2870 o=43 post_type:licensing/2716 "Corporate Substance" 
+  #2871 o=44 post_type:licensing/2508 "Holding Structures" 
+== RU primary-menu menu 155 Primary RU
+#4269 o=1 custom:custom/4269 "Услуги" [synced]
+  #4270 o=2 post_type:service/2149 "Регистрация компаний" [synced]
+    #4271 o=3 post_type:target/2194 "Для нерезидентов" [synced]
+    #4272 o=4 post_type:service/2155 "Через e-Residency" [synced]
+    #4273 o=5 post_type:service/2157 "Через нотариуса" [synced]
+    #4274 o=6 post_type:service/1401 "Готовые компании" [synced]
+    #4410 o=7 post_type:service/3585 "Регистрация AS" 
+    #4409 o=8 post_type:service/3586 "MTÜ (НКО)" 
+    #4449 o=9 post_type:service/3587 "Регистрация филиала" 
+    #4477 o=10 post_type:service/3588 "По доверенности" 
+  >>#4789 o=11 post_type:service/4758 "Ликвидация компаний" 
+  #4275 o=12 custom:custom/4275 "Юридический адрес" [synced]
+    #4276 o=13 post_type:service/1483 "Смена юридического адреса" [synced]
+  #4277 o=14 post_type:service/1377 "Виртуальный офис" [synced]
+  #4278 o=15 post_type:service/2154 "Контактное лицо" [synced]
+  #4279 o=16 post_type:service/2343 "Бухучет и налоги" [synced]
+    #4280 o=17 post_type:service/2344 "Ежемесячный учет" [synced]
+    #4736 o=18 post_type:service/3627 "Смена бухгалтера" [synced]
+    #4281 o=19 post_type:service/2345 "Налоговый консалтинг" [synced]
+    #4512 o=20 post_type:service/3624 "Для е-резидентов" 
+    #4605 o=21 post_type:service/3625 "Восстановление бухучета" 
+    #4718 o=22 post_type:service/3626 "Промежуточная отчетность" 
+    #4282 o=23 post_type:service/1372 "Годовой отчет" [synced]
+  #4283 o=24 custom:custom/4283 "Регистрационные номера" [synced]
+    #4284 o=25 post_type:service/2156 "Регистрация НДС-номера" [synced]
+    #4285 o=26 post_type:service/2346 "Регистрация OSS и IOSS" [synced]
+  >>#4791 o=27 post_type:service/4749 "Регистрация товарного знака" 
+  #4286 o=28 custom:custom/4286 "Проживание и визы" [synced]
+    #4287 o=29 post_type:service/2342 "Рабочая виза и ВНЖ" [synced]
+#4288 o=30 custom:custom/4288 "Лицензирование" [synced]
+  #4289 o=31 post_type:licensing/2183 "Финансовые лицензии" [synced]
+  #4290 o=32 post_type:licensing/2188 "Криптолицензия MiCA (CASP)" [synced]
+  #4291 o=33 post_type:licensing/2349 "Лицензия EMI" [synced]
+  #4292 o=34 post_type:licensing/2347 "Авторизация в FI (из FIU)" [synced]
+#4293 o=35 custom:custom/4293 "Отрасли" [synced]
+  #4294 o=36 post_type:industry/2197 "Crypto & Web3" [synced]
+  #4295 o=37 post_type:industry/2196 "iGaming & Медиа" [synced]
+  #4296 o=38 post_type:industry/2191 "IT & SaaS" [synced]
+  #4297 o=39 post_type:industry/2190 "E-commerce & Dropshipping" [synced]
+  #4553 o=40 post_type:service/3623 "Start-ups" 
+#4298 o=41 custom:custom/4298 "Наши клиенты" [synced]
+  #4299 o=42 post_type:target/2195 "Э-резиденты" [synced]
+  #4300 o=43 post_type:target/2339 "Цифровые кочевники" [synced]
+  >>#4787 o=44 post_type:target/4757 "Предприниматели из Украины" 
+#4301 o=45 custom:custom/4301 "Прочие услуги" [synced]
+  #4302 o=46 post_type:licensing/2348 "Экономическое присутствие" [synced]
+  #4303 o=47 post_type:licensing/2189 "Холдинговая структура" [synced]
+== EN master mobile_menu menu 154 Primary EN
+#2835 o=1 custom:custom/2835 "Services" 
+  #2837 o=2 post_type:service/2263 "Company Formation" 
+    #2838 o=3 post_type:target/2250 "For Non-Residents" 
+    #2841 o=4 post_type:service/2247 "Via e-Residency" 
+    #2839 o=5 post_type:service/2257 "Via Notary" 
+    #2840 o=6 post_type:service/1415 "Ready-Made Companies" 
+    #3613 o=7 post_type:service/3597 "AS Company" 
+    #3653 o=8 post_type:service/3639 "MTÜ (Non-Profit)" 
+    #4444 o=9 post_type:service/4427 "Branch Registration" 
+    #4472 o=10 post_type:service/4457 "By Power of Attorney" 
+  #2843 o=11 custom:custom/2843 "Legal Address" 
+    #2844 o=12 post_type:service/1482 "Change Address" 
+  #2845 o=13 post_type:service/1410 "Virtual Office" 
+  #2846 o=14 post_type:service/2254 "Contact Person" 
+  #2847 o=15 post_type:service/2746 "Accounting & Tax" 
+    #2848 o=16 post_type:service/2696 "Monthly Accounting" 
+    #4731 o=17 post_type:service/4724 "Change of Accountant" 
+    #2849 o=18 post_type:service/2761 "Tax Consulting" 
+    #4507 o=19 post_type:service/4490 "For e-Residents" 
+    #4600 o=20 post_type:service/4578 "Accounting Reconstruction" 
+    #4713 o=21 post_type:service/4699 "Interim Reports" 
+    #2850 o=22 post_type:service/1398 "Annual Report" 
+  #2851 o=23 custom:custom/2851 "Registration Numbers" 
+    #2852 o=24 post_type:service/2261 "VAT & EORI" 
+    #2853 o=25 post_type:service/2791 "IOSS & OSS" 
+  #2854 o=26 custom:custom/2854 "Residency & Visas" 
+    #2855 o=27 post_type:service/2776 "Work Visas & Permits" 
+#2856 o=28 custom:custom/2856 "Licenses" 
+  #2860 o=29 post_type:licensing/2528 "Financial" 
+  #2859 o=30 post_type:licensing/2543 "MiCA CASP" 
+  #2857 o=31 post_type:licensing/2731 "EMI & PI" 
+  #2858 o=32 post_type:licensing/2665 "FIU to FMA" 
+#2861 o=33 custom:custom/2861 "Industries" 
+  #2862 o=34 post_type:industry/2446 "Crypto & Web3" 
+  #2863 o=35 post_type:industry/2419 "iGaming & Media" 
+  #2864 o=36 post_type:industry/2398 "IT & SaaS" 
+  #2865 o=37 post_type:industry/2383 "E-commerce & Dropshipping" 
+  #4548 o=38 post_type:service/4529 "Start-ups" 
+#2866 o=39 custom:custom/2866 "Who We Serve" 
+  #2868 o=40 post_type:target/2266 "e-Residents" 
+  #2867 o=41 post_type:target/2649 "Digital Nomads" 
+#2869 o=42 custom:custom/2869 "Other Services" 
+  #2870 o=43 post_type:licensing/2716 "Corporate Substance" 
+  #2871 o=44 post_type:licensing/2508 "Holding Structures" 
+== RU mobile_menu menu 155 Primary RU
+#4269 o=1 custom:custom/4269 "Услуги" [synced]
+  #4270 o=2 post_type:service/2149 "Регистрация компаний" [synced]
+    #4271 o=3 post_type:target/2194 "Для нерезидентов" [synced]
+    #4272 o=4 post_type:service/2155 "Через e-Residency" [synced]
+    #4273 o=5 post_type:service/2157 "Через нотариуса" [synced]
+    #4274 o=6 post_type:service/1401 "Готовые компании" [synced]
+    #4410 o=7 post_type:service/3585 "Регистрация AS" 
+    #4409 o=8 post_type:service/3586 "MTÜ (НКО)" 
+    #4449 o=9 post_type:service/3587 "Регистрация филиала" 
+    #4477 o=10 post_type:service/3588 "По доверенности" 
+  >>#4789 o=11 post_type:service/4758 "Ликвидация компаний" 
+  #4275 o=12 custom:custom/4275 "Юридический адрес" [synced]
+    #4276 o=13 post_type:service/1483 "Смена юридического адреса" [synced]
+  #4277 o=14 post_type:service/1377 "Виртуальный офис" [synced]
+  #4278 o=15 post_type:service/2154 "Контактное лицо" [synced]
+  #4279 o=16 post_type:service/2343 "Бухучет и налоги" [synced]
+    #4280 o=17 post_type:service/2344 "Ежемесячный учет" [synced]
+    #4736 o=18 post_type:service/3627 "Смена бухгалтера" [synced]
+    #4281 o=19 post_type:service/2345 "Налоговый консалтинг" [synced]
+    #4512 o=20 post_type:service/3624 "Для е-резидентов" 
+    #4605 o=21 post_type:service/3625 "Восстановление бухучета" 
+    #4718 o=22 post_type:service/3626 "Промежуточная отчетность" 
+    #4282 o=23 post_type:service/1372 "Годовой отчет" [synced]
+  #4283 o=24 custom:custom/4283 "Регистрационные номера" [synced]
+    #4284 o=25 post_type:service/2156 "Регистрация НДС-номера" [synced]
+    #4285 o=26 post_type:service/2346 "Регистрация OSS и IOSS" [synced]
+  >>#4791 o=27 post_type:service/4749 "Регистрация товарного знака" 
+  #4286 o=28 custom:custom/4286 "Проживание и визы" [synced]
+    #4287 o=29 post_type:service/2342 "Рабочая виза и ВНЖ" [synced]
+#4288 o=30 custom:custom/4288 "Лицензирование" [synced]
+  #4289 o=31 post_type:licensing/2183 "Финансовые лицензии" [synced]
+  #4290 o=32 post_type:licensing/2188 "Криптолицензия MiCA (CASP)" [synced]
+  #4291 o=33 post_type:licensing/2349 "Лицензия EMI" [synced]
+  #4292 o=34 post_type:licensing/2347 "Авторизация в FI (из FIU)" [synced]
+#4293 o=35 custom:custom/4293 "Отрасли" [synced]
+  #4294 o=36 post_type:industry/2197 "Crypto & Web3" [synced]
+  #4295 o=37 post_type:industry/2196 "iGaming & Медиа" [synced]
+  #4296 o=38 post_type:industry/2191 "IT & SaaS" [synced]
+  #4297 o=39 post_type:industry/2190 "E-commerce & Dropshipping" [synced]
+  #4553 o=40 post_type:service/3623 "Start-ups" 
+#4298 o=41 custom:custom/4298 "Наши клиенты" [synced]
+  #4299 o=42 post_type:target/2195 "Э-резиденты" [synced]
+  #4300 o=43 post_type:target/2339 "Цифровые кочевники" [synced]
+  >>#4787 o=44 post_type:target/4757 "Предприниматели из Украины" 
+#4301 o=45 custom:custom/4301 "Прочие услуги" [synced]
+  #4302 o=46 post_type:licensing/2348 "Экономическое присутствие" [synced]
+  #4303 o=47 post_type:licensing/2189 "Холдинговая структура" [synced]

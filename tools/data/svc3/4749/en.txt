@@ -1,0 +1,289 @@
+## _title
+Trademark and Patent Registration in Estonia and the EU
+## _slug
+trademark-registration-in-estonia
+## rank_math_title
+Trademark Registration in Estonia and the EU (EUIPO) %currentyear%
+## rank_math_description
+Turnkey trademark and patent registration in Estonia (Patendiamet) and the EU (EUIPO): brand search, Nice classes, filing and protection of your rights.
+## rank_math_focus_keyword
+trademark registration in Estonia
+## _step_desc
+If you are not sure whether your name is available, send it to us and we will run a preliminary check free of charge.
+## content_blocks_0_content
+Registering a company in Estonia does not protect your brand name. A business name in the Commercial Register and a trademark are different rights: the first only stops another Estonian company from taking the same name, while the second gives an exclusive right to the sign for specific goods and services. Without a trademark, you can lose your brand in a dispute with a marketplace, a competitor or a copycat.
+
+Filing the application itself takes an hour. Everything is decided by the questions before it: which jurisdiction to choose (Estonia, the whole EU or an international registration); which classes to list so that the mark protects your real business and not just a wording; whether similar marks already exist that EUIPO will not tell you about. A mistake here surfaces several months later as an opposition or a refusal, when the fee has already been paid.
+<blockquote>We check the sign, choose the jurisdiction and classes, prepare and file the application with the Estonian Patent Office (Patendiamet) or EUIPO, follow it through to registration and keep track of renewal deadlines. We handle patents, utility models and disputes together with licensed patent attorneys.</blockquote>
+## content_blocks_3_content
+<h3><b>Key facts</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Topic</b></td>
+<td><b>Practical explanation</b></td>
+</tr>
+<tr>
+<td>Estonian trademark</td>
+<td>Application to Patendiamet; e-filing fee of €145 for one class and €45 for each additional class</td>
+</tr>
+<tr>
+<td>EU trademark (EUTM)</td>
+<td>Application to EUIPO; €850 for one class, €50 for the second, €150 for each further class</td>
+</tr>
+<tr>
+<td>Time to registration</td>
+<td>Estonia: usually 9–10 months; EU: 4–6 months without opposition</td>
+</tr>
+<tr>
+<td>Opposition period</td>
+<td>Estonia: 2 months after publication; EU: 3 months</td>
+</tr>
+<tr>
+<td>Check against earlier marks</td>
+<td>EUIPO does not examine conflicts with earlier marks on its own initiative: that is up to the applicant and the owners of those marks</td>
+</tr>
+<tr>
+<td>Term of protection</td>
+<td>10 years, renewable for further 10-year periods without limit</td>
+</tr>
+<tr>
+<td>Priority</td>
+<td>6 months from the date of the first application to file in other countries</td>
+</tr>
+<tr>
+<td>International registration</td>
+<td>Under the Madrid System, based on an Estonian application or registration</td>
+</tr>
+<tr>
+<td>Representative</td>
+<td>A person with no residence or seat in Estonia acts through a patent attorney</td>
+</tr>
+<tr>
+<td>Business name ≠ trademark</td>
+<td>Registering an OÜ does not give an exclusive right to the brand</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+How to register a trademark: 4 steps
+## content_blocks_4_step_1
+Send a request. Send us the sign (a word, a logo or both) and describe your goods and services, sales markets and channels: your own website, marketplaces, offline.
+## content_blocks_4_step_2
+Get a search and a strategy. We look for similar marks in Estonian, European and international databases, choose the classes and jurisdiction and tell you honestly about your chances.
+## content_blocks_4_step_3
+Pay the invoice and sign a power of attorney. Office fees are paid separately with no mark-up; documents are signed with a digital signature.
+## content_blocks_4_step_4
+We file and manage the application. Replies to the office's objections, monitoring of the opposition period, obtaining the registration and a renewal calendar.
+## content_blocks_6_tariff_title
+Service packages
+## content_blocks_6_tariff_items_0_name
+"Search and Strategy" package
+## content_blocks_6_tariff_items_0_package_items
+<li>Search for identical and similar marks in Estonia, the EU and the international register
+<li>Assessment of the sign's distinctiveness
+<li>Choice of Nice classes and wording that fit your real business
+<li>Jurisdiction recommendation: Estonia, the EU, international registration
+<li>Written opinion with risks and budget</li>
+## content_blocks_6_tariff_items_1_name
+"Trademark Registration" package (recommended)
+## content_blocks_6_tariff_items_1_package_items
+<li>Everything in the "Search and Strategy" package
+<li>Preparation and filing of the application with Patendiamet or EUIPO
+<li>Replies to the office's formal and substantive objections
+<li>Monitoring of the opposition period and notice of its outcome
+<li>Obtaining the registration and confirmation for marketplaces
+<li>10-year renewal calendar</li>
+## content_blocks_6_tariff_items_2_name
+"Brand Protection" package
+## content_blocks_6_tariff_items_2_package_items
+<li>Watching for new applications similar to your mark
+<li>Filing oppositions against conflicting applications and defending against oppositions
+<li>International registration under the Madrid System
+<li>Renewal, assignment and licensing of the mark
+<li>Patents, utility models and industrial designs, together with patent attorneys</li>
+## content_blocks_7_content
+<h2>Estonian trademark, EU trademark or international registration</h2>
+These are three different tools with a different price, timeline and territory.
+<table>
+<tbody>
+<tr>
+<td><b>Parameter</b></td>
+<td><b>Estonian trademark</b></td>
+<td><b>EU trademark (EUTM)</b></td>
+<td><b>International registration</b></td>
+</tr>
+<tr>
+<td>Office</td>
+<td>Patendiamet</td>
+<td>EUIPO</td>
+<td>WIPO + offices of the chosen countries</td>
+</tr>
+<tr>
+<td>Territory</td>
+<td>Estonia</td>
+<td>All 27 EU countries</td>
+<td>Chosen member countries</td>
+</tr>
+<tr>
+<td>Fee for 1 class</td>
+<td>€145</td>
+<td>€850</td>
+<td>Depends on the countries</td>
+</tr>
+<tr>
+<td>Additional class</td>
+<td>€45</td>
+<td>€50 for the second, €150 for each further one</td>
+<td>Depends on the countries</td>
+</tr>
+<tr>
+<td>Timeline without opposition</td>
+<td>9–10 months</td>
+<td>4–6 months</td>
+<td>Depends on the countries</td>
+</tr>
+<tr>
+<td>Opposition period</td>
+<td>2 months</td>
+<td>3 months</td>
+<td>Under each country's rules</td>
+</tr>
+<tr>
+<td>Main risk</td>
+<td>Narrow territory</td>
+<td>One refusal in one EU country can block the whole mark</td>
+<td>Dependence on the basic application in the first years</td>
+</tr>
+<tr>
+<td>Fits when</td>
+<td>The market is Estonia, or as a base for Madrid</td>
+<td>Sales across the EU, marketplaces</td>
+<td>Markets outside the EU</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_8_title_right
+Key insight: you register not a word, but a list of goods and services
+## content_blocks_8_text_right
+Owners think of a trademark as a name. The office and the courts think of it as a list of classes and wording, and that is what defines what you have protected.
+<ul>
+<li><b>Too narrow a list.</b> The mark is registered for "software", but the business sells a subscription to an online service. A competitor with a similar name in a neighbouring class formally does not infringe your right.</li>
+<li><b>Too broad a list.</b> Classes added "just in case" cost money and increase the risk of oppositions, and after five years of non-use the mark can be challenged for those goods and services.</li>
+<li><b>No search before filing.</b> EUIPO does not check conflicts with earlier marks itself: their owners do that through oppositions. An opposition arrives after publication, when the fee has already been paid.</li>
+<li><b>The mark in a private person's name instead of the company's.</b> For marketplaces, investors and a sale of the business, ownership matters. Transferring the mark later is a separate procedure with its own costs.</li>
+</ul>
+<b>Practical conclusion:</b> the decisive part of the work happens before filing: search, classes, wording, owner. We start with that; the filing itself is then a technical step.
+## content_blocks_9_title_left
+When trademark registration is not needed and when it is not enough
+## content_blocks_9_text_left
+An honest review saves more than the fee.
+<ul>
+<li><b>A descriptive name.</b> "Best Accountant" or "Fast Delivery" lack distinctiveness: the office will refuse and the fee will not be refunded. It is better to spend the time on the name.</li>
+<li><b>Estonia only, but sales across the EU.</b> An Estonian mark does not protect you in Germany or France. EU marketplaces usually require an EU trademark.</li>
+<li><b>EU trademark only, but sales in the UK and the US.</b> Since Brexit, an EU trademark does not apply in the UK; the US is a separate jurisdiction.</li>
+<li><b>A technical solution.</b> A trademark protects a sign, not an invention. A device or method needs a patent or a utility model, and the appearance of a product needs an industrial design.</li>
+<li><b>The name is already in use.</b> If a similar mark is registered for the same goods, your registration will almost certainly be challenged. Sometimes it is cheaper to change the name before launch than to fight a dispute.</li>
+</ul>
+## content_blocks_10_title_right
+Other services we provide
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:2263}">Company registration in Estonia</a>: for a new brand</li>
+<li><a href="{L:2805}">Legal services</a>: licence and assignment agreements</li>
+<li><a href="{L:2508}">Holding structure</a>: owning trademarks within a group</li>
+<li><a href="{L:4529}">Company for a start-up</a>: brand protection before a funding round</li>
+<li><a href="{L:2383}">E-commerce and dropshipping</a>: a trademark for marketplaces</li>
+<li><a href="{L:2398}">IT and SaaS</a>: brands of digital products</li>
+<li><a href="{L:2746}">Accounting services</a>: recording the trademark as an asset</li>
+<li><a href="{L:4758}">Company liquidation</a>: what to do with the trademark when closing a company</li>
+</ul>
+A trademark is a company asset, not just an entry in a register. When trademark registration, corporate structure and accounting are handled by one provider, the mark belongs to the right company and is reflected on its balance sheet.
+## content_blocks_11_content
+<h2><b>How to register a trademark in Estonia and the EU: practice</b></h2>
+<h3><b>Process in Estonia</b></h3>
+<ol>
+<li><b>Search and preparation.</b> Checking earlier marks and business names, choosing classes and wording.</li>
+<li><b>Filing with Patendiamet.</b> Online; the fee is €145 per class and €45 for each additional class. Word, figurative and 3D marks can use the fast-track e-filing procedure.</li>
+<li><b>Examination.</b> The office examines absolute grounds: distinctiveness and descriptiveness. It no longer searches for conflicts with earlier marks on its own.</li>
+<li><b>Publication.</b> The registration decision is published in Eesti Kaubamärgileht.</li>
+<li><b>Opposition.</b> Within 2 months, owners of earlier rights may file an opposition.</li>
+<li><b>Registration.</b> The certificate is issued electronically; the mark is valid for 10 years and can be renewed.</li>
+</ol>
+The language of proceedings is Estonian; the application can be filed in another language with a translation submitted within two months. A person with no residence, seat or establishment in Estonia acts through an Estonian patent attorney. An Estonian OÜ of a foreign owner is a seat in Estonia, so the company can file the application itself.
+<h3><b>Process in the EU (EUIPO)</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Stage</b></td>
+<td><b>Timeline</b></td>
+</tr>
+<tr>
+<td>Filing and payment of the fee</td>
+<td>The fee is due within one month of filing</td>
+</tr>
+<tr>
+<td>Examination of absolute grounds and formalities</td>
+<td>Usually 1–2 months; up to 2 months to remedy deficiencies</td>
+</tr>
+<tr>
+<td>Publication and opposition period</td>
+<td>3 months, no extension</td>
+</tr>
+<tr>
+<td>Registration</td>
+<td>Usually 4–6 months from filing if there is no opposition</td>
+</tr>
+<tr>
+<td>Opposition</td>
+<td>Extends the procedure by 7–10 months or more; a cooling-off period is possible</td>
+</tr>
+</tbody>
+</table>
+Renewal is every 10 years; the renewal fee is the same €850 for the first class. Renewal is possible in the last six months of the term or in a six-month grace period after it, with a surcharge.
+<h3><b>International registration</b></h3>
+An Estonian company can file an international application under the Madrid System based on an Estonian application or registration, online, designating the countries it needs. Fees are paid to WIPO and the national offices. In the first years, the international registration depends on the basic one: if the basic mark falls away, the international registration suffers too.
+<h3><b>Patents, utility models and designs</b></h3>
+A patent protects an invention for up to 20 years and goes through full examination, which is expensive and slow. A utility model in Estonia is registered faster and more cheaply, without substantive examination, and protects a technical solution for a shorter period. An industrial design protects the appearance of a product, packaging or interface, in Estonia or across the whole EU at once. These procedures require a patent attorney; we coordinate the work with our partners and link the rights to the corporate structure.
+<h3><b>Trademarks and marketplaces</b></h3>
+Major marketplaces give access to brand protection programmes only to owners of a registered or filed trademark. For sellers on European platforms, an EU trademark is usually a first step rather than a formality.
+## content_blocks_12_faq_items_0_question
+How much does trademark registration in Estonia cost?
+## content_blocks_12_faq_items_0_answer
+The Patendiamet fee for an online application is €145 for one class and €45 for each additional class. On top of that comes the cost of the search and preparing the application.
+## content_blocks_12_faq_items_1_question
+How much does an EU trademark cost?
+## content_blocks_12_faq_items_1_answer
+The EUIPO fee is €850 for one class, €50 for the second and €150 for each further class. The mark is valid in all 27 EU countries.
+## content_blocks_12_faq_items_2_question
+How long does registration take?
+## content_blocks_12_faq_items_2_answer
+In Estonia, usually 9–10 months; in the EU, 4–6 months if there is no opposition. An opposition adds several months.
+## content_blocks_12_faq_items_3_question
+Does registering a company protect the brand name?
+## content_blocks_12_faq_items_3_answer
+No. A business name in the Commercial Register and a trademark are different rights. Only trademark registration gives an exclusive right to the sign for goods and services.
+## content_blocks_12_faq_items_4_question
+Do I need a patent attorney?
+## content_blocks_12_faq_items_4_answer
+If you have no residence or seat in Estonia, yes. An Estonian company can file an application with Patendiamet itself.
+## content_blocks_12_faq_items_5_question
+Which should I choose: an Estonian trademark or an EU trademark?
+## content_blocks_12_faq_items_5_answer
+If you sell only in Estonia, an Estonian mark is cheaper. If you sell across the EU or on marketplaces, usually an EU trademark.
+## content_blocks_12_faq_items_6_question
+Can I register a mark if a similar one already exists?
+## content_blocks_12_faq_items_6_answer
+It depends on how similar the signs and the goods are. If a similar mark is registered for the same goods, the risk of opposition is high, so the search must be done before filing.
+## content_blocks_12_faq_items_7_question
+Who should own the mark: me or the company?
+## content_blocks_12_faq_items_7_answer
+For a business, usually the company: it makes things easier with marketplaces, investors and a sale of the business. Sometimes the mark is held in a holding company and licensed to the operating company.
+## content_blocks_12_faq_items_8_question
+How long is a trademark valid?
+## content_blocks_12_faq_items_8_answer
+10 years from the filing date, then renewable for further 10-year periods with no limit on the number of renewals.
+## content_blocks_13_final_cta_title
+Send us the name: we will check whether it is free and choose the jurisdiction
+## content_blocks_13_final_cta_text
+Tell us the sign, the goods or services and your sales markets. Within one business day we will tell you whether similar marks exist, in which classes and where to register the mark, and how much registration will cost including fees.

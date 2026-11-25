@@ -1,0 +1,299 @@
+## _title
+Estnische Firma (OÜ) für ukrainische Unternehmer
+## _slug
+estnische-firma-fuer-ukrainische-unternehmer
+## rank_math_title
+Estnische Firma für Ukrainer %currentyear%: e-Residency und CFC
+## rank_math_description
+OÜ-Gründung in Estland für Ukrainer über e-Residency: Registrierung, 0 % Steuer auf einbehaltene Gewinne, CFC-Regeln und Steuerpflichten in der Ukraine 2026.
+## rank_math_focus_keyword
+estnische Firma für Ukrainer
+## _step_desc
+Wenn Sie nicht sicher sind, ob eine estnische oder polnische Struktur besser passt, beschreiben Sie Ihr Geschäft – wir vergleichen kostenlos.
+## content_blocks_0_content
+Für ukrainische Unternehmer ist eine estnische OÜ eine europäische Gesellschaft, die sich aus der Ukraine führen lässt: Verträge mit Kunden aus der EU, Zahlungsdienste, die nicht mit ukrainischen Strukturen arbeiten, und Körperschaftsteuer erst bei der Ausschüttung. Die Ukraine gehört zu den fünf Ländern mit den meisten estnischen E-Residents, und für ihre Bürger gibt es ein eigenes Programm zur Erstattung von Staatsgebühren.
+
+Doch die estnische Gesellschaft eines ukrainischen Steuerinländers lebt gleichzeitig in zwei Steuersystemen. In Estland: 22/78-Steuer bei Gewinnausschüttung, Vorstandsvergütung, USt. In der Ukraine: Meldung und jährlicher Bericht über eine kontrollierte ausländische Gesellschaft (CFC). Und arbeitet das Team in der Ukraine als FOP (ukrainische Einzelunternehmer), entsteht für die estnische Gesellschaft zusätzlich eine USt-Pflicht auf Leistungen aus dem Ausland – darauf weist kaum jemand hin.
+<blockquote>Wir gründen OÜs für ukrainische Unternehmer, stellen Geschäftsadresse und Kontaktperson, führen die Buchhaltung und erstellen den Abschluss so, dass er dem CFC-Bericht in der Ukraine beigefügt werden kann.</blockquote>
+## content_blocks_3_content
+<h3><b>Die wichtigsten Fakten</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Thema</b></td>
+<td><b>Praktische Erläuterung</b></td>
+</tr>
+<tr>
+<td>Staatsgebühr e-Residency</td>
+<td>150 € im Jahr 2026; ab 1. Januar 2027 165 €</td>
+</tr>
+<tr>
+<td>Erstattung für ukrainische Staatsbürger</td>
+<td>Bis zu 150 € für e-Residency und 265 € für die Firmengründung – bei Gründung einer neuen OÜ bis 31. Dezember 2026 über einen teilnehmenden Anbieter</td>
+</tr>
+<tr>
+<td>Abholung der Karte in der Ukraine</td>
+<td>Estnische Botschaft in Kiew; mobile Ausgabestelle in Lwiw</td>
+</tr>
+<tr>
+<td>Dauer</td>
+<td>Prüfung des Antrags bis zu 30 Tage, Zustellung der Karte 2–5 Wochen</td>
+</tr>
+<tr>
+<td>Vorübergehender Schutz in Estland</td>
+<td>Keine e-Residency – die Gesellschaft wird mit dem estnischen Personalausweis gegründet</td>
+</tr>
+<tr>
+<td>Stammkapital der OÜ</td>
+<td>Ab 0,01 €</td>
+</tr>
+<tr>
+<td>Kontaktperson</td>
+<td>Pflicht, wenn der Vorstand im Ausland ist; nur eine im Gesetz genannte Person</td>
+</tr>
+<tr>
+<td>Körperschaftsteuer</td>
+<td>0 % auf einbehaltene Gewinne; 22/78 bei Ausschüttung</td>
+</tr>
+<tr>
+<td>CFC in der Ukraine</td>
+<td>Meldung innerhalb von 60 Tagen; Bericht jährlich, auch bei null Gewinn</td>
+</tr>
+<tr>
+<td>Befreiung des CFC-Gewinns</td>
+<td>Wenn die Gesamteinkünfte aller CFCs 2 Mio. € pro Jahr nicht übersteigen</td>
+</tr>
+<tr>
+<td>CFC-Strafen</td>
+<td>Während des Kriegsrechts nicht angewendet; Pflichten innerhalb von 6 Monaten nach dessen Ende zu erfüllen</td>
+</tr>
+<tr>
+<td>USt-Registrierung in Estland</td>
+<td>Seit August 2025 nur bei wirtschaftlichem Bezug zu Estland</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+So gründen Sie eine estnische Firma aus der Ukraine: 4 Schritte
+## content_blocks_4_step_1
+Anfrage senden und Geschäft beschreiben. Was Sie tun, wo Ihre Kunden sind, ob Ihr Team in der Ukraine als FOP arbeitet, wo Sie steuerlich ansässig sind und ob Sie e-Residency haben.
+## content_blocks_4_step_2
+Struktur erhalten. Wir schlagen Struktur, Steuerregime in Estland und die Pflichten in der Ukraine vor, prüfen den Anspruch auf Gebührenerstattung und nennen einen Festpreis.
+## content_blocks_4_step_3
+E-Resident-Karte abholen und Vertrag unterzeichnen. Die Karte kann in Kiew oder Lwiw abgeholt werden; der Vertrag wird digital signiert.
+## content_blocks_4_step_4
+Wir gründen die Gesellschaft und starten die Buchhaltung. OÜ-Eintragung, Geschäftsadresse und Kontaktperson, Onboarding bei einer Bank oder einem Zahlungsinstitut, Buchhaltung ab dem ersten Monat.
+## content_blocks_6_tariff_title
+Leistungspakete
+## content_blocks_6_tariff_items_0_name
+Paket „Start bis 31. Dezember“
+## content_blocks_6_tariff_items_0_package_items
+<li>Prüfung des Anspruchs auf Erstattung der Gebühren für e-Residency und Gründung
+<li>Hilfe beim e-Residency-Antrag und bei der Wahl der Ausgabestelle
+<li>Eintragung der OÜ ins Handelsregister
+<li>Geschäftsadresse und Kontaktperson für 1 Jahr
+<li>Satzung und Tätigkeitsbeschreibung ohne „rote Flaggen“ für Banken
+<li>Onboarding-Plan für eine Bank oder ein Zahlungsinstitut</li>
+## content_blocks_6_tariff_items_1_name
+Paket „Firma aus einer Hand + CFC-Berichte“ – empfohlen
+## content_blocks_6_tariff_items_1_package_items
+<li>Alles aus dem Paket „Start bis 31. Dezember“
+<li>Monatliche Buchhaltung, TSD und bei Bedarf KMD
+<li>Abschluss der OÜ rechtzeitig zum CFC-Bericht in der Ukraine
+<li>Berechnung von Vorstandsvergütung und Dividenden unter Berücksichtigung estnischer Steuern
+<li>Jahresabschluss an das Handelsregister
+<li>Nachweise über in Estland gezahlte Steuern für Ihren ukrainischen Berater</li>
+## content_blocks_6_tariff_items_2_name
+Paket „Team in der Ukraine“
+## content_blocks_6_tariff_items_2_package_items
+<li>Alles aus dem empfohlenen Paket
+<li>USt auf Leistungen aus der Ukraine: eingeschränkte oder reguläre Registrierung, Steuerberechnung
+<li>Verträge mit FOP-Auftragnehmern und Nachweis der Leistungen
+<li>Konzerninterne Verträge mit einer ukrainischen Gesellschaft und Preisbegründung
+<li>Bewertung des Risikos einer Betriebsstätte und des Orts der Geschäftsleitung</li>
+## content_blocks_7_content
+<h2><b>FOP in der Ukraine oder estnische OÜ: was sich ändert</b></h2>
+Eine estnische Gesellschaft ersetzt einen FOP nicht automatisch – es sind verschiedene Werkzeuge für verschiedene Aufgaben.
+<table>
+<tbody>
+<tr>
+<td><b>Kriterium</b></td>
+<td><b>FOP Gruppe 3 in der Ukraine</b></td>
+<td><b>Estnische OÜ</b></td>
+</tr>
+<tr>
+<td>Einkommensteuer</td>
+<td>Einheitssteuer auf den Umsatz</td>
+<td>0 % auf reinvestierte Gewinne; 22/78 bei Ausschüttung</td>
+</tr>
+<tr>
+<td>Vertragsrecht</td>
+<td>Ukraine</td>
+<td>EU</td>
+</tr>
+<tr>
+<td>Zahlungsdienste</td>
+<td>Eingeschränkter Zugang zu einigen internationalen Anbietern</td>
+<td>Stripe, Paddle, Wise und andere EU-Anbieter</td>
+</tr>
+<tr>
+<td>Berichte</td>
+<td>Ukrainische FOP-Erklärung</td>
+<td>Estnische Buchhaltung und Jahresabschluss + CFC-Bericht in der Ukraine</td>
+</tr>
+<tr>
+<td>Haftung</td>
+<td>Mit dem gesamten Vermögen</td>
+<td>Auf das Gesellschaftskapital beschränkt</td>
+</tr>
+<tr>
+<td>Geeignet, wenn</td>
+<td>Kunden akzeptieren einen ukrainischen Auftragnehmer, Erlöse werden sofort entnommen</td>
+<td>Kunden brauchen einen Vertragspartner aus der EU, Gewinne werden reinvestiert</td>
+</tr>
+</tbody>
+</table>
+In der Praxis behalten viele Unternehmer ihren FOP und gründen parallel eine OÜ – für Verträge mit europäischen Kunden und für Zahlungsdienste.
+## content_blocks_8_title_right
+Kernaussage: Ein Team in der Ukraine erzeugt Umsatzsteuer in Estland
+## content_blocks_8_text_right
+Das häufigste Modell: Die estnische OÜ verkauft an Kunden in der EU, Entwickler und Designer in der Ukraine stellen ihr als FOP Rechnungen. Über die steuerliche Folge dieses Modells wird kaum geschrieben.
+
+Leistungen, die eine estnische Gesellschaft von einem Anbieter außerhalb der EU bezieht, unterliegen in Estland der Umsatzsteuer im Reverse-Charge-Verfahren. Ist die OÜ umsatzsteuerpflichtig registriert, berechnet sie 24 % und zieht sie sofort als Vorsteuer ab – Ergebnis null. Ist sie nicht registriert, muss sie sich als eingeschränkt Steuerpflichtige registrieren und 24 % auf diese Leistungen ohne Vorsteuerabzug zahlen. Einen Schwellenwert gibt es nicht.
+
+<b>Praktisches Fazit:</b> Beim Modell „Kunden in der EU – Team in der Ukraine“ entscheidet eine Berechnung über die USt-Registrierung, nicht eine Voreinstellung. Manchmal ist die reguläre Registrierung günstiger, weil die Steuer auf die Teamleistungen neutral wird. Wir rechnen beide Varianten mit Ihren Zahlen durch, bevor die ersten Zahlungen an Auftragnehmer fließen.
+## content_blocks_9_title_left
+Wann eine estnische Firma nicht passt und wann sie nicht reicht
+## content_blocks_9_text_left
+Eine ehrliche Analyse spart mehr als die Gründung.
+<ul>
+<li><b>Sie leben mit vorübergehendem Schutz in Estland.</b> Sie brauchen keine e-Residency und erhalten sie auch nicht: Die Gesellschaft kann mit dem estnischen Personalausweis gegründet werden. Ihre steuerliche Ansässigkeit kann bereits estnisch sein – dann gelten die ukrainischen CFC-Regeln womöglich nicht für Sie.</li>
+<li><b>Sie leben in Polen oder Deutschland.</b> Die steuerliche Ansässigkeit richtet sich nach dem Wohnsitzstaat, und die estnische Gesellschaft fällt unter dessen CFC-Regeln. Erst wird die Ansässigkeit geklärt, dann die Struktur.</li>
+<li><b>Alle Kunden sind in der Ukraine.</b> Eine estnische Gesellschaft bringt zusätzliche Berichte, aber keine Vorteile: Verträge mit ukrainischen Kunden laufen einfacher über einen FOP oder eine ukrainische GmbH.</li>
+<li><b>Sie möchten eine estnische USt-IdNr. „für das Image“.</b> Ohne wirtschaftlichen Bezug zu Estland kann die EMTA ablehnen. B2B-Kunden in der EU werden auch ohne estnische USt-IdNr. im Reverse-Charge-Verfahren abgerechnet.</li>
+<li><b>Das Geld muss sofort entnommen werden.</b> Das estnische Modell lohnt sich, wenn der Gewinn in der Gesellschaft bleibt. Wird alles als Dividende ausgeschüttet, sind 22/78 in Estland plus Dividendensteuer in der Ukraine teurer als ein FOP.</li>
+</ul>
+## content_blocks_10_title_right
+Weitere Leistungen
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:2247}">Firmengründung über e-Residency</a></li>
+<li><a href="{L:1269}">Geschäftsadresse</a> und <a href="{L:2254}">Kontaktperson</a> – Pflicht, wenn der Vorstand im Ausland ist</li>
+<li><a href="{L:4490}">Buchhaltung für E-Residents</a> – mit Berichten für Ihr Land</li>
+<li><a href="{L:2696}">USt-Erklärungen (KMD)</a> – auch USt auf Leistungen Ihres ukrainischen Teams</li>
+<li><a href="{L:2746}">Lohnabrechnung (Payroll)</a> – Vorstandsvergütung</li>
+<li><a href="{L:1398}">Jahresabschluss</a> – die Grundlage des CFC-Berichts</li>
+<li><a href="{L:2266}">Leistungen für E-Residents</a> – das komplette Paket</li>
+<li><a href="https://staging.dragonslots-gr.gr/target/kompaniya-dlya-osnovatelej-iz-za-predelov-es/">Firma für Gründer außerhalb der EU</a></li>
+</ul>
+## content_blocks_11_content
+<h2><b>Wie Ukrainer eine Firma in Estland gründen und führen: Praxis</b></h2>
+<h3><b>e-Residency aus der Ukraine</b></h3>
+Der Antrag wird online in der Umgebung der Polizei- und Grenzschutzbehörde gestellt. Benötigt werden Reisepass, Foto und eine Begründung, wofür Sie estnische E-Services brauchen. Die Staatsgebühr beträgt 150 €, ab 1. Januar 2027 165 €. Die Ausgabestelle wird im Formular gewählt: die estnische Botschaft in Kiew oder die von ihr koordinierte mobile Ausgabestelle in Lwiw. Für Männer im wehrpflichtigen Alter ist das während des Kriegsrechts oft die einzige realistische Option. Die Karte wird 6 Monate in der Ausgabestelle aufbewahrt. Mehr im Beitrag <a href="https://staging.dragonslots-gr.gr/blog-ru/kak-poluchit-e-residency-2026/">e-Residency 2026 beantragen</a>.
+<h3><b>Gebührenerstattung: Voraussetzungen</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Voraussetzung</b></td>
+<td><b>Anforderung</b></td>
+</tr>
+<tr>
+<td>Staatsangehörigkeit</td>
+<td>Ukraine</td>
+</tr>
+<tr>
+<td>E-Resident-Status</td>
+<td>Am 24. Februar 2022 oder später erhalten</td>
+</tr>
+<tr>
+<td>Anbieter</td>
+<td>Nimmt am Erstattungsprogramm teil</td>
+</tr>
+<tr>
+<td>Gesellschaft</td>
+<td>Neu, gegründet bis 31. Dezember 2026</td>
+</tr>
+<tr>
+<td>Frühere Gesellschaften</td>
+<td>Vor dem 24. Februar 2022 waren Sie weder Inhaber noch Vorstandsmitglied estnischer Gesellschaften</td>
+</tr>
+<tr>
+<td>Betrag</td>
+<td>Bis zu 150 € für e-Residency und 265 € für die Gründung</td>
+</tr>
+</tbody>
+</table>
+Die Erstattung wird nur für beide Vorgänge zusammen gezahlt und nicht zurückerstattet, wenn die e-Residency abgelehnt wird. Ausgezahlt wird sie vom Anbieter, der sie anschließend aus dem Programm erstattet bekommt.
+<h3><b>Steuern in Estland</b></h3>
+Solange der Gewinn in der Gesellschaft bleibt, fällt keine Körperschaftsteuer an. Bei Ausschüttung zahlt die Gesellschaft 22/78. Die Vergütung eines Vorstandsmitglieds unterliegt in Estland 22 % Einkommensteuer und 33 % Sozialsteuer, auch wenn Sie in der Ukraine leben. Mehr im Beitrag <a href="https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/">Körperschaftsteuer in Estland 2026</a>.
+<h3><b>CFC in der Ukraine</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Pflicht</b></td>
+<td><b>Frist</b></td>
+<td><b>Wichtig</b></td>
+</tr>
+<tr>
+<td>CFC-Meldung</td>
+<td>60 Tage nach dem Ereignis</td>
+<td>Gründung, Änderung der Beteiligung, Beginn der tatsächlichen Kontrolle</td>
+</tr>
+<tr>
+<td>CFC-Bericht</td>
+<td>Jährlich, zusammen mit der Einkommensteuererklärung</td>
+<td>Auch bei null Gewinn; der Abschluss wird beigefügt</td>
+</tr>
+<tr>
+<td>Steuer auf den bereinigten Gewinn</td>
+<td>Nach Jahresergebnis</td>
+<td>18 % Einkommensteuer + 5 % Militärabgabe, sofern keine Befreiung</td>
+</tr>
+<tr>
+<td>Steuer auf Dividenden der OÜ</td>
+<td>Bei Erhalt</td>
+<td>9 % Einkommensteuer + 5 % Militärabgabe</td>
+</tr>
+</tbody>
+</table>
+Kontrollierende Person ist ein ukrainischer Steuerinländer mit mehr als 50 % Beteiligung oder mehr als 10 %, wenn ukrainische Steuerinländer zusammen mindestens 50 % halten, oder mit tatsächlicher Kontrolle. Seit 2024 erhält die Ukraine Daten über Auslandskonten nach dem CRS-Standard.
+<h3><b>Bank und Zahlungsdienste</b></h3>
+Bei Eigentümern mit Ansässigkeit in der Ukraine führen Banken und Zahlungsinstitute eine erweiterte Prüfung durch: Mittelherkunft, Kunden, Sanktionsrisiken. Hilfreich sind Verträge, Rechnungen, eine verständliche Beschreibung des Modells und eine Website. Mehr im Beitrag <a href="https://staging.dragonslots-gr.gr/blog-ru/kak-otkryt-bankovskij-schyot-dlya-estonskoj-kompanii/">Bankkonto für eine estnische Gesellschaft eröffnen</a>.
+<h3><b>Ort der Geschäftsleitung</b></h3>
+Werden alle Entscheidungen in der Ukraine getroffen, kann die ukrainische Seite in der Tätigkeit der Gesellschaft eine Betriebsstätte sehen. Verträge, Vorstandsbeschlüsse und die tatsächliche Rolle der estnischen Infrastruktur müssen das Bild ehrlich widerspiegeln – das gehört zur Einrichtung und ist keine Formalität.
+## content_blocks_12_faq_items_0_question
+Kann ein ukrainischer Staatsbürger eine Firma in Estland gründen?
+## content_blocks_12_faq_items_0_answer
+Ja. Über e-Residency vollständig online, über einen Notar mit Vollmacht oder mit einem estnischen Personalausweis, wenn Sie in Estland leben.
+## content_blocks_12_faq_items_1_question
+Wo erhalte ich die E-Resident-Karte, ohne die Ukraine zu verlassen?
+## content_blocks_12_faq_items_1_answer
+In der estnischen Botschaft in Kiew oder an der mobilen Ausgabestelle in Lwiw.
+## content_blocks_12_faq_items_2_question
+Muss ich in der Ukraine einen CFC-Bericht einreichen?
+## content_blocks_12_faq_items_2_answer
+Ja, wenn Sie in der Ukraine steuerlich ansässig sind und die Gesellschaft kontrollieren. Die Meldung erfolgt innerhalb von 60 Tagen nach der Gründung, der Bericht jährlich, auch bei null Gewinn.
+## content_blocks_12_faq_items_3_question
+Zahle ich in der Ukraine Steuern auf den Gewinn der estnischen Firma?
+## content_blocks_12_faq_items_3_answer
+Übersteigen die Gesamteinkünfte aller Ihrer CFCs 2 Mio. € pro Jahr nicht, ist der CFC-Gewinn steuerfrei, der Bericht ist aber trotzdem einzureichen. Persönlich erhaltene Dividenden unterliegen 9 % Einkommensteuer und 5 % Militärabgabe.
+## content_blocks_12_faq_items_4_question
+Kann ich mein Team in der Ukraine über FOP bezahlen?
+## content_blocks_12_faq_items_4_answer
+Ja, aber Leistungen eines Anbieters außerhalb der EU unterliegen in Estland der Umsatzsteuer im Reverse-Charge-Verfahren. Ohne reguläre USt-Registrierung zahlt die Gesellschaft 24 % auf diese Leistungen ohne Vorsteuerabzug.
+## content_blocks_12_faq_items_5_question
+Kann ich meinen FOP nach der Gründung der OÜ schließen?
+## content_blocks_12_faq_items_5_answer
+Das ist möglich, aber nicht nötig. Viele behalten den FOP für ukrainische Kunden und nutzen die OÜ für europäische.
+## content_blocks_12_faq_items_6_question
+Eröffnet eine Bank ein Konto für eine Firma mit ukrainischem Inhaber?
+## content_blocks_12_faq_items_6_answer
+Die Entscheidung trifft immer die Bank, die Prüfung ist erweitert. Die Chancen steigen mit Verträgen, einem verständlichen Modell und einer Website; viele Gesellschaften arbeiten über Zahlungsinstitute.
+## content_blocks_12_faq_items_7_question
+Was, wenn ich mit vorübergehendem Schutz in Estland lebe?
+## content_blocks_12_faq_items_7_answer
+Sie erhalten keine e-Residency – die Gesellschaft wird mit dem estnischen Personalausweis gegründet. Prüfen Sie Ihre steuerliche Ansässigkeit: Sie entscheidet, ob die ukrainischen CFC-Regeln gelten.
+## content_blocks_13_final_cta_title
+Bis 31. Dezember 2026: Firma mit Erstattung der Staatsgebühren gründen
+## content_blocks_13_final_cta_text
+Beschreiben Sie Ihr Geschäft: wo Ihre Kunden sind, wo Ihr Team arbeitet und wo Sie steuerlich ansässig sind. Innerhalb eines Werktags sagen wir Ihnen, ob eine estnische Struktur passt, ob Ihnen die Erstattung zusteht und was Gründung und laufende Betreuung kosten.

@@ -1,0 +1,289 @@
+## _title
+Registo de marcas e patentes na Estónia e na UE
+## _slug
+registo-de-marcas-na-estonia
+## rank_math_title
+Registo de marcas na Estónia e na UE (EUIPO) %currentyear%
+## rank_math_description
+Registo de marcas e patentes na Estónia (Patendiamet) e na UE (EUIPO) chave na mão: pesquisa, classes de Nice, pedido e proteção dos seus direitos.
+## rank_math_focus_keyword
+registo de marcas na Estónia
+## _step_desc
+Se não tem a certeza de que o seu nome está livre, envie-o e fazemos uma verificação preliminar gratuita.
+## content_blocks_0_content
+Registar uma empresa na Estónia não protege o nome da sua marca. A firma no Registo Comercial e a marca são direitos diferentes: a primeira apenas impede outra empresa estónia de usar o mesmo nome; a segunda confere um direito exclusivo sobre o sinal para produtos e serviços concretos. Sem marca registada, pode perder o seu nome numa disputa com um marketplace, um concorrente ou um imitador.
+
+Apresentar o pedido demora uma hora. O que decide tudo são as questões anteriores: que jurisdição escolher (Estónia, toda a UE ou um registo internacional); que classes indicar para que a marca proteja o negócio real e não apenas uma formulação; se já existem marcas semelhantes de que a EUIPO não o vai avisar. Um erro aqui só aparece meses depois, sob a forma de oposição ou recusa, quando a taxa já foi paga.
+<blockquote>Verificamos o sinal, escolhemos a jurisdição e as classes, preparamos e apresentamos o pedido ao Instituto de Patentes da Estónia (Patendiamet) ou à EUIPO, acompanhamo-lo até ao registo e controlamos os prazos de renovação. Patentes, modelos de utilidade e litígios são tratados em conjunto com agentes de patentes autorizados.</blockquote>
+## content_blocks_3_content
+<h3><b>Factos principais</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicação prática</b></td>
+</tr>
+<tr>
+<td>Marca na Estónia</td>
+<td>Pedido ao Patendiamet; taxa do pedido eletrónico de 145 € por uma classe e 45 € por cada classe adicional</td>
+</tr>
+<tr>
+<td>Marca da UE (EUTM)</td>
+<td>Pedido à EUIPO; 850 € por uma classe, 50 € pela segunda, 150 € por cada uma das seguintes</td>
+</tr>
+<tr>
+<td>Prazo de registo</td>
+<td>Estónia: normalmente 9–10 meses; UE: 4–6 meses sem oposições</td>
+</tr>
+<tr>
+<td>Prazo de oposição</td>
+<td>Estónia: 2 meses após a publicação; UE: 3 meses</td>
+</tr>
+<tr>
+<td>Verificação de marcas anteriores</td>
+<td>A EUIPO não verifica oficiosamente conflitos com marcas anteriores: essa tarefa cabe ao requerente e aos titulares</td>
+</tr>
+<tr>
+<td>Validade</td>
+<td>10 anos, renováveis por períodos de 10 anos sem limite</td>
+</tr>
+<tr>
+<td>Prioridade</td>
+<td>6 meses a contar do primeiro pedido para apresentar noutros países</td>
+</tr>
+<tr>
+<td>Registo internacional</td>
+<td>Pelo Sistema de Madrid, com base num pedido ou registo estónio</td>
+</tr>
+<tr>
+<td>Representante</td>
+<td>Quem não tem residência nem sede na Estónia atua através de um agente de patentes</td>
+</tr>
+<tr>
+<td>Firma ≠ marca</td>
+<td>Registar uma OÜ não dá um direito exclusivo sobre a marca</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Como registar uma marca: 4 passos
+## content_blocks_4_step_1
+Envie um pedido. Envie-nos o sinal (palavra, logótipo ou ambos) e descreva os produtos e serviços, os mercados e os canais de venda: site próprio, marketplaces, venda física.
+## content_blocks_4_step_2
+Receba a pesquisa e a estratégia. Procuramos marcas semelhantes nas bases estónia, europeia e internacional, escolhemos as classes e a jurisdição e dizemos-lhe com franqueza quais são as hipóteses.
+## content_blocks_4_step_3
+Pague a fatura e assine a procuração. As taxas oficiais são pagas à parte e sem margem; os documentos são assinados com assinatura digital.
+## content_blocks_4_step_4
+Apresentamos e acompanhamos o pedido. Respostas às objeções do instituto, controlo do período de oposição, obtenção do registo e calendário de renovação.
+## content_blocks_6_tariff_title
+Pacotes de serviços
+## content_blocks_6_tariff_items_0_name
+Pacote «Pesquisa e estratégia»
+## content_blocks_6_tariff_items_0_package_items
+<li>Pesquisa de marcas idênticas e semelhantes na Estónia, na UE e no registo internacional
+<li>Avaliação da capacidade distintiva do sinal
+<li>Escolha das classes de Nice e da redação adequada ao seu negócio real
+<li>Recomendação de jurisdição: Estónia, UE, registo internacional
+<li>Parecer escrito com riscos e orçamento</li>
+## content_blocks_6_tariff_items_1_name
+Pacote «Registo de marca» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tudo o que está incluído no pacote «Pesquisa e estratégia»
+<li>Preparação e apresentação do pedido ao Patendiamet ou à EUIPO
+<li>Respostas às objeções formais e de mérito do instituto
+<li>Controlo do período de oposição e informação sobre o resultado
+<li>Obtenção do registo e comprovativo para marketplaces
+<li>Calendário de renovação a 10 anos</li>
+## content_blocks_6_tariff_items_2_name
+Pacote «Proteção da marca»
+## content_blocks_6_tariff_items_2_package_items
+<li>Vigilância de novos pedidos semelhantes à sua marca
+<li>Oposições contra pedidos conflituantes e defesa contra oposições
+<li>Registo internacional pelo Sistema de Madrid
+<li>Renovação, transmissão e licenciamento da marca
+<li>Patentes, modelos de utilidade e desenhos industriais, em conjunto com agentes de patentes</li>
+## content_blocks_7_content
+<h2>Marca estónia, marca da UE ou registo internacional</h2>
+São três instrumentos diferentes, com preço, prazo e território diferentes.
+<table>
+<tbody>
+<tr>
+<td><b>Parâmetro</b></td>
+<td><b>Marca na Estónia</b></td>
+<td><b>Marca da UE (EUTM)</b></td>
+<td><b>Registo internacional</b></td>
+</tr>
+<tr>
+<td>Instituto</td>
+<td>Patendiamet</td>
+<td>EUIPO</td>
+<td>OMPI + institutos dos países escolhidos</td>
+</tr>
+<tr>
+<td>Território</td>
+<td>Estónia</td>
+<td>Os 27 países da UE</td>
+<td>Países membros escolhidos</td>
+</tr>
+<tr>
+<td>Taxa por 1 classe</td>
+<td>145 €</td>
+<td>850 €</td>
+<td>Depende dos países</td>
+</tr>
+<tr>
+<td>Classe adicional</td>
+<td>45 €</td>
+<td>50 € pela segunda, 150 € pelas seguintes</td>
+<td>Depende dos países</td>
+</tr>
+<tr>
+<td>Prazo sem oposições</td>
+<td>9–10 meses</td>
+<td>4–6 meses</td>
+<td>Depende dos países</td>
+</tr>
+<tr>
+<td>Período de oposição</td>
+<td>2 meses</td>
+<td>3 meses</td>
+<td>Segundo as regras de cada país</td>
+</tr>
+<tr>
+<td>Principal risco</td>
+<td>Território reduzido</td>
+<td>Uma recusa num país da UE pode bloquear toda a marca</td>
+<td>Dependência do pedido de base nos primeiros anos</td>
+</tr>
+<tr>
+<td>Adequado quando</td>
+<td>O mercado é a Estónia, ou como base para Madrid</td>
+<td>Vendas na UE, marketplaces</td>
+<td>Mercados fora da UE</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_8_title_right
+Ponto-chave: não se regista uma palavra, mas uma lista de produtos e serviços
+## content_blocks_8_text_right
+Os titulares pensam na marca como um nome. O instituto e os tribunais veem-na como uma lista de classes e redações, e é isso que define o que protegeu.
+<ul>
+<li><b>Lista demasiado restrita.</b> A marca está registada para «software», mas o negócio vende uma subscrição de um serviço online. Um concorrente com nome semelhante numa classe vizinha não viola formalmente o seu direito.</li>
+<li><b>Lista demasiado ampla.</b> Classes «por precaução» custam dinheiro, aumentam o risco de oposição e, após cinco anos sem uso, a marca pode ser contestada nessa parte.</li>
+<li><b>Sem pesquisa antes do pedido.</b> A EUIPO não verifica por si os conflitos com marcas anteriores: são os titulares que o fazem através de oposição. A oposição chega depois da publicação, quando a taxa já foi paga.</li>
+<li><b>Marca em nome de uma pessoa singular e não da empresa.</b> Para marketplaces, investidores e a venda do negócio, interessa quem é o titular. Transmitir a marca mais tarde é um procedimento à parte, com custos.</li>
+</ul>
+<b>Conclusão prática:</b> a parte decisiva do trabalho acontece antes do pedido: pesquisa, classes, redação, titular. Começamos por aí, e a apresentação passa a ser uma operação técnica.
+## content_blocks_9_title_left
+Quando o registo da marca não é necessário e quando não é suficiente
+## content_blocks_9_text_left
+Uma análise honesta poupa mais do que a taxa.
+<ul>
+<li><b>Nome descritivo.</b> «Melhor contabilista» ou «Entrega rápida» não têm capacidade distintiva: o instituto recusa e a taxa não é devolvida. Mais vale investir tempo no nome.</li>
+<li><b>Só Estónia, mas vendas na UE.</b> Uma marca estónia não o protege na Alemanha ou em França. Para os marketplaces da UE, normalmente é necessária uma marca da UE.</li>
+<li><b>Só marca da UE, mas vendas no Reino Unido e nos EUA.</b> Depois do Brexit, a marca da UE não produz efeitos no Reino Unido; os EUA são uma jurisdição à parte.</li>
+<li><b>Solução técnica.</b> A marca protege um sinal, não uma invenção. Para um dispositivo ou método é preciso uma patente ou um modelo de utilidade; para o aspeto, um desenho industrial.</li>
+<li><b>O nome já está a ser usado.</b> Se houver uma marca semelhante registada para os mesmos produtos, o registo será quase certamente contestado. Às vezes é mais barato mudar de nome antes do lançamento do que litigar.</li>
+</ul>
+## content_blocks_10_title_right
+Outros serviços que prestamos
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:2263}">Registo de empresas na Estónia</a>: para uma nova marca</li>
+<li><a href="{L:2805}">Serviços jurídicos</a>: contratos de licença e de transmissão de direitos</li>
+<li><a href="{L:2508}">Estrutura de holding</a>: titularidade das marcas dentro do grupo</li>
+<li><a href="{L:4529}">Empresa para startups</a>: proteção da marca antes de uma ronda de investimento</li>
+<li><a href="{L:2383}">E-commerce e dropshipping</a>: marca para marketplaces</li>
+<li><a href="{L:2398}">IT e SaaS</a>: marcas de produtos digitais</li>
+<li><a href="{L:2746}">Serviços de contabilidade</a>: registo da marca como ativo</li>
+<li><a href="{L:4758}">Liquidação de empresas</a>: o que fazer com a marca ao encerrar a empresa</li>
+</ul>
+A marca é um ativo da empresa, não apenas uma inscrição num registo. Quando o registo da marca, a estrutura societária e a contabilidade estão com o mesmo prestador, a marca pertence à empresa certa e consta do seu balanço.
+## content_blocks_11_content
+<h2><b>Como registar uma marca na Estónia e na UE: na prática</b></h2>
+<h3><b>Processo na Estónia</b></h3>
+<ol>
+<li><b>Pesquisa e preparação.</b> Verificação de marcas e firmas anteriores, escolha das classes e da redação.</li>
+<li><b>Pedido ao Patendiamet.</b> Eletrónico; taxa de 145 € por classe e 45 € por cada classe adicional. Para marcas nominativas, figurativas e tridimensionais existe um procedimento eletrónico acelerado.</li>
+<li><b>Exame.</b> O instituto verifica os motivos absolutos: capacidade distintiva e caráter descritivo. Já não procura por si conflitos com marcas anteriores.</li>
+<li><b>Publicação.</b> A decisão de registo é publicada no Eesti Kaubamärgileht.</li>
+<li><b>Oposição.</b> No prazo de 2 meses, os titulares de direitos anteriores podem deduzir oposição.</li>
+<li><b>Registo.</b> O certificado é emitido em formato eletrónico; a marca é válida por 10 anos e renovável.</li>
+</ol>
+A língua do processo é o estónio; o pedido pode ser apresentado noutra língua e a tradução entregue no prazo de dois meses. Quem não tem residência, sede ou estabelecimento na Estónia atua através de um agente de patentes estónio. A OÜ estónia de um proprietário estrangeiro é uma sede na Estónia, por isso a empresa pode apresentar o pedido diretamente.
+<h3><b>Processo na UE (EUIPO)</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Fase</b></td>
+<td><b>Prazo</b></td>
+</tr>
+<tr>
+<td>Apresentação e pagamento da taxa</td>
+<td>Taxa no prazo de um mês após a apresentação</td>
+</tr>
+<tr>
+<td>Exame de motivos absolutos e formalidades</td>
+<td>Normalmente 1–2 meses; até 2 meses para corrigir irregularidades</td>
+</tr>
+<tr>
+<td>Publicação e período de oposição</td>
+<td>3 meses, sem prorrogação</td>
+</tr>
+<tr>
+<td>Registo</td>
+<td>Normalmente 4–6 meses após a apresentação, se não houver oposição</td>
+</tr>
+<tr>
+<td>Oposição</td>
+<td>Prolonga o processo 7–10 meses ou mais; é possível um período de negociação</td>
+</tr>
+</tbody>
+</table>
+A renovação é a cada 10 anos; a taxa de renovação é igualmente de 850 € pela primeira classe. Pode renovar nos últimos seis meses de validade ou num período de graça de seis meses depois, com sobretaxa.
+<h3><b>Registo internacional</b></h3>
+Uma empresa estónia pode apresentar um pedido internacional pelo Sistema de Madrid com base num pedido ou registo estónio, por via eletrónica e designando os países pretendidos. As taxas são pagas à OMPI e aos institutos nacionais. Nos primeiros anos, o registo internacional depende do registo de base: se este cair, o internacional também é afetado.
+<h3><b>Patentes, modelos de utilidade e desenhos</b></h3>
+A patente protege uma invenção até 20 anos e passa por um exame completo, o que é caro e demorado. O modelo de utilidade na Estónia é registado mais depressa e mais barato, sem exame de mérito, e protege uma solução técnica por um prazo mais curto. O desenho industrial protege o aspeto de um produto, embalagem ou interface, na Estónia ou em toda a UE de uma só vez. Estes procedimentos exigem um agente de patentes; coordenamos o trabalho com os nossos parceiros e ligamos os direitos à estrutura societária.
+<h3><b>Marca e marketplaces</b></h3>
+Os grandes marketplaces só dão acesso aos programas de proteção de marca a titulares de uma marca registada ou pedida. Para quem vende em plataformas europeias, a marca da UE costuma ser o primeiro passo e não uma formalidade.
+## content_blocks_12_faq_items_0_question
+Quanto custa registar uma marca na Estónia?
+## content_blocks_12_faq_items_0_answer
+A taxa do Patendiamet para o pedido eletrónico é de 145 € por uma classe e 45 € por cada classe adicional. A isso soma-se o custo da pesquisa e da preparação do pedido.
+## content_blocks_12_faq_items_1_question
+Quanto custa uma marca da UE?
+## content_blocks_12_faq_items_1_answer
+A taxa da EUIPO é de 850 € por uma classe, 50 € pela segunda e 150 € por cada uma das seguintes. A marca é válida nos 27 países da UE.
+## content_blocks_12_faq_items_2_question
+Quanto tempo demora o registo?
+## content_blocks_12_faq_items_2_answer
+Na Estónia, normalmente 9–10 meses; na UE, 4–6 meses se não houver oposições. Uma oposição acrescenta vários meses.
+## content_blocks_12_faq_items_3_question
+Registar a empresa protege o nome da marca?
+## content_blocks_12_faq_items_3_answer
+Não. A firma no Registo Comercial e a marca são direitos diferentes. Só o registo da marca confere um direito exclusivo sobre o sinal para produtos e serviços.
+## content_blocks_12_faq_items_4_question
+Preciso de um agente de patentes?
+## content_blocks_12_faq_items_4_answer
+Se não tiver residência nem sede na Estónia, sim. Uma empresa estónia pode apresentar o pedido ao Patendiamet diretamente.
+## content_blocks_12_faq_items_5_question
+O que escolher: marca estónia ou marca da UE?
+## content_blocks_12_faq_items_5_answer
+Se vende apenas na Estónia, a marca estónia é mais barata. Se vende na UE ou em marketplaces, normalmente a marca da UE.
+## content_blocks_12_faq_items_6_question
+Posso registar uma marca se já existir uma semelhante?
+## content_blocks_12_faq_items_6_answer
+Depende da semelhança entre os sinais e os produtos. Se existir uma marca semelhante registada para os mesmos produtos, o risco de oposição é elevado: a pesquisa deve ser feita antes do pedido.
+## content_blocks_12_faq_items_7_question
+Em nome de quem registar a marca: em meu nome ou da empresa?
+## content_blocks_12_faq_items_7_answer
+Para um negócio, normalmente em nome da empresa: é mais simples com marketplaces, investidores e na venda do negócio. Por vezes a marca fica numa holding e é licenciada à empresa operacional.
+## content_blocks_12_faq_items_8_question
+Quanto tempo é válida uma marca?
+## content_blocks_12_faq_items_8_answer
+10 anos a contar da data do pedido, renováveis por períodos de 10 anos sem limite de renovações.
+## content_blocks_13_final_cta_title
+Envie o nome: verificamos se está livre e escolhemos a jurisdição
+## content_blocks_13_final_cta_text
+Indique o sinal, os produtos ou serviços e os mercados de venda. Num dia útil dizemos-lhe se existem marcas semelhantes, em que classes e onde registar a marca, e quanto custa o registo com as taxas.

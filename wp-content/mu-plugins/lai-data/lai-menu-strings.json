@@ -37,5 +37,8 @@
   "Holding Structures": {"de": "Holdingstrukturen", "es": "Estructuras holding", "fr": "Structures de holding", "pt": "Estruturas de holding", "tr": "Holding yapıları", "uk": "Холдингові структури", "zh": "控股结构"},
   "AS Company": {"de": "AS-Gesellschaft", "es": "Sociedad AS", "fr": "Société AS", "pt": "Sociedade AS", "tr": "AS Şirketi", "uk": "Компанія AS", "zh": "AS 股份公司"},
   "MTÜ (Non-Profit)": {"de": "MTÜ (gemeinnützig)", "es": "MTÜ (sin ánimo de lucro)", "fr": "MTÜ (association)", "pt": "MTÜ (sem fins lucrativos)", "tr": "MTÜ (kâr amacı gütmeyen)", "uk": "MTÜ (неприбуткова)", "zh": "MTÜ（非营利组织）"},
-  "Change of Accountant": {"de": "Buchhalterwechsel", "es": "Cambio de contable", "fr": "Changement de comptable", "pt": "Mudança de contabilista", "tr": "Muhasebeci değişikliği", "uk": "Зміна бухгалтера", "zh": "更换会计"}
+  "Change of Accountant": {"de": "Buchhalterwechsel", "es": "Cambio de contable", "fr": "Changement de comptable", "pt": "Mudança de contabilista", "tr": "Muhasebeci değişikliği", "uk": "Зміна бухгалтера", "zh": "更换会计"},
+  "Company Liquidation": {"de": "Firmenliquidation", "es": "Liquidación de empresas", "fr": "Liquidation de société", "pt": "Liquidação de empresas", "tr": "Şirket tasfiyesi", "uk": "Ліквідація компаній", "zh": "公司清算", "ru": "Ликвидация компаний"},
+  "Trademark Registration": {"de": "Markenanmeldung", "es": "Registro de marcas", "fr": "Dépôt de marque", "pt": "Registo de marcas", "tr": "Marka tescili", "uk": "Реєстрація торговельної марки", "zh": "商标注册", "ru": "Регистрация товарного знака"},
+  "Ukrainian Entrepreneurs": {"de": "Unternehmer aus der Ukraine", "es": "Emprendedores de Ucrania", "fr": "Entrepreneurs ukrainiens", "pt": "Empreendedores da Ucrânia", "tr": "Ukraynalı girişimciler", "uk": "Підприємці з України", "zh": "乌克兰企业家", "ru": "Предприниматели из Украины"}
 }

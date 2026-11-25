@@ -1,0 +1,289 @@
+## _title
+Dépôt de marque et de brevet en Estonie et dans l'UE
+## _slug
+depot-de-marque-en-estonie
+## rank_math_title
+Dépôt de marque en Estonie et dans l'UE (EUIPO) %currentyear%
+## rank_math_description
+Dépôt de marque et de brevet en Estonie (Patendiamet) et dans l'UE (EUIPO) clé en main : recherche, classes de Nice, dépôt et protection de vos droits.
+## rank_math_focus_keyword
+dépôt de marque en Estonie
+## _step_desc
+Si vous ne savez pas si votre nom est disponible, envoyez-le-nous : nous ferons une première vérification gratuite.
+## content_blocks_0_content
+Immatriculer une société en Estonie ne protège pas le nom de votre marque. La dénomination sociale au Registre du commerce et la marque sont des droits différents : la première empêche seulement une autre société estonienne de prendre le même nom, la seconde confère un droit exclusif sur le signe pour des produits et services précis. Sans marque, vous pouvez perdre votre nom dans un litige avec une marketplace, un concurrent ou un copieur.
+
+Le dépôt lui-même prend une heure. Tout se joue avant : quel territoire choisir (l'Estonie, toute l'UE ou un enregistrement international) ; quelles classes indiquer pour que la marque protège votre activité réelle et pas seulement une formulation ; existe-t-il déjà des marques similaires que l'EUIPO ne vous signalera pas. Une erreur à ce stade apparaît des mois plus tard, sous forme d'opposition ou de refus, alors que la taxe est déjà payée.
+<blockquote>Nous vérifions le signe, choisissons le territoire et les classes, préparons et déposons la demande auprès de l'Office estonien des brevets (Patendiamet) ou de l'EUIPO, la suivons jusqu'à l'enregistrement et surveillons les échéances de renouvellement. Les brevets, modèles d'utilité et litiges sont traités avec des conseils en propriété industrielle agréés.</blockquote>
+## content_blocks_3_content
+<h3><b>Faits clés</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Sujet</b></td>
+<td><b>Explication pratique</b></td>
+</tr>
+<tr>
+<td>Marque en Estonie</td>
+<td>Demande auprès de Patendiamet ; taxe de dépôt électronique de 145 € pour une classe et 45 € par classe supplémentaire</td>
+</tr>
+<tr>
+<td>Marque de l'UE (EUTM)</td>
+<td>Demande auprès de l'EUIPO ; 850 € pour une classe, 50 € pour la deuxième, 150 € pour chaque classe suivante</td>
+</tr>
+<tr>
+<td>Délai d'enregistrement</td>
+<td>Estonie : en général 9–10 mois ; UE : 4–6 mois sans opposition</td>
+</tr>
+<tr>
+<td>Délai d'opposition</td>
+<td>Estonie : 2 mois après publication ; UE : 3 mois</td>
+</tr>
+<tr>
+<td>Vérification des marques antérieures</td>
+<td>L'EUIPO n'examine pas d'office les conflits avec les marques antérieures : cela revient au déposant et aux titulaires</td>
+</tr>
+<tr>
+<td>Durée de protection</td>
+<td>10 ans, renouvelables par périodes de 10 ans sans limite</td>
+</tr>
+<tr>
+<td>Priorité</td>
+<td>6 mois à compter du premier dépôt pour déposer dans d'autres pays</td>
+</tr>
+<tr>
+<td>Enregistrement international</td>
+<td>Via le système de Madrid, sur la base d'un dépôt ou d'un enregistrement estonien</td>
+</tr>
+<tr>
+<td>Mandataire</td>
+<td>Une personne sans domicile ni siège en Estonie agit par l'intermédiaire d'un conseil en propriété industrielle</td>
+</tr>
+<tr>
+<td>Dénomination sociale ≠ marque</td>
+<td>L'immatriculation d'une OÜ ne donne pas de droit exclusif sur la marque</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Comment déposer une marque : 4 étapes
+## content_blocks_4_step_1
+Envoyez une demande. Transmettez-nous le signe (mot, logo ou les deux) et décrivez vos produits et services, vos marchés et canaux de vente : site propre, marketplaces, hors ligne.
+## content_blocks_4_step_2
+Recevez la recherche et la stratégie. Nous cherchons les marques similaires dans les bases estonienne, européenne et internationale, choisissons les classes et le territoire et vous parlons franchement de vos chances.
+## content_blocks_4_step_3
+Payez la facture et signez la procuration. Les taxes officielles sont réglées à part et sans majoration ; les documents sont signés par signature numérique.
+## content_blocks_4_step_4
+Nous déposons et suivons la demande. Réponses aux objections de l'office, suivi de la période d'opposition, obtention de l'enregistrement et calendrier de renouvellement.
+## content_blocks_6_tariff_title
+Forfaits
+## content_blocks_6_tariff_items_0_name
+Forfait « Recherche et stratégie »
+## content_blocks_6_tariff_items_0_package_items
+<li>Recherche de marques identiques et similaires en Estonie, dans l'UE et au registre international
+<li>Évaluation du caractère distinctif du signe
+<li>Choix des classes de Nice et des libellés adaptés à votre activité réelle
+<li>Recommandation de territoire : Estonie, UE, enregistrement international
+<li>Avis écrit avec risques et budget</li>
+## content_blocks_6_tariff_items_1_name
+Forfait « Dépôt de marque » (recommandé)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tout le contenu du forfait « Recherche et stratégie »
+<li>Préparation et dépôt de la demande auprès de Patendiamet ou de l'EUIPO
+<li>Réponses aux objections formelles et de fond de l'office
+<li>Suivi de la période d'opposition et information sur son issue
+<li>Obtention de l'enregistrement et justificatif pour les marketplaces
+<li>Calendrier de renouvellement sur 10 ans</li>
+## content_blocks_6_tariff_items_2_name
+Forfait « Protection de la marque »
+## content_blocks_6_tariff_items_2_package_items
+<li>Surveillance des nouveaux dépôts similaires à votre marque
+<li>Oppositions contre les dépôts en conflit et défense contre les oppositions
+<li>Enregistrement international via le système de Madrid
+<li>Renouvellement, cession et licence de la marque
+<li>Brevets, modèles d'utilité et dessins et modèles, avec des conseils en propriété industrielle</li>
+## content_blocks_7_content
+<h2>Marque estonienne, marque de l'UE ou enregistrement international</h2>
+Ce sont trois outils différents, avec un prix, un délai et un territoire différents.
+<table>
+<tbody>
+<tr>
+<td><b>Critère</b></td>
+<td><b>Marque en Estonie</b></td>
+<td><b>Marque de l'UE (EUTM)</b></td>
+<td><b>Enregistrement international</b></td>
+</tr>
+<tr>
+<td>Office</td>
+<td>Patendiamet</td>
+<td>EUIPO</td>
+<td>OMPI + offices des pays choisis</td>
+</tr>
+<tr>
+<td>Territoire</td>
+<td>Estonie</td>
+<td>Les 27 pays de l'UE</td>
+<td>Pays membres choisis</td>
+</tr>
+<tr>
+<td>Taxe pour 1 classe</td>
+<td>145 €</td>
+<td>850 €</td>
+<td>Selon les pays</td>
+</tr>
+<tr>
+<td>Classe supplémentaire</td>
+<td>45 €</td>
+<td>50 € pour la deuxième, 150 € pour les suivantes</td>
+<td>Selon les pays</td>
+</tr>
+<tr>
+<td>Délai sans opposition</td>
+<td>9–10 mois</td>
+<td>4–6 mois</td>
+<td>Selon les pays</td>
+</tr>
+<tr>
+<td>Période d'opposition</td>
+<td>2 mois</td>
+<td>3 mois</td>
+<td>Selon les règles de chaque pays</td>
+</tr>
+<tr>
+<td>Risque principal</td>
+<td>Territoire restreint</td>
+<td>Un refus dans un seul pays de l'UE peut bloquer toute la marque</td>
+<td>Dépendance à la demande de base les premières années</td>
+</tr>
+<tr>
+<td>Convient quand</td>
+<td>Le marché est l'Estonie, ou comme base pour Madrid</td>
+<td>Ventes dans l'UE, marketplaces</td>
+<td>Marchés hors UE</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_8_title_right
+L'essentiel : on n'enregistre pas un mot, mais une liste de produits et services
+## content_blocks_8_text_right
+Les titulaires voient la marque comme un nom. L'office et les tribunaux la voient comme une liste de classes et de libellés, et c'est elle qui définit ce que vous avez protégé.
+<ul>
+<li><b>Liste trop étroite.</b> La marque est enregistrée pour des « logiciels », alors que l'entreprise vend un abonnement à un service en ligne. Un concurrent au nom similaire dans une classe voisine ne porte pas formellement atteinte à votre droit.</li>
+<li><b>Liste trop large.</b> Les classes ajoutées « au cas où » coûtent de l'argent, augmentent le risque d'opposition et, après cinq ans sans usage, la marque peut être contestée pour ces produits et services.</li>
+<li><b>Pas de recherche avant le dépôt.</b> L'EUIPO ne vérifie pas lui-même les conflits avec les marques antérieures : ce sont leurs titulaires qui le font par opposition. L'opposition arrive après la publication, quand la taxe est déjà payée.</li>
+<li><b>Marque au nom d'une personne physique plutôt que de la société.</b> Pour les marketplaces, les investisseurs et la vente de l'entreprise, le titulaire compte. Transférer la marque plus tard est une procédure distincte, avec des frais.</li>
+</ul>
+<b>Conclusion pratique :</b> la partie décisive du travail se fait avant le dépôt : recherche, classes, libellés, titulaire. Nous commençons par là ; le dépôt n'est ensuite qu'une opération technique.
+## content_blocks_9_title_left
+Quand le dépôt de marque n'est pas nécessaire et quand il ne suffit pas
+## content_blocks_9_text_left
+Une analyse honnête fait économiser plus que la taxe.
+<ul>
+<li><b>Nom descriptif.</b> « Meilleur comptable » ou « Livraison rapide » n'ont pas de caractère distinctif : l'office refusera et la taxe ne sera pas remboursée. Mieux vaut consacrer du temps au nom.</li>
+<li><b>Estonie seulement, mais ventes dans l'UE.</b> Une marque estonienne ne vous protège pas en Allemagne ou en France. Les marketplaces de l'UE exigent généralement une marque de l'UE.</li>
+<li><b>Marque de l'UE seulement, mais ventes au Royaume-Uni et aux États-Unis.</b> Depuis le Brexit, la marque de l'UE ne produit pas d'effet au Royaume-Uni ; les États-Unis sont un territoire distinct.</li>
+<li><b>Solution technique.</b> La marque protège un signe, pas une invention. Un dispositif ou un procédé nécessite un brevet ou un modèle d'utilité, l'apparence un dessin ou modèle.</li>
+<li><b>Le nom est déjà utilisé.</b> Si une marque similaire est enregistrée pour les mêmes produits, votre enregistrement sera presque certainement contesté. Il est parfois moins cher de changer de nom avant le lancement que de plaider.</li>
+</ul>
+## content_blocks_10_title_right
+Nos autres services
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:2263}">Immatriculation de société en Estonie</a> : pour une nouvelle marque</li>
+<li><a href="{L:2805}">Services juridiques</a> : contrats de licence et de cession de droits</li>
+<li><a href="{L:2508}">Structure holding</a> : détention des marques au sein du groupe</li>
+<li><a href="{L:4529}">Société pour start-up</a> : protection de la marque avant une levée de fonds</li>
+<li><a href="{L:2383}">E-commerce et dropshipping</a> : une marque pour les marketplaces</li>
+<li><a href="{L:2398}">IT et SaaS</a> : marques de produits numériques</li>
+<li><a href="{L:2746}">Services comptables</a> : comptabilisation de la marque comme actif</li>
+<li><a href="{L:4758}">Liquidation de société</a> : que faire de la marque à la fermeture de la société</li>
+</ul>
+La marque est un actif de la société, pas seulement une inscription dans un registre. Quand le dépôt de marque, la structure juridique et la comptabilité sont confiés à un seul prestataire, la marque appartient à la bonne société et figure à son bilan.
+## content_blocks_11_content
+<h2><b>Comment déposer une marque en Estonie et dans l'UE : en pratique</b></h2>
+<h3><b>Procédure en Estonie</b></h3>
+<ol>
+<li><b>Recherche et préparation.</b> Vérification des marques et dénominations antérieures, choix des classes et des libellés.</li>
+<li><b>Dépôt auprès de Patendiamet.</b> En ligne ; taxe de 145 € par classe et 45 € par classe supplémentaire. Les marques verbales, figuratives et tridimensionnelles bénéficient d'une procédure électronique accélérée.</li>
+<li><b>Examen.</b> L'office examine les motifs absolus : caractère distinctif, caractère descriptif. Il ne recherche plus lui-même les conflits avec des marques antérieures.</li>
+<li><b>Publication.</b> La décision d'enregistrement est publiée dans l'Eesti Kaubamärgileht.</li>
+<li><b>Opposition.</b> Dans les 2 mois, les titulaires de droits antérieurs peuvent former opposition.</li>
+<li><b>Enregistrement.</b> Le certificat est délivré sous forme électronique ; la marque est valable 10 ans et renouvelable.</li>
+</ol>
+La langue de procédure est l'estonien ; la demande peut être déposée dans une autre langue, avec une traduction fournie dans les deux mois. Une personne sans domicile, siège ni établissement en Estonie agit par l'intermédiaire d'un conseil en propriété industrielle estonien. L'OÜ estonienne d'un propriétaire étranger constitue un siège en Estonie : la société peut donc déposer elle-même.
+<h3><b>Procédure dans l'UE (EUIPO)</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Étape</b></td>
+<td><b>Délai</b></td>
+</tr>
+<tr>
+<td>Dépôt et paiement de la taxe</td>
+<td>Taxe dans le mois suivant le dépôt</td>
+</tr>
+<tr>
+<td>Examen des motifs absolus et des formalités</td>
+<td>En général 1–2 mois ; jusqu'à 2 mois pour corriger les irrégularités</td>
+</tr>
+<tr>
+<td>Publication et période d'opposition</td>
+<td>3 mois, sans prolongation</td>
+</tr>
+<tr>
+<td>Enregistrement</td>
+<td>En général 4–6 mois après le dépôt en l'absence d'opposition</td>
+</tr>
+<tr>
+<td>Opposition</td>
+<td>Allonge la procédure de 7–10 mois ou plus ; une période de réflexion est possible</td>
+</tr>
+</tbody>
+</table>
+Renouvellement tous les 10 ans ; la taxe de renouvellement est la même, 850 € pour la première classe. Il est possible de renouveler dans les six derniers mois de la protection ou dans un délai de grâce de six mois après, avec surtaxe.
+<h3><b>Enregistrement international</b></h3>
+Une société estonienne peut déposer une demande internationale via le système de Madrid sur la base d'un dépôt ou d'un enregistrement estonien, en ligne et en désignant les pays souhaités. Les taxes sont versées à l'OMPI et aux offices nationaux. Les premières années, l'enregistrement international dépend de la marque de base : si celle-ci tombe, l'international en pâtit aussi.
+<h3><b>Brevets, modèles d'utilité et dessins et modèles</b></h3>
+Le brevet protège une invention jusqu'à 20 ans et passe un examen complet : c'est cher et long. Le modèle d'utilité s'enregistre en Estonie plus vite et moins cher, sans examen au fond, et protège une solution technique plus brièvement. Le dessin ou modèle protège l'apparence d'un produit, d'un emballage ou d'une interface, en Estonie ou dans toute l'UE à la fois. Ces procédures exigent un conseil en propriété industrielle ; nous coordonnons le travail avec nos partenaires et rattachons les droits à la structure de la société.
+<h3><b>Marque et marketplaces</b></h3>
+Les grandes marketplaces n'ouvrent leurs programmes de protection de marque qu'aux titulaires d'une marque enregistrée ou déposée. Pour un vendeur sur des plateformes européennes, la marque de l'UE est généralement une première étape, pas une formalité.
+## content_blocks_12_faq_items_0_question
+Combien coûte le dépôt d'une marque en Estonie ?
+## content_blocks_12_faq_items_0_answer
+La taxe de Patendiamet pour un dépôt électronique est de 145 € pour une classe et 45 € par classe supplémentaire. S'y ajoute le coût de la recherche et de la préparation de la demande.
+## content_blocks_12_faq_items_1_question
+Combien coûte une marque de l'UE ?
+## content_blocks_12_faq_items_1_answer
+La taxe de l'EUIPO est de 850 € pour une classe, 50 € pour la deuxième et 150 € pour chaque classe suivante. La marque est valable dans les 27 pays de l'UE.
+## content_blocks_12_faq_items_2_question
+Combien de temps prend l'enregistrement ?
+## content_blocks_12_faq_items_2_answer
+En Estonie, en général 9–10 mois ; dans l'UE, 4–6 mois en l'absence d'opposition. Une opposition ajoute plusieurs mois.
+## content_blocks_12_faq_items_3_question
+L'immatriculation de la société protège-t-elle le nom de marque ?
+## content_blocks_12_faq_items_3_answer
+Non. La dénomination sociale au Registre du commerce et la marque sont des droits différents. Seul l'enregistrement de la marque donne un droit exclusif sur le signe pour des produits et services.
+## content_blocks_12_faq_items_4_question
+Ai-je besoin d'un conseil en propriété industrielle ?
+## content_blocks_12_faq_items_4_answer
+Oui, si vous n'avez ni domicile ni siège en Estonie. Une société estonienne peut déposer elle-même auprès de Patendiamet.
+## content_blocks_12_faq_items_5_question
+Que choisir : marque estonienne ou marque de l'UE ?
+## content_blocks_12_faq_items_5_answer
+Si vous vendez uniquement en Estonie, la marque estonienne est moins chère. Si vous vendez dans l'UE ou sur des marketplaces, généralement la marque de l'UE.
+## content_blocks_12_faq_items_6_question
+Peut-on déposer une marque si une marque similaire existe déjà ?
+## content_blocks_12_faq_items_6_answer
+Cela dépend de la similitude des signes et des produits. Si une marque similaire est enregistrée pour les mêmes produits, le risque d'opposition est élevé : la recherche doit être faite avant le dépôt.
+## content_blocks_12_faq_items_7_question
+Au nom de qui déposer la marque : à mon nom ou à celui de la société ?
+## content_blocks_12_faq_items_7_answer
+Pour une entreprise, généralement au nom de la société : c'est plus simple avec les marketplaces, les investisseurs et lors de la vente de l'entreprise. La marque est parfois détenue par une holding et concédée sous licence à la société opérationnelle.
+## content_blocks_12_faq_items_8_question
+Combien de temps une marque est-elle valable ?
+## content_blocks_12_faq_items_8_answer
+10 ans à compter du dépôt, puis renouvelable par périodes de 10 ans sans limite du nombre de renouvellements.
+## content_blocks_13_final_cta_title
+Envoyez-nous le nom : nous vérifierons s'il est libre et choisirons le territoire
+## content_blocks_13_final_cta_text
+Indiquez le signe, les produits ou services et vos marchés. Sous un jour ouvrable, nous vous dirons s'il existe des marques similaires, dans quelles classes et où déposer la marque, et combien coûtera l'enregistrement taxes comprises.

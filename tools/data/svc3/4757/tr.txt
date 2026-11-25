@@ -1,0 +1,299 @@
+## _title
+Ukraynalı girişimciler için Estonya şirketi (OÜ)
+## _slug
+ukraynali-girisimciler-icin-estonya-sirketi
+## rank_math_title
+Ukraynalılar için Estonya şirketi %currentyear%: e-Residency ve CFC
+## rank_math_description
+Ukraynalılar için e-Residency ile Estonya'da OÜ kurmak: kuruluş, dağıtılmayan kârda %0 vergi, CFC kuralları ve 2026'da Ukrayna'daki vergi yükümlülükleri.
+## rank_math_focus_keyword
+Ukraynalılar için Estonya şirketi
+## _step_desc
+Size Estonya mı yoksa Polonya yapısı mı uygun emin değilseniz işinizi anlatın, ücretsiz karşılaştıralım.
+## content_blocks_0_content
+Ukraynalı bir girişimci için Estonya OÜ'sü, Ukrayna'dan yönetilebilen bir Avrupa şirketidir: AB'li müşterilerle sözleşmeler, Ukrayna yapılarıyla çalışmayan ödeme hizmetleri ve yalnızca kâr dağıtıldığında ödenen kurumlar vergisi. Ukrayna, Estonya e-oturum sahiplerinin sayısına göre ilk beş ülke arasındadır ve vatandaşları için harçların karşılandığı ayrı bir program vardır.
+
+Ancak Ukrayna mukiminin Estonya şirketi aynı anda iki vergi sisteminde yaşar. Estonya'da: kâr dağıtımında 22/78 vergi, yönetim kurulu ücreti, KDV. Ukrayna'da: kontrol edilen yabancı kurum (CFC) bildirimi ve yıllık raporu. Ekip Ukrayna'da FOP (Ukraynalı şahıs girişimcisi) olarak çalışıyorsa, Estonya şirketi için yurt dışından alınan hizmetlerde KDV yükümlülüğü de doğar; bu konuda neredeyse kimse uyarmaz.
+<blockquote>Ukraynalı girişimciler için OÜ kurar, yasal adres ve irtibat kişisi sağlar, muhasebeyi yürütür ve finansal tabloları Ukrayna'daki CFC raporuna eklenebilecek şekilde hazırlarız.</blockquote>
+## content_blocks_3_content
+<h3><b>Temel bilgiler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Konu</b></td>
+<td><b>Pratik açıklama</b></td>
+</tr>
+<tr>
+<td>e-Residency devlet harcı</td>
+<td>2026'da 150 €; 1 Ocak 2027'den itibaren 165 €</td>
+</tr>
+<tr>
+<td>Ukrayna vatandaşlarına geri ödeme</td>
+<td>Programa katılan bir sağlayıcı aracılığıyla 31 Aralık 2026'ya kadar yeni bir OÜ kurulduğunda e-Residency için 150 €'ya ve şirket kuruluşu için 265 €'ya kadar</td>
+</tr>
+<tr>
+<td>Kartın Ukrayna'da alınması</td>
+<td>Kiev'deki Estonya Büyükelçiliği; Lviv'de mobil teslim noktası</td>
+</tr>
+<tr>
+<td>Süre</td>
+<td>Başvurunun incelenmesi 30 güne kadar, kartın teslimi 2–5 hafta</td>
+</tr>
+<tr>
+<td>Estonya'da geçici koruma</td>
+<td>e-Residency verilmez: şirket Estonya kimlik kartıyla kurulur</td>
+</tr>
+<tr>
+<td>OÜ sermayesi</td>
+<td>0,01 €'dan itibaren</td>
+</tr>
+<tr>
+<td>İrtibat kişisi</td>
+<td>Yönetim kurulu yurt dışındaysa zorunlu; yalnızca kanundaki listede yer alan bir kişi</td>
+</tr>
+<tr>
+<td>Kurumlar vergisi</td>
+<td>Dağıtılmayan kârda %0; dağıtımda 22/78</td>
+</tr>
+<tr>
+<td>Ukrayna'da CFC</td>
+<td>60 gün içinde bildirim; kâr sıfır olsa bile her yıl rapor</td>
+</tr>
+<tr>
+<td>CFC kârının vergiden muafiyeti</td>
+<td>Tüm CFC'lerin toplam geliri yılda 2 milyon €'yu aşmıyorsa</td>
+</tr>
+<tr>
+<td>CFC cezaları</td>
+<td>Sıkıyönetim süresince uygulanmaz; yükümlülükler sona ermesinden sonraki 6 ay içinde yerine getirilmelidir</td>
+</tr>
+<tr>
+<td>Estonya'da KDV kaydı</td>
+<td>Ağustos 2025'ten beri yalnızca Estonya ile ekonomik bağ varsa</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Ukrayna'dan Estonya şirketi nasıl kurulur: 4 adım
+## content_blocks_4_step_1
+Talep gönderin ve işinizi anlatın. Ne iş yaptığınız, müşterilerinizin nerede olduğu, Ukrayna'daki ekibin FOP olarak çalışıp çalışmadığı, vergi mukimliğiniz ve e-Residency'niz olup olmadığı.
+## content_blocks_4_step_2
+Yapıyı alın. Yapıyı, Estonya'daki vergi rejimini ve Ukrayna'daki yükümlülük listesini önerir, harç geri ödemesine hakkınızı kontrol eder ve sabit fiyat veririz.
+## content_blocks_4_step_3
+e-oturum kartını alın ve sözleşmeyi imzalayın. Kart Kiev'de veya Lviv'de alınabilir; sözleşme dijital imzayla imzalanır.
+## content_blocks_4_step_4
+Şirketi kurar ve muhasebeyi başlatırız. OÜ kaydı, yasal adres ve irtibat kişisi, bir banka veya ödeme kuruluşunda hesap açılışı, ilk aydan itibaren muhasebe.
+## content_blocks_6_tariff_title
+Hizmet paketleri
+## content_blocks_6_tariff_items_0_name
+"31 Aralık'a kadar başlangıç" paketi
+## content_blocks_6_tariff_items_0_package_items
+<li>e-Residency ve kuruluş harçlarının geri ödenmesine hakkın kontrolü
+<li>e-Residency başvurusu ve teslim noktası seçimiyle ilgili destek
+<li>OÜ'nün Ticaret Sicili'ne kaydı
+<li>1 yıl süreyle yasal adres ve irtibat kişisi
+<li>Bankalar için "kırmızı bayrak" içermeyen esas sözleşme ve faaliyet tanımı
+<li>Banka veya ödeme kuruluşunda hesap açılış planı</li>
+## content_blocks_6_tariff_items_1_name
+"Anahtar teslim şirket + CFC raporlaması" paketi (önerilen)
+## content_blocks_6_tariff_items_1_package_items
+<li>"31 Aralık'a kadar başlangıç" paketinin tamamı
+<li>Aylık muhasebe, TSD ve gerektiğinde KMD
+<li>Ukrayna'daki CFC raporu süresine kadar OÜ finansal tabloları
+<li>Estonya vergileri dikkate alınarak yönetim kurulu ücreti ve temettü hesabı
+<li>Ticaret Sicili'ne yıllık rapor
+<li>Ukraynalı danışmanınız için Estonya'da ödenen vergilerin belgeleri</li>
+## content_blocks_6_tariff_items_2_name
+"Ukrayna'daki ekip" paketi
+## content_blocks_6_tariff_items_2_package_items
+<li>Önerilen paketin tamamı
+<li>Ukrayna'dan alınan hizmetlerde KDV: sınırlı veya normal kayıt, vergi hesabı
+<li>FOP yüklenicilerle sözleşmeler ve hizmetlerin belgelenmesi
+<li>Ukraynalı bir şirketle grup içi sözleşmeler ve fiyat gerekçesi
+<li>Daimi işyeri ve yönetim yeri riskinin değerlendirilmesi</li>
+## content_blocks_7_content
+<h2><b>Ukrayna'da FOP mu, Estonya OÜ'sü mü: ne değişir</b></h2>
+Estonya şirketi FOP'un yerini kendiliğinden almaz; bunlar farklı işler için farklı araçlardır.
+<table>
+<tbody>
+<tr>
+<td><b>Kriter</b></td>
+<td><b>Ukrayna'da 3. grup FOP</b></td>
+<td><b>Estonya OÜ'sü</b></td>
+</tr>
+<tr>
+<td>Gelir vergisi</td>
+<td>Ciro üzerinden tek vergi</td>
+<td>Yeniden yatırılan kârda %0; dağıtımda 22/78</td>
+</tr>
+<tr>
+<td>Sözleşmenin tabi olduğu hukuk</td>
+<td>Ukrayna</td>
+<td>AB</td>
+</tr>
+<tr>
+<td>Ödeme hizmetleri</td>
+<td>Bazı uluslararası sağlayıcılara sınırlı erişim</td>
+<td>Stripe, Paddle, Wise ve diğer AB sağlayıcıları</td>
+</tr>
+<tr>
+<td>Raporlama</td>
+<td>Ukrayna FOP beyannamesi</td>
+<td>Estonya muhasebesi ve yıllık rapor + Ukrayna'da CFC raporu</td>
+</tr>
+<tr>
+<td>Sorumluluk</td>
+<td>Tüm mal varlığıyla</td>
+<td>Şirket sermayesiyle sınırlı</td>
+</tr>
+<tr>
+<td>Ne zaman uygun</td>
+<td>Müşteriler Ukraynalı yükleniciyi kabul ediyor, gelir hemen çekiliyor</td>
+<td>Müşterilerin AB'li bir muhataba ihtiyacı var, kâr yeniden yatırılıyor</td>
+</tr>
+</tbody>
+</table>
+Uygulamada birçok girişimci FOP'unu korur ve paralel olarak bir OÜ açar: Avrupalı müşterilerle sözleşmeler ve ödeme hizmetleri için.
+## content_blocks_8_title_right
+Önemli nokta: Ukrayna'daki ekip Estonya'da KDV doğurur
+## content_blocks_8_text_right
+En yaygın model: Estonya OÜ'sü AB'deki müşterilere satış yapar, Ukrayna'daki geliştiriciler ve tasarımcılar ise ona FOP olarak fatura keser. Bu modelin vergi sonucundan neredeyse hiç bahsedilmez.
+
+Estonya şirketinin AB dışındaki bir sağlayıcıdan aldığı hizmetler, Estonya'da sorumlu sıfatıyla (reverse charge) KDV'ye tabidir. OÜ KDV mükellefiyse %24 hesaplar ve hemen indirir; sonuç sıfırdır. Kayıtlı değilse sınırlı KDV mükellefi olarak kaydolmak ve bu hizmetler üzerinden indirim hakkı olmadan %24 ödemek zorundadır. Burada eşik yoktur.
+
+<b>Pratik sonuç:</b> "müşteriler AB'de, ekip Ukrayna'da" modelinde KDV kaydı sorusu varsayılana göre değil, hesapla çözülür. Bazen normal kayıt daha avantajlıdır, çünkü ekibin hizmetlerine ilişkin vergi nötr hale gelir. Yüklenicilere ilk ödemeden önce iki seçeneği de sizin rakamlarınızla hesaplarız.
+## content_blocks_9_title_left
+Estonya şirketi ne zaman uygun değil, ne zaman yetmez
+## content_blocks_9_text_left
+Dürüst bir analiz, kuruluştan daha fazla tasarruf sağlar.
+<ul>
+<li><b>Estonya'da geçici korumayla yaşıyorsunuz.</b> e-Residency'ye ihtiyacınız yok ve size verilmez: şirket Estonya kimlik kartıyla kurulabilir. Vergi mukimliğiniz zaten Estonya olabilir; bu durumda Ukrayna CFC kuralları size uygulanmayabilir.</li>
+<li><b>Polonya veya Almanya'da yaşıyorsunuz.</b> Vergi mukimliği yaşadığınız ülkeye göre belirlenir ve Estonya şirketi o ülkenin CFC kurallarına tabi olur. Önce mukimlik, sonra yapı.</li>
+<li><b>Tüm müşteriler Ukrayna'da.</b> Estonya şirketi raporlama yükü getirir ama avantaj sağlamaz: Ukraynalı müşterilerle sözleşmeler FOP veya Ukrayna limited şirketi üzerinden daha kolaydır.</li>
+<li><b>"Prestij için" Estonya KDV numarası istiyorsunuz.</b> Estonya ile ekonomik bağ yoksa EMTA reddedebilir. AB'deki B2B müşterilere Estonya KDV numarası olmadan da reverse charge ile fatura kesilir.</li>
+<li><b>Paranın hemen çekilmesi gerekiyor.</b> Estonya modeli, kâr şirkette kaldığında avantajlıdır. Her şey temettü olarak dağıtılırsa Estonya'daki 22/78 vergi artı Ukrayna'daki temettü vergisi FOP'tan daha pahalıya gelir.</li>
+</ul>
+## content_blocks_10_title_right
+Sunduğumuz diğer hizmetler
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:2247}">e-Residency ile şirket kuruluşu</a></li>
+<li><a href="{L:1269}">Yasal adres</a> ve <a href="{L:2254}">irtibat kişisi</a>: yönetim kurulu yurt dışındaysa zorunlu</li>
+<li><a href="{L:4490}">e-oturum sahipleri için muhasebe</a>: ülkeniz için raporlamayla</li>
+<li><a href="{L:2696}">KDV beyannameleri (KMD)</a>: Ukrayna'daki ekibinizin hizmetlerindeki KDV dahil</li>
+<li><a href="{L:2746}">Bordro (payroll)</a>: yönetim kurulu ücreti</li>
+<li><a href="{L:1398}">Yıllık rapor</a>: CFC raporunun temeli</li>
+<li><a href="{L:2266}">e-oturum sahipleri için hizmetler</a>: paketin tamamı</li>
+<li><a href="https://staging.dragonslots-gr.gr/target/kompaniya-dlya-osnovatelej-iz-za-predelov-es/">AB dışından kurucular için şirket</a></li>
+</ul>
+## content_blocks_11_content
+<h2><b>Bir Ukraynalı Estonya'da nasıl şirket kurar ve yönetir: uygulama</b></h2>
+<h3><b>Ukrayna'dan e-Residency</b></h3>
+Başvuru, Polis ve Sınır Muhafızları Kurulu ortamında çevrim içi yapılır. Pasaport, fotoğraf ve Estonya e-hizmetlerine neden ihtiyaç duyduğunuzun açıklaması gerekir. Devlet harcı 150 €, 1 Ocak 2027'den itibaren 165 €'dur. Teslim noktası formda seçilir: Kiev'deki Estonya Büyükelçiliği veya büyükelçiliğin koordine ettiği Lviv'deki mobil nokta. Sıkıyönetim döneminde askerlik çağındaki erkekler için bu çoğu zaman tek gerçekçi seçenektir. Kart teslim noktasında 6 ay saklanır. Ayrıntılar için <a href="https://staging.dragonslots-gr.gr/blog-ru/kak-poluchit-e-residency-2026/">2026'da e-Residency nasıl alınır</a> yazısına bakın.
+<h3><b>Harç geri ödemesi: koşullar</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Koşul</b></td>
+<td><b>Gereklilik</b></td>
+</tr>
+<tr>
+<td>Vatandaşlık</td>
+<td>Ukrayna</td>
+</tr>
+<tr>
+<td>e-oturum statüsü</td>
+<td>24 Şubat 2022'de veya sonrasında alınmış</td>
+</tr>
+<tr>
+<td>Sağlayıcı</td>
+<td>Geri ödeme programına katılıyor</td>
+</tr>
+<tr>
+<td>Şirket</td>
+<td>Yeni, 31 Aralık 2026'ya kadar kurulmuş</td>
+</tr>
+<tr>
+<td>Önceki şirketler</td>
+<td>24 Şubat 2022'den önce Estonya şirketlerinin sahibi veya yönetim kurulu üyesi olmadınız</td>
+</tr>
+<tr>
+<td>Tutar</td>
+<td>e-Residency için 150 €'ya ve şirket kuruluşu için 265 €'ya kadar</td>
+</tr>
+</tbody>
+</table>
+Geri ödeme yalnızca iki işlem birlikte yapıldığında ödenir ve e-Residency reddedilirse iade edilmez. Ödemeyi sağlayıcı yapar, ardından programdan geri alır.
+<h3><b>Estonya'daki vergiler</b></h3>
+Kâr şirkette kaldığı sürece kurumlar vergisi yoktur. Dağıtımda şirket 22/78 öder. Yönetim kurulu üyesinin ücreti, Ukrayna'da yaşasanız bile Estonya'da %22 gelir vergisine ve %33 sosyal vergiye tabidir. Ayrıntılar için <a href="https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/">2026'da Estonya kurumlar vergisi</a> yazısına bakın.
+<h3><b>Ukrayna'da CFC</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Yükümlülük</b></td>
+<td><b>Süre</b></td>
+<td><b>Önemli olan</b></td>
+</tr>
+<tr>
+<td>CFC bildirimi</td>
+<td>Olaydan sonra 60 gün</td>
+<td>Şirketin kurulması, pay değişikliği, fiili kontrolün başlaması</td>
+</tr>
+<tr>
+<td>CFC raporu</td>
+<td>Her yıl, gelir beyannamesiyle birlikte</td>
+<td>Kâr sıfır olsa bile verilir; finansal tablolar eklenir</td>
+</tr>
+<tr>
+<td>Düzeltilmiş kâr üzerinden vergi</td>
+<td>Yıl sonuçlarına göre</td>
+<td>Muafiyet yoksa %18 gelir vergisi + %5 askeri vergi</td>
+</tr>
+<tr>
+<td>OÜ'den alınan temettü vergisi</td>
+<td>Alındığında</td>
+<td>%9 gelir vergisi + %5 askeri vergi</td>
+</tr>
+</tbody>
+</table>
+Kontrol eden kişi, %50'den fazla paya sahip Ukrayna mukimi ya da Ukrayna mukimlerinin toplam payı en az %50 iken %10'dan fazla paya sahip olan veya fiili kontrolü elinde bulunduran kişidir. 2024'ten beri Ukrayna, CRS standardı kapsamında yurt dışı hesap verilerini alıyor.
+<h3><b>Banka ve ödeme hizmetleri</b></h3>
+Ukrayna mukimi sahipler için bankalar ve ödeme kuruluşları genişletilmiş inceleme yapar: fonların kaynağı, müşteriler, yaptırım riskleri. Sözleşmeler, faturalar, modelin anlaşılır tanımı ve bir web sitesi yardımcı olur. Ayrıntılar için <a href="https://staging.dragonslots-gr.gr/blog-ru/kak-otkryt-bankovskij-schyot-dlya-estonskoj-kompanii/">Estonya şirketi için banka hesabı nasıl açılır</a> yazısına bakın.
+<h3><b>Yönetim yeri</b></h3>
+Tüm kararlar Ukrayna'da alınıyorsa Ukrayna tarafı şirketin faaliyetinde daimi işyeri görebilir. Sözleşmeler, yönetim kurulu kararları ve Estonya altyapısının gerçek rolü durumu dürüstçe yansıtmalıdır; bu bir formalite değil, kurulumun bir parçasıdır.
+## content_blocks_12_faq_items_0_question
+Ukrayna vatandaşı Estonya'da şirket kurabilir mi?
+## content_blocks_12_faq_items_0_answer
+Evet. e-Residency ile tamamen çevrim içi, vekâletnameyle noter aracılığıyla veya Estonya'da yaşıyorsanız Estonya kimlik kartıyla.
+## content_blocks_12_faq_items_1_question
+Ukrayna'dan ayrılmadan e-oturum kartını nereden alabilirim?
+## content_blocks_12_faq_items_1_answer
+Kiev'deki Estonya Büyükelçiliği'nden veya Lviv'deki mobil teslim noktasından.
+## content_blocks_12_faq_items_2_question
+Ukrayna'da CFC raporu vermem gerekir mi?
+## content_blocks_12_faq_items_2_answer
+Evet, Ukrayna vergi mukimiyseniz ve şirketi kontrol ediyorsanız. Bildirim şirketin kurulmasından sonraki 60 gün içinde, rapor ise kâr sıfır olsa bile her yıl verilir.
+## content_blocks_12_faq_items_3_question
+Estonya şirketinin kârı için Ukrayna'da vergi öder miyim?
+## content_blocks_12_faq_items_3_answer
+Tüm CFC'lerinizin toplam geliri yılda 2 milyon €'yu aşmıyorsa CFC kârı vergiden muaftır, ancak rapor yine de verilir. Şahsen alınan temettülerde %9 gelir vergisi ve %5 askeri vergi uygulanır.
+## content_blocks_12_faq_items_4_question
+Ukrayna'daki ekibime FOP üzerinden ödeme yapabilir miyim?
+## content_blocks_12_faq_items_4_answer
+Evet, ancak AB dışındaki sağlayıcının hizmetleri Estonya'da reverse charge ile KDV'ye tabidir. Normal KDV kaydı olmadan şirket bu hizmetler üzerinden indirimsiz %24 öder.
+## content_blocks_12_faq_items_5_question
+OÜ açtıktan sonra FOP'u kapatabilir miyim?
+## content_blocks_12_faq_items_5_answer
+Kapatabilirsiniz ama zorunlu değildir. Birçoğu Ukraynalı müşteriler için FOP'u korur, Avrupalı müşteriler için OÜ'yü kullanır.
+## content_blocks_12_faq_items_6_question
+Banka, Ukraynalı sahibi olan bir şirkete hesap açar mı?
+## content_blocks_12_faq_items_6_answer
+Karar her zaman bankaya aittir ve inceleme genişletilmiştir. Sözleşmeler, anlaşılır bir model ve web sitesi olduğunda şans artar; birçok şirket ödeme kuruluşları üzerinden çalışır.
+## content_blocks_12_faq_items_7_question
+Estonya'da geçici korumayla yaşıyorsam ne olur?
+## content_blocks_12_faq_items_7_answer
+Size e-Residency verilmez: şirket Estonya kimlik kartıyla kurulur. Vergi mukimliğinizi kontrol edin; Ukrayna CFC kurallarının uygulanıp uygulanmayacağı buna bağlıdır.
+## content_blocks_13_final_cta_title
+31 Aralık 2026'ya kadar: harç geri ödemesiyle şirketinizi kurun
+## content_blocks_13_final_cta_text
+İşinizi anlatın: müşterileriniz nerede, ekibiniz nerede, vergi mukimi olduğunuz yer neresi. Bir iş günü içinde Estonya yapısının size uygun olup olmadığını, geri ödemeye hakkınız olup olmadığını ve kuruluş ile hizmetin maliyetini söyleriz.

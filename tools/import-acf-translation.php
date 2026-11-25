@@ -14,7 +14,7 @@ $src  = get_post( (int) $d['source_id'] );
 $lang = $d['lang'];
 $group = pll_get_post_translations( $src->ID );
 $existing = $group[ $lang ] ?? 0;
-if ( $existing && (int) get_post_meta( $existing, '_lai_tr_source', true ) !== $src->ID ) WP_CLI::error( "#$existing already is the $lang translation" );
+if ( $existing && (int) get_post_meta( $existing, '_lai_tr_source', true ) !== $src->ID && ! in_array( 'adopt', $args, true ) ) WP_CLI::error( "#$existing already is the $lang translation (pass 'adopt' to overwrite it)" );
 wp_set_current_user( (int) ( get_users( array( 'role' => 'administrator', 'number' => 1, 'fields' => 'ID' ) )[0] ?? 1 ) );
 $host = wp_parse_url( home_url(), PHP_URL_HOST );
 $log  = array();

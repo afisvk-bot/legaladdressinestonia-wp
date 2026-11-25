@@ -1,0 +1,289 @@
+## _title
+Estonya ve AB'de marka ve patent tescili
+## _slug
+estonyada-marka-tescili
+## rank_math_title
+Estonya'da marka tescili ve AB (EUIPO) %currentyear%
+## rank_math_description
+Estonya (Patendiamet) ve AB'de (EUIPO) anahtar teslim marka ve patent tescili: marka araştırması, Nice sınıfları, başvuru ve haklarınızın korunması.
+## rank_math_focus_keyword
+Estonya'da marka tescili
+## _step_desc
+Adınızın boşta olup olmadığından emin değilseniz bize gönderin, ön kontrolü ücretsiz yapalım.
+## content_blocks_0_content
+Estonya'da şirket kurmak marka adınızı korumaz. Ticaret Sicili'ndeki ticaret unvanı ile marka farklı haklardır: birincisi yalnızca başka bir Estonya şirketinin aynı adı almasını engeller, ikincisi belirli mal ve hizmetler için işaret üzerinde münhasır hak verir. Tescilli marka olmadan bir pazar yeri, rakip veya taklitçiyle anlaşmazlıkta markanızı kaybedebilirsiniz.
+
+Başvurunun kendisi bir saat sürer. Her şeyi ondan önceki sorular belirler: hangi coğrafyanın seçileceği (Estonya, tüm AB veya uluslararası tescil); markanın yalnızca bir ifadeyi değil gerçek işinizi koruması için hangi sınıfların yazılacağı; EUIPO'nun size söylemeyeceği benzer markaların var olup olmadığı. Buradaki bir hata aylar sonra, harç ödendikten sonra itiraz veya ret olarak ortaya çıkar.
+<blockquote>İşareti kontrol eder, coğrafyayı ve sınıfları seçer, başvuruyu Estonya Patent Ofisi'ne (Patendiamet) veya EUIPO'ya hazırlayıp sunar, tescile kadar takip eder ve yenileme sürelerini izleriz. Patentler, faydalı modeller ve uyuşmazlıklar lisanslı patent vekilleriyle birlikte yürütülür.</blockquote>
+## content_blocks_3_content
+<h3><b>Temel bilgiler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Konu</b></td>
+<td><b>Pratik açıklama</b></td>
+</tr>
+<tr>
+<td>Estonya'da marka</td>
+<td>Patendiamet'e başvuru; elektronik başvuru harcı bir sınıf için 145 €, her ek sınıf için 45 €</td>
+</tr>
+<tr>
+<td>AB markası (EUTM)</td>
+<td>EUIPO'ya başvuru; bir sınıf için 850 €, ikinci için 50 €, sonraki her sınıf için 150 €</td>
+</tr>
+<tr>
+<td>Tescil süresi</td>
+<td>Estonya: genellikle 9–10 ay; AB: itiraz yoksa 4–6 ay</td>
+</tr>
+<tr>
+<td>İtiraz süresi</td>
+<td>Estonya: yayından sonra 2 ay; AB: 3 ay</td>
+</tr>
+<tr>
+<td>Önceki markaların kontrolü</td>
+<td>EUIPO önceki markalarla çakışmayı kendiliğinden incelemez; bu, başvuru sahibinin ve marka sahiplerinin işidir</td>
+</tr>
+<tr>
+<td>Koruma süresi</td>
+<td>10 yıl, sınırsız şekilde 10'ar yıl yenilenebilir</td>
+</tr>
+<tr>
+<td>Rüçhan hakkı</td>
+<td>Diğer ülkelerde başvuru için ilk başvuru tarihinden itibaren 6 ay</td>
+</tr>
+<tr>
+<td>Uluslararası tescil</td>
+<td>Estonya başvurusu veya tescili esas alınarak Madrid Sistemi ile</td>
+</tr>
+<tr>
+<td>Temsilci</td>
+<td>Estonya'da ikametgâhı veya merkezi olmayan kişi patent vekili aracılığıyla işlem yapar</td>
+</tr>
+<tr>
+<td>Ticaret unvanı ≠ marka</td>
+<td>OÜ kurmak markaya münhasır hak vermez</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Marka nasıl tescil edilir: 4 adım
+## content_blocks_4_step_1
+Talep gönderin. İşareti (kelime, logo veya ikisi) gönderin; mal ve hizmetleri, satış pazarlarını ve kanalları anlatın: kendi siteniz, pazar yerleri, fiziksel satış.
+## content_blocks_4_step_2
+Araştırma ve strateji alın. Estonya, Avrupa ve uluslararası veri tabanlarında benzer markaları arar, sınıfları ve coğrafyayı seçer, şansınızı dürüstçe söyleriz.
+## content_blocks_4_step_3
+Faturayı ödeyin ve vekâletnameyi imzalayın. Resmî harçlar ayrıca ve kâr eklenmeden ödenir; belgeler dijital imzayla imzalanır.
+## content_blocks_4_step_4
+Başvuruyu sunar ve takip ederiz. Ofisin itirazlarına yanıtlar, itiraz süresinin takibi, tescilin alınması ve yenileme takvimi.
+## content_blocks_6_tariff_title
+Hizmet paketleri
+## content_blocks_6_tariff_items_0_name
+"Araştırma ve strateji" paketi
+## content_blocks_6_tariff_items_0_package_items
+<li>Estonya, AB ve uluslararası sicilde aynı ve benzer markaların araştırılması
+<li>İşaretin ayırt edicilik gücünün değerlendirilmesi
+<li>Gerçek işinize uygun Nice sınıfları ve ifadelerin seçilmesi
+<li>Coğrafya önerisi: Estonya, AB, uluslararası tescil
+<li>Riskler ve bütçe içeren yazılı görüş</li>
+## content_blocks_6_tariff_items_1_name
+"Marka tescili" paketi (önerilen)
+## content_blocks_6_tariff_items_1_package_items
+<li>"Araştırma ve strateji" paketinin tamamı
+<li>Patendiamet veya EUIPO'ya başvurunun hazırlanması ve sunulması
+<li>Ofisin şekli ve esasa ilişkin itirazlarına yanıtlar
+<li>İtiraz süresinin takibi ve sonucun bildirilmesi
+<li>Tescilin alınması ve pazar yerleri için belge
+<li>10 yıllık yenileme takvimi</li>
+## content_blocks_6_tariff_items_2_name
+"Marka koruma" paketi
+## content_blocks_6_tariff_items_2_package_items
+<li>Markanıza benzer yeni başvuruların izlenmesi
+<li>Çakışan başvurulara itiraz ve itirazlara karşı savunma
+<li>Madrid Sistemi ile uluslararası tescil
+<li>Markanın yenilenmesi, devri ve lisanslanması
+<li>Patentler, faydalı modeller ve endüstriyel tasarımlar, patent vekilleriyle birlikte</li>
+## content_blocks_7_content
+<h2>Estonya markası, AB markası veya uluslararası tescil</h2>
+Bunlar fiyatı, süresi ve koruma alanı farklı üç ayrı araçtır.
+<table>
+<tbody>
+<tr>
+<td><b>Kriter</b></td>
+<td><b>Estonya'da marka</b></td>
+<td><b>AB markası (EUTM)</b></td>
+<td><b>Uluslararası tescil</b></td>
+</tr>
+<tr>
+<td>Ofis</td>
+<td>Patendiamet</td>
+<td>EUIPO</td>
+<td>WIPO + seçilen ülkelerin ofisleri</td>
+</tr>
+<tr>
+<td>Koruma alanı</td>
+<td>Estonya</td>
+<td>27 AB ülkesinin tamamı</td>
+<td>Seçilen üye ülkeler</td>
+</tr>
+<tr>
+<td>1 sınıf harcı</td>
+<td>145 €</td>
+<td>850 €</td>
+<td>Ülkelere bağlı</td>
+</tr>
+<tr>
+<td>Ek sınıf</td>
+<td>45 €</td>
+<td>İkinci için 50 €, sonrakiler için 150 €</td>
+<td>Ülkelere bağlı</td>
+</tr>
+<tr>
+<td>İtirazsız süre</td>
+<td>9–10 ay</td>
+<td>4–6 ay</td>
+<td>Ülkelere bağlı</td>
+</tr>
+<tr>
+<td>İtiraz süresi</td>
+<td>2 ay</td>
+<td>3 ay</td>
+<td>Her ülkenin kurallarına göre</td>
+</tr>
+<tr>
+<td>Ana risk</td>
+<td>Dar koruma alanı</td>
+<td>Bir AB ülkesindeki tek ret tüm markayı engelleyebilir</td>
+<td>İlk yıllarda temel başvuruya bağımlılık</td>
+</tr>
+<tr>
+<td>Ne zaman uygun</td>
+<td>Pazar Estonya ise veya Madrid için temel olarak</td>
+<td>AB genelinde satış, pazar yerleri</td>
+<td>AB dışındaki pazarlar</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_8_title_right
+Önemli nokta: tescil edilen bir kelime değil, mal ve hizmet listesidir
+## content_blocks_8_text_right
+Sahipler markayı bir isim olarak düşünür. Ofis ve mahkeme ise onu sınıflar ve ifadeler listesi olarak görür; neyi koruduğunuzu da tam olarak bu liste belirler.
+<ul>
+<li><b>Çok dar liste.</b> Marka "yazılım" için tescilli, ancak işletme bir çevrim içi hizmete abonelik satıyor. Komşu sınıfta benzer adlı bir rakip şeklen hakkınızı ihlal etmez.</li>
+<li><b>Çok geniş liste.</b> "Ne olur ne olmaz" diye eklenen sınıflar para tutar, itiraz riskini artırır ve beş yıl kullanılmazsa marka o kısımda iptal edilebilir.</li>
+<li><b>Başvurudan önce araştırma yok.</b> EUIPO önceki markalarla çakışmayı kendisi kontrol etmez; bunu marka sahipleri itiraz yoluyla yapar. İtiraz, harç ödendikten sonra yayından sonra gelir.</li>
+<li><b>Marka şirket yerine gerçek kişi adına.</b> Pazar yerleri, yatırımcılar ve işletmenin satışı için markanın kime ait olduğu önemlidir. Markayı sonradan devretmek ayrı bir işlem ve masraftır.</li>
+</ul>
+<b>Pratik sonuç:</b> işin belirleyici kısmı başvurudan öncedir: araştırma, sınıflar, ifadeler, sahip. Biz buradan başlarız; başvuru ise teknik bir işlemdir.
+## content_blocks_9_title_left
+Marka tescili ne zaman gerekmez, ne zaman yetmez
+## content_blocks_9_text_left
+Dürüst bir analiz harçtan daha fazla tasarruf sağlar.
+<ul>
+<li><b>Tanımlayıcı ad.</b> "En iyi muhasebeci" veya "Hızlı teslimat" ayırt edici değildir: ofis reddeder, harç iade edilmez. Zamanı ada harcamak daha iyidir.</li>
+<li><b>Yalnızca Estonya, ama satışlar AB genelinde.</b> Estonya markası sizi Almanya veya Fransa'da korumaz. AB pazar yerleri için genellikle AB markası gerekir.</li>
+<li><b>Yalnızca AB markası, ama satışlar Birleşik Krallık ve ABD'de.</b> Brexit'ten sonra AB markası Birleşik Krallık'ta geçerli değildir; ABD ayrı bir hukuk alanıdır.</li>
+<li><b>Teknik çözüm.</b> Marka bir işareti korur, buluşu değil. Bir cihaz veya yöntem için patent veya faydalı model, görünüm için endüstriyel tasarım gerekir.</li>
+<li><b>Ad zaten kullanılıyor.</b> Aynı mallar için benzer bir marka tescilliyse tesciliniz neredeyse kesin itiraza uğrar. Bazen lansmandan önce adı değiştirmek dava açmaktan ucuzdur.</li>
+</ul>
+## content_blocks_10_title_right
+Sunduğumuz diğer hizmetler
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:2263}">Estonya'da şirket kuruluşu</a>: yeni bir marka için</li>
+<li><a href="{L:2805}">Hukuki hizmetler</a>: lisans ve hak devri sözleşmeleri</li>
+<li><a href="{L:2508}">Holding yapısı</a>: markaların grup içinde tutulması</li>
+<li><a href="{L:4529}">Startup için şirket</a>: yatırım turundan önce marka koruması</li>
+<li><a href="{L:2383}">E-ticaret ve dropshipping</a>: pazar yerleri için marka</li>
+<li><a href="{L:2398}">IT ve SaaS</a>: dijital ürün markaları</li>
+<li><a href="{L:2746}">Muhasebe hizmetleri</a>: markanın varlık olarak kaydı</li>
+<li><a href="{L:4758}">Şirket tasfiyesi</a>: şirket kapanırken markayla ne yapılacağı</li>
+</ul>
+Marka, yalnızca bir sicil kaydı değil, şirketin bir varlığıdır. Marka tescili, şirket yapısı ve muhasebe tek bir sağlayıcıdayken marka doğru şirkete ait olur ve bilançosunda yer alır.
+## content_blocks_11_content
+<h2><b>Estonya ve AB'de marka nasıl tescil edilir: uygulama</b></h2>
+<h3><b>Estonya'daki süreç</b></h3>
+<ol>
+<li><b>Araştırma ve hazırlık.</b> Önceki markaların ve ticaret unvanlarının kontrolü, sınıfların ve ifadelerin seçimi.</li>
+<li><b>Patendiamet'e başvuru.</b> Elektronik olarak; harç sınıf başına 145 € ve her ek sınıf için 45 €. Kelime, şekil ve üç boyutlu markalar için hızlandırılmış elektronik usul vardır.</li>
+<li><b>İnceleme.</b> Ofis mutlak ret nedenlerini inceler: ayırt edicilik ve tanımlayıcılık. Önceki markalarla çakışmayı artık kendisi aramaz.</li>
+<li><b>Yayın.</b> Tescil kararı Eesti Kaubamärgileht'te yayımlanır.</li>
+<li><b>İtiraz.</b> 2 ay içinde önceki hak sahipleri itiraz edebilir.</li>
+<li><b>Tescil.</b> Belge elektronik olarak düzenlenir; marka 10 yıl geçerlidir ve yenilenir.</li>
+</ol>
+İşlem dili Estoncadır; başvuru başka bir dilde yapılıp çeviri iki ay içinde sunulabilir. Estonya'da ikametgâhı, merkezi veya işletmesi olmayan kişi Estonyalı bir patent vekili aracılığıyla işlem yapar. Yabancı sahibin Estonya OÜ'sü Estonya'da bir merkezdir; bu nedenle şirket başvuruyu kendisi yapabilir.
+<h3><b>AB'deki süreç (EUIPO)</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Aşama</b></td>
+<td><b>Süre</b></td>
+</tr>
+<tr>
+<td>Başvuru ve harç ödemesi</td>
+<td>Harç, başvurudan sonraki bir ay içinde</td>
+</tr>
+<tr>
+<td>Mutlak ret nedenleri ve şekil incelemesi</td>
+<td>Genellikle 1–2 ay; eksikleri gidermek için en fazla 2 ay</td>
+</tr>
+<tr>
+<td>Yayın ve itiraz süresi</td>
+<td>3 ay, uzatılamaz</td>
+</tr>
+<tr>
+<td>Tescil</td>
+<td>İtiraz yoksa genellikle başvurudan itibaren 4–6 ay</td>
+</tr>
+<tr>
+<td>İtiraz</td>
+<td>Süreci 7–10 ay veya daha fazla uzatır; uzlaşma süresi mümkündür</td>
+</tr>
+</tbody>
+</table>
+Yenileme her 10 yılda bir yapılır; yenileme harcı ilk sınıf için yine 850 €'dur. Koruma süresinin son altı ayında veya sonrasındaki altı aylık ek sürede ek ücretle yenilenebilir.
+<h3><b>Uluslararası tescil</b></h3>
+Bir Estonya şirketi, Estonya başvurusu veya tescili esas alınarak Madrid Sistemi ile elektronik olarak ve istenen ülkeleri belirterek uluslararası başvuru yapabilir. Harçlar WIPO'ya ve ulusal ofislere ödenir. İlk yıllarda uluslararası tescil temel tescile bağlıdır: temel tescil düşerse uluslararası tescil de etkilenir.
+<h3><b>Patentler, faydalı modeller ve tasarımlar</b></h3>
+Patent bir buluşu 20 yıla kadar korur ve tam incelemeden geçer; bu pahalı ve uzun bir süreçtir. Estonya'da faydalı model daha hızlı ve ucuz, esas incelemesi olmadan tescil edilir ve teknik çözümü daha kısa süre korur. Endüstriyel tasarım bir ürünün, ambalajın veya arayüzün görünümünü Estonya'da ya da tek seferde tüm AB'de korur. Bu süreçler patent vekili gerektirir; çalışmayı ortaklarımızla koordine eder ve hakları şirket yapısıyla ilişkilendiririz.
+<h3><b>Marka ve pazar yerleri</b></h3>
+Büyük pazar yerleri marka koruma programlarına yalnızca tescilli veya başvurusu yapılmış marka sahiplerini kabul eder. Avrupa platformlarında satış yapan biri için AB markası genellikle bir formalite değil, ilk adımdır.
+## content_blocks_12_faq_items_0_question
+Estonya'da marka tescili ne kadara mal olur?
+## content_blocks_12_faq_items_0_answer
+Patendiamet'in elektronik başvuru harcı bir sınıf için 145 €, her ek sınıf için 45 €'dur. Buna araştırma ve başvuru hazırlığı maliyeti eklenir.
+## content_blocks_12_faq_items_1_question
+AB markası ne kadara mal olur?
+## content_blocks_12_faq_items_1_answer
+EUIPO harcı bir sınıf için 850 €, ikinci için 50 € ve sonraki her sınıf için 150 €'dur. Marka 27 AB ülkesinin tamamında geçerlidir.
+## content_blocks_12_faq_items_2_question
+Tescil ne kadar sürer?
+## content_blocks_12_faq_items_2_answer
+Estonya'da genellikle 9–10 ay, AB'de itiraz yoksa 4–6 ay. İtiraz birkaç ay ekler.
+## content_blocks_12_faq_items_3_question
+Şirket kurmak marka adını korur mu?
+## content_blocks_12_faq_items_3_answer
+Hayır. Ticaret Sicili'ndeki ticaret unvanı ile marka farklı haklardır. Mal ve hizmetler için işaret üzerinde münhasır hakkı yalnızca marka tescili verir.
+## content_blocks_12_faq_items_4_question
+Patent vekili gerekli mi?
+## content_blocks_12_faq_items_4_answer
+Estonya'da ikametgâhınız veya merkeziniz yoksa evet. Bir Estonya şirketi Patendiamet'e başvuruyu kendisi yapabilir.
+## content_blocks_12_faq_items_5_question
+Hangisini seçmeli: Estonya markası mı, AB markası mı?
+## content_blocks_12_faq_items_5_answer
+Yalnızca Estonya'da satıyorsanız Estonya markası daha ucuzdur. AB genelinde veya pazar yerlerinde satıyorsanız genellikle AB markası.
+## content_blocks_12_faq_items_6_question
+Benzer bir marka varsa yine de tescil yaptırabilir miyim?
+## content_blocks_12_faq_items_6_answer
+İşaretlerin ve malların benzerliğine bağlıdır. Aynı mallar için benzer bir marka tescilliyse itiraz riski yüksektir; araştırma başvurudan önce yapılmalıdır.
+## content_blocks_12_faq_items_7_question
+Marka kimin adına tescil edilmeli: benim mi, şirketin mi?
+## content_blocks_12_faq_items_7_answer
+Bir işletme için genellikle şirket adına: pazar yerleri, yatırımcılar ve işletmenin satışı açısından daha kolaydır. Bazen marka bir holdingde tutulur ve faaliyet şirketine lisanslanır.
+## content_blocks_12_faq_items_8_question
+Bir marka ne kadar süre geçerlidir?
+## content_blocks_12_faq_items_8_answer
+Başvuru tarihinden itibaren 10 yıl; ardından yenileme sayısı sınırı olmadan 10'ar yıl uzatılır.
+## content_blocks_13_final_cta_title
+Adı gönderin: boşta olup olmadığını kontrol edelim ve coğrafyayı seçelim
+## content_blocks_13_final_cta_text
+İşareti, mal veya hizmetleri ve satış pazarlarını belirtin. Bir iş günü içinde benzer markalar olup olmadığını, markanın hangi sınıflarda ve nerede tescil edilmesi gerektiğini ve harçlarla birlikte tescilin maliyetini söyleriz.

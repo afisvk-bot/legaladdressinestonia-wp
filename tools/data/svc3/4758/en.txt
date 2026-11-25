@@ -1,0 +1,291 @@
+## _title
+Company Liquidation in Estonia: Close, Sell or Restore an OÜ the Right Way
+## _slug
+company-liquidation-in-estonia
+## rank_math_title
+Company Liquidation in Estonia (OÜ): Turnkey Closure %currentyear%
+## rank_math_description
+Turnkey liquidation of an Estonian OÜ: steps, legal deadlines, liquidation report, tax on payouts and full removal from the Commercial Register.
+## rank_math_focus_keyword
+company liquidation in Estonia
+## _step_desc
+If you are not sure whether liquidation or a sale makes more sense, describe the situation and we will compare both options free of charge.
+## content_blocks_0_content
+You cannot simply "abandon" an Estonian company. As long as it is entered in the register, it has to file an annual report, keep a legal address and a contact person and, if it is VAT-registered, submit a KMD every month. A company that is no longer serviced does not disappear: it gets fines of up to €3,200, which also fall on management board members personally, and then compulsory deletion on the register's terms rather than yours.
+
+There is always a proper way out, and more than one. The company can be liquidated, which takes at least six to seven months by law. An inactive company with no history can sometimes be deleted more simply. The company can be sold to a new owner. And a company that has already been deleted can be restored if money, assets or contracts remain in it.
+<blockquote>We choose the route that fits the company's actual situation, put the accounting and taxes in order, carry out the liquidation from the shareholders' resolution to deletion from the register, and watch every statutory deadline.</blockquote>
+## content_blocks_3_content
+<h3><b>Key facts</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Topic</b></td>
+<td><b>Practical explanation</b></td>
+</tr>
+<tr>
+<td>Liquidation resolution</td>
+<td>Shareholders, at least 2/3 of votes unless the articles of association require more</td>
+</tr>
+<tr>
+<td>Liquidators</td>
+<td>By default the management board members; the shareholders or a court may appoint others</td>
+</tr>
+<tr>
+<td>Liquidation report to the register</td>
+<td>Within 4 months of the liquidation resolution</td>
+</tr>
+<tr>
+<td>Deadline for creditors' claims</td>
+<td>4 months from publication of the notice in Ametlikud Teadaanded</td>
+</tr>
+<tr>
+<td>Distribution of assets to shareholders</td>
+<td>Not earlier than 6 months after the liquidation is entered in the register and the notice is published</td>
+</tr>
+<tr>
+<td>Minimum liquidation period</td>
+<td>About 6–7 months; 6–12 months in practice</td>
+</tr>
+<tr>
+<td>Tax on payouts to shareholders</td>
+<td>22/78, only on the amount exceeding contributed capital</td>
+</tr>
+<tr>
+<td>If assets do not cover debts</td>
+<td>Not liquidation but a bankruptcy petition</td>
+</tr>
+<tr>
+<td>Documents after deletion</td>
+<td>Handed over for storage in Estonia; accounting records for at least 7 years</td>
+</tr>
+<tr>
+<td>Restoring a deleted company</td>
+<td>€200 state fee plus removing the reasons for deletion</td>
+</tr>
+<tr>
+<td>"Just stop paying"</td>
+<td>Repeated fines of up to €3,200 on the company and board members; then compulsory deletion</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+How to close a company: 4 steps
+## content_blocks_4_step_1
+Send us the registration code. We review the company in the register and e-MTA free of charge: whether reports have been filed, whether there are warnings, tax debts or a VAT registration.
+## content_blocks_4_step_2
+Get a route and a quote. Liquidation, deletion of an inactive company, a sale or restoration, plus what needs to be done before we start: close the books, file reports, deregister from VAT.
+## content_blocks_4_step_3
+Pay the invoice and sign the documents. The shareholders' resolution, the liquidator's consent and the register documents are signed with a digital signature.
+## content_blocks_4_step_4
+We run the procedure to the end. Reports, notice to creditors, final tax returns, distribution of the remaining assets, the deletion application and handover of documents for storage.
+## content_blocks_6_tariff_title
+Service packages
+## content_blocks_6_tariff_items_0_name
+"Inactive Company Deletion" package
+## content_blocks_6_tariff_items_0_package_items
+<li>Check that the company has no transactions, assets, debts or tax history
+<li>Zero reports, if they have not been filed
+<li>Documents and application to the register under the simplified procedure
+<li>Closing access and obligations: address, contact person, VAT</li>
+## content_blocks_6_tariff_items_1_name
+"Turnkey Liquidation" package (recommended)
+## content_blocks_6_tariff_items_1_package_items
+<li>Shareholders' liquidation resolution and appointment of the liquidator
+<li>Report as at the resolution date and liquidation report to the register within 4 months
+<li>Notice in Ametlikud Teadaanded and letters to known creditors
+<li>Final TSD and KMD, VAT deregistration, closing bank accounts
+<li>Calculation of the 22/78 tax on payouts above contributed capital
+<li>Final liquidation report and asset distribution plan
+<li>Deletion application and handover of documents for storage
+<li>Legal address and contact person until the end of the procedure</li>
+## content_blocks_6_tariff_items_2_name
+"Complex Exit" package
+## content_blocks_6_tariff_items_2_package_items
+<li>Accounting restoration and filing overdue reports before liquidation
+<li>Handling the register's deletion warning and fines
+<li>Restoring a deleted company if assets remain in it
+<li>Sale of the company or shares: due diligence, notarial transaction, register changes
+<li>Assessing signs of insolvency and coordinating with lawyers in a bankruptcy</li>
+## content_blocks_7_content
+<h2><b>Four ways out of an Estonian company</b></h2>
+The route is determined by the company's facts, not by the owner's preference.
+<table>
+<tbody>
+<tr>
+<td><b>Route</b></td>
+<td><b>Timeline</b></td>
+<td><b>How it ends</b></td>
+<td><b>When it fits</b></td>
+</tr>
+<tr>
+<td>Voluntary liquidation</td>
+<td>6–7 months by law, 6–12 in practice</td>
+<td>The company is deleted, the remainder is paid to shareholders</td>
+<td>The company has operated and has money, assets or a tax history</td>
+</tr>
+<tr>
+<td>Deletion of an inactive company</td>
+<td>Faster, no creditor period</td>
+<td>The company is deleted</td>
+<td>The company never started operating and has no obligations</td>
+</tr>
+<tr>
+<td>Sale of the company or shares</td>
+<td>Weeks after the terms are agreed</td>
+<td>The company continues with a new owner</td>
+<td>There is a buyer, or the brand, licences or contracts have value</td>
+</tr>
+<tr>
+<td>Leave the company "dormant"</td>
+<td>No time limit</td>
+<td>The company exists, obligations continue</td>
+<td>The company will be needed in the next year or two</td>
+</tr>
+</tbody>
+</table>
+There is no fifth option, "just do nothing", because it is not a way out but a path to fines and compulsory deletion.
+## content_blocks_8_title_right
+Key insight: liquidations are broken by taxes, not by the register
+## content_blocks_8_text_right
+The legal side of liquidation is a sequence of deadlines that can be planned. Mistakes happen in the accounting side, which runs in parallel throughout these months.
+<ul>
+<li><b>The books do not stop.</b> The liquidation resolution closes the financial year and opens a new one. So you will need at least one more set of reports, plus a KMD every month if the company has not been deregistered from VAT.</li>
+<li><b>Tax on payouts to shareholders.</b> A liquidation payout is taxed at 22/78, but only on the part exceeding contributed capital. If capital contributions are not documented, more may be taxed than necessary.</li>
+<li><b>Loose ends at EMTA cannot be fixed after deletion.</b> Once the company is deleted, the tax authority can no longer process a refund, a correction or a late return without a separate restoration procedure. All tax returns are closed before the deletion application.</li>
+<li><b>Bank accounts and subscriptions.</b> A balance on an account that has not been closed is company property. Discovering it after deletion is a classic reason for a repeat liquidation.</li>
+</ul>
+<b>Practical conclusion:</b> plan the liquidation backwards from the tax end: which returns, which payout, which tax. We start with that, and the register follows the schedule.
+## content_blocks_9_title_left
+When liquidation is not needed and when it is not enough
+## content_blocks_9_text_left
+An honest review saves more than the procedure itself.
+<ul>
+<li><b>The company never started operating.</b> A full liquidation with a creditor period may be excessive: there is a separate deletion procedure for such OÜs.</li>
+<li><b>The company has value.</b> If there is a buyer, contracts, a domain, a history or a licence, a sale is often faster and more profitable than liquidation. As a rule, a transfer of an OÜ share is executed before a notary.</li>
+<li><b>The company may be needed again.</b> You can keep it, but the obligations do not "sleep": the annual report, address and contact person remain. If there is no turnover, it makes sense to deregister the company from VAT.</li>
+<li><b>Debts exceed assets.</b> This is bankruptcy, not liquidation. Liquidators must file a bankruptcy petition if the assets are insufficient to satisfy creditors' claims.</li>
+<li><b>Reports for past years have not been filed.</b> A company with open periods cannot be liquidated: first <a href="{L:4578}">accounting restoration</a>, then liquidation. We handle this as one project.</li>
+</ul>
+## content_blocks_10_title_right
+Other services we provide
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:4578}">Accounting restoration</a>: a mandatory step if reports have not been filed</li>
+<li><a href="{L:1398}">Annual report</a>: including the reports of the liquidation period</li>
+<li><a href="{L:2696}">VAT returns (KMD)</a>: final returns and deregistration</li>
+<li><a href="{L:2746}">Payroll</a>: dismissal of employees and the final TSD</li>
+<li><a href="{L:4699}">Interim reports</a>: reports as at the date of the liquidation resolution</li>
+<li><a href="{L:1269}">Legal address</a> and <a href="{L:2254}">contact person</a>: until the end of the procedure</li>
+<li><a href="{L:1415}">Ready-made companies in Estonia</a>: if you need a new structure</li>
+<li><a href="{L:2805}">Legal services</a>: shareholders' resolutions, sale of shares</li>
+</ul>
+Closing a company is the last year of its accounting. When liquidation and bookkeeping are handled by one provider, the final report, tax returns and distribution plan match up, with no repeat liquidation a year later.
+## content_blocks_11_content
+<h2>How an OÜ liquidation works in Estonia: practice</h2>
+<h3>Step-by-step process and statutory deadlines</h3>
+<table>
+<tbody>
+<tr>
+<td><b>Step</b></td>
+<td><b>Statutory deadline</b></td>
+<td><b>Legal basis</b></td>
+</tr>
+<tr>
+<td>Shareholders' liquidation resolution</td>
+<td>At least 2/3 of votes</td>
+<td>ÄS § 202</td>
+</tr>
+<tr>
+<td>Liquidators start work</td>
+<td>Immediately; by default the management board members</td>
+<td>ÄS § 206</td>
+</tr>
+<tr>
+<td>Closing of the financial year</td>
+<td>On the day of the resolution</td>
+<td>ÄS § 211</td>
+</tr>
+<tr>
+<td>Liquidation report to the register</td>
+<td>Within 4 months of the resolution</td>
+<td>ÄS § 211</td>
+</tr>
+<tr>
+<td>Notice to creditors</td>
+<td>Immediately after the resolution; 4 months for claims</td>
+<td>ÄS § 212, § 213</td>
+</tr>
+<tr>
+<td>Final report and distribution plan</td>
+<td>After claims have been satisfied</td>
+<td>ÄS § 215</td>
+</tr>
+<tr>
+<td>Distribution of assets</td>
+<td>6 months after the liquidation is entered in the register and 2 months after notifying shareholders; earlier for a sole shareholder</td>
+<td>ÄS § 216</td>
+</tr>
+<tr>
+<td>Deletion application</td>
+<td>6 months after the liquidation is entered and 3 months after notifying shareholders</td>
+<td>ÄS § 218</td>
+</tr>
+<tr>
+<td>Handover of documents for storage</td>
+<td>On deletion; the documents remain in Estonia</td>
+<td>ÄS § 219</td>
+</tr>
+</tbody>
+</table>
+The deadlines overlap, so the fastest lawful route takes about six to seven months. A realistic plan is 6–12 months, allowing for the sale of assets, final tax returns and EMTA questions.
+<h3><b>Taxes on liquidation</b></h3>
+A payout to shareholders on liquidation is subject to 22/78 income tax at company level, on the part exceeding monetary and non-monetary contributions to capital. Contributed capital is returned tax-free. The reduced 14/86 rate no longer exists since 2025. The final TSD for payments to employees, VAT deregistration and the last KMD are closed separately.
+<h3><b>Deletion of an inactive company</b></h3>
+For an OÜ that never started operating, there is a separate, simpler route of deletion from the register, without a liquidation period or liquidation reports. The condition is the absence of activity, assets and obligations. We first check that this is really the case: a single subscription or bank fee is already a transaction.
+<h3><b>Selling the company instead of liquidating it</b></h3>
+As a rule, a share in an OÜ is transferred by a notarised contract. The exception: if the share capital is at least €10,000, fully paid up, and the articles of association, by unanimous decision of the shareholders, exclude the notarial form, the transfer is made through the register. The buyer carries out a due diligence of the company, so the accounting and reports must be in order before a sale.
+<h3><b>What happens if you do nothing</b></h3>
+The register can fine the company and each board member personally, up to €3,200 per violation, repeatedly. Then compulsory deletion begins. Fines already imposed do not disappear with the company. If after deletion it turns out that the company had assets, a supplementary liquidation is carried out, this time through a court and with a liquidator appointed by it.
+<h3><b>Restoring a deleted company</b></h3>
+A deleted company can be restored if money, assets or rights remain in it, or if it needs to be brought back into operation. The state fee is €200, but the main work is removing the reason for deletion: filing reports, appointing a contact person, settling taxes.
+## content_blocks_12_faq_items_0_question
+How long does company liquidation take in Estonia?
+## content_blocks_12_faq_items_0_answer
+By law, at least about six to seven months from the shareholders' resolution to the deletion application. In practice, 6–12 months, including final tax returns and the sale of assets.
+## content_blocks_12_faq_items_1_question
+Can a company be closed faster?
+## content_blocks_12_faq_items_1_answer
+If the OÜ never started operating and has no obligations, it can be deleted under a simplified procedure. If there is a buyer, selling the company is faster than liquidating it.
+## content_blocks_12_faq_items_2_question
+Is what I receive on liquidation taxed?
+## content_blocks_12_faq_items_2_answer
+Yes, but only the amount exceeding contributed capital: the company pays 22/78. Contributed capital is returned tax-free.
+## content_blocks_12_faq_items_3_question
+Who can be the liquidator?
+## content_blocks_12_faq_items_3_answer
+By default, the management board members. The shareholders or a court may appoint another person. If the board members are abroad or do not want to run the procedure, our specialist can act as liquidator.
+## content_blocks_12_faq_items_4_question
+Do I need to file an annual report during liquidation?
+## content_blocks_12_faq_items_4_answer
+Yes. The liquidation resolution closes the financial year, so you will need a report as at that date, followed by the liquidation reports.
+## content_blocks_12_faq_items_5_question
+What happens if I simply stop paying for the company's services?
+## content_blocks_12_faq_items_5_answer
+The register will fine the company and the board members personally, up to €3,200 per violation and repeatedly, and then start compulsory deletion. The fines are not cancelled.
+## content_blocks_12_faq_items_6_question
+Can a deleted company be restored?
+## content_blocks_12_faq_items_6_answer
+Yes. The state fee is €200, but the reason for deletion must be removed: file the missing reports, appoint a contact person, settle taxes.
+## content_blocks_12_faq_items_7_question
+What if the company's debts exceed its assets?
+## content_blocks_12_faq_items_7_answer
+Liquidation is not suitable in this case: a bankruptcy petition is required. We will assess the situation and bring in specialised lawyers.
+## content_blocks_12_faq_items_8_question
+Is a notary needed to sell a company?
+## content_blocks_12_faq_items_8_answer
+As a rule, yes. The exception is share capital of at least €10,000, fully paid up, and a clause in the articles waiving the notarial form, adopted unanimously.
+## content_blocks_13_final_cta_title
+Send us the registration code and we will choose the closure route and give you a quote
+## content_blocks_13_final_cta_text
+Tell us the registration code and whether the company has money, assets, debts, employees and a VAT registration. Within one business day we will tell you which route fits (liquidation, deletion, sale or restoration), how long it will take and how much it will cost.

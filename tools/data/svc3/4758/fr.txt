@@ -1,0 +1,291 @@
+## _title
+Liquidation de société en Estonie : fermer, vendre ou rétablir une OÜ correctement
+## _slug
+liquidation-de-societe-en-estonie
+## rank_math_title
+Liquidation de société en Estonie (OÜ) clé en main %currentyear%
+## rank_math_description
+Liquidation clé en main d'une OÜ estonienne : étapes, délais légaux, rapport de liquidation, impôt sur les versements et radiation du registre.
+## rank_math_focus_keyword
+liquidation de société en Estonie
+## _step_desc
+Si vous hésitez entre liquider et vendre, décrivez votre situation : nous comparerons gratuitement les deux options.
+## content_blocks_0_content
+On ne peut pas simplement « abandonner » une société estonienne. Tant qu'elle est inscrite au registre, elle doit déposer un rapport annuel, disposer d'une adresse légale et d'une personne de contact et, si elle est immatriculée à la TVA, déposer une KMD chaque mois. Une société qui n'est plus suivie ne disparaît pas : elle reçoit des amendes pouvant atteindre 3 200 €, qui frappent aussi personnellement les membres du conseil, puis une radiation d'office aux conditions du registre, et non aux vôtres.
+
+Il existe toujours une sortie correcte, et même plusieurs. La société peut être liquidée, ce qui prend légalement au moins six à sept mois. Une société inactive sans historique peut parfois être radiée plus simplement. La société peut être vendue à un nouveau propriétaire. Et une société déjà radiée peut être rétablie s'il lui reste de l'argent, des biens ou des contrats.
+<blockquote>Nous choisissons la voie selon l'état réel de la société, remettons en ordre la comptabilité et les impôts, menons la liquidation de la décision des associés jusqu'à la radiation et surveillons chaque délai légal.</blockquote>
+## content_blocks_3_content
+<h3><b>Faits clés</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Sujet</b></td>
+<td><b>Explication pratique</b></td>
+</tr>
+<tr>
+<td>Décision de liquidation</td>
+<td>Associés, au moins 2/3 des voix, sauf si les statuts exigent davantage</td>
+</tr>
+<tr>
+<td>Liquidateurs</td>
+<td>Par défaut, les membres du conseil ; les associés ou un tribunal peuvent en nommer d'autres</td>
+</tr>
+<tr>
+<td>Rapport de liquidation au registre</td>
+<td>Dans les 4 mois suivant la décision de liquidation</td>
+</tr>
+<tr>
+<td>Délai pour les créances</td>
+<td>4 mois à compter de la publication de l'avis dans Ametlikud Teadaanded</td>
+</tr>
+<tr>
+<td>Répartition de l'actif entre les associés</td>
+<td>Pas avant 6 mois après l'inscription de la liquidation et l'avis</td>
+</tr>
+<tr>
+<td>Durée minimale de la liquidation</td>
+<td>Environ 6–7 mois ; 6–12 mois en pratique</td>
+</tr>
+<tr>
+<td>Impôt sur les versements aux associés</td>
+<td>22/78, uniquement sur le montant dépassant le capital apporté</td>
+</tr>
+<tr>
+<td>Si l'actif ne couvre pas les dettes</td>
+<td>Pas de liquidation, mais une demande de faillite</td>
+</tr>
+<tr>
+<td>Documents après la radiation</td>
+<td>Remis pour conservation en Estonie ; comptables pendant au moins 7 ans</td>
+</tr>
+<tr>
+<td>Rétablissement d'une société radiée</td>
+<td>Droit de 200 € plus suppression des motifs de radiation</td>
+</tr>
+<tr>
+<td>« Arrêter simplement de payer »</td>
+<td>Amendes répétées jusqu'à 3 200 € pour la société et le conseil ; puis radiation d'office</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Comment fermer une société : 4 étapes
+## content_blocks_4_step_1
+Envoyez le numéro d'immatriculation. Nous examinons gratuitement la société dans le registre et e-MTA : rapports déposés, avertissements, dettes fiscales, immatriculation à la TVA.
+## content_blocks_4_step_2
+Recevez la voie et le devis. Liquidation, radiation d'une société inactive, vente ou rétablissement, et ce qu'il faut faire avant de commencer : clôturer la comptabilité, déposer les rapports, se désimmatriculer de la TVA.
+## content_blocks_4_step_3
+Payez la facture et signez les documents. La décision des associés, l'accord du liquidateur et les documents pour le registre sont signés par signature numérique.
+## content_blocks_4_step_4
+Nous menons la procédure jusqu'au bout. Rapports, avis aux créanciers, déclarations finales, répartition du solde, demande de radiation et remise des documents pour conservation.
+## content_blocks_6_tariff_title
+Forfaits
+## content_blocks_6_tariff_items_0_name
+Forfait « Radiation d'une société inactive »
+## content_blocks_6_tariff_items_0_package_items
+<li>Vérification que la société n'a ni opérations, ni biens, ni dettes, ni historique fiscal
+<li>Rapports à zéro, s'ils n'ont pas été déposés
+<li>Documents et demande au registre selon la procédure simplifiée
+<li>Fin des accès et obligations : adresse, personne de contact, TVA</li>
+## content_blocks_6_tariff_items_1_name
+Forfait « Liquidation clé en main » (recommandé)
+## content_blocks_6_tariff_items_1_package_items
+<li>Décision de liquidation des associés et nomination du liquidateur
+<li>Rapport à la date de la décision et rapport de liquidation au registre sous 4 mois
+<li>Avis dans Ametlikud Teadaanded et courriers aux créanciers connus
+<li>TSD et KMD finales, désimmatriculation de la TVA, clôture des comptes bancaires
+<li>Calcul de l'impôt 22/78 sur le versement au-delà du capital apporté
+<li>Rapport final de liquidation et plan de répartition de l'actif
+<li>Demande de radiation et remise des documents pour conservation
+<li>Adresse légale et personne de contact jusqu'à la fin de la procédure</li>
+## content_blocks_6_tariff_items_2_name
+Forfait « Sortie complexe »
+## content_blocks_6_tariff_items_2_package_items
+<li>Reconstitution de la comptabilité et dépôt des rapports en retard avant la liquidation
+<li>Traitement de l'avertissement de radiation du registre et des amendes
+<li>Rétablissement d'une société radiée s'il lui reste des actifs
+<li>Vente de la société ou des parts : due diligence, acte notarié, modifications au registre
+<li>Évaluation des signes d'insolvabilité et coordination avec des avocats en cas de faillite</li>
+## content_blocks_7_content
+<h2><b>Quatre façons de sortir d'une société estonienne</b></h2>
+La voie dépend des faits de la société, pas de la préférence du propriétaire.
+<table>
+<tbody>
+<tr>
+<td><b>Voie</b></td>
+<td><b>Délai</b></td>
+<td><b>Issue</b></td>
+<td><b>Quand elle convient</b></td>
+</tr>
+<tr>
+<td>Liquidation volontaire</td>
+<td>6–7 mois selon la loi, 6–12 en pratique</td>
+<td>Société radiée, solde versé aux associés</td>
+<td>La société a eu une activité, de l'argent, des actifs ou un historique fiscal</td>
+</tr>
+<tr>
+<td>Radiation d'une société inactive</td>
+<td>Plus rapide, sans période des créanciers</td>
+<td>Société radiée</td>
+<td>La société n'a jamais commencé son activité et n'a pas d'obligations</td>
+</tr>
+<tr>
+<td>Vente de la société ou des parts</td>
+<td>Quelques semaines après accord sur les conditions</td>
+<td>La société continue avec un nouveau propriétaire</td>
+<td>Il y a un acheteur, ou la marque, les licences ou les contrats ont de la valeur</td>
+</tr>
+<tr>
+<td>Laisser la société « en sommeil »</td>
+<td>Sans limite</td>
+<td>La société existe, les obligations continuent</td>
+<td>La société servira dans un an ou deux</td>
+</tr>
+</tbody>
+</table>
+Il n'y a pas de cinquième option, « ne rien faire », car ce n'est pas une sortie, mais la voie vers les amendes et la radiation d'office.
+## content_blocks_8_title_right
+L'essentiel : ce n'est pas le registre qui fait échouer une liquidation, c'est le fisc
+## content_blocks_8_text_right
+La partie juridique de la liquidation est une suite de délais que l'on peut planifier. Les erreurs surviennent dans la partie comptable, qui se déroule en parallèle pendant tous ces mois.
+<ul>
+<li><b>La comptabilité ne s'arrête pas.</b> La décision de liquidation clôt l'exercice et en ouvre un nouveau. Il faudra donc au moins un jeu de rapports supplémentaire, plus une KMD chaque mois si la société n'est pas désimmatriculée de la TVA.</li>
+<li><b>Impôt sur le versement aux associés.</b> Le versement de liquidation est imposé à 22/78, mais seulement pour la part dépassant le capital apporté. Si les apports en capital ne sont pas documentés, l'impôt peut porter sur plus que nécessaire.</li>
+<li><b>Les points en suspens auprès de l'EMTA ne se règlent plus après la radiation.</b> Une fois la société radiée, le fisc ne peut plus traiter un remboursement, une rectification ou une déclaration tardive sans procédure de rétablissement distincte. Toutes les déclarations sont clôturées avant la demande de radiation.</li>
+<li><b>Comptes bancaires et abonnements.</b> Le solde d'un compte non clôturé fait partie de l'actif de la société. Le découvrir après la radiation est un motif classique de liquidation complémentaire.</li>
+</ul>
+<b>Conclusion pratique :</b> planifiez la liquidation à partir de la fin fiscale : quelles déclarations, quel versement, quel impôt. Nous commençons par là, et le registre suit le calendrier.
+## content_blocks_9_title_left
+Quand la liquidation n'est pas nécessaire et quand elle ne suffit pas
+## content_blocks_9_text_left
+Une analyse honnête fait économiser plus que la procédure elle-même.
+<ul>
+<li><b>La société n'a jamais commencé son activité.</b> Une liquidation complète avec période des créanciers peut être excessive : il existe pour ces OÜ une procédure de radiation dédiée.</li>
+<li><b>La société a de la valeur.</b> S'il y a un acheteur, des contrats, un domaine, un historique ou une licence, la vente est souvent plus rapide et plus avantageuse que la liquidation. En règle générale, la cession d'une part d'OÜ se fait devant notaire.</li>
+<li><b>La société pourrait resservir.</b> Vous pouvez la conserver, mais les obligations ne « s'endorment » pas : le rapport annuel, l'adresse et la personne de contact restent. Sans chiffre d'affaires, il est judicieux de la désimmatriculer de la TVA.</li>
+<li><b>Les dettes dépassent l'actif.</b> Ce n'est pas une liquidation, mais une faillite. Les liquidateurs doivent demander l'ouverture d'une faillite si l'actif ne couvre pas les créances.</li>
+<li><b>Les rapports des années passées n'ont pas été déposés.</b> On ne peut pas liquider une société avec des périodes ouvertes : d'abord la <a href="{L:4578}">reconstitution de la comptabilité</a>, ensuite la liquidation. Nous traitons cela comme un seul projet.</li>
+</ul>
+## content_blocks_10_title_right
+Nos autres services
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:4578}">Reconstitution de la comptabilité</a> : étape obligatoire si des rapports manquent</li>
+<li><a href="{L:1398}">Rapport annuel</a> : y compris les rapports de la période de liquidation</li>
+<li><a href="{L:2696}">Déclarations de TVA (KMD)</a> : déclarations finales et désimmatriculation</li>
+<li><a href="{L:2746}">Paie (payroll)</a> : licenciement des salariés et TSD finale</li>
+<li><a href="{L:4699}">Rapports intermédiaires</a> : rapports à la date de la décision de liquidation</li>
+<li><a href="{L:1269}">Adresse légale</a> et <a href="{L:2254}">personne de contact</a> : jusqu'à la fin de la procédure</li>
+<li><a href="{L:1415}">Sociétés prêtes à l'emploi en Estonie</a> : si vous avez besoin d'une nouvelle structure</li>
+<li><a href="{L:2805}">Services juridiques</a> : décisions des associés, cession de parts</li>
+</ul>
+La fermeture d'une société est la dernière année de sa comptabilité. Quand la liquidation et la comptabilité sont confiées à un seul prestataire, le rapport final, les déclarations fiscales et le plan de répartition concordent, sans liquidation complémentaire un an plus tard.
+## content_blocks_11_content
+<h2>Comment se déroule la liquidation d'une OÜ en Estonie : en pratique</h2>
+<h3>Processus étape par étape et délais légaux</h3>
+<table>
+<tbody>
+<tr>
+<td><b>Étape</b></td>
+<td><b>Délai légal</b></td>
+<td><b>Fondement</b></td>
+</tr>
+<tr>
+<td>Décision de liquidation des associés</td>
+<td>Au moins 2/3 des voix</td>
+<td>ÄS § 202</td>
+</tr>
+<tr>
+<td>Les liquidateurs entrent en fonction</td>
+<td>Immédiatement ; par défaut, les membres du conseil</td>
+<td>ÄS § 206</td>
+</tr>
+<tr>
+<td>Clôture de l'exercice</td>
+<td>Le jour de la décision</td>
+<td>ÄS § 211</td>
+</tr>
+<tr>
+<td>Rapport de liquidation au registre</td>
+<td>Dans les 4 mois suivant la décision</td>
+<td>ÄS § 211</td>
+</tr>
+<tr>
+<td>Avis aux créanciers</td>
+<td>Dès la décision ; 4 mois pour les créances</td>
+<td>ÄS § 212, § 213</td>
+</tr>
+<tr>
+<td>Rapport final et plan de répartition</td>
+<td>Après règlement des créances</td>
+<td>ÄS § 215</td>
+</tr>
+<tr>
+<td>Répartition de l'actif</td>
+<td>6 mois après l'inscription de la liquidation et 2 mois après la notification des associés ; plus tôt pour un associé unique</td>
+<td>ÄS § 216</td>
+</tr>
+<tr>
+<td>Demande de radiation</td>
+<td>6 mois après l'inscription de la liquidation et 3 mois après la notification des associés</td>
+<td>ÄS § 218</td>
+</tr>
+<tr>
+<td>Remise des documents pour conservation</td>
+<td>Lors de la radiation ; les documents restent en Estonie</td>
+<td>ÄS § 219</td>
+</tr>
+</tbody>
+</table>
+Les délais se chevauchent : la voie légale la plus rapide prend donc environ six à sept mois. Un plan réaliste est de 6–12 mois, en tenant compte de la vente des actifs, des déclarations finales et des questions de l'EMTA.
+<h3><b>Fiscalité de la liquidation</b></h3>
+Le versement aux associés lors de la liquidation est soumis à l'impôt sur le revenu de 22/78 au niveau de la société, pour la part dépassant les apports en numéraire et en nature au capital. Le capital apporté est restitué en franchise d'impôt. Le taux réduit de 14/86 n'existe plus depuis 2025. La TSD finale pour les salariés, la désimmatriculation de la TVA et la dernière KMD sont clôturées séparément.
+<h3><b>Radiation d'une société inactive</b></h3>
+Pour une OÜ qui n'a jamais commencé son activité, il existe une voie de radiation distincte et plus simple, sans période de liquidation ni rapports de liquidation. Condition : absence d'activité, de biens et d'obligations. Nous vérifions d'abord que c'est vraiment le cas : un seul abonnement ou frais bancaire constitue déjà une opération.
+<h3><b>Vendre la société plutôt que la liquider</b></h3>
+En règle générale, une part d'OÜ est cédée par contrat notarié. Exception : si le capital est d'au moins 10 000 €, entièrement libéré, et que les statuts, par décision unanime des associés, excluent la forme notariée, la cession se fait via le registre. L'acheteur réalise un audit de la société : la comptabilité et les rapports doivent donc être en ordre avant la vente.
+<h3><b>Que se passe-t-il si l'on ne fait rien</b></h3>
+Le registre peut infliger à la société et à chaque membre du conseil des amendes personnelles allant jusqu'à 3 200 € par infraction, de manière répétée. Puis la radiation d'office commence. Les amendes infligées ne disparaissent pas avec la société. S'il apparaît après la radiation que la société avait des biens, une liquidation complémentaire est menée, cette fois par voie judiciaire avec un liquidateur désigné par le tribunal.
+<h3><b>Rétablissement d'une société radiée</b></h3>
+Une société radiée peut être rétablie s'il lui reste de l'argent, des biens ou des droits, ou si elle doit reprendre son activité. Le droit est de 200 €, mais l'essentiel du travail consiste à supprimer la cause de la radiation : déposer les rapports, nommer une personne de contact, régulariser les impôts.
+## content_blocks_12_faq_items_0_question
+Combien de temps dure la liquidation d'une société en Estonie ?
+## content_blocks_12_faq_items_0_answer
+Selon la loi, au moins six à sept mois environ entre la décision des associés et la demande de radiation. En pratique, 6–12 mois, en tenant compte des déclarations finales et de la vente des actifs.
+## content_blocks_12_faq_items_1_question
+Peut-on fermer une société plus vite ?
+## content_blocks_12_faq_items_1_answer
+Si l'OÜ n'a jamais commencé son activité et n'a pas d'obligations, elle peut être radiée selon une procédure simplifiée. S'il y a un acheteur, vendre la société est plus rapide que la liquider.
+## content_blocks_12_faq_items_2_question
+Ce que je reçois lors de la liquidation est-il imposé ?
+## content_blocks_12_faq_items_2_answer
+Oui, mais seulement le montant dépassant le capital apporté : la société paie 22/78. Le capital apporté est restitué en franchise d'impôt.
+## content_blocks_12_faq_items_3_question
+Qui peut être liquidateur ?
+## content_blocks_12_faq_items_3_answer
+Par défaut, les membres du conseil. Les associés ou un tribunal peuvent nommer une autre personne. Si les membres du conseil sont à l'étranger ou ne souhaitent pas mener la procédure, notre spécialiste peut être liquidateur.
+## content_blocks_12_faq_items_4_question
+Faut-il déposer un rapport annuel pendant la liquidation ?
+## content_blocks_12_faq_items_4_answer
+Oui. La décision de liquidation clôt l'exercice : il faut donc un rapport à cette date, puis les rapports de liquidation.
+## content_blocks_12_faq_items_5_question
+Que se passe-t-il si j'arrête simplement de payer la gestion de la société ?
+## content_blocks_12_faq_items_5_answer
+Le registre infligera des amendes à la société et personnellement aux membres du conseil, jusqu'à 3 200 € par infraction et de manière répétée, puis lancera la radiation d'office. Les amendes ne sont pas annulées.
+## content_blocks_12_faq_items_6_question
+Peut-on rétablir une société radiée ?
+## content_blocks_12_faq_items_6_answer
+Oui. Le droit est de 200 €, mais il faut supprimer la cause de la radiation : déposer les rapports manquants, nommer une personne de contact, régulariser les impôts.
+## content_blocks_12_faq_items_7_question
+Que faire si les dettes de la société dépassent ses actifs ?
+## content_blocks_12_faq_items_7_answer
+La liquidation ne convient pas dans ce cas : il faut une demande de faillite. Nous évaluerons la situation et ferons appel à des avocats spécialisés.
+## content_blocks_12_faq_items_8_question
+Faut-il un notaire pour vendre une société ?
+## content_blocks_12_faq_items_8_answer
+En règle générale, oui. Exception : un capital d'au moins 10 000 €, entièrement libéré, et une clause statutaire renonçant à la forme notariée, adoptée à l'unanimité.
+## content_blocks_13_final_cta_title
+Envoyez le numéro d'immatriculation : nous choisirons la voie de fermeture et établirons un devis
+## content_blocks_13_final_cta_text
+Indiquez le numéro d'immatriculation et si la société a de l'argent, des biens, des dettes, des salariés et une immatriculation à la TVA. Sous un jour ouvrable, nous vous dirons quelle voie convient (liquidation, radiation, vente ou rétablissement), combien de temps elle prendra et combien elle coûtera.

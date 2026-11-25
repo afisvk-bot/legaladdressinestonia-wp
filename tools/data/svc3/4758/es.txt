@@ -1,0 +1,291 @@
+## _title
+Liquidación de empresas en Estonia: cerrar, vender o restablecer una OÜ correctamente
+## _slug
+liquidacion-de-empresas-en-estonia
+## rank_math_title
+Liquidación de empresas en Estonia (OÜ) llave en mano %currentyear%
+## rank_math_description
+Liquidación llave en mano de una OÜ estonia: etapas, plazos legales, informe de liquidación, impuesto sobre los pagos y baja del Registro Mercantil.
+## rank_math_focus_keyword
+liquidación de empresas en Estonia
+## _step_desc
+Si no está seguro de qué le conviene más, liquidar o vender, describa su situación y compararemos ambas opciones gratis.
+## content_blocks_0_content
+Una empresa estonia no se puede simplemente «abandonar». Mientras figure en el registro, debe presentar las cuentas anuales, mantener un domicilio legal y una persona de contacto y, si está registrada a efectos del IVA, presentar la KMD cada mes. Una empresa que deja de recibir servicios no desaparece: recibe multas de hasta 3.200 €, que recaen también personalmente sobre los miembros del consejo, y después la baja forzosa en las condiciones del registro, no en las suyas.
+
+Siempre hay una salida correcta, y más de una. La empresa puede liquidarse, lo que por ley lleva al menos seis o siete meses. Una empresa inactiva sin historial a veces puede darse de baja de forma más sencilla. La empresa puede venderse a un nuevo propietario. Y una empresa ya dada de baja puede restablecerse si en ella quedan dinero, bienes o contratos.
+<blockquote>Elegimos la vía según el estado real de la empresa, ponemos en orden la contabilidad y los impuestos, llevamos la liquidación desde el acuerdo de los socios hasta la baja en el registro y vigilamos cada plazo legal.</blockquote>
+## content_blocks_3_content
+<h3><b>Datos clave</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicación práctica</b></td>
+</tr>
+<tr>
+<td>Acuerdo de liquidación</td>
+<td>Socios, al menos 2/3 de los votos salvo que los estatutos exijan más</td>
+</tr>
+<tr>
+<td>Liquidadores</td>
+<td>Por defecto, los miembros del consejo; los socios o un tribunal pueden nombrar a otros</td>
+</tr>
+<tr>
+<td>Informe de liquidación al registro</td>
+<td>En los 4 meses siguientes al acuerdo de liquidación</td>
+</tr>
+<tr>
+<td>Plazo para los créditos de acreedores</td>
+<td>4 meses desde la publicación del anuncio en Ametlikud Teadaanded</td>
+</tr>
+<tr>
+<td>Reparto del patrimonio entre los socios</td>
+<td>No antes de 6 meses tras la inscripción de la liquidación y el anuncio</td>
+</tr>
+<tr>
+<td>Plazo mínimo de liquidación</td>
+<td>Unos 6–7 meses; en la práctica 6–12 meses</td>
+</tr>
+<tr>
+<td>Impuesto sobre los pagos a socios</td>
+<td>22/78, solo sobre el importe que exceda el capital aportado</td>
+</tr>
+<tr>
+<td>Si los activos no cubren las deudas</td>
+<td>No es liquidación, sino solicitud de quiebra</td>
+</tr>
+<tr>
+<td>Documentos tras la baja</td>
+<td>Se entregan para su custodia en Estonia; los contables, al menos 7 años</td>
+</tr>
+<tr>
+<td>Restablecimiento de una empresa dada de baja</td>
+<td>Tasa estatal de 200 € más la eliminación de las causas de la baja</td>
+</tr>
+<tr>
+<td>«Simplemente dejar de pagar»</td>
+<td>Multas repetidas de hasta 3.200 € a la empresa y al consejo; después, baja forzosa</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Cómo cerrar una empresa: 4 pasos
+## content_blocks_4_step_1
+Envíenos el código de registro. Revisamos gratis la empresa en el registro y en e-MTA: si se han presentado los informes, si hay avisos, deudas tributarias o registro de IVA.
+## content_blocks_4_step_2
+Reciba la vía y el presupuesto. Liquidación, baja de empresa inactiva, venta o restablecimiento, y qué hay que hacer antes de empezar: cerrar la contabilidad, presentar informes, darse de baja del IVA.
+## content_blocks_4_step_3
+Pague la factura y firme los documentos. El acuerdo de los socios, la aceptación del liquidador y los documentos para el registro se firman con firma digital.
+## content_blocks_4_step_4
+Llevamos el procedimiento hasta el final. Informes, aviso a los acreedores, declaraciones finales, reparto del remanente, solicitud de baja y entrega de documentos para su custodia.
+## content_blocks_6_tariff_title
+Paquetes de servicios
+## content_blocks_6_tariff_items_0_name
+Paquete «Baja de empresa inactiva»
+## content_blocks_6_tariff_items_0_package_items
+<li>Comprobación de que la empresa no tiene operaciones, bienes, deudas ni historial fiscal
+<li>Informes a cero, si no se han presentado
+<li>Documentos y solicitud al registro por el procedimiento simplificado
+<li>Cierre de accesos y obligaciones: domicilio, persona de contacto, IVA</li>
+## content_blocks_6_tariff_items_1_name
+Paquete «Liquidación llave en mano» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Acuerdo de liquidación de los socios y nombramiento del liquidador
+<li>Informe a la fecha del acuerdo e informe de liquidación al registro en 4 meses
+<li>Anuncio en Ametlikud Teadaanded y cartas a los acreedores conocidos
+<li>TSD y KMD finales, baja del IVA, cierre de cuentas bancarias
+<li>Cálculo del impuesto 22/78 sobre el pago que exceda el capital aportado
+<li>Informe final de liquidación y plan de reparto del patrimonio
+<li>Solicitud de baja y entrega de documentos para su custodia
+<li>Domicilio legal y persona de contacto hasta el final del procedimiento</li>
+## content_blocks_6_tariff_items_2_name
+Paquete «Salida compleja»
+## content_blocks_6_tariff_items_2_package_items
+<li>Restablecimiento de la contabilidad y presentación de informes atrasados antes de la liquidación
+<li>Gestión del aviso de baja del registro y de las multas
+<li>Restablecimiento de una empresa dada de baja si quedan activos
+<li>Venta de la empresa o de participaciones: due diligence, escritura notarial, cambios en el registro
+<li>Evaluación de indicios de insolvencia y coordinación con abogados en caso de quiebra</li>
+## content_blocks_7_content
+<h2><b>Cuatro formas de salir de una empresa estonia</b></h2>
+La vía la determinan los hechos de la empresa, no la preferencia del propietario.
+<table>
+<tbody>
+<tr>
+<td><b>Vía</b></td>
+<td><b>Plazo</b></td>
+<td><b>Cómo termina</b></td>
+<td><b>Cuándo conviene</b></td>
+</tr>
+<tr>
+<td>Liquidación voluntaria</td>
+<td>6–7 meses por ley, 6–12 en la práctica</td>
+<td>Empresa dada de baja, remanente pagado a los socios</td>
+<td>La empresa ha operado y tiene dinero, activos o historial fiscal</td>
+</tr>
+<tr>
+<td>Baja de empresa inactiva</td>
+<td>Más rápida, sin periodo de acreedores</td>
+<td>Empresa dada de baja</td>
+<td>La empresa nunca empezó a operar y no tiene obligaciones</td>
+</tr>
+<tr>
+<td>Venta de la empresa o de participaciones</td>
+<td>Semanas tras acordar las condiciones</td>
+<td>La empresa sigue con el nuevo propietario</td>
+<td>Hay comprador, o la marca, licencias o contratos tienen valor</td>
+</tr>
+<tr>
+<td>Dejar la empresa «dormida»</td>
+<td>Sin plazo</td>
+<td>La empresa existe y las obligaciones continúan</td>
+<td>La empresa se necesitará en uno o dos años</td>
+</tr>
+</tbody>
+</table>
+No existe una quinta opción, «simplemente no hacer nada», porque no es una salida, sino el camino hacia multas y la baja forzosa.
+## content_blocks_8_title_right
+Clave: lo que hace fracasar una liquidación no es el registro, sino Hacienda
+## content_blocks_8_text_right
+La parte jurídica de la liquidación es una secuencia de plazos que se puede planificar. Los errores surgen en la parte contable, que avanza en paralelo durante todos esos meses.
+<ul>
+<li><b>La contabilidad no se detiene.</b> El acuerdo de liquidación cierra el ejercicio y abre uno nuevo. Por tanto, se necesitará al menos otro juego de informes, más la KMD cada mes si la empresa no se ha dado de baja del IVA.</li>
+<li><b>Impuesto sobre el pago a los socios.</b> El pago en la liquidación tributa al 22/78, pero solo en la parte que excede el capital aportado. Si las aportaciones al capital no están documentadas, puede tributar más de lo necesario.</li>
+<li><b>Los cabos sueltos en la EMTA no se arreglan tras la baja.</b> Una vez dada de baja la empresa, Hacienda ya no puede tramitar una devolución, una corrección o una declaración tardía sin un procedimiento de restablecimiento aparte. Todas las declaraciones se cierran antes de la solicitud de baja.</li>
+<li><b>Cuentas bancarias y suscripciones.</b> El saldo de una cuenta no cerrada es patrimonio de la empresa. Descubrirlo después de la baja es un motivo clásico de una liquidación adicional.</li>
+</ul>
+<b>Conclusión práctica:</b> la liquidación debe planificarse desde el final fiscal: qué declaraciones, qué pago, qué impuesto. Empezamos por ahí, y el registro sigue el calendario.
+## content_blocks_9_title_left
+Cuándo no hace falta liquidar y cuándo no basta
+## content_blocks_9_text_left
+Un análisis honesto ahorra más que el propio procedimiento.
+<ul>
+<li><b>La empresa nunca empezó a operar.</b> Una liquidación completa con periodo de acreedores puede ser excesiva: para estas OÜ existe un procedimiento de baja propio.</li>
+<li><b>La empresa tiene valor.</b> Si hay comprador, contratos, dominio, historial o licencia, la venta suele ser más rápida y rentable que la liquidación. Por regla general, la transmisión de una participación de una OÜ se formaliza ante notario.</li>
+<li><b>La empresa puede volver a necesitarse.</b> Puede conservarla, pero las obligaciones no «duermen»: siguen las cuentas anuales, el domicilio y la persona de contacto. Si no hay facturación, conviene dar de baja la empresa del IVA.</li>
+<li><b>Las deudas superan los activos.</b> No es liquidación, sino quiebra. Los liquidadores están obligados a solicitar la quiebra si el patrimonio no basta para los créditos de los acreedores.</li>
+<li><b>No se han presentado los informes de años anteriores.</b> No se puede liquidar una empresa con periodos abiertos: primero el <a href="{L:4578}">restablecimiento de la contabilidad</a>, después la liquidación. Lo hacemos como un único proyecto.</li>
+</ul>
+## content_blocks_10_title_right
+Otros servicios que prestamos
+## content_blocks_10_text_right
+<ul>
+<li><a href="{L:4578}">Restablecimiento de la contabilidad</a>: paso obligatorio si faltan informes</li>
+<li><a href="{L:1398}">Cuentas anuales</a>: incluidos los informes del periodo de liquidación</li>
+<li><a href="{L:2696}">Declaraciones de IVA (KMD)</a>: declaraciones finales y baja</li>
+<li><a href="{L:2746}">Nóminas (payroll)</a>: despido de empleados y TSD final</li>
+<li><a href="{L:4699}">Informes intermedios</a>: informes a la fecha del acuerdo de liquidación</li>
+<li><a href="{L:1269}">Domicilio legal</a> y <a href="{L:2254}">persona de contacto</a>: hasta el final del procedimiento</li>
+<li><a href="{L:1415}">Empresas preconstituidas en Estonia</a>: si necesita una nueva estructura</li>
+<li><a href="{L:2805}">Servicios jurídicos</a>: acuerdos de socios, venta de participaciones</li>
+</ul>
+Cerrar una empresa es el último año de su contabilidad. Cuando la liquidación y la contabilidad las lleva un mismo proveedor, el informe final, las declaraciones y el plan de reparto cuadran sin una segunda liquidación un año después.
+## content_blocks_11_content
+<h2>Cómo se liquida una OÜ en Estonia: práctica</h2>
+<h3>Proceso paso a paso y plazos legales</h3>
+<table>
+<tbody>
+<tr>
+<td><b>Paso</b></td>
+<td><b>Plazo legal</b></td>
+<td><b>Base</b></td>
+</tr>
+<tr>
+<td>Acuerdo de liquidación de los socios</td>
+<td>Al menos 2/3 de los votos</td>
+<td>ÄS § 202</td>
+</tr>
+<tr>
+<td>Los liquidadores empiezan a trabajar</td>
+<td>De inmediato; por defecto, los miembros del consejo</td>
+<td>ÄS § 206</td>
+</tr>
+<tr>
+<td>Cierre del ejercicio</td>
+<td>El día del acuerdo</td>
+<td>ÄS § 211</td>
+</tr>
+<tr>
+<td>Informe de liquidación al registro</td>
+<td>En los 4 meses siguientes al acuerdo</td>
+<td>ÄS § 211</td>
+</tr>
+<tr>
+<td>Aviso a los acreedores</td>
+<td>Inmediatamente tras el acuerdo; 4 meses para los créditos</td>
+<td>ÄS § 212, § 213</td>
+</tr>
+<tr>
+<td>Informe final y plan de reparto</td>
+<td>Tras satisfacer los créditos</td>
+<td>ÄS § 215</td>
+</tr>
+<tr>
+<td>Reparto del patrimonio</td>
+<td>6 meses tras la inscripción de la liquidación y 2 meses tras notificar a los socios; antes si hay socio único</td>
+<td>ÄS § 216</td>
+</tr>
+<tr>
+<td>Solicitud de baja</td>
+<td>6 meses tras la inscripción de la liquidación y 3 meses tras notificar a los socios</td>
+<td>ÄS § 218</td>
+</tr>
+<tr>
+<td>Entrega de documentos para su custodia</td>
+<td>Con la baja; los documentos quedan en Estonia</td>
+<td>ÄS § 219</td>
+</tr>
+</tbody>
+</table>
+Los plazos se solapan, por lo que la vía legal más rápida dura unos seis o siete meses. Un plan realista es de 6–12 meses, contando la venta de activos, las declaraciones finales y las preguntas de la EMTA.
+<h3><b>Impuestos en la liquidación</b></h3>
+El pago a los socios en la liquidación tributa por el impuesto sobre la renta al 22/78 a nivel de empresa, en la parte que excede las aportaciones dinerarias y no dinerarias al capital. El capital aportado se devuelve sin impuesto. El tipo reducido 14/86 ya no existe desde 2025. Por separado se cierran la TSD final por pagos a empleados, la baja del IVA y la última KMD.
+<h3><b>Baja de una empresa inactiva</b></h3>
+Para una OÜ que nunca empezó a operar existe una vía propia y más sencilla de baja en el registro, sin periodo de liquidación ni informes de liquidación. La condición es no tener actividad, bienes ni obligaciones. Primero comprobamos que realmente es así: una sola suscripción o comisión bancaria ya es una operación.
+<h3><b>Vender la empresa en lugar de liquidarla</b></h3>
+Por regla general, una participación en una OÜ se transmite mediante contrato notarial. Excepción: si el capital es de al menos 10.000 €, está totalmente desembolsado y los estatutos, por acuerdo unánime de los socios, excluyen la forma notarial, la transmisión se realiza a través del registro. El comprador revisa la empresa, por lo que antes de la venta la contabilidad y los informes deben estar en orden.
+<h3><b>Qué pasa si no hace nada</b></h3>
+El registro puede multar a la empresa y a cada miembro del consejo personalmente, hasta 3.200 € por infracción, de forma repetida. Después empieza la baja forzosa. Las multas impuestas no desaparecen con la empresa. Si tras la baja resulta que la empresa tenía bienes, se realiza una liquidación adicional, esta vez por vía judicial y con un liquidador nombrado por el tribunal.
+<h3><b>Restablecimiento de una empresa dada de baja</b></h3>
+Una empresa dada de baja puede restablecerse si en ella quedan dinero, bienes o derechos, o si hay que volver a ponerla en funcionamiento. La tasa estatal es de 200 €, pero el trabajo principal es eliminar la causa de la baja: presentar informes, nombrar una persona de contacto, regularizar los impuestos.
+## content_blocks_12_faq_items_0_question
+¿Cuánto tarda la liquidación de una empresa en Estonia?
+## content_blocks_12_faq_items_0_answer
+Por ley, al menos unos seis o siete meses desde el acuerdo de los socios hasta la solicitud de baja. En la práctica, 6–12 meses, contando las declaraciones finales y la venta de activos.
+## content_blocks_12_faq_items_1_question
+¿Se puede cerrar una empresa más rápido?
+## content_blocks_12_faq_items_1_answer
+Si la OÜ nunca empezó a operar y no tiene obligaciones, puede darse de baja por un procedimiento simplificado. Si hay comprador, es más rápido vender la empresa que liquidarla.
+## content_blocks_12_faq_items_2_question
+¿Tributa lo que recibo en la liquidación?
+## content_blocks_12_faq_items_2_answer
+Sí, pero solo el importe que excede el capital aportado: la empresa paga 22/78. El capital aportado se devuelve sin impuesto.
+## content_blocks_12_faq_items_3_question
+¿Quién puede ser liquidador?
+## content_blocks_12_faq_items_3_answer
+Por defecto, los miembros del consejo. Los socios o un tribunal pueden nombrar a otra persona. Si los miembros del consejo están en el extranjero o no quieren llevar el procedimiento, nuestro especialista puede actuar como liquidador.
+## content_blocks_12_faq_items_4_question
+¿Hay que presentar cuentas anuales durante la liquidación?
+## content_blocks_12_faq_items_4_answer
+Sí. El acuerdo de liquidación cierra el ejercicio, por lo que se necesitará un informe a esa fecha y después los informes de liquidación.
+## content_blocks_12_faq_items_5_question
+¿Qué pasa si simplemente dejo de pagar el mantenimiento de la empresa?
+## content_blocks_12_faq_items_5_answer
+El registro multará a la empresa y a los miembros del consejo personalmente, hasta 3.200 € por infracción y de forma repetida, y después iniciará la baja forzosa. Las multas no se anulan.
+## content_blocks_12_faq_items_6_question
+¿Se puede restablecer una empresa dada de baja?
+## content_blocks_12_faq_items_6_answer
+Sí. La tasa estatal es de 200 €, pero hay que eliminar la causa de la baja: presentar los informes pendientes, nombrar una persona de contacto, regularizar los impuestos.
+## content_blocks_12_faq_items_7_question
+¿Qué hacer si las deudas de la empresa superan su patrimonio?
+## content_blocks_12_faq_items_7_answer
+En ese caso la liquidación no procede: hace falta una solicitud de quiebra. Evaluaremos la situación y contaremos con abogados especializados.
+## content_blocks_12_faq_items_8_question
+¿Hace falta notario para vender una empresa?
+## content_blocks_12_faq_items_8_answer
+Por regla general, sí. La excepción es un capital de al menos 10.000 €, totalmente desembolsado, y una cláusula estatutaria que renuncia a la forma notarial, adoptada por unanimidad.
+## content_blocks_13_final_cta_title
+Envíenos el código de registro: elegiremos la vía de cierre y le daremos un presupuesto
+## content_blocks_13_final_cta_text
+Indique el código de registro y si la empresa tiene dinero, bienes, deudas, empleados y registro de IVA. En un día hábil le diremos qué vía conviene (liquidación, baja, venta o restablecimiento), cuánto tardará y cuánto costará.

@@ -1,0 +1,72 @@
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+Success: Успешная очистка всех кэшей.
+== 4758: RU #4758 https://staging.dragonslots-gr.gr/likvidatsiya-kompanii-v-estonii-zakryt-prodat-ili-vosstanovit-o-pravilno/
+  en: updated #4792 https://staging.dragonslots-gr.gr/company-liquidation-in-estonia/
+  uk: created #4793 https://staging.dragonslots-gr.gr/likvidatsiya-kompaniyi-v-estoniyi/
+  de: created #4794 https://staging.dragonslots-gr.gr/liquidation-einer-firma-in-estland/
+  es: created #4795 https://staging.dragonslots-gr.gr/liquidacion-de-empresas-en-estonia/
+  fr: created #4796 https://staging.dragonslots-gr.gr/liquidation-de-societe-en-estonie/
+  pt: created #4797 https://staging.dragonslots-gr.gr/liquidacao-de-empresas-na-estonia/
+  tr: created #4798 https://staging.dragonslots-gr.gr/estonyada-sirket-tasfiyesi/
+  zh: created #4799 https://staging.dragonslots-gr.gr/company-liquidation-estonia/
+== 4749: RU #4749 https://staging.dragonslots-gr.gr/registratsiya-tovarnogo-znaka-i-patenta-v-estonii-i-es-zashhita-brenda-ot-razrabotki-strategii-do-polucheniya-svidetelstva/
+  en: updated #4747 https://staging.dragonslots-gr.gr/trademark-registration-in-estonia/
+  uk: created #4800 https://staging.dragonslots-gr.gr/reyestratsiya-torhovelnoyi-marky-v-estoniyi/
+  de: created #4801 https://staging.dragonslots-gr.gr/markenanmeldung-in-estland/
+  es: created #4802 https://staging.dragonslots-gr.gr/registro-de-marcas-en-estonia/
+  fr: created #4803 https://staging.dragonslots-gr.gr/depot-de-marque-en-estonie/
+  pt: created #4804 https://staging.dragonslots-gr.gr/registo-de-marcas-na-estonia/
+  tr: created #4805 https://staging.dragonslots-gr.gr/estonyada-marka-tescili/
+  zh: created #4806 https://staging.dragonslots-gr.gr/trademark-registration-estonia/
+RU #4757 rank_math_title: fixed
+RU #4757 content_blocks_6_tariff_items_2_package_items: fixed
+== 4757: RU #4757 https://staging.dragonslots-gr.gr/target/estonskaya-kompaniya-dlya-ukrainskih-predprinimatelej/
+  en: created #4807 https://staging.dragonslots-gr.gr/target/estonian-company-for-ukrainian-entrepreneurs/
+  uk: created #4808 https://staging.dragonslots-gr.gr/target/estonska-kompaniya-dlya-ukrayintsiv/
+  de: created #4809 https://staging.dragonslots-gr.gr/target/estnische-firma-fuer-ukrainische-unternehmer/
+  es: created #4810 https://staging.dragonslots-gr.gr/target/empresa-estonia-para-emprendedores-ucranianos/
+  fr: created #4811 https://staging.dragonslots-gr.gr/target/societe-estonienne-pour-entrepreneurs-ukrainiens/
+  pt: created #4812 https://staging.dragonslots-gr.gr/target/empresa-estonia-para-empreendedores-ucranianos/
+  tr: created #4813 https://staging.dragonslots-gr.gr/target/ukraynali-girisimciler-icin-estonya-sirketi/
+  zh: created #4814 https://staging.dragonslots-gr.gr/target/estonian-company-for-ukrainians-zh/
+menu: added «Company Liquidation» #4815
+menu: added «Trademark Registration» #4816
+menu: added «Ukrainian Entrepreneurs» #4817
+menu: reordered (47 items)
+menu sync zh/primary-menu: +3 ~34 -0
+menu sync de/primary-menu: +3 ~34 -0
+menu sync es/primary-menu: +3 ~34 -0
+menu sync fr/primary-menu: +3 ~34 -0
+menu sync ru/primary-menu: +0 ~37 -0
+menu sync pt/primary-menu: +3 ~34 -0
+menu sync tr/primary-menu: +3 ~34 -0
+menu sync uk/primary-menu: +3 ~34 -0
+menu sync zh/mobile_menu: +3 ~34 -0
+menu sync de/mobile_menu: +0 ~0 -0
+menu sync es/mobile_menu: +0 ~0 -0
+menu sync fr/mobile_menu: +0 ~0 -0
+menu sync ru/mobile_menu: +0 ~0 -0
+menu sync pt/mobile_menu: +0 ~0 -0
+menu sync tr/mobile_menu: +0 ~0 -0
+menu sync uk/mobile_menu: +0 ~0 -0

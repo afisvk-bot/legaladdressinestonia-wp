@@ -1,10 +1,7 @@
 <?php
-foreach ( array( 1269, 2254, 2156, 2190, 2342, 2343, 2344, 2345, 2346, 4578, 844 ) as $id ) {
-	$p = get_post( $id );
-	echo $p ? "#$id {$p->post_type} " . pll_get_post_language( $id ) . " " . get_permalink( $id ) . "\n" : "#$id missing\n";
+foreach ( array( 844, 1037, 1269, 1401, 2156, 2183, 2189, 2190, 2254, 2342, 2343, 2344, 2345, 2346, 2776, 4490, 4529, 4578, 4699, 4724, 4757, 4758 ) as $id ) {
+	$g = pll_get_post_translations( $id );
+	$miss = array_diff( pll_languages_list( array( 'fields' => 'slug' ) ), array_keys( array_filter( $g, function ( $p ) { return 'publish' === get_post_status( $p ); } ) ) );
+	echo "#$id ", get_post_type( $id ), " missing: ", implode( ',', $miss ), "\n";
 }
-foreach ( array( 'nalogi-dlya-kompaniy-v-estonii', 'ezhemesyachnyj-buhgalterskij-uchet-v-estonii', 'gotovye-kompanii-v-estonii', 'kontaktnoe-litso-v-estonii', 'estonskaya-holdingovaya-kompaniya', 'finansovaya-litsenziya-v-estonii', 'vnzh-dlya-osnovatelya-kompanii-v-estonii', 'yuridicheskij-adres-v-estonii' ) as $s ) {
-	$q = get_posts( array( 'name' => $s, 'post_type' => 'any', 'post_status' => 'any', 'lang' => '', 'numberposts' => 3 ) );
-	foreach ( $q as $p ) echo "$s => #{$p->ID} {$p->post_type} ", pll_get_post_language( $p->ID ), " ", get_permalink( $p ), "\n";
-	if ( ! $q ) echo "$s => none\n";
-}
+foreach ( get_posts( array( 'post_type' => 'post', 'lang' => 'de', 'numberposts' => 60, 's' => 'Steuer' ) ) as $p ) echo "de post #{$p->ID} {$p->post_name}\n";

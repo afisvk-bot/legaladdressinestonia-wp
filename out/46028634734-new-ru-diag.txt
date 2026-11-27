@@ -1,0 +1,648 @@
+mig 20261127: applied 2026-11-25 17:15:04
+
+#4842 service publish lang=ru date=2026-11-27 08:50:21 mod=2026-11-27 08:50:21 parent=0
+  «VAT-декларации в Эстонии»
+  https://staging.dragonslots-gr.gr/vat-deklaratsii-v-estonii/
+  group={"ru":4842} tpl=single-service.php fields=87 chars=19763 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(53): Подача VAT-декларации (KMD и KMD INF) в Эстонии  %currentyear%
+  RM desc(146): Сопровождение подачи VAT-декларации (KMD и KMD INF) в Эстонии: расчёт НСО 24%, зачёт входного налога, отчётность VD и сдача в EMTA до 20-го числа.
+  RM kw: Подача VAT-декларации (KMD и KMD INF) в Эстонии
+  thumb=4850 VAT-return.jpg 504KB alt=«VAT return»
+  menu RU #4858 «VAT-декларации» parent=«Бухучет и налоги» order=29
+  link OK ru #2346 https://staging.dragonslots-gr.gr/oss-i-ioss-v-estonii/
+  link OK ru #2343 https://staging.dragonslots-gr.gr/buhgalterskoe-obsluzhivanie-v-estonii/
+  link OK ru #2344 https://staging.dragonslots-gr.gr/ezhemesyachnyj-buhgalterskij-uchet-v-estonii/
+  link OK ru #2156 https://staging.dragonslots-gr.gr/registratsiya-vat-nomera-v-estonii/
+  link OK ru #2345 https://staging.dragonslots-gr.gr/nalogovyj-konsalting-v-estonii/
+  link OK ru #2190 https://staging.dragonslots-gr.gr/industry/e-commerce-i-dropshipping/
+  markup: style= ×114
+  markup: <span ×91
+
+#4845 service publish lang=ru date=2026-11-27 08:47:57 mod=2026-11-27 08:47:57 parent=0
+  «Продажа и передача долей эстонской OÜ»
+  https://staging.dragonslots-gr.gr/prodazha-i-peredacha-dolej-estonskoj-ou/
+  group={"ru":4845} tpl=single-service.php fields=87 chars=19437 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(54): Продажа и передача долей компании (OÜ) в Эстонии  %currentyear%
+  RM desc(151): Сопровождение продажи и передачи долей OÜ в Эстонии: подготовка договора, нотариальная сделка (включая e-Notary) и регистрация в Коммерческом регистре.
+  RM kw: Продажа и передача долей компании (OÜ)
+  thumb=4851 Sale-and-transfer-of-shares-in-an-Estonian-OU-.jpg 537KB alt=«Sale and transfer of shares in an Estonian OÜ»
+  menu RU #4860 «Продажа и передача долей» parent=«Изменения в компании» order=13
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-capital-increase/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/board-member-change/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/industry/startups/
+  link OK ru #1401 https://staging.dragonslots-gr.gr/gotovye-kompanii-v-estonii/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-capital-decrease/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/articles-amendment/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/ubo-update/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/liquidation/
+  link OK ru #1037 https://staging.dragonslots-gr.gr/blog-ru/nalogi-dlya-kompaniy-v-estonii/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/target/ukrainian-entrepreneurs/
+  markup: style= ×123
+  markup: <span ×99
+
+#4843 service publish lang=ru date=2026-11-27 08:38:02 mod=2026-11-27 08:43:38 parent=0
+  «Расчёт зарплаты в Эстонии»
+  https://staging.dragonslots-gr.gr/raschyot-zarplaty-v-estonii/
+  group={"ru":4843} tpl=single-service.php fields=87 chars=20883 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(68): Расчёт зарплаты и зарплатных налогов в Эстонии (TSD) для компаний OÜ
+  RM desc(205): Бухгалтерский расчёт заработной платы в Эстонии под ключ: начисление брутто и нетто, удержание налогов, выплаты члену правления и ежемесячная подача декларации TSD в Налогово-таможенный департамент (EMTA).
+  RM kw: Расчёт зарплаты и зарплатных налогов в Эстонии
+  thumb=4852 Salary-calculation.jpg 531KB alt=«Salary calculation in Estonia»
+  menu RU #4859 «Расчёт зарплаты» parent=«Бухучет и налоги» order=30
+  link OK ru #2343 https://staging.dragonslots-gr.gr/buhgalterskoe-obsluzhivanie-v-estonii/
+  link OK ru #2344 https://staging.dragonslots-gr.gr/ezhemesyachnyj-buhgalterskij-uchet-v-estonii/
+  link OK ru #2342 https://staging.dragonslots-gr.gr/rabochaya-viza-i-vnzh-v-estonii/
+  link OK ru #2345 https://staging.dragonslots-gr.gr/nalogovyj-konsalting-v-estonii/
+  link OK ru #844 https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/
+  markup: style= ×127
+  markup: <span ×103
+
+#4844 service publish lang=ru date=2026-11-27 08:34:27 mod=2026-11-27 08:35:19 parent=0
+  «Смена члена правления эстонской компании»
+  https://staging.dragonslots-gr.gr/smena-chlena-pravleniya-estonskoj-kompanii/
+  group={"ru":4844} tpl=single-service.php fields=87 chars=18384 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(51): Смена члена правления компании (OÜ) в Эстонии  %currentyear%
+  RM desc(161): Сопровождение смены члена правления OÜ в Эстонии: подготовка решения участников, подача заявления через e-Residency или доверенность и регистрация в Äriregister.
+  RM kw: Смена члена правления компании (OÜ)
+  thumb=4853 Change-of-a-board-member.jpg 484KB alt=«Change of a management board member of an Estonian company»
+  menu RU #4861 «Смена члена правления» parent=«Изменения в компании» order=14
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-transfer/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/articles-amendment/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/ubo-update/
+  link OK ru #2154 https://staging.dragonslots-gr.gr/kontaktnoe-litso-v-estonii/
+  link OK ru #1271 https://staging.dragonslots-gr.gr/yuridicheskij-adres-v-estonii/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/accounting/payroll/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/accounting/switch-accountant/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/accounting/clean-up/
+  link OK ru #1037 https://staging.dragonslots-gr.gr/blog-ru/nalogi-dlya-kompaniy-v-estonii/
+  markup: style= ×102
+  markup: <span ×80
+
+#4846 service publish lang=ru date=2026-11-27 08:32:39 mod=2026-11-27 08:32:39 parent=0
+  «Увеличение капитала эстонской OÜ»
+  https://staging.dragonslots-gr.gr/uvelichenie-kapitala-estonskoj-ou/
+  group={"ru":4846} tpl=single-service.php fields=87 chars=18038 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(59): Увеличение уставного капитала компании (OÜ) в Эстонии  %currentyear%
+  RM desc(153): Сопровождение увеличения уставного капитала OÜ в Эстонии: подготовка документов, оформление денежного или неденежного взноса и регистрация в Äriregister.
+  RM kw: Увеличение уставного капитала компании (OÜ)
+  thumb=4855 Capital-increase-for-an-Estonian-OU-.jpg 547KB alt=«Capital increase for an Estonian OÜ»
+  menu RU #4862 «Увеличение капитала» parent=«Изменения в компании» order=15
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-transfer/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/accounting/interim-reports/
+  link OK ru #2183 https://staging.dragonslots-gr.gr/licensing/finansovaya-litsenziya-v-estonii/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-capital-decrease/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/articles-amendment/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/ubo-update/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/industry/startups/
+  link OK ru #2189 https://staging.dragonslots-gr.gr/licensing/estonskaya-holdingovaya-kompaniya/
+  link OK ru #2344 https://staging.dragonslots-gr.gr/ezhemesyachnyj-buhgalterskij-uchet-v-estonii/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/vnzh-dlya-osnovatelya-kompanii-v-estonii/
+  link OK ru #844 https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/
+  markup: style= ×107
+  markup: <span ×83
+
+#4847 service publish lang=ru date=2026-11-27 08:23:40 mod=2026-11-27 08:23:40 parent=0
+  «Уменьшение капитала эстонской компании»
+  https://staging.dragonslots-gr.gr/umenshenie-kapitala-estonskoj-kompanii/
+  group={"ru":4847} tpl=single-service.php fields=88 chars=16687 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","img_text","text_img","img_text","text_block","text_block","service_faq","final_cta"]
+  RM title(59): Уменьшение уставного капитала компании (OÜ) в Эстонии  %currentyear%
+  RM desc(150): Сопровождение уменьшения уставного капитала OÜ в Эстонии: подготовка документов, уведомление кредиторов, регистрация в Äriregister и налоговые нюансы.
+  RM kw: Уменьшение уставного капитала компании (OÜ)
+  thumb=4856 Reduction-of-an-Estonian-company-s-capital.jpg 542KB alt=«Reduction of an Estonian company's capital»
+  menu RU #4863 «Уменьшение капитала» parent=«Изменения в компании» order=16
+  link OK ru #844 https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/liquidation/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-transfer/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/share-capital-increase/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/articles-amendment/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/services/corporate-changes/ubo-update/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/accounting/interim-reports/
+  link UNRESOLVED https://staging.dragonslots-gr.gr/accounting/clean-up/
+  markup: style= ×103
+  markup: <span ×80
+
+#4814 target publish lang=zh date=2026-11-25 17:14:59 mod=2026-11-25 17:14:59 parent=0
+  «面向乌克兰企业家的爱沙尼亚公司（OÜ）»
+  https://staging.dragonslots-gr.gr/target/estonian-company-for-ukrainians-zh/
+  group={"zh":4814,"ru":4757,"en":4807,"uk":4808,"de":4809,"es":4810,"fr":4811,"pt":4812,"tr":4813} tpl=single-service.php fields=86 chars=7343 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(24): 乌克兰人的爱沙尼亚公司%currentyear%：电子居民与CFC
+  RM desc(60): 乌克兰人通过电子居民身份在爱沙尼亚开设OÜ：注册流程、留存利润0%税率、受控外国公司规则及2026年在乌克兰的纳税义务。
+  RM kw: 乌克兰人的爱沙尼亚公司
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK zh #2635 https://staging.dragonslots-gr.gr/register-company-estonia-e-residency/
+  link OK zh #2475 https://staging.dragonslots-gr.gr/legal-address-estonia/
+  link OK zh #2586 https://staging.dragonslots-gr.gr/contact-person-estonia/
+  link OK zh #4493 https://staging.dragonslots-gr.gr/accounting-e-residents-estonia/
+  link OK zh #2698 https://staging.dragonslots-gr.gr/monthly-accounting-estonia/
+  link OK zh #2749 https://staging.dragonslots-gr.gr/accounting-services-estonia/
+  link OK zh #2557 https://staging.dragonslots-gr.gr/annual-report/
+  link OK zh #2353 https://staging.dragonslots-gr.gr/target/e-residents/
+  link OK zh #2365 https://staging.dragonslots-gr.gr/target/an-estonian-company-for-founders-from-outside-the-eu/
+  link OK zh #906 https://staging.dragonslots-gr.gr/blog-cn/estonia-corporate-tax-2026-zh/
+  link OK zh #2623 https://staging.dragonslots-gr.gr/company-registration-estonia/
+
+#4813 target publish lang=tr date=2026-11-25 17:14:58 mod=2026-11-25 17:14:58 parent=0
+  «Ukraynalı girişimciler için Estonya şirketi (OÜ)»
+  https://staging.dragonslots-gr.gr/target/ukraynali-girisimciler-icin-estonya-sirketi/
+  group={"tr":4813,"ru":4757,"en":4807,"uk":4808,"de":4809,"es":4810,"fr":4811,"pt":4812,"zh":4814} tpl=single-service.php fields=86 chars=15489 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(58): Ukraynalılar için Estonya şirketi %currentyear%: e-Residency ve CFC
+  RM desc(153): Ukraynalılar için e-Residency ile Estonya'da OÜ kurmak: kuruluş, dağıtılmayan kârda %0 vergi, CFC kuralları ve 2026'da Ukrayna'daki vergi yükümlülükleri.
+  RM kw: Ukraynalılar için Estonya şirketi
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK tr #2645 https://staging.dragonslots-gr.gr/e-residency-aracgliyla-estonyada-sirket-kurmak/
+  link OK tr #2485 https://staging.dragonslots-gr.gr/estonya-daki-yasal-adres/
+  link OK tr #2596 https://staging.dragonslots-gr.gr/estonya-daki-irtibat-kisisi/
+  link OK tr #4505 https://staging.dragonslots-gr.gr/estonya-daki-e-yerle-iklerin-muhasebesi/
+  link OK tr #2714 https://staging.dragonslots-gr.gr/estonyada-ayl-k-muhasebe/
+  link OK tr #2759 https://staging.dragonslots-gr.gr/estonya-da-muhasebe-hizmetleri/
+  link OK tr #2572 https://staging.dragonslots-gr.gr/estonya-irketleri-icin-yillk-rapor/
+  link OK tr #2363 https://staging.dragonslots-gr.gr/target/e-vatandalarna/
+  link OK tr #2380 https://staging.dragonslots-gr.gr/target/ab-d-ndan-gelen-giri-imciler-i-in-bir-estonya-irketi/
+  link OK tr #902 https://staging.dragonslots-gr.gr/blog-tr/estonya-kurumlar-vergisi-2026/
+  link OK tr #2633 https://staging.dragonslots-gr.gr/estonyada-irket-tescili/
+
+#4812 target publish lang=pt date=2026-11-25 17:14:57 mod=2026-11-25 17:14:57 parent=0
+  «Empresa estónia (OÜ) para empreendedores ucranianos»
+  https://staging.dragonslots-gr.gr/target/empresa-estonia-para-empreendedores-ucranianos/
+  group={"pt":4812,"ru":4757,"en":4807,"uk":4808,"de":4809,"es":4810,"fr":4811,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=16836 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(55): Empresa estónia para ucranianos %currentyear%: e-Residency e CFC
+  RM desc(153): Abrir uma OÜ na Estónia para ucranianos via e-Residency: registo, 0% de imposto sobre lucros retidos, regras CFC e obrigações fiscais na Ucrânia em 2026.
+  RM kw: empresa estónia para ucranianos
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK pt #2643 https://staging.dragonslots-gr.gr/registar-uma-empresa-na-estonia-atraves-do-programa-e-residency/
+  link OK pt #2483 https://staging.dragonslots-gr.gr/domicilio-social-na-estonia/
+  link OK pt #2594 https://staging.dragonslots-gr.gr/pessoa-de-contacto-na-estonia/
+  link OK pt #4516 https://staging.dragonslots-gr.gr/contabilidade-para-residentes-eletronicos-estonia/
+  link OK pt #2712 https://staging.dragonslots-gr.gr/contabilidade-mensal-na-estonia/
+  link OK pt #2757 https://staging.dragonslots-gr.gr/servi-os-de-contabilidade-na-estonia/
+  link OK pt #2570 https://staging.dragonslots-gr.gr/relat-rio-anual-das-empresas-est-nias/
+  link OK pt #2360 https://staging.dragonslots-gr.gr/target/para-os-residentes/
+  link OK pt #2378 https://staging.dragonslots-gr.gr/target/uma-empresa-est-nia-destinada-a-fundadores-de-fora-da-ue/
+  link OK pt #898 https://staging.dragonslots-gr.gr/blogue-pt/imposto-sociedades-estonia-2026/
+  link OK pt #2631 https://staging.dragonslots-gr.gr/registo-de-empresas-na-estonia/
+
+#4810 target publish lang=es date=2026-11-25 17:14:56 mod=2026-11-25 17:14:56 parent=0
+  «Empresa estonia (OÜ) para emprendedores ucranianos»
+  https://staging.dragonslots-gr.gr/target/empresa-estonia-para-emprendedores-ucranianos/
+  group={"es":4810,"ru":4757,"en":4807,"uk":4808,"de":4809,"fr":4811,"pt":4812,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=17240 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(55): Empresa estonia para ucranianos %currentyear%: e-Residency y CFC
+  RM desc(153): Abrir una OÜ en Estonia para ucranianos con e-Residency: registro, 0 % sobre beneficios retenidos, normas CFC y obligaciones fiscales en Ucrania en 2026.
+  RM kw: empresa estonia para ucranianos
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK es #2639 https://staging.dragonslots-gr.gr/constituir-una-empresa-en-estonia-a-traves-de-e-residency/
+  link OK es #2479 https://staging.dragonslots-gr.gr/domicilio-social-en-estonia/
+  link OK es #2590 https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/
+  link OK es #4499 https://staging.dragonslots-gr.gr/contabilidad-de-los-residentes-electronicos-de-estonia/
+  link OK es #2707 https://staging.dragonslots-gr.gr/contabilidad-mensual-en-estonia/
+  link OK es #2753 https://staging.dragonslots-gr.gr/servicios-de-contabilidad-en-estonia/
+  link OK es #2566 https://staging.dragonslots-gr.gr/informe-anual-de-las-empresas-estonias/
+  link OK es #2355 https://staging.dragonslots-gr.gr/target/para-los-residentes/
+  link OK es #2369 https://staging.dragonslots-gr.gr/target/una-empresa-estonia-para-fundadores-de-fuera-de-la-ue/
+  link OK es #881 https://staging.dragonslots-gr.gr/blog-es/impuesto-sociedades-estonia-2026/
+  link OK es #2627 https://staging.dragonslots-gr.gr/registro-de-empresas-en-estonia/
+
+#4811 target publish lang=fr date=2026-11-25 17:14:56 mod=2026-11-25 17:14:56 parent=0
+  «Société estonienne (OÜ) pour entrepreneurs ukrainiens»
+  https://staging.dragonslots-gr.gr/target/societe-estonienne-pour-entrepreneurs-ukrainiens/
+  group={"fr":4811,"ru":4757,"en":4807,"uk":4808,"de":4809,"es":4810,"pt":4812,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=17862 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(58): Société estonienne pour Ukrainiens %currentyear% : e-Residency, SEC
+  RM desc(152): OÜ en Estonie pour les Ukrainiens via l'e-Residency : immatriculation, 0 % d'impôt sur les bénéfices conservés, règles SEC et impôts en Ukraine en 2026.
+  RM kw: société estonienne pour Ukrainiens
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK fr #2641 https://staging.dragonslots-gr.gr/creer-une-societe-en-estonie-via-le-programme-e-residency/
+  link OK fr #2481 https://staging.dragonslots-gr.gr/siege-social-en-estonie/
+  link OK fr #2592 https://staging.dragonslots-gr.gr/interlocuteur-en-estonie/
+  link OK fr #4501 https://staging.dragonslots-gr.gr/comptabilite-des-residents-electroniques-estoniens/
+  link OK fr #2710 https://staging.dragonslots-gr.gr/comptabilite-mensuelle-en-estonie/
+  link OK fr #2755 https://staging.dragonslots-gr.gr/services-comptables-en-estonie/
+  link OK fr #2568 https://staging.dragonslots-gr.gr/rapport-annuel-des-entreprises-estoniennes/
+  link OK fr #2358 https://staging.dragonslots-gr.gr/target/services-destin-s-aux-r-sidents-lectroniques-estoniens/
+  link OK fr #2376 https://staging.dragonslots-gr.gr/target/une-soci-t-estonienne-destin-e-aux-fondateurs-originaires-de-pays-hors-de-l-ue/
+  link OK fr #876 https://staging.dragonslots-gr.gr/blogue-fr/impot-societes-estonie-2026/
+  link OK fr #2629 https://staging.dragonslots-gr.gr/enregistrement-dune-societ-en-estonie/
+
+#4809 target publish lang=de date=2026-11-25 17:14:55 mod=2026-11-25 17:14:55 parent=0
+  «Estnische Firma (OÜ) für ukrainische Unternehmer»
+  https://staging.dragonslots-gr.gr/target/estnische-firma-fuer-ukrainische-unternehmer/
+  group={"de":4809,"ru":4757,"en":4807,"uk":4808,"es":4810,"fr":4811,"pt":4812,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=17309 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(54): Estnische Firma für Ukrainer %currentyear%: e-Residency und CFC
+  RM desc(157): OÜ-Gründung in Estland für Ukrainer über e-Residency: Registrierung, 0 % Steuer auf einbehaltene Gewinne, CFC-Regeln und Steuerpflichten in der Ukraine 2026.
+  RM kw: estnische Firma für Ukrainer
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK de #2637 https://staging.dragonslots-gr.gr/grundung-eines-unternehmens-in-estland-uber-die-e-residency/
+  link OK de #2477 https://staging.dragonslots-gr.gr/eingetragene-gesch-ftsadresse-in-estland/
+  link OK de #2588 https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/
+  link OK de #4495 https://staging.dragonslots-gr.gr/rechnungslegung-f-r-e-residents-in-estland/
+  link OK de #2705 https://staging.dragonslots-gr.gr/monatliche-buchhaltung-in-estland/
+  link OK de #2751 https://staging.dragonslots-gr.gr/buchhaltungsdienstleistungen-in-estland/
+  link OK de #2564 https://staging.dragonslots-gr.gr/jahresbericht-f-r-estnische-unternehmen/
+  link OK de #2268 https://staging.dragonslots-gr.gr/target/dienstleistungen-fur-estnische-e-residenten/
+  link OK de #2367 https://staging.dragonslots-gr.gr/target/ein-estnisches-unternehmen-f-r-gr-nder-aus-l-ndern-au-erhalb-der-eu/
+  link OK de #865 https://staging.dragonslots-gr.gr/blog-de/koerperschaftsteuer-estland-2026/
+  link OK de #2625 https://staging.dragonslots-gr.gr/unternehmensgrundung-in-estland/
+
+#4808 target publish lang=uk date=2026-11-25 17:14:54 mod=2026-11-25 17:14:54 parent=0
+  «Естонська компанія (OÜ) для українців»
+  https://staging.dragonslots-gr.gr/target/estonska-kompaniya-dlya-ukrayintsiv/
+  group={"uk":4808,"ru":4757,"en":4807,"de":4809,"es":4810,"fr":4811,"pt":4812,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=15660 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(56): Естонська компанія для українців %currentyear%: e-Residency і КІК
+  RM desc(151): Відкриття OÜ в Естонії для українців через e-Residency: реєстрація, 0% податку на нерозподілений прибуток, правила КІК і податки в Україні у 2026 році.
+  RM kw: естонська компанія для українців
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK uk #3020 https://staging.dragonslots-gr.gr/reyestratsiya-kompaniyi-v-estoniyi-e-residency/
+  link OK uk #3014 https://staging.dragonslots-gr.gr/yurydychna-adresa-v-estoniyi/
+  link OK uk #3024 https://staging.dragonslots-gr.gr/kontaktna-osoba-v-estoniyi/
+  link OK uk #4575 https://staging.dragonslots-gr.gr/bukhhalteriya-dlya-kompaniy-e-rezydentiv-estoniyi/
+  link OK uk #3023 https://staging.dragonslots-gr.gr/shchomisyachnyy-bukhhalterskyy-oblik-v-estoniyi/
+  link OK uk #3006 https://staging.dragonslots-gr.gr/bukhhalterske-obsluhovuvannya-v-estoniyi/
+  link OK uk #3015 https://staging.dragonslots-gr.gr/richnyy-zvit-v-estoniyi/
+  link OK uk #2886 https://staging.dragonslots-gr.gr/target/posluhy-dlya-e-rezydentiv-estoniyi/
+  link OK uk #2887 https://staging.dragonslots-gr.gr/target/estonska-kompaniya-dlya-ne-rezydentiv-yes/
+  link OK uk #3025 https://staging.dragonslots-gr.gr/podatkovyy-konsaltynh-v-estoniyi/
+  link OK uk #1630 https://staging.dragonslots-gr.gr/blog-uk/yak-vidkriti-bankivskij-rahunok-dlya-estonskoyi-kompaniyi/
+
+#4807 target publish lang=en date=2026-11-25 17:14:53 mod=2026-11-25 17:14:53 parent=0
+  «Estonian Company (OÜ) for Ukrainian Entrepreneurs»
+  https://staging.dragonslots-gr.gr/target/estonian-company-for-ukrainian-entrepreneurs/
+  group={"en":4807,"ru":4757,"uk":4808,"de":4809,"es":4810,"fr":4811,"pt":4812,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=16018 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(57): Estonian Company for Ukrainians %currentyear%: e-Residency and CFC
+  RM desc(158): Opening an OÜ in Estonia for Ukrainians via e-Residency: registration, 0% tax on retained profit in Estonia, CFC rules and tax obligations in Ukraine in 2026.
+  RM kw: Estonian company for Ukrainians
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU: —
+  link OK en #2247 https://staging.dragonslots-gr.gr/register-company-in-estonia-via-e-residency/
+  link OK en #1269 https://staging.dragonslots-gr.gr/legal-address/
+  link OK en #2254 https://staging.dragonslots-gr.gr/contact-person-in-estonia/
+  link OK en #4490 https://staging.dragonslots-gr.gr/accounting-e-residents/
+  link OK en #2696 https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/
+  link OK en #2746 https://staging.dragonslots-gr.gr/accounting-services-in-estonia/
+  link OK en #1398 https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/
+  link OK en #2266 https://staging.dragonslots-gr.gr/target/services-for-e-residents/
+  link OK en #2250 https://staging.dragonslots-gr.gr/target/non-residents/
+  link OK en #2438 https://staging.dragonslots-gr.gr/blog/how-to-obtain-e-residency-in-2026/
+  link OK en #825 https://staging.dragonslots-gr.gr/blog/corporate-tax-estonia-2026/
+  link OK en #1629 https://staging.dragonslots-gr.gr/blog/how-to-open-a-bank-account-for-an-estonian-company/
+
+#4806 service publish lang=zh date=2026-11-25 17:14:52 mod=2026-11-25 17:14:52 parent=0
+  «爱沙尼亚及欧盟商标和专利注册»
+  https://staging.dragonslots-gr.gr/trademark-registration-estonia/
+  group={"zh":4806,"ru":4749,"en":4747,"uk":4800,"de":4801,"es":4802,"fr":4803,"pt":4804,"tr":4805} tpl= fields=88 chars=6825 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(24): 爱沙尼亚商标注册与欧盟商标（EUIPO）%currentyear%
+  RM desc(58): 爱沙尼亚（Patendiamet）和欧盟（EUIPO）商标及专利一站式注册：商标检索、尼斯分类、提交申请和权利保护。
+  RM kw: 爱沙尼亚商标注册
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK zh #2623 https://staging.dragonslots-gr.gr/company-registration-estonia/
+  link OK zh #2807 https://staging.dragonslots-gr.gr/legal-services-estonia/
+  link OK zh #2526 https://staging.dragonslots-gr.gr/licensing/crypto-igaming-projects/
+  link OK zh #4532 https://staging.dragonslots-gr.gr/startups-estonia/
+  link OK zh #2385 https://staging.dragonslots-gr.gr/industry/e-commerce-dropshipping/
+  link OK zh #2417 https://staging.dragonslots-gr.gr/industry/saas-it/
+  link OK zh #2749 https://staging.dragonslots-gr.gr/accounting-services-estonia/
+  link OK zh #4799 https://staging.dragonslots-gr.gr/company-liquidation-estonia/
+
+#4805 service publish lang=tr date=2026-11-25 17:14:51 mod=2026-11-25 17:14:51 parent=0
+  «Estonya ve AB'de marka ve patent tescili»
+  https://staging.dragonslots-gr.gr/estonyada-marka-tescili/
+  group={"tr":4805,"ru":4749,"en":4747,"uk":4800,"de":4801,"es":4802,"fr":4803,"pt":4804,"zh":4806} tpl= fields=88 chars=14610 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(43): Estonya'da marka tescili ve AB (EUIPO) %currentyear%
+  RM desc(148): Estonya (Patendiamet) ve AB'de (EUIPO) anahtar teslim marka ve patent tescili: marka araştırması, Nice sınıfları, başvuru ve haklarınızın korunması.
+  RM kw: Estonya'da marka tescili
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK tr #2633 https://staging.dragonslots-gr.gr/estonyada-irket-tescili/
+  link OK tr #2817 https://staging.dragonslots-gr.gr/estonya-da-hukuki-hizmetler/
+  link OK tr #2524 https://staging.dragonslots-gr.gr/licensing/kripto-igaming-projeleri/
+  link OK tr #4543 https://staging.dragonslots-gr.gr/start-up-lar/
+  link OK tr #2396 https://staging.dragonslots-gr.gr/industry/e-ticaret-ve-dropshipping/
+  link OK tr #2400 https://staging.dragonslots-gr.gr/industry/saas-bt-ve-yaz-l-m-geli-tiricilere-y-nelik-bir-estonya-irketi/
+  link OK tr #2759 https://staging.dragonslots-gr.gr/estonya-da-muhasebe-hizmetleri/
+  link OK tr #4798 https://staging.dragonslots-gr.gr/estonyada-sirket-tasfiyesi/
+
+#4804 service publish lang=pt date=2026-11-25 17:14:50 mod=2026-11-25 17:14:50 parent=0
+  «Registo de marcas e patentes na Estónia e na UE»
+  https://staging.dragonslots-gr.gr/registo-de-marcas-na-estonia/
+  group={"pt":4804,"ru":4749,"en":4747,"uk":4800,"de":4801,"es":4802,"fr":4803,"tr":4805,"zh":4806} tpl= fields=88 chars=15910 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(49): Registo de marcas na Estónia e na UE (EUIPO) %currentyear%
+  RM desc(147): Registo de marcas e patentes na Estónia (Patendiamet) e na UE (EUIPO) chave na mão: pesquisa, classes de Nice, pedido e proteção dos seus direitos.
+  RM kw: registo de marcas na Estónia
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK pt #2631 https://staging.dragonslots-gr.gr/registo-de-empresas-na-estonia/
+  link OK pt #2815 https://staging.dragonslots-gr.gr/servi-os-juridicos-na-estonia/
+  link OK pt #2522 https://staging.dragonslots-gr.gr/licensing/holding-projetos-criptomoedas-igaming/
+  link OK pt #4547 https://staging.dragonslots-gr.gr/as-start-ups-estonia/
+  link OK pt #2394 https://staging.dragonslots-gr.gr/industry/em-com-rcio-eletr-nico-e-dropshipping/
+  link OK pt #2402 https://staging.dragonslots-gr.gr/industry/saas-ti-e-programadores/
+  link OK pt #2757 https://staging.dragonslots-gr.gr/servi-os-de-contabilidade-na-estonia/
+  link OK pt #4797 https://staging.dragonslots-gr.gr/liquidacao-de-empresas-na-estonia/
+
+#4803 service publish lang=fr date=2026-11-25 17:14:49 mod=2026-11-25 17:14:49 parent=0
+  «Dépôt de marque et de brevet en Estonie et dans l'UE»
+  https://staging.dragonslots-gr.gr/depot-de-marque-en-estonie/
+  group={"fr":4803,"ru":4749,"en":4747,"uk":4800,"de":4801,"es":4802,"pt":4804,"tr":4805,"zh":4806} tpl= fields=88 chars=17313 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(52): Dépôt de marque en Estonie et dans l'UE (EUIPO) %currentyear%
+  RM desc(151): Dépôt de marque et de brevet en Estonie (Patendiamet) et dans l'UE (EUIPO) clé en main : recherche, classes de Nice, dépôt et protection de vos droits.
+  RM kw: dépôt de marque en Estonie
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK fr #2629 https://staging.dragonslots-gr.gr/enregistrement-dune-societ-en-estonie/
+  link OK fr #2813 https://staging.dragonslots-gr.gr/services-juridiques-en-estonie/
+  link OK fr #2520 https://staging.dragonslots-gr.gr/licensing/holding-projets-cryptomonnaies-argent-en-ligne/
+  link OK fr #4539 https://staging.dragonslots-gr.gr/aux-start-ups/
+  link OK fr #2391 https://staging.dragonslots-gr.gr/industry/e-dans-le-commerce-lectronique-et-le-dropshipping/
+  link OK fr #2404 https://staging.dragonslots-gr.gr/industry/une-soci-t-estonienne-sp-cialis-e-dans-le-saas-et-lt/
+  link OK fr #2755 https://staging.dragonslots-gr.gr/services-comptables-en-estonie/
+  link OK fr #4796 https://staging.dragonslots-gr.gr/liquidation-de-societe-en-estonie/
+
+#4801 service publish lang=de date=2026-11-25 17:14:48 mod=2026-11-25 17:14:48 parent=0
+  «Marken- und Patentanmeldung in Estland und der EU»
+  https://staging.dragonslots-gr.gr/markenanmeldung-in-estland/
+  group={"de":4801,"ru":4749,"en":4747,"uk":4800,"es":4802,"fr":4803,"pt":4804,"tr":4805,"zh":4806} tpl= fields=88 chars=16772 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(50): Markenanmeldung in Estland und der EU (EUIPO) %currentyear%
+  RM desc(154): Marken- und Patentanmeldung in Estland (Patendiamet) und der EU (EUIPO) aus einer Hand: Markenrecherche, Nizza-Klassen, Anmeldung und Schutz Ihrer Rechte.
+  RM kw: Markenanmeldung in Estland
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK de #2625 https://staging.dragonslots-gr.gr/unternehmensgrundung-in-estland/
+  link OK de #2809 https://staging.dragonslots-gr.gr/rechtsdienstleistungen-in-estland/
+  link OK de #2516 https://staging.dragonslots-gr.gr/licensing/holding-krypto-und-igaming-projekte/
+  link OK de #4545 https://staging.dragonslots-gr.gr/fur-start-ups/
+  link OK de #2387 https://staging.dragonslots-gr.gr/industry/e-commerce-und-dropshipping/
+  link OK de #2415 https://staging.dragonslots-gr.gr/industry/saas-it-und-entwickler/
+  link OK de #2751 https://staging.dragonslots-gr.gr/buchhaltungsdienstleistungen-in-estland/
+  link OK de #4794 https://staging.dragonslots-gr.gr/liquidation-einer-firma-in-estland/
+
+#4802 service publish lang=es date=2026-11-25 17:14:48 mod=2026-11-25 17:14:48 parent=0
+  «Registro de marcas y patentes en Estonia y la UE»
+  https://staging.dragonslots-gr.gr/registro-de-marcas-en-estonia/
+  group={"es":4802,"ru":4749,"en":4747,"uk":4800,"de":4801,"fr":4803,"pt":4804,"tr":4805,"zh":4806} tpl= fields=88 chars=16409 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(50): Registro de marcas en Estonia y la UE (EUIPO) %currentyear%
+  RM desc(151): Registro de marcas y patentes en Estonia (Patendiamet) y la UE (EUIPO) llave en mano: búsqueda, clases de Niza, solicitud y protección de sus derechos.
+  RM kw: registro de marcas en Estonia
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK es #2627 https://staging.dragonslots-gr.gr/registro-de-empresas-en-estonia/
+  link OK es #2811 https://staging.dragonslots-gr.gr/servicios-jur-dicos-en-estonia/
+  link OK es #2518 https://staging.dragonslots-gr.gr/licensing/criptomonedas-y-juegos-de-azar-en-linea/
+  link OK es #4536 https://staging.dragonslots-gr.gr/las-start-ups/
+  link OK es #2389 https://staging.dragonslots-gr.gr/industry/en-comercio-electr-nico-y-dropshipping/
+  link OK es #2412 https://staging.dragonslots-gr.gr/industry/dedicada-al-saas-y-a-las-tecnolog-as-de-la-informaci-n/
+  link OK es #2753 https://staging.dragonslots-gr.gr/servicios-de-contabilidad-en-estonia/
+  link OK es #4795 https://staging.dragonslots-gr.gr/liquidacion-de-empresas-en-estonia/
+
+#4800 service publish lang=uk date=2026-11-25 17:14:47 mod=2026-11-25 17:14:47 parent=0
+  «Реєстрація торговельної марки та патенту в Естонії та ЄС»
+  https://staging.dragonslots-gr.gr/reyestratsiya-torhovelnoyi-marky-v-estoniyi/
+  group={"uk":4800,"ru":4749,"en":4747,"de":4801,"es":4802,"fr":4803,"pt":4804,"tr":4805,"zh":4806} tpl= fields=88 chars=14952 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(50): Реєстрація торговельної марки в Естонії та ЄС %currentyear%
+  RM desc(148): Реєстрація торговельної марки та патенту в Естонії (Patendiamet) і ЄС (EUIPO) під ключ: перевірка бренду, класи МКТП, подання заявки та захист прав.
+  RM kw: реєстрація торговельної марки в Естонії
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK uk #3021 https://staging.dragonslots-gr.gr/reyestratsiya-kompaniyi-v-estoniyi/
+  link OK uk #3018 https://staging.dragonslots-gr.gr/yurydychni-posluhy-v-estoniyi/
+  link OK uk #3008 https://staging.dragonslots-gr.gr/licensing/kholdynhova-struktura-v-estoniyi-krypto-igaming/
+  link OK uk #4520 https://staging.dragonslots-gr.gr/estonska-kompaniya-dlya-startapu/
+  link OK uk #2993 https://staging.dragonslots-gr.gr/industry/kompaniya-v-estoniyi-dlya-e-commerce-dropshipingu/
+  link OK uk #2991 https://staging.dragonslots-gr.gr/industry/estonska-kompaniya-dlya-saas-it-ta-rozrobnykiv/
+  link OK uk #3006 https://staging.dragonslots-gr.gr/bukhhalterske-obsluhovuvannya-v-estoniyi/
+  link OK uk #4793 https://staging.dragonslots-gr.gr/likvidatsiya-kompaniyi-v-estoniyi/
+
+#4747 service publish lang=en date=2026-11-25 17:14:46 mod=2026-11-25 17:14:46 parent=0
+  «Trademark and Patent Registration in Estonia and the EU»
+  https://staging.dragonslots-gr.gr/trademark-registration-in-estonia/
+  group={"en":4747,"ru":4749,"uk":4800,"de":4801,"es":4802,"fr":4803,"pt":4804,"tr":4805,"zh":4806} tpl= fields=88 chars=16087 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(57): Trademark Registration in Estonia and the EU (EUIPO) %currentyear%
+  RM desc(152): Turnkey trademark and patent registration in Estonia (Patendiamet) and the EU (EUIPO): brand search, Nice classes, filing and protection of your rights.
+  RM kw: trademark registration in Estonia
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU: —
+  link OK en #2263 https://staging.dragonslots-gr.gr/company-registration-in-estonia/
+  link OK en #2805 https://staging.dragonslots-gr.gr/legal-services-in-estonia/
+  link OK en #2508 https://staging.dragonslots-gr.gr/licensing/holding-crypto-igaming-projects/
+  link OK en #4529 https://staging.dragonslots-gr.gr/startups/
+  link OK en #2383 https://staging.dragonslots-gr.gr/industry/e-commerce-and-dropshipping/
+  link OK en #2398 https://staging.dragonslots-gr.gr/industry/saas-it-and-developers/
+  link OK en #2746 https://staging.dragonslots-gr.gr/accounting-services-in-estonia/
+  link OK en #4792 https://staging.dragonslots-gr.gr/company-liquidation-in-estonia/
+
+#4799 service publish lang=zh date=2026-11-25 17:14:45 mod=2026-11-25 17:14:45 parent=0
+  «爱沙尼亚公司清算：正确关闭、出售或恢复OÜ»
+  https://staging.dragonslots-gr.gr/company-liquidation-estonia/
+  group={"zh":4799,"ru":4758,"en":4792,"uk":4793,"de":4794,"es":4795,"fr":4796,"pt":4797,"tr":4798} tpl=single-service.php fields=88 chars=6930 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(21): 爱沙尼亚公司清算（OÜ）一站式服务%currentyear%
+  RM desc(49): 爱沙尼亚OÜ一站式清算：流程步骤、法定期限、清算报告、向股东分配的税款，以及从商业登记处彻底注销。
+  RM kw: 爱沙尼亚公司清算
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK zh #4599 https://staging.dragonslots-gr.gr/restoration-of-the-accounting/
+  link OK zh #2557 https://staging.dragonslots-gr.gr/annual-report/
+  link OK zh #2698 https://staging.dragonslots-gr.gr/monthly-accounting-estonia/
+  link OK zh #2749 https://staging.dragonslots-gr.gr/accounting-services-estonia/
+  link OK zh #4702 https://staging.dragonslots-gr.gr/interim-financial-statements-in-estonia/
+  link OK zh #2475 https://staging.dragonslots-gr.gr/legal-address-estonia/
+  link OK zh #2586 https://staging.dragonslots-gr.gr/contact-person-estonia/
+  link OK zh #2574 https://staging.dragonslots-gr.gr/ready-made-company-estonia/
+  link OK zh #2807 https://staging.dragonslots-gr.gr/legal-services-estonia/
+
+#4798 service publish lang=tr date=2026-11-25 17:14:44 mod=2026-11-25 17:14:44 parent=0
+  «Estonya'da şirket tasfiyesi: OÜ'yü doğru şekilde kapatmak, satmak veya yeniden canlandırmak»
+  https://staging.dragonslots-gr.gr/estonyada-sirket-tasfiyesi/
+  group={"tr":4798,"ru":4758,"en":4792,"uk":4793,"de":4794,"es":4795,"fr":4796,"pt":4797,"zh":4799} tpl=single-service.php fields=88 chars=15409 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(53): Estonya'da şirket tasfiyesi (OÜ): anahtar teslim %currentyear%
+  RM desc(147): Estonya OÜ şirketinin anahtar teslim tasfiyesi: aşamalar, yasal süreler, tasfiye raporu, ödemelerdeki vergi ve Ticaret Sicili'nden tamamen silinme.
+  RM kw: Estonya'da şirket tasfiyesi
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK tr #4595 https://staging.dragonslots-gr.gr/estonya-da-muhasebe-sisteminin-yeniden-d-zenlenmesi/
+  link OK tr #2572 https://staging.dragonslots-gr.gr/estonya-irketleri-icin-yillk-rapor/
+  link OK tr #2714 https://staging.dragonslots-gr.gr/estonyada-ayl-k-muhasebe/
+  link OK tr #2759 https://staging.dragonslots-gr.gr/estonya-da-muhasebe-hizmetleri/
+  link OK tr #4712 https://staging.dragonslots-gr.gr/estonya-da-ara-donem-mali-tablolar/
+  link OK tr #2485 https://staging.dragonslots-gr.gr/estonya-daki-yasal-adres/
+  link OK tr #2596 https://staging.dragonslots-gr.gr/estonya-daki-irtibat-kisisi/
+  link OK tr #2584 https://staging.dragonslots-gr.gr/estonyada-hazir-irket/
+  link OK tr #2817 https://staging.dragonslots-gr.gr/estonya-da-hukuki-hizmetler/
+
+#4797 service publish lang=pt date=2026-11-25 17:14:43 mod=2026-11-25 17:14:43 parent=0
+  «Liquidação de empresas na Estónia: encerrar, vender ou restaurar uma OÜ corretamente»
+  https://staging.dragonslots-gr.gr/liquidacao-de-empresas-na-estonia/
+  group={"pt":4797,"ru":4758,"en":4792,"uk":4793,"de":4794,"es":4795,"fr":4796,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=17310 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(56): Liquidação de empresas na Estónia (OÜ) chave na mão %currentyear%
+  RM desc(150): Liquidação chave na mão de uma OÜ estónia: etapas, prazos legais, relatório de liquidação, imposto sobre os pagamentos e remoção do Registo Comercial.
+  RM kw: liquidação de empresas na Estónia
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK pt #4590 https://staging.dragonslots-gr.gr/reestruturacao-do-sistema-de-contabilidade-na-estonia/
+  link OK pt #2570 https://staging.dragonslots-gr.gr/relat-rio-anual-das-empresas-est-nias/
+  link OK pt #2712 https://staging.dragonslots-gr.gr/contabilidade-mensal-na-estonia/
+  link OK pt #2757 https://staging.dragonslots-gr.gr/servi-os-de-contabilidade-na-estonia/
+  link OK pt #4710 https://staging.dragonslots-gr.gr/demonstracoes-financeiras-intercalares-na-estonia/
+  link OK pt #2483 https://staging.dragonslots-gr.gr/domicilio-social-na-estonia/
+  link OK pt #2594 https://staging.dragonslots-gr.gr/pessoa-de-contacto-na-estonia/
+  link OK pt #2582 https://staging.dragonslots-gr.gr/empresa-pre-constituda-na-estonia/
+  link OK pt #2815 https://staging.dragonslots-gr.gr/servi-os-juridicos-na-estonia/
+
+#4796 service publish lang=fr date=2026-11-25 17:14:42 mod=2026-11-25 17:14:42 parent=0
+  «Liquidation de société en Estonie : fermer, vendre ou rétablir une OÜ correctement»
+  https://staging.dragonslots-gr.gr/liquidation-de-societe-en-estonie/
+  group={"fr":4796,"ru":4758,"en":4792,"uk":4793,"de":4794,"es":4795,"pt":4797,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=18066 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(55): Liquidation de société en Estonie (OÜ) clé en main %currentyear%
+  RM desc(143): Liquidation clé en main d'une OÜ estonienne : étapes, délais légaux, rapport de liquidation, impôt sur les versements et radiation du registre.
+  RM kw: liquidation de société en Estonie
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK fr #4588 https://staging.dragonslots-gr.gr/remise-en-place-du-systeme-comptable-en-estonie/
+  link OK fr #2568 https://staging.dragonslots-gr.gr/rapport-annuel-des-entreprises-estoniennes/
+  link OK fr #2710 https://staging.dragonslots-gr.gr/comptabilite-mensuelle-en-estonie/
+  link OK fr #2755 https://staging.dragonslots-gr.gr/services-comptables-en-estonie/
+  link OK fr #4708 https://staging.dragonslots-gr.gr/etats-financiers-intermediaires-en-estonie/
+  link OK fr #2481 https://staging.dragonslots-gr.gr/siege-social-en-estonie/
+  link OK fr #2592 https://staging.dragonslots-gr.gr/interlocuteur-en-estonie/
+  link OK fr #2580 https://staging.dragonslots-gr.gr/societe-lemploi-en-estonie/
+  link OK fr #2813 https://staging.dragonslots-gr.gr/services-juridiques-en-estonie/
+
+#4795 service publish lang=es date=2026-11-25 17:14:41 mod=2026-11-25 17:14:41 parent=0
+  «Liquidación de empresas en Estonia: cerrar, vender o restablecer una OÜ correctamente»
+  https://staging.dragonslots-gr.gr/liquidacion-de-empresas-en-estonia/
+  group={"es":4795,"ru":4758,"en":4792,"uk":4793,"de":4794,"fr":4796,"pt":4797,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=17415 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(58): Liquidación de empresas en Estonia (OÜ) llave en mano %currentyear%
+  RM desc(148): Liquidación llave en mano de una OÜ estonia: etapas, plazos legales, informe de liquidación, impuesto sobre los pagos y baja del Registro Mercantil.
+  RM kw: liquidación de empresas en Estonia
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK es #4597 https://staging.dragonslots-gr.gr/restablecimiento-de-la-contabilidad-en-estonia/
+  link OK es #2566 https://staging.dragonslots-gr.gr/informe-anual-de-las-empresas-estonias/
+  link OK es #2707 https://staging.dragonslots-gr.gr/contabilidad-mensual-en-estonia/
+  link OK es #2753 https://staging.dragonslots-gr.gr/servicios-de-contabilidad-en-estonia/
+  link OK es #4706 https://staging.dragonslots-gr.gr/estados-financieros-provisionales-en-estonia/
+  link OK es #2479 https://staging.dragonslots-gr.gr/domicilio-social-en-estonia/
+  link OK es #2590 https://staging.dragonslots-gr.gr/persona-de-contacto-en-estonia/
+  link OK es #2578 https://staging.dragonslots-gr.gr/sociedad-ya-constituida-en-estonia/
+  link OK es #2811 https://staging.dragonslots-gr.gr/servicios-jur-dicos-en-estonia/
+
+#4794 service publish lang=de date=2026-11-25 17:14:40 mod=2026-11-25 17:14:40 parent=0
+  «Liquidation einer Firma in Estland: OÜ richtig schließen, verkaufen oder wiederherstellen»
+  https://staging.dragonslots-gr.gr/liquidation-einer-firma-in-estland/
+  group={"de":4794,"ru":4758,"en":4792,"uk":4793,"es":4795,"fr":4796,"pt":4797,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=18171 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(44): Liquidation einer Firma in Estland (OÜ) %currentyear%
+  RM desc(154): Liquidation einer estnischen OÜ aus einer Hand: Ablauf, gesetzliche Fristen, Liquidationsbericht, Steuer auf Auszahlungen und Löschung im Handelsregister.
+  RM kw: Liquidation einer Firma in Estland
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK de #4584 https://staging.dragonslots-gr.gr/wiederherstellung-des-rechnungswesens-in-estland/
+  link OK de #2564 https://staging.dragonslots-gr.gr/jahresbericht-f-r-estnische-unternehmen/
+  link OK de #2705 https://staging.dragonslots-gr.gr/monatliche-buchhaltung-in-estland/
+  link OK de #2751 https://staging.dragonslots-gr.gr/buchhaltungsdienstleistungen-in-estland/
+  link OK de #4704 https://staging.dragonslots-gr.gr/zwischenabschlusse-in-estland/
+  link OK de #2477 https://staging.dragonslots-gr.gr/eingetragene-gesch-ftsadresse-in-estland/
+  link OK de #2588 https://staging.dragonslots-gr.gr/ansprechpartner-in-estland/
+  link OK de #2576 https://staging.dragonslots-gr.gr/fertiggesellschaft-in-estland/
+  link OK de #2809 https://staging.dragonslots-gr.gr/rechtsdienstleistungen-in-estland/
+
+#4793 service publish lang=uk date=2026-11-25 17:14:39 mod=2026-11-25 17:14:39 parent=0
+  «Ліквідація компанії в Естонії: закрити, продати або відновити OÜ правильно»
+  https://staging.dragonslots-gr.gr/likvidatsiya-kompaniyi-v-estoniyi/
+  group={"uk":4793,"ru":4758,"en":4792,"de":4794,"es":4795,"fr":4796,"pt":4797,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=15836 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(43): Ліквідація компанії в Естонії під ключ %currentyear%
+  RM desc(143): Ліквідація естонської OÜ під ключ: етапи, строки за законом, звіт про ліквідацію, податок на виплати та повне видалення з Комерційного реєстру.
+  RM kw: ліквідація компанії в Естонії
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK uk #4572 https://staging.dragonslots-gr.gr/vidnovlennya-buhgalterskogo-obliku-v-estoniyi/
+  link OK uk #3015 https://staging.dragonslots-gr.gr/richnyy-zvit-v-estoniyi/
+  link OK uk #3023 https://staging.dragonslots-gr.gr/shchomisyachnyy-bukhhalterskyy-oblik-v-estoniyi/
+  link OK uk #3006 https://staging.dragonslots-gr.gr/bukhhalterske-obsluhovuvannya-v-estoniyi/
+  link OK uk #4573 https://staging.dragonslots-gr.gr/promizhna-finansova-zvitnist-v-estoniyi/
+  link OK uk #3014 https://staging.dragonslots-gr.gr/yurydychna-adresa-v-estoniyi/
+  link OK uk #3024 https://staging.dragonslots-gr.gr/kontaktna-osoba-v-estoniyi/
+  link OK uk #3017 https://staging.dragonslots-gr.gr/hotovi-kompaniyi-v-estoniyi/
+  link OK uk #3018 https://staging.dragonslots-gr.gr/yurydychni-posluhy-v-estoniyi/
+
+#4792 service publish lang=en date=2026-11-25 17:14:38 mod=2026-11-25 17:14:38 parent=0
+  «Company Liquidation in Estonia: Close, Sell or Restore an OÜ the Right Way»
+  https://staging.dragonslots-gr.gr/company-liquidation-in-estonia/
+  group={"en":4792,"ru":4758,"uk":4793,"de":4794,"es":4795,"fr":4796,"pt":4797,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=16707 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(57): Company Liquidation in Estonia (OÜ): Turnkey Closure %currentyear%
+  RM desc(144): Turnkey liquidation of an Estonian OÜ: steps, legal deadlines, liquidation report, tax on payouts and full removal from the Commercial Register.
+  RM kw: company liquidation in Estonia
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU: —
+  link OK en #4578 https://staging.dragonslots-gr.gr/accounting-restoration-in-estonia/
+  link OK en #1398 https://staging.dragonslots-gr.gr/annual-report-for-estonian-companies/
+  link OK en #2696 https://staging.dragonslots-gr.gr/monthly-accounting-in-estonia/
+  link OK en #2746 https://staging.dragonslots-gr.gr/accounting-services-in-estonia/
+  link OK en #4699 https://staging.dragonslots-gr.gr/interim-reports/
+  link OK en #1269 https://staging.dragonslots-gr.gr/legal-address/
+  link OK en #2254 https://staging.dragonslots-gr.gr/contact-person-in-estonia/
+  link OK en #1415 https://staging.dragonslots-gr.gr/ready-made-company-in-estonia/
+  link OK en #2805 https://staging.dragonslots-gr.gr/legal-services-in-estonia/
+
+#4749 service publish lang=ru date=2026-11-25 15:30:13 mod=2026-11-25 15:34:49 parent=0
+  «Регистрация товарного знака и патента в Эстонии и ЕС»
+  https://staging.dragonslots-gr.gr/registratsiya-tovarnogo-znaka-i-patenta-v-estonii-i-es-zashhita-brenda-ot-razrabotki-strategii-do-polucheniya-svidetelstva/
+  group={"ru":4749,"en":4747,"uk":4800,"de":4801,"es":4802,"fr":4803,"pt":4804,"tr":4805,"zh":4806} tpl= fields=88 chars=20173 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(66): Регистрация товарного знака и патента в Эстонии и ЕС (EUIPO)  %currentyear%
+  RM desc(134): Регистрация торговой марки и патента в Эстонии (EPA) и ЕС (EUIPO) под ключ: проверка бренда, классы МКТУ, подача заявки и защита прав.
+  RM kw: Регистрация товарного знака и патента в Эстонии
+  thumb=4790 Trademark.jpg 517KB alt=«Trademark and patent registration in Estonia»
+  menu RU #4791 «Регистрация товарного знака» parent=«Услуги» order=34
+  link OK ru #2149 https://staging.dragonslots-gr.gr/registratsiya-kompanii-v-estonii/
+  link OK ru #2341 https://staging.dragonslots-gr.gr/yuridicheskie-uslugi-v-estonii/
+  link OK ru #2189 https://staging.dragonslots-gr.gr/licensing/estonskaya-holdingovaya-kompaniya/
+  link OK ru #2190 https://staging.dragonslots-gr.gr/industry/e-commerce-i-dropshipping/
+  link OK ru #2191 https://staging.dragonslots-gr.gr/industry/saas-i-it/
+  link OK ru #2343 https://staging.dragonslots-gr.gr/buhgalterskoe-obsluzhivanie-v-estonii/
+  markup: style= ×127
+  markup: <span ×104
+
+#4758 service publish lang=ru date=2026-11-25 15:23:56 mod=2026-11-25 15:23:56 parent=0
+  «Ликвидация компании в Эстонии — закрыть, продать или восстановить OÜ правильно»
+  https://staging.dragonslots-gr.gr/likvidatsiya-kompanii-v-estonii-zakryt-prodat-ili-vosstanovit-o-pravilno/
+  group={"ru":4758,"en":4792,"uk":4793,"de":4794,"es":4795,"fr":4796,"pt":4797,"tr":4798,"zh":4799} tpl=single-service.php fields=88 chars=20552 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(68): Ликвидация компании (OÜ) в Эстонии под ключ — сроки и стоимость %currentyear%
+  RM desc(137): Официальная ликвидация компании OÜ в Эстонии под ключ: этапы, сроки, ликвидационный баланс и полное исключение из Коммерческого регистра.
+  RM kw: Ликвидация компании (OÜ) в Эстонии
+  thumb=4788 liquidation.jpg 482KB alt=«Liquidation of a company in Estonia»
+  menu RU #4789 «Ликвидация компаний» parent=«Услуги» order=11
+  link OK ru #1372 https://staging.dragonslots-gr.gr/godovoj-otchet-v-estonii/
+  link OK ru #1271 https://staging.dragonslots-gr.gr/yuridicheskij-adres-v-estonii/
+  link OK ru #2154 https://staging.dragonslots-gr.gr/kontaktnoe-litso-v-estonii/
+  link OK ru #1401 https://staging.dragonslots-gr.gr/gotovye-kompanii-v-estonii/
+  link OK ru #2341 https://staging.dragonslots-gr.gr/yuridicheskie-uslugi-v-estonii/
+  markup: style= ×120
+  markup: <span ×103
+
+#4757 target publish lang=ru date=2026-11-25 15:16:47 mod=2026-11-25 15:16:47 parent=0
+  «Эстонская компания (OÜ) для украинцев»
+  https://staging.dragonslots-gr.gr/target/estonskaya-kompaniya-dlya-ukrainskih-predprinimatelej/
+  group={"ru":4757,"en":4807,"uk":4808,"de":4809,"es":4810,"fr":4811,"pt":4812,"tr":4813,"zh":4814} tpl=single-service.php fields=86 chars=20200 layouts=["text_block","cta","cta","text_block","steps","provider","tariffs","text_block","img_text","text_img","img_text","text_block","service_faq","final_cta"]
+  RM title(71): Эстонская компания (OÜ) для украинцев в 2026: e-Residency, налоги и КИК
+  RM desc(148): Открытие OÜ в Эстонии для украинцев через e-Residency: регистрация, налог 0% в Эстонии, правила КИК и налоговые обязательства в Украине в 2026 году.
+  RM kw: Эстонская компания (OÜ) для украинцев
+  thumb=4786 UA.jpg 456KB alt=«Estonian company (OÜ) for Ukrainians»
+  menu RU #4787 «Предприниматели из Украины» parent=«Наши клиенты» order=51
+  link OK ru #2155 https://staging.dragonslots-gr.gr/registratsiya-kompanii-v-estonii-cherez-e-residency/
+  link OK ru #1271 https://staging.dragonslots-gr.gr/yuridicheskij-adres-v-estonii/
+  link OK ru #2154 https://staging.dragonslots-gr.gr/kontaktnoe-litso-v-estonii/
+  link OK ru #1372 https://staging.dragonslots-gr.gr/godovoj-otchet-v-estonii/
+  link OK ru #2195 https://staging.dragonslots-gr.gr/target/uslugi-dlya-e-rezidentov-estonii/
+  link OK ru #2194 https://staging.dragonslots-gr.gr/target/kompaniya-dlya-osnovatelej-iz-za-predelov-es/
+  link OK ru #2431 https://staging.dragonslots-gr.gr/blog-ru/kak-poluchit-e-residency-2026/
+  link OK ru #844 https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/
+  link OK ru #1620 https://staging.dragonslots-gr.gr/blog-ru/kak-otkryt-bankovskij-schyot-dlya-estonskoj-kompanii/
+  markup: style= ×118
+  markup: <span ×105
+MENU #4857 «Изменения в компании» custom:custom/4857 parent=4269 url=#
+MENU #4860 «Продажа и передача долей» post_type:service/4845 parent=4857 url=https://staging.dragonslots-gr.gr/prodazha-i-peredacha-dolej-estonskoj-ou/
+MENU #4861 «Смена члена правления» post_type:service/4844 parent=4857 url=https://staging.dragonslots-gr.gr/smena-chlena-pravleniya-estonskoj-kompanii/
+MENU #4862 «Увеличение капитала» post_type:service/4846 parent=4857 url=https://staging.dragonslots-gr.gr/uvelichenie-kapitala-estonskoj-ou/
+MENU #4863 «Уменьшение капитала» post_type:service/4847 parent=4857 url=https://staging.dragonslots-gr.gr/umenshenie-kapitala-estonskoj-kompanii/

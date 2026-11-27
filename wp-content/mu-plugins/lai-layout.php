@@ -24,9 +24,9 @@ function lai_layout_css(): string {
  body .content-page.single-page .head-title{padding-left:var(--lai-gut);padding-right:var(--lai-gut)}
  body .content-page.single-page .col-lg-11.mx-lg-auto{flex:0 0 100%;max-width:100%;padding-left:var(--lai-gut);padding-right:var(--lai-gut)}
  /* текстовая колонка — одна ширина для статьи, модулей услуги, оглавления и мета-строки */
- body .content-page.single-page :is(.col-lg-8,.col-xl-8).mx-lg-auto{flex:0 0 100%;max-width:calc(var(--lai-text) + 30px);margin-left:auto;margin-right:auto}
+ body .content-page.single-page :is(.col-lg-8,.col-xl-8).mx-lg-auto,body .content-page.single-page .col-lg-9.col-xl-8.mx-lg-auto{flex:0 0 100%;max-width:calc(var(--lai-text) + 30px);margin-left:auto;margin-right:auto}
  /* FAQ: внутреннее поле карточки 48 px → текст ответов стоит ровно по текстовой колонке */
- body .content-page.single-page .col-lg-9.mx-lg-auto{flex:0 0 100%;max-width:calc(var(--lai-text) + 2*var(--lai-gut) + 30px);margin-left:auto;margin-right:auto}
+ body .content-page.single-page .col-lg-9.mx-lg-auto:not(.col-xl-8){flex:0 0 100%;max-width:calc(var(--lai-text) + 2*var(--lai-gut) + 30px);margin-left:auto;margin-right:auto}
  $F{padding:var(--lai-gut)}
 }
 body .content-page.single-page .rank-math-breadcrumb p{margin:0;font-size:14px;line-height:20px}

@@ -1,0 +1,3042 @@
+{
+ "home-ru-1440": {
+  "url": "/",
+  "status": 200,
+  "title": "Company Formation in Estonia and Virtual Office",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "mt-0 mb-4",
+   "text": "Company formation, legal address, virtua",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "45px",
+   "lineHeight": "51.75px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "h1 mt-0 mb-5 text-center",
+   "text": "Order a legal address and contact person",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "48px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "mt-0 mb-3",
+   "text": "Package for 1 year",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "mb-0 txt-grey",
+   "text": "Ordering a service from us, you get not ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "fontWeight": "400",
+   "color": "rgb(165, 165, 165)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Legal address",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "20px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "12px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "32px"
+  },
+  "td": null,
+  "a": null,
+  "btn": {
+   "cls": "btn",
+   "text": "Order now",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "20px",
+   "lineHeight": "28px",
+   "fontWeight": "600",
+   "color": "rgb(49, 212, 75)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(255, 255, 255)",
+   "borderRadius": "16px",
+   "padding": "16px 0px"
+  },
+  "widths": [
+   [
+    "60/1320",
+    14
+   ],
+   [
+    "93/1254",
+    1
+   ],
+   [
+    "173/214",
+    1
+   ],
+   [
+    "407/941",
+    1
+   ],
+   [
+    "415/925",
+    1
+   ],
+   [
+    "444/250",
+    1
+   ],
+   [
+    "752/250",
+    1
+   ],
+   [
+    "1060/250",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "SECTION",
+    "cls": "container home-1",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-2",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-3 mb-0",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-3-2",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-4",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-5 px-0 px-md-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-6 px-0 px-md-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-7 px-0 px-md-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-8 px-0 px-md-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home_accordion px-0 px-md-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 93,
+    "w": 1254,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 173,
+    "w": 214,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 407,
+    "w": 941,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 415,
+    "w": 925,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 444,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 752,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1060,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1368,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1676,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1984,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2292,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2601,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2909,
+    "w": 250,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-9",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "blog",
+    "x": 0,
+    "w": 1440,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-3 px-md-5",
+    "x": 60,
+    "w": 1320,
+    "pl": "48px",
+    "mw": "1320px"
+   }
+  ],
+  "bodyClass": "home wp-singular page-template-default page page-id-2 wp-theme-LegalAddress mm mm--b"
+ },
+ "home-ru-390": {
+  "url": "/",
+  "status": 200,
+  "title": "Company Formation in Estonia and Virtual Office",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "mt-0 mb-4",
+   "text": "Company formation, legal address, virtua",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "h1 mt-0 mb-5 text-center",
+   "text": "Order a legal address and contact person",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "48px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "mt-0 mb-3",
+   "text": "Package for 1 year",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "22px",
+   "lineHeight": "25.3px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "mb-0 txt-grey",
+   "text": "Ordering a service from us, you get not ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "18px",
+   "fontWeight": "400",
+   "color": "rgb(165, 165, 165)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Legal address",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "11px",
+   "lineHeight": "19.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "8px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "21.2px"
+  },
+  "td": null,
+  "a": null,
+  "btn": {
+   "cls": "btn",
+   "text": "Order now",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "20px",
+   "fontWeight": "600",
+   "color": "rgb(49, 212, 75)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(255, 255, 255)",
+   "borderRadius": "16px",
+   "padding": "14px 0px"
+  },
+  "widths": [
+   [
+    "0/390",
+    15
+   ],
+   [
+    "33/324",
+    1
+   ],
+   [
+    "102/0",
+    1
+   ],
+   [
+    "114/243",
+    1
+   ],
+   [
+    "106/259",
+    1
+   ],
+   [
+    "135/28",
+    1
+   ],
+   [
+    "221/28",
+    1
+   ],
+   [
+    "308/28",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "SECTION",
+    "cls": "container home-1",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-2",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "100%"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-3 mb-0",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-3-2",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "100%"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-4",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-5 px-0 px-md-5",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-6 px-0 px-md-5",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-7 px-0 px-md-5",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-8 px-0 px-md-5",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home_accordion px-0 px-md-5",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-5",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 33,
+    "w": 324,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 102,
+    "w": 0,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 114,
+    "w": 243,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 106,
+    "w": 259,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 135,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 221,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 308,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 394,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 480,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 567,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 653,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 739,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 826,
+    "w": 28,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "container home-9",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "blog",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-3 px-md-5",
+    "x": 0,
+    "w": 390,
+    "pl": "16px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "home wp-singular page-template-default page page-id-2 wp-theme-LegalAddress mm mm--b"
+ },
+ "home-en-1440": {
+  "url": "/en/",
+  "status": 404,
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Error 404: page not found",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": null,
+  "h3": null,
+  "p": {
+   "cls": "",
+   "text": "You may be here for several reasons:",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Most likely the URL was entered with an ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "22px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "12px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "0px"
+  },
+  "td": null,
+  "a": {
+   "text": "home",
+   "cls": "",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": null,
+  "widths": [
+   [
+    "60/1320",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   }
+  ],
+  "bodyClass": "error404 wp-theme-LegalAddress mm mm--b"
+ },
+ "home-en-390": {
+  "url": "/en/",
+  "status": 404,
+  "title": "Page not found — eBusiness Solutions OÜ",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Error 404: page not found",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": null,
+  "h3": null,
+  "p": {
+   "cls": "",
+   "text": "You may be here for several reasons:",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Most likely the URL was entered with an ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "22px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "12px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "0px"
+  },
+  "td": null,
+  "a": {
+   "text": "home",
+   "cls": "",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": null,
+  "widths": [
+   [
+    "0/390",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "error404 wp-theme-LegalAddress mm mm--b"
+ },
+ "svc-ru-1440": {
+  "url": "/vat-deklaratsii-v-estonii/",
+  "status": 200,
+  "title": "Подача VAT-декларации (KMD и KMD INF) в Эстонии 2026",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "VAT-декларации в Эстонии",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "mt-0 mb-4 text-center",
+   "text": "Как передать нам VAT-отчётность: 4 шага",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Ключевые факты",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "lai-disc__note",
+   "text": "*Дисклеймер: Материал носит общий информ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "13px",
+   "lineHeight": "20.8px",
+   "fontWeight": "400",
+   "color": "rgb(107, 114, 128)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Ежемесячная подготовка и подача KMD и KM",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "16px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "8px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "24px"
+  },
+  "td": {
+   "cls": "",
+   "text": "Что подаётся",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "VAT-номер",
+   "cls": "lai-autolink",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": {
+   "cls": "btn green",
+   "text": "Отправить запрос",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "18px",
+   "lineHeight": "28px",
+   "fontWeight": "600",
+   "color": "rgb(255, 255, 255)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(49, 212, 75)",
+   "borderRadius": "16px",
+   "padding": "16px 0px"
+  },
+  "widths": [
+   [
+    "60/1320",
+    1
+   ],
+   [
+    "75/1290",
+    1
+   ],
+   [
+    "108/1224",
+    1
+   ],
+   [
+    "188/206",
+    1
+   ],
+   [
+    "414/918",
+    1
+   ],
+   [
+    "422/902",
+    1
+   ],
+   [
+    "451/243",
+    1
+   ],
+   [
+    "752/243",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page services",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5",
+    "x": 75,
+    "w": 1290,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 108,
+    "w": 1224,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 188,
+    "w": 206,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 414,
+    "w": 918,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 422,
+    "w": 902,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 451,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 752,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1052,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1353,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1654,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1954,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2255,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2556,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2856,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular service-template service-template-single-service service-template-single-service-php single single-service postid-4842 wp-theme-LegalAddress mm mm--b"
+ },
+ "svc-ru-390": {
+  "url": "/vat-deklaratsii-v-estonii/",
+  "status": 200,
+  "title": "Подача VAT-декларации (KMD и KMD INF) в Эстонии 2026",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "VAT-декларации в Эстонии",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "mt-0 mb-4 text-center",
+   "text": "Как передать нам VAT-отчётность: 4 шага",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Ключевые факты",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "22px",
+   "lineHeight": "25.3px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "lai-disc__note",
+   "text": "*Дисклеймер: Материал носит общий информ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "13px",
+   "lineHeight": "20.8px",
+   "fontWeight": "400",
+   "color": "rgb(107, 114, 128)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Ежемесячная подготовка и подача KMD и KM",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "11px",
+   "lineHeight": "16px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "6px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "22px"
+  },
+  "td": {
+   "cls": "",
+   "text": "Что подаётся",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "13.8px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "VAT-номер",
+   "cls": "lai-autolink",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": {
+   "cls": "btn green",
+   "text": "Отправить запрос",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "20px",
+   "fontWeight": "600",
+   "color": "rgb(255, 255, 255)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "20px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(49, 212, 75)",
+   "borderRadius": "16px",
+   "padding": "14px 0px"
+  },
+  "widths": [
+   [
+    "0/390",
+    1
+   ],
+   [
+    "15/360",
+    1
+   ],
+   [
+    "48/294",
+    1
+   ],
+   [
+    "109/0",
+    1
+   ],
+   [
+    "122/221",
+    1
+   ],
+   [
+    "114/237",
+    1
+   ],
+   [
+    "143/21",
+    1
+   ],
+   [
+    "221/21",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page services",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5",
+    "x": 15,
+    "w": 360,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 48,
+    "w": 294,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 109,
+    "w": 0,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 122,
+    "w": 221,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 114,
+    "w": 237,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 143,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 221,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 300,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 379,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 458,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 537,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 615,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 694,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 773,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular service-template service-template-single-service service-template-single-service-php single single-service postid-4842 wp-theme-LegalAddress mm mm--b"
+ },
+ "svc-en-1440": {
+  "url": "/vat-returns-in-estonia/",
+  "status": 200,
+  "title": "VAT Returns in Estonia: KMD and KMD INF Filing 2026",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "VAT Returns in Estonia",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "mt-0 mb-4 text-center",
+   "text": "How to hand over your VAT reporting: 4 s",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Key facts",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "lai-disc__note",
+   "text": "*Disclaimer: This material is for genera",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "13px",
+   "lineHeight": "20.8px",
+   "fontWeight": "400",
+   "color": "rgb(107, 114, 128)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Monthly preparation and filing of the KM",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "16px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "8px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "24px"
+  },
+  "td": {
+   "cls": "",
+   "text": "What is filed",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "VAT number",
+   "cls": "lai-autolink",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": {
+   "cls": "btn green",
+   "text": "Send a request",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "18px",
+   "lineHeight": "28px",
+   "fontWeight": "600",
+   "color": "rgb(255, 255, 255)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(49, 212, 75)",
+   "borderRadius": "16px",
+   "padding": "16px 0px"
+  },
+  "widths": [
+   [
+    "60/1320",
+    1
+   ],
+   [
+    "75/1290",
+    1
+   ],
+   [
+    "108/1224",
+    1
+   ],
+   [
+    "188/206",
+    1
+   ],
+   [
+    "414/918",
+    1
+   ],
+   [
+    "422/902",
+    1
+   ],
+   [
+    "451/243",
+    1
+   ],
+   [
+    "752/243",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page services",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5",
+    "x": 75,
+    "w": 1290,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 108,
+    "w": 1224,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 188,
+    "w": 206,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 414,
+    "w": 918,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 422,
+    "w": 902,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 451,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 752,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1052,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1353,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1654,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1954,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2255,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2556,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2856,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular service-template service-template-single-service service-template-single-service-php single single-service postid-4870 wp-theme-LegalAddress mm mm--b"
+ },
+ "svc-en-390": {
+  "url": "/vat-returns-in-estonia/",
+  "status": 200,
+  "title": "VAT Returns in Estonia: KMD and KMD INF Filing 2026",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "VAT Returns in Estonia",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "mt-0 mb-4 text-center",
+   "text": "How to hand over your VAT reporting: 4 s",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Key facts",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "22px",
+   "lineHeight": "25.3px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "lai-disc__note",
+   "text": "*Disclaimer: This material is for genera",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "13px",
+   "lineHeight": "20.8px",
+   "fontWeight": "400",
+   "color": "rgb(107, 114, 128)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Monthly preparation and filing of the KM",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "11px",
+   "lineHeight": "16px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "6px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "22px"
+  },
+  "td": {
+   "cls": "",
+   "text": "What is filed",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "13.8px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "VAT number",
+   "cls": "lai-autolink",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": {
+   "cls": "btn green",
+   "text": "Send a request",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "20px",
+   "fontWeight": "600",
+   "color": "rgb(255, 255, 255)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "20px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(49, 212, 75)",
+   "borderRadius": "16px",
+   "padding": "14px 0px"
+  },
+  "widths": [
+   [
+    "0/390",
+    1
+   ],
+   [
+    "15/360",
+    1
+   ],
+   [
+    "48/294",
+    1
+   ],
+   [
+    "109/0",
+    1
+   ],
+   [
+    "122/221",
+    1
+   ],
+   [
+    "114/237",
+    1
+   ],
+   [
+    "143/21",
+    1
+   ],
+   [
+    "221/21",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page services",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5",
+    "x": 15,
+    "w": 360,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 48,
+    "w": 294,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 109,
+    "w": 0,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 122,
+    "w": 221,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 114,
+    "w": 237,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 143,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 221,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 300,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 379,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 458,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 537,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 615,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 694,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 773,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular service-template service-template-single-service service-template-single-service-php single single-service postid-4870 wp-theme-LegalAddress mm mm--b"
+ },
+ "svc-old-ru-1440": {
+  "url": "/buhgalterskoe-obsluzhivanie-v-estonii/",
+  "status": 200,
+  "title": "Бухгалтерские услуги в Эстонии для OÜ и e-резидентов",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Бухгалтерское обслуживание в Эстонии",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "mt-0 mb-4 text-center",
+   "text": "Как передать бухгалтерию нам: 4 шага",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Ключевые факты",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "lai-disc__note",
+   "text": "*Дисклеймер: Материал носит общий информ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "13px",
+   "lineHeight": "20.8px",
+   "fontWeight": "400",
+   "color": "rgb(107, 114, 128)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Подготовка и подача годового отчета в",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "16px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "8px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "24px"
+  },
+  "td": {
+   "cls": "",
+   "text": "Кто обязан вести учёт",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "годового отчета",
+   "cls": "lai-autolink",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": {
+   "cls": "btn green",
+   "text": "Отправить запрос",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "18px",
+   "lineHeight": "28px",
+   "fontWeight": "600",
+   "color": "rgb(255, 255, 255)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(49, 212, 75)",
+   "borderRadius": "16px",
+   "padding": "16px 0px"
+  },
+  "widths": [
+   [
+    "60/1320",
+    1
+   ],
+   [
+    "75/1290",
+    1
+   ],
+   [
+    "108/1224",
+    1
+   ],
+   [
+    "188/206",
+    1
+   ],
+   [
+    "414/918",
+    1
+   ],
+   [
+    "422/902",
+    1
+   ],
+   [
+    "451/243",
+    1
+   ],
+   [
+    "752/243",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page services",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5",
+    "x": 75,
+    "w": 1290,
+    "pl": "48px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 108,
+    "w": 1224,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 188,
+    "w": 206,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 414,
+    "w": 918,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 422,
+    "w": 902,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 451,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 752,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1052,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1353,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1654,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 1954,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2255,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2556,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 2856,
+    "w": 243,
+    "pl": "0px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular service-template-default single single-service postid-2343 wp-theme-LegalAddress mm mm--b"
+ },
+ "svc-old-ru-390": {
+  "url": "/buhgalterskoe-obsluzhivanie-v-estonii/",
+  "status": 200,
+  "title": "Бухгалтерские услуги в Эстонии для OÜ и e-резидентов",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Бухгалтерское обслуживание в Эстонии",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "mt-0 mb-4 text-center",
+   "text": "Как передать бухгалтерию нам: 4 шага",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Ключевые факты",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "22px",
+   "lineHeight": "25.3px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "lai-disc__note",
+   "text": "*Дисклеймер: Материал носит общий информ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "13px",
+   "lineHeight": "20.8px",
+   "fontWeight": "400",
+   "color": "rgb(107, 114, 128)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Подготовка и подача годового отчета в",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "11px",
+   "lineHeight": "16px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "6px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "22px"
+  },
+  "td": {
+   "cls": "",
+   "text": "Кто обязан вести учёт",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "13.8px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "годового отчета",
+   "cls": "lai-autolink",
+   "color": "rgb(16, 25, 45)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(16, 25, 45)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(16, 25, 45)"
+  },
+  "btn": {
+   "cls": "btn green",
+   "text": "Отправить запрос",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "20px",
+   "fontWeight": "600",
+   "color": "rgb(255, 255, 255)",
+   "letterSpacing": "0.8px",
+   "marginTop": "0px",
+   "marginBottom": "20px",
+   "textTransform": "uppercase",
+   "backgroundColor": "rgb(49, 212, 75)",
+   "borderRadius": "16px",
+   "padding": "14px 0px"
+  },
+  "widths": [
+   [
+    "0/390",
+    1
+   ],
+   [
+    "15/360",
+    1
+   ],
+   [
+    "48/294",
+    1
+   ],
+   [
+    "109/0",
+    1
+   ],
+   [
+    "122/221",
+    1
+   ],
+   [
+    "114/237",
+    1
+   ],
+   [
+    "143/21",
+    1
+   ],
+   [
+    "221/21",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page services",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container px-0 px-md-5 py-0 py-md-5 my-0 my-md-5",
+    "x": 15,
+    "w": 360,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-widget-container ti-col-4",
+    "x": 48,
+    "w": 294,
+    "pl": "0px",
+    "mw": "100%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-header-write-btn-container",
+    "x": 109,
+    "w": 0,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container",
+    "x": 122,
+    "w": 221,
+    "pl": "0px",
+    "mw": "75%"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-reviews-container-wrapper",
+    "x": 114,
+    "w": 237,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 143,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 221,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 300,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 379,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 458,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 537,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 615,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 694,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ti-review-text-container ti-review-content",
+    "x": 773,
+    "w": 21,
+    "pl": "0px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular service-template-default single single-service postid-2343 wp-theme-LegalAddress mm mm--b"
+ },
+ "blog-ru-1440": {
+  "url": "/blog-ru/kriptovalyutnaya-kompaniya-v-estonii-2026/",
+  "status": 200,
+  "title": "Криптовалютная компания в Эстонии 2026: MiCA и CASP",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Криптовалютная компания в Эстонии 2026",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "",
+   "text": "Краткий ответ: главное за 60 секунд",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Требования к компании",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "28px",
+   "lineHeight": "32.2px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "",
+   "text": "Материал основан на Регламенте ЕС о рынк",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Регулятор — Finantsinspektsioon (EFSA). ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "22px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "12px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "32px"
+  },
+  "td": {
+   "cls": "",
+   "text": "1",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "лицензия CASP по MiCA",
+   "cls": "",
+   "color": "rgb(49, 212, 75)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(49, 212, 75)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(49, 212, 75)"
+  },
+  "btn": {
+   "cls": "ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-defaul",
+   "text": "Toggle",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "fontWeight": "400",
+   "color": "rgb(49, 212, 75)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none",
+   "backgroundColor": "rgba(0, 0, 0, 0)",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "widths": [
+   [
+    "60/1320",
+    2
+   ],
+   [
+    "332/777",
+    1
+   ],
+   [
+    "353/735",
+    1
+   ],
+   [
+    "0/1440",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ez-toc-v2_0_87_1 counter-hierarchy ez-toc-counter ",
+    "x": 332,
+    "w": 777,
+    "pl": "20px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ez-toc-title-container",
+    "x": 353,
+    "w": 735,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "blog mt-0",
+    "x": 0,
+    "w": 1440,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   }
+  ],
+  "bodyClass": "wp-singular post-template-default single single-post postid-4776 single-format-standard wp-theme-LegalAddress mm mm--b"
+ },
+ "blog-ru-390": {
+  "url": "/blog-ru/kriptovalyutnaya-kompaniya-v-estonii-2026/",
+  "status": 200,
+  "title": "Криптовалютная компания в Эстонии 2026: MiCA и CASP",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Криптовалютная компания в Эстонии 2026",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": {
+   "cls": "",
+   "text": "Краткий ответ: главное за 60 секунд",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "h3": {
+   "cls": "",
+   "text": "Требования к компании",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "22px",
+   "lineHeight": "25.3px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "32px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "",
+   "text": "Материал основан на Регламенте ЕС о рынк",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "li": {
+   "cls": "",
+   "text": "Регулятор — Finantsinspektsioon (EFSA). ",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "22px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "12px",
+   "textTransform": "none",
+   "listStyleType": "none",
+   "paddingLeft": "32px"
+  },
+  "td": {
+   "cls": "",
+   "text": "1",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "12px",
+   "lineHeight": "13.8px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "a": {
+   "text": "лицензия CASP по MiCA",
+   "cls": "",
+   "color": "rgb(49, 212, 75)",
+   "textDecorationLine": "none",
+   "textDecorationColor": "rgb(49, 212, 75)",
+   "textUnderlineOffset": "auto",
+   "fontWeight": "400",
+   "borderBottom": "0px none rgb(49, 212, 75)"
+  },
+  "btn": {
+   "cls": "ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-defaul",
+   "text": "Toggle",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(49, 212, 75)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none",
+   "backgroundColor": "rgba(0, 0, 0, 0)",
+   "borderRadius": "0px",
+   "padding": "0px"
+  },
+  "widths": [
+   [
+    "0/390",
+    3
+   ],
+   [
+    "15/360",
+    1
+   ],
+   [
+    "32/326",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "DIV",
+    "cls": "container content-page single-page",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ez-toc-v2_0_87_1 counter-hierarchy ez-toc-counter ",
+    "x": 15,
+    "w": 360,
+    "pl": "16px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "ez-toc-title-container",
+    "x": 32,
+    "w": 326,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "SECTION",
+    "cls": "blog mt-0",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "wp-singular post-template-default single single-post postid-4776 single-format-standard wp-theme-LegalAddress mm mm--b"
+ },
+ "bloglist-ru-1440": {
+  "url": "/blog-ru/",
+  "status": 200,
+  "title": "Блог — eBusiness Solutions OÜ",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Блог",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "40px",
+   "lineHeight": "46px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": null,
+  "h3": {
+   "cls": "h5 mt-3",
+   "text": "Криптовалютная компания в Эстонии 2026",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "20px",
+   "lineHeight": "23px",
+   "fontWeight": "400",
+   "color": "rgb(0, 0, 0)",
+   "letterSpacing": "normal",
+   "marginTop": "16px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "",
+   "text": "Когда криптокомпании в Эстонии нужна лиц",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(165, 165, 165)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": null,
+  "td": null,
+  "a": null,
+  "btn": null,
+  "widths": [
+   [
+    "0/1440",
+    1
+   ],
+   [
+    "60/1320",
+    1
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "SECTION",
+    "cls": "blog",
+    "x": 0,
+    "w": 1440,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container mb-5 content-page",
+    "x": 60,
+    "w": 1320,
+    "pl": "15px",
+    "mw": "1320px"
+   }
+  ],
+  "bodyClass": "archive category category-blog-ru category-112 wp-theme-LegalAddress mm mm--b"
+ },
+ "bloglist-ru-390": {
+  "url": "/blog-ru/",
+  "status": 200,
+  "title": "Блог — eBusiness Solutions OÜ",
+  "bodyFont": {
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "color": "rgb(16, 25, 45)"
+  },
+  "h1": {
+   "cls": "h2 my-4",
+   "text": "Блог",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "24px",
+   "lineHeight": "27.6px",
+   "fontWeight": "400",
+   "color": "rgb(16, 25, 45)",
+   "letterSpacing": "normal",
+   "marginTop": "24px",
+   "marginBottom": "24px",
+   "textTransform": "none"
+  },
+  "h2": null,
+  "h3": {
+   "cls": "h5 mt-3",
+   "text": "Криптовалютная компания в Эстонии 2026",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "20px",
+   "lineHeight": "23px",
+   "fontWeight": "400",
+   "color": "rgb(0, 0, 0)",
+   "letterSpacing": "normal",
+   "marginTop": "16px",
+   "marginBottom": "16px",
+   "textTransform": "none"
+  },
+  "p": {
+   "cls": "",
+   "text": "Когда криптокомпании в Эстонии нужна лиц",
+   "fontFamily": "Poppins, sans-serif",
+   "fontSize": "14px",
+   "lineHeight": "21px",
+   "fontWeight": "400",
+   "color": "rgb(165, 165, 165)",
+   "letterSpacing": "normal",
+   "marginTop": "0px",
+   "marginBottom": "0px",
+   "textTransform": "none"
+  },
+  "li": null,
+  "td": null,
+  "a": null,
+  "btn": null,
+  "widths": [
+   [
+    "0/390",
+    2
+   ]
+  ],
+  "secs": [
+   {
+    "tag": "SECTION",
+    "cls": "blog",
+    "x": 0,
+    "w": 390,
+    "pl": "0px",
+    "mw": "none"
+   },
+   {
+    "tag": "DIV",
+    "cls": "container mb-5 content-page",
+    "x": 0,
+    "w": 390,
+    "pl": "15px",
+    "mw": "none"
+   }
+  ],
+  "bodyClass": "archive category category-blog-ru category-112 wp-theme-LegalAddress mm mm--b"
+ }
+}

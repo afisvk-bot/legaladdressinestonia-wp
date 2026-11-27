@@ -1,7 +1,7 @@
 ## _title
 Aumento de capital de uma OÜ estónia
 ## _slug
-aumento-de-capital-ou-estonia
+aumento-de-capital-de-uma-ou-na-estonia
 ## rank_math_title
 Aumento de capital de uma OÜ na Estónia %currentyear%
 ## rank_math_description

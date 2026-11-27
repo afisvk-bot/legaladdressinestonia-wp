@@ -85,7 +85,7 @@ menu = {'items': [
   {'page': '4843', 'label': 'Payroll', 'parent': {'obj': 2746}, 'after': {'page': '4842'}},
 ], 'labels': labels}
 
-out = {'pages': pages, 'link_map': link_map, 'menu': menu, 'fallback': {}}
+out = {'pages': pages, 'link_map': link_map, 'menu': menu, 'fallback': {}, 'alt': {'1037': 844, '844': 1037}}
 blob = json.dumps(out, ensure_ascii=False)
 assert B not in blob and 'staging' not in blob
 json.dump(out, open('../../../wp-content/mu-plugins/lai-data/migrate-20261128.json', 'w'), ensure_ascii=False)

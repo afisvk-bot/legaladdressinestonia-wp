@@ -33,9 +33,10 @@ function lai_mig_20261128_tr( int $id, string $lang ): int {
 }
 
 /** {L:ID} → постоянная ссылка страницы на нужном языке (если перевода нет — EN). */
-function lai_mig_20261128_links( string $html, string $lang, int &$miss ): string {
-	return preg_replace_callback( '#\{L:(\d+)\}#', function ( $m ) use ( $lang, &$miss ) {
+function lai_mig_20261128_links( string $html, string $lang, int &$miss, array $alt = array() ): string {
+	return preg_replace_callback( '#\{L:(\d+)\}#', function ( $m ) use ( $lang, &$miss, $alt ) {
 		$t = lai_mig_20261128_tr( (int) $m[1], $lang );
+		if ( ! $t && ! empty( $alt[ $m[1] ] ) ) $t = lai_mig_20261128_tr( (int) $alt[ $m[1] ], $lang ); // близкая статья на том же языке
 		if ( $t ) return esc_url( get_permalink( $t ) );
 		$miss++;
 		$t = lai_mig_20261128_tr( (int) $m[1], 'en' );
@@ -207,7 +208,7 @@ function lai_mig_20261128_run(): array {
 	foreach ( $todo as $t ) {
 		list( $id, $lang, $fields, $key, $how ) = $t;
 		$miss = 0;
-		foreach ( $fields as $k => $v ) update_post_meta( $id, $k, wp_slash( lai_mig_20261128_links( (string) $v, $lang, $miss ) ) );
+		foreach ( $fields as $k => $v ) update_post_meta( $id, $k, wp_slash( lai_mig_20261128_links( (string) $v, $lang, $miss, (array) ( $d['alt'] ?? array() ) ) ) );
 		clean_post_cache( $id );
 		$log[] = "  $key/$lang: $how #$id " . get_permalink( $id ) . ( $miss ? " ($miss links → EN)" : '' );
 	}

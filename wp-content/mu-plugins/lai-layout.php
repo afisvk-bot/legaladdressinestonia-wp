@@ -11,6 +11,36 @@ add_action( 'wp_head', function () {
 	echo "<style id=\"lai-layout\">\n" . lai_layout_css() . "\n</style>\n";
 }, 100 );
 
+/* ── Типограф: неразрывные пробелы в тексте услуг и статей (только текст, теги и скрипты не трогаются) ── */
+function lai_typo( $html ) {
+	if ( ! is_string( $html ) || '' === $html || is_admin() || false === strpbrk( $html, " \n" ) ) return $html;
+	static $lang = null;
+	if ( null === $lang ) $lang = function_exists( 'pll_current_language' ) ? (string) pll_current_language() : '';
+	$nb    = "\u{00A0}";
+	$parts = preg_split( '#(<(?:script|style|pre|code|textarea)\b.*?</(?:script|style|pre|code|textarea)>|<[^>]+>)#is', $html, -1, PREG_SPLIT_DELIM_CAPTURE );
+	if ( ! $parts ) return $html;
+	foreach ( $parts as $i => $s ) {
+		if ( '' === $s || '<' === $s[0] ) continue;
+		$s = preg_replace( '#(?<=\d) (?=\d{3}(?!\d))#u', $nb, $s );            // 125 000, 1 000 000
+		$s = preg_replace( '#(?<=\d) (?=\d{3}(?!\d))#u', $nb, $s );
+		$s = preg_replace( '#(?<=[€$£]) (?=\d)|(?<=\d) (?=(?:€|%|‰))#u', $nb, $s ); // € 25, 24 %
+		$s = preg_replace( '# (?=[—–] )#u', $nb, $s );                           // слово — тире не уходит в начало строки
+		$s = preg_replace( '#(?<![\d\x{00A0}.,])(\d{1,2}) (?=\p{L})#u', '$1' . $nb, $s ); // 1 июля, 30 дней, 6 months
+		if ( in_array( $lang, array( 'ru', 'uk' ), true ) ) {
+			$s = preg_replace( '#(?<![\p{L}\d-])(в|во|с|со|к|ко|о|об|у|и|а|я|на|по|до|от|за|из|не|ни|же|бы|ли|ещё|при|для|без|под|над|то|й|та|чи|що|як|та|від|із|зі|ж)\s+(?=\S)#iu', '$1' . $nb, $s );
+		}
+		$parts[ $i ] = $s;
+	}
+	return implode( '', $parts );
+}
+add_action( 'template_redirect', function () {
+	if ( ! is_singular( array( 'post', 'service', 'licensing', 'industry', 'target' ) ) || isset( $_GET['lai_old'] ) ) return;
+	add_filter( 'the_content', 'lai_typo', 99 );
+	add_filter( 'acf/format_value', function ( $v, $id, $field ) {
+		return in_array( $field['type'] ?? '', array( 'wysiwyg', 'textarea', 'text' ), true ) ? lai_typo( $v ) : $v;
+	}, 99, 3 );
+} );
+
 function lai_layout_css(): string {
 	// T — текстовые блоки (статья, текстовые модули услуги); C — карточки «картинка + текст»
 	$T = 'body .content-page.single-page :is(.article-content,.block-text,.block-cta)';

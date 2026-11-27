@@ -1,0 +1,85 @@
+Success: Успешная очистка всех кэшей.
+== 4842: RU #4842 https://staging.dragonslots-gr.gr/vat-deklaratsii-v-estonii/
+  RU #4842: thumbnail already WebP (#4864)
+== 4843: RU #4843 https://staging.dragonslots-gr.gr/raschyot-zarplaty-v-estonii/
+  RU #4843: thumbnail already WebP (#4865)
+== 4844: RU #4844 https://staging.dragonslots-gr.gr/smena-chlena-pravleniya-estonskoj-kompanii/
+  RU #4844: thumbnail already WebP (#4866)
+== 4845: RU #4845 https://staging.dragonslots-gr.gr/prodazha-i-peredacha-dolej-estonskoj-ou/
+  RU #4845: thumbnail already WebP (#4867)
+== 4846: RU #4846 https://staging.dragonslots-gr.gr/uvelichenie-kapitala-estonskoj-ou/
+  RU #4846: thumbnail already WebP (#4868)
+== 4847: RU #4847 https://staging.dragonslots-gr.gr/umenshenie-kapitala-estonskoj-kompanii/
+  RU #4847: thumbnail already WebP (#4869)
+  4842/en: updated #4870 https://staging.dragonslots-gr.gr/vat-returns-in-estonia/
+  4842/uk: updated #4871 https://staging.dragonslots-gr.gr/vat-deklaratsiyi-v-estoniyi/
+  4842/de: updated #4872 https://staging.dragonslots-gr.gr/umsatzsteuererklaerungen-in-estland/
+  4842/es: updated #4873 https://staging.dragonslots-gr.gr/declaraciones-de-iva-en-estonia/
+  4842/fr: updated #4874 https://staging.dragonslots-gr.gr/declarations-de-tva-en-estonie/
+  4842/pt: updated #4875 https://staging.dragonslots-gr.gr/declaracoes-de-iva-na-estonia/
+  4842/tr: updated #4876 https://staging.dragonslots-gr.gr/estonyada-kdv-beyannameleri/
+  4842/zh: updated #4877 https://staging.dragonslots-gr.gr/aishaniya-zengzhishui-shenbao/
+  4843/en: updated #4878 https://staging.dragonslots-gr.gr/payroll-in-estonia/
+  4843/uk: updated #4879 https://staging.dragonslots-gr.gr/rozrakhunok-zarplaty-v-estoniyi/
+  4843/de: updated #4880 https://staging.dragonslots-gr.gr/lohnabrechnung-in-estland/
+  4843/es: updated #4881 https://staging.dragonslots-gr.gr/nominas-en-estonia/
+  4843/fr: updated #4882 https://staging.dragonslots-gr.gr/paie-en-estonie/
+  4843/pt: updated #4883 https://staging.dragonslots-gr.gr/processamento-salarial-na-estonia/
+  4843/tr: updated #4884 https://staging.dragonslots-gr.gr/estonyada-bordro-hesaplama/
+  4843/zh: updated #4885 https://staging.dragonslots-gr.gr/aishaniya-gongzi-hesuan/
+  4844/en: updated #4886 https://staging.dragonslots-gr.gr/change-of-board-member-estonia/
+  4844/uk: updated #4887 https://staging.dragonslots-gr.gr/zmina-chlena-pravlinnya-estonskoyi-kompaniyi/
+  4844/de: updated #4888 https://staging.dragonslots-gr.gr/wechsel-des-vorstandsmitglieds-estland/
+  4844/es: updated #4889 https://staging.dragonslots-gr.gr/cambio-de-administrador-empresa-estonia/
+  4844/fr: updated #4890 https://staging.dragonslots-gr.gr/changement-de-dirigeant-societe-estonienne/
+  4844/pt: updated #4891 https://staging.dragonslots-gr.gr/mudanca-de-gerente-empresa-estonia/
+  4844/tr: updated #4892 https://staging.dragonslots-gr.gr/estonya-yonetim-kurulu-uyesi-degisikligi/
+  4844/zh: updated #4893 https://staging.dragonslots-gr.gr/aishaniya-dongshihui-chengyuan-biangeng/
+  4845/en: updated #4894 https://staging.dragonslots-gr.gr/sale-and-transfer-of-shares-estonia/
+  4845/uk: updated #4895 https://staging.dragonslots-gr.gr/prodazh-i-peredacha-chastok-estonskoyi-ou/
+  4845/de: updated #4896 https://staging.dragonslots-gr.gr/verkauf-und-uebertragung-von-anteilen-estland/
+  4845/es: updated #4897 https://staging.dragonslots-gr.gr/venta-y-transmision-de-participaciones-estonia/
+  4845/fr: updated #4898 https://staging.dragonslots-gr.gr/vente-et-cession-de-parts-estonie/
+  4845/pt: updated #4899 https://staging.dragonslots-gr.gr/venda-e-transmissao-de-quotas-estonia/
+  4845/tr: updated #4900 https://staging.dragonslots-gr.gr/estonya-ou-pay-satisi-ve-devri/
+  4845/zh: updated #4901 https://staging.dragonslots-gr.gr/aishaniya-ou-guquan-chushou-zhuanrang/
+  4846/en: updated #4902 https://staging.dragonslots-gr.gr/share-capital-increase-estonia/
+  4846/uk: updated #4903 https://staging.dragonslots-gr.gr/zbilshennya-kapitalu-estonskoyi-ou/
+  4846/de: updated #4904 https://staging.dragonslots-gr.gr/kapitalerhoehung-ou-estland/
+  4846/es: updated #4905 https://staging.dragonslots-gr.gr/aumento-de-capital-ou-estonia/
+  4846/fr: updated #4906 https://staging.dragonslots-gr.gr/augmentation-de-capital-ou-estonie/
+  4846/pt: updated #4907 https://staging.dragonslots-gr.gr/aumento-de-capital-de-uma-ou-na-estonia/
+  4846/tr: updated #4908 https://staging.dragonslots-gr.gr/estonya-ou-sermaye-artirimi/
+  4846/zh: updated #4909 https://staging.dragonslots-gr.gr/aishaniya-ou-zengzi/
+  4847/en: updated #4910 https://staging.dragonslots-gr.gr/share-capital-reduction-estonia/
+  4847/uk: updated #4911 https://staging.dragonslots-gr.gr/zmenshennya-kapitalu-estonskoyi-kompaniyi/
+  4847/de: updated #4912 https://staging.dragonslots-gr.gr/kapitalherabsetzung-estland/
+  4847/es: updated #4913 https://staging.dragonslots-gr.gr/reduccion-de-capital-estonia/
+  4847/fr: updated #4914 https://staging.dragonslots-gr.gr/reduction-de-capital-estonie/
+  4847/pt: updated #4915 https://staging.dragonslots-gr.gr/reducao-de-capital-estonia/
+  4847/tr: updated #4916 https://staging.dragonslots-gr.gr/estonya-sermaye-azaltimi/
+  4847/zh: updated #4917 https://staging.dragonslots-gr.gr/aishaniya-gongsi-jianzi/
+menu: «Company Changes» already in EN menu (#4918)
+menu: «Share Sale and Transfer» already in EN menu (#4919)
+menu: «Change of Board Member» already in EN menu (#4920)
+menu: «Capital Increase» already in EN menu (#4921)
+menu: «Capital Reduction» already in EN menu (#4922)
+menu: «VAT Returns» already in EN menu (#4923)
+menu: «Payroll» already in EN menu (#4924)
+menu: reordered (54 items)
+menu sync zh/primary-menu: +0 ~0 -0
+menu sync de/primary-menu: +0 ~0 -0
+menu sync es/primary-menu: +0 ~0 -0
+menu sync fr/primary-menu: +0 ~0 -0
+menu sync ru/primary-menu: +0 ~0 -0
+menu sync pt/primary-menu: +0 ~0 -0
+menu sync tr/primary-menu: +0 ~0 -0
+menu sync uk/primary-menu: +0 ~0 -0
+menu sync zh/mobile_menu: +0 ~0 -0
+menu sync de/mobile_menu: +0 ~0 -0
+menu sync es/mobile_menu: +0 ~0 -0
+menu sync fr/mobile_menu: +0 ~0 -0
+menu sync ru/mobile_menu: +0 ~0 -0
+menu sync pt/mobile_menu: +0 ~0 -0
+menu sync tr/mobile_menu: +0 ~0 -0
+menu sync uk/mobile_menu: +0 ~0 -0

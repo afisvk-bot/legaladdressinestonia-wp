@@ -1,0 +1,19 @@
+#1269 service en https://staging.dragonslots-gr.gr/legal-address/
+#2254 service en https://staging.dragonslots-gr.gr/contact-person-in-estonia/
+#2156 service ru https://staging.dragonslots-gr.gr/registratsiya-vat-nomera-v-estonii/
+#2190 industry ru https://staging.dragonslots-gr.gr/industry/e-commerce-i-dropshipping/
+#2342 service ru https://staging.dragonslots-gr.gr/rabochaya-viza-i-vnzh-v-estonii/
+#2343 service ru https://staging.dragonslots-gr.gr/buhgalterskoe-obsluzhivanie-v-estonii/
+#2344 service ru https://staging.dragonslots-gr.gr/ezhemesyachnyj-buhgalterskij-uchet-v-estonii/
+#2345 service ru https://staging.dragonslots-gr.gr/nalogovyj-konsalting-v-estonii/
+#2346 service ru https://staging.dragonslots-gr.gr/oss-i-ioss-v-estonii/
+#4578 service en https://staging.dragonslots-gr.gr/accounting-restoration-in-estonia/
+#844 post ru https://staging.dragonslots-gr.gr/blog-ru/korporativnyj-nalog-estoniya-2026/
+nalogi-dlya-kompaniy-v-estonii => #1037 post ru https://staging.dragonslots-gr.gr/blog-ru/nalogi-dlya-kompaniy-v-estonii/
+ezhemesyachnyj-buhgalterskij-uchet-v-estonii => #2344 service ru https://staging.dragonslots-gr.gr/ezhemesyachnyj-buhgalterskij-uchet-v-estonii/
+gotovye-kompanii-v-estonii => #1401 service ru https://staging.dragonslots-gr.gr/gotovye-kompanii-v-estonii/
+kontaktnoe-litso-v-estonii => #2154 service ru https://staging.dragonslots-gr.gr/kontaktnoe-litso-v-estonii/
+estonskaya-holdingovaya-kompaniya => #2189 licensing ru https://staging.dragonslots-gr.gr/licensing/estonskaya-holdingovaya-kompaniya/
+finansovaya-litsenziya-v-estonii => #2183 licensing ru https://staging.dragonslots-gr.gr/licensing/finansovaya-litsenziya-v-estonii/
+vnzh-dlya-osnovatelya-kompanii-v-estonii => none
+yuridicheskij-adres-v-estonii => #1271 service ru https://staging.dragonslots-gr.gr/yuridicheskij-adres-v-estonii/

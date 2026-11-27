@@ -1,0 +1,220 @@
+{
+ "/vat-deklaratsii-v-estonii/": {
+  "status": 200,
+  "title": "Подача VAT-декларации (KMD и KMD INF) в Эстонии 2026",
+  "desc": "Сопровождение подачи VAT-декларации (KMD и KMD INF) в Эстонии: расчёт НСО 24%, зачёт входного налога, отчётность VD и сдача в EMTA до 20-го числа.",
+  "robots": "nofollow, noindex",
+  "h1count": 1,
+  "h": [
+   "H1:VAT-декларации в Эстонии",
+   "H2:Как передать нам VAT-отчётность: 4 шага",
+   "H2:Провайдером данной услуги является компания eBusiness Soluti",
+   "H2:Пакеты обслуживания",
+   "H2:Ключевой инсайт: VAT ломается в трёх местах, и ни одно не ви",
+   "H2:Когда KMD не нужна и когда её недостаточно",
+   "H2:Какие услуги мы ещё оказываем",
+   "H2:Что входит в VAT-отчётность эстонской компании",
+   "H2:Как подаётся декларация KMD в Эстонии: практика",
+   "H2:Часто задаваемые вопросы",
+   "H2:Пришлите выгрузку продаж и закупок — проверим ставки и назов",
+   "H2:Блог"
+  ],
+  "bad": [],
+  "imgs": [
+   "logo.svg 150x45 alt=Legal Address in Estonia",
+   "VAT-return-1536x658.jpg 1280x548 alt=VAT-декларации в Эстонии",
+   "steps.webp 1496x1256 alt=Как передать нам VAT-отчётность: 4 шага"
+  ],
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "Person,WebPage"
+  ]
+ },
+ "/prodazha-i-peredacha-dolej-estonskoj-ou/": {
+  "status": 200,
+  "title": "Продажа и передача долей компании (OÜ) в Эстонии 2026",
+  "desc": "Сопровождение продажи и передачи долей OÜ в Эстонии: подготовка договора, нотариальная сделка (включая e-Notary) и регистрация в Коммерческом регистре.",
+  "robots": "nofollow, noindex",
+  "h1count": 1,
+  "h": [
+   "H1:Продажа и передача долей эстонской OÜ",
+   "H2:Как передать долю: 4 шага",
+   "H2:Провайдером данной услуги является компания eBusiness Soluti",
+   "H2:Пакеты услуг",
+   "H2:Ключевой инсайт: дорого обходится не нотариус, а то, что не ",
+   "H2:Когда передача доли не нужна и когда её недостаточно",
+   "H2:Какие услуги мы ещё оказываем",
+   "H2:Четыре способа сменить владельца OÜ",
+   "H2:Как продать долю в эстонской OÜ: практика",
+   "H2:Часто задаваемые вопросы",
+   "H2:Пришлите параметры сделки — подберём самый короткий маршрут",
+   "H2:Блог"
+  ],
+  "bad": [
+   "404 /services/corporate-changes/share-capital-increase/",
+   "404 /services/corporate-changes/board-member-change/",
+   "404 /services/corporate-changes/share-capital-decrease/",
+   "404 /services/corporate-changes/articles-amendment/",
+   "404 /services/corporate-changes/ubo-update/",
+   "404 /target/ukrainian-entrepreneurs/"
+  ],
+  "imgs": [
+   "logo.svg 150x45 alt=Legal Address in Estonia",
+   "Sale-and-transfer-of-shares-in-an-Estonian-OU--1536x658.jpg 1280x548 alt=Продажа и передача долей эстонской OÜ",
+   "steps.webp 1496x1256 alt=Как передать долю: 4 шага"
+  ],
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "Person,WebPage"
+  ]
+ },
+ "/raschyot-zarplaty-v-estonii/": {
+  "status": 200,
+  "title": "Расчёт зарплаты и зарплатных налогов в Эстонии (TSD) для компаний OÜ",
+  "desc": "Бухгалтерский расчёт заработной платы в Эстонии под ключ: начисление брутто и нетто, удержание налогов, выплаты члену правления и ежемесячная подача декларации TSD в Налогово-таможенный департамент (EMTA).",
+  "robots": "nofollow, noindex",
+  "h1count": 1,
+  "h": [
+   "H1:Расчёт зарплаты в Эстонии",
+   "H2:Как передать нам расчёт зарплаты: 4 шага",
+   "H2:Провайдером данной услуги является компания eBusiness Soluti",
+   "H2:Пакеты обслуживания",
+   "H2:Ключевой инсайт: ошибки payroll — не в ставках, а в настройк",
+   "H2:Когда эстонский payroll не нужен и когда его недостаточно",
+   "H2:Какие услуги мы ещё оказываем",
+   "H2:Из чего складывается зарплата в Эстонии: сотрудник, член пра",
+   "H2:Как устроен расчёт зарплаты в Эстонии: практика",
+   "H2:Часто задаваемые вопросы",
+   "H2:Пришлите состав команды — назовём фиксированную цену payroll",
+   "H2:Блог"
+  ],
+  "bad": [],
+  "imgs": [
+   "logo.svg 150x45 alt=Legal Address in Estonia",
+   "Salary-calculation-1536x658.jpg 1280x548 alt=Расчёт зарплаты в Эстонии",
+   "steps.webp 1496x1256 alt=Как передать нам расчёт зарплаты: 4 шага"
+  ],
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "Person,WebPage"
+  ]
+ },
+ "/smena-chlena-pravleniya-estonskoj-kompanii/": {
+  "status": 200,
+  "title": "Смена члена правления компании (OÜ) в Эстонии 2026",
+  "desc": "Сопровождение смены члена правления OÜ в Эстонии: подготовка решения участников, подача заявления через e-Residency или доверенность и регистрация в Äriregister.",
+  "robots": "nofollow, noindex",
+  "h1count": 1,
+  "h": [
+   "H1:Смена члена правления эстонской компании",
+   "H2:Как сменить члена правления: 4 шага",
+   "H2:Провайдером данной услуги является компания eBusiness Soluti",
+   "H2:Пакеты услуг",
+   "H2:Ключевой инсайт: запись в регистре — половина работы",
+   "H2:Когда смена правления не нужна и когда её недостаточно",
+   "H2:Какие услуги мы ещё оказываем",
+   "H2:Кто такой член правления OÜ и что меняется при его смене",
+   "H2:Как сменить члена правления OÜ: практика",
+   "H2:Часто задаваемые вопросы",
+   "H2:Пришлите регистрационный код — подготовим смену правления за",
+   "H2:Блог"
+  ],
+  "bad": [
+   "404 /services/corporate-changes/share-transfer/",
+   "404 /services/corporate-changes/articles-amendment/",
+   "404 /services/corporate-changes/ubo-update/",
+   "404 /accounting/payroll/",
+   "404 /accounting/switch-accountant/",
+   "404 /accounting/clean-up/"
+  ],
+  "imgs": [
+   "logo.svg 150x45 alt=Legal Address in Estonia",
+   "Change-of-a-board-member-1536x658.jpg 1280x548 alt=Смена члена правления эстонской компании",
+   "steps.webp 1496x1256 alt=Как сменить члена правления: 4 шага"
+  ],
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "Person,WebPage"
+  ]
+ },
+ "/uvelichenie-kapitala-estonskoj-ou/": {
+  "status": 200,
+  "title": "Увеличение уставного капитала компании (OÜ) в Эстонии 2026",
+  "desc": "Сопровождение увеличения уставного капитала OÜ в Эстонии: подготовка документов, оформление денежного или неденежного взноса и регистрация в Äriregister.",
+  "robots": "nofollow, noindex",
+  "h1count": 1,
+  "h": [
+   "H1:Увеличение капитала эстонской OÜ",
+   "H2:Как увеличить капитал: 4 шага",
+   "H2:Провайдером данной услуги является компания eBusiness Soluti",
+   "H2:Пакеты услуг",
+   "H2:Ключевой инсайт: вклад нужно не только внести, но и задеклар",
+   "H2:Когда увеличение капитала не нужно и когда его недостаточно",
+   "H2:Какие услуги мы ещё оказываем",
+   "H2:Три способа увеличить капитал OÜ",
+   "H2:Как увеличить капитал эстонской OÜ: практика",
+   "H2:Часто задаваемые вопросы",
+   "H2:Опишите задачу — подберём способ увеличения капитала",
+   "H2:Блог"
+  ],
+  "bad": [
+   "404 /services/corporate-changes/share-transfer/",
+   "404 /services/corporate-changes/share-capital-decrease/",
+   "404 /services/corporate-changes/articles-amendment/",
+   "404 /services/corporate-changes/ubo-update/",
+   "404 /vnzh-dlya-osnovatelya-kompanii-v-estonii/"
+  ],
+  "imgs": [
+   "logo.svg 150x45 alt=Legal Address in Estonia",
+   "Capital-increase-for-an-Estonian-OU--1536x658.jpg 1280x548 alt=Увеличение капитала эстонской OÜ",
+   "steps.webp 1496x1256 alt=Как увеличить капитал: 4 шага"
+  ],
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "Person,WebPage"
+  ]
+ },
+ "/umenshenie-kapitala-estonskoj-kompanii/": {
+  "status": 200,
+  "title": "Уменьшение уставного капитала компании (OÜ) в Эстонии 2026",
+  "desc": "Сопровождение уменьшения уставного капитала OÜ в Эстонии: подготовка документов, уведомление кредиторов, регистрация в Äriregister и налоговые нюансы.",
+  "robots": "nofollow, noindex",
+  "h1count": 1,
+  "h": [
+   "H1:Уменьшение капитала эстонской компании",
+   "H2:Как уменьшить капитал: 4 шага",
+   "H2:Провайдером данной услуги является компания eBusiness Soluti",
+   "H2:Пакеты услуг",
+   "H2:Ключевой инсайт: без налога возвращается не капитал, а задек",
+   "H2:Когда уменьшение капитала не нужно и когда его недостаточно",
+   "H2:Какие услуги мы ещё оказываем",
+   "H2:Зачем уменьшают капитал",
+   "H2:Как уменьшить капитал эстонской OÜ: практика",
+   "H2:Часто задаваемые вопросы",
+   "H2:Пришлите регистрационный код — посчитаем необлагаемую сумму ",
+   "H2:Блог"
+  ],
+  "bad": [
+   "404 /services/corporate-changes/share-transfer/",
+   "404 /services/corporate-changes/share-capital-increase/",
+   "404 /services/corporate-changes/articles-amendment/",
+   "404 /services/corporate-changes/ubo-update/",
+   "404 /accounting/clean-up/"
+  ],
+  "imgs": [
+   "logo.svg 150x45 alt=Legal Address in Estonia",
+   "Reduction-of-an-Estonian-company-s-capital-1536x658.jpg 1280x548 alt=Уменьшение капитала эстонской компании",
+   "steps.webp 1496x1256 alt=Как уменьшить капитал: 4 шага"
+  ],
+  "schema": [
+   "BreadcrumbList",
+   "FAQPage",
+   "Person,WebPage"
+  ]
+ }
+}

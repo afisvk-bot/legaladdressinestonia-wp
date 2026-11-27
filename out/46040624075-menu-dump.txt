@@ -1,0 +1,63 @@
+== zh (54):
+  公司变更 › 股权出售与转让 → /aishaniya-ou-guquan-chushou-zhuanrang/
+  公司变更 › 董事会成员变更 → /aishaniya-dongshihui-chengyuan-biangeng/
+  公司变更 › 增资 → /aishaniya-ou-zengzi/
+  公司变更 › 减资 → /aishaniya-gongsi-jianzi/
+  会计与税务 › 增值税申报 → /aishaniya-zengzhishui-shenbao/
+  会计与税务 › 工资核算 → /aishaniya-gongzi-hesuan/
+== de (54):
+  Unternehmensänderungen › Anteilsverkauf und -übertragung → /verkauf-und-uebertragung-von-anteilen-estland/
+  Unternehmensänderungen › Wechsel des Vorstands → /wechsel-des-vorstandsmitglieds-estland/
+  Unternehmensänderungen › Kapitalerhöhung → /kapitalerhoehung-ou-estland/
+  Unternehmensänderungen › Kapitalherabsetzung → /kapitalherabsetzung-estland/
+  Buchhaltung & Steuern › Umsatzsteuererklärungen → /umsatzsteuererklaerungen-in-estland/
+  Buchhaltung & Steuern › Lohnabrechnung → /lohnabrechnung-in-estland/
+== en (54):
+  Company Changes › Share Sale and Transfer → /sale-and-transfer-of-shares-estonia/
+  Company Changes › Change of Board Member → /change-of-board-member-estonia/
+  Company Changes › Capital Increase → /share-capital-increase-estonia/
+  Company Changes › Capital Reduction → /share-capital-reduction-estonia/
+  Accounting & Tax › VAT Returns → /vat-returns-in-estonia/
+  Accounting & Tax › Payroll → /payroll-in-estonia/
+== es (54):
+  Cambios en la empresa › Venta y transmisión de participaciones → /venta-y-transmision-de-participaciones-estonia/
+  Cambios en la empresa › Cambio de administrador → /cambio-de-administrador-empresa-estonia/
+  Cambios en la empresa › Aumento de capital → /aumento-de-capital-ou-estonia/
+  Cambios en la empresa › Reducción de capital → /reduccion-de-capital-estonia/
+  Contabilidad e impuestos › Declaraciones de IVA → /declaraciones-de-iva-en-estonia/
+  Contabilidad e impuestos › Nóminas → /nominas-en-estonia/
+== fr (54):
+  Modifications de société › Vente et cession de parts → /vente-et-cession-de-parts-estonie/
+  Modifications de société › Changement de dirigeant → /changement-de-dirigeant-societe-estonienne/
+  Modifications de société › Augmentation de capital → /augmentation-de-capital-ou-estonie/
+  Modifications de société › Réduction de capital → /reduction-de-capital-estonie/
+  Comptabilité et fiscalité › Déclarations de TVA → /declarations-de-tva-en-estonie/
+  Comptabilité et fiscalité › Paie → /paie-en-estonie/
+== pt (54):
+  Alterações na empresa › Venda e transmissão de quotas → /venda-e-transmissao-de-quotas-estonia/
+  Alterações na empresa › Mudança de gerente → /mudanca-de-gerente-empresa-estonia/
+  Alterações na empresa › Aumento de capital → /aumento-de-capital-de-uma-ou-na-estonia/
+  Alterações na empresa › Redução de capital → /reducao-de-capital-estonia/
+  Contabilidade e impostos › Declarações de IVA → /declaracoes-de-iva-na-estonia/
+  Contabilidade e impostos › Processamento salarial → /processamento-salarial-na-estonia/
+== ru (54):
+  Изменения в компании › Продажа и передача долей → /prodazha-i-peredacha-dolej-estonskoj-ou/
+  Изменения в компании › Смена члена правления → /smena-chlena-pravleniya-estonskoj-kompanii/
+  Изменения в компании › Увеличение капитала → /uvelichenie-kapitala-estonskoj-ou/
+  Изменения в компании › Уменьшение капитала → /umenshenie-kapitala-estonskoj-kompanii/
+  Бухучет и налоги › VAT-декларации → /vat-deklaratsii-v-estonii/
+  Бухучет и налоги › Расчёт зарплаты → /raschyot-zarplaty-v-estonii/
+== tr (54):
+  Şirket değişiklikleri › Pay satışı ve devri → /estonya-ou-pay-satisi-ve-devri/
+  Şirket değişiklikleri › Yönetim kurulu değişikliği → /estonya-yonetim-kurulu-uyesi-degisikligi/
+  Şirket değişiklikleri › Sermaye artırımı → /estonya-ou-sermaye-artirimi/
+  Şirket değişiklikleri › Sermaye azaltımı → /estonya-sermaye-azaltimi/
+  Muhasebe ve vergi › KDV beyannameleri → /estonyada-kdv-beyannameleri/
+  Muhasebe ve vergi › Bordro → /estonyada-bordro-hesaplama/
+== uk (54):
+  Зміни в компанії › Продаж і передача часток → /prodazh-i-peredacha-chastok-estonskoyi-ou/
+  Зміни в компанії › Зміна члена правління → /zmina-chlena-pravlinnya-estonskoyi-kompaniyi/
+  Зміни в компанії › Збільшення капіталу → /zbilshennya-kapitalu-estonskoyi-ou/
+  Зміни в компанії › Зменшення капіталу → /zmenshennya-kapitalu-estonskoyi-kompaniyi/
+  Бухоблік і податки › VAT-декларації → /vat-deklaratsiyi-v-estoniyi/
+  Бухоблік і податки › Розрахунок зарплати → /rozrakhunok-zarplaty-v-estoniyi/

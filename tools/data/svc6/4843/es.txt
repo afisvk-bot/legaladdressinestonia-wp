@@ -1,0 +1,289 @@
+## _title
+Nóminas en Estonia
+## _slug
+nominas-en-estonia
+## rank_math_title
+Nóminas en Estonia: impuestos y TSD para una OÜ %currentyear%
+## rank_math_description
+Nóminas en Estonia llave en mano: bruto y neto, impuestos del empleador, retribución del administrador, registro de empleo y declaración TSD mensual.
+## rank_math_focus_keyword
+Nóminas en Estonia
+## _step_desc
+Si no sabe cómo pagarse a sí mismo (retribución de administrador, salario o dividendos), envíenos las cifras y calcularemos ambas opciones gratis.
+## content_blocks_0_content
+Las nóminas en Estonia parecen sencillas: un impuesto sobre la renta plano del 22 %, un impuesto social del 33 % y una declaración al mes. Los errores están en los detalles. El mínimo exento solo se aplica si el trabajador lo solicita. El impuesto social se paga como mínimo sobre la base mínima, incluso a tiempo parcial. Los primeros días de baja los paga el empleador, no la caja de salud. Y desde octubre de 2026 la TSD se presenta como un flujo de datos, no como un formulario.
+
+La segunda parte de los errores es organizativa. El trabajador debe inscribirse en el registro de empleo antes del primer día de trabajo, no después de la primera nómina. La retribución de un miembro del consejo tributa de forma distinta al salario. Y un «empleado remoto» en el extranjero a menudo no es nómina estonia, sino obligaciones de empleador en otro país.
+<blockquote>Calculamos salarios y retribuciones del consejo, registramos el empleo, presentamos la TSD con el nuevo esquema basado en datos y calculamos bajas, vacaciones e indemnizaciones. Para equipos pequeños, precio fijo por empleado, sin recargo por cada declaración.</blockquote>
+## content_blocks_3_content
+<h3><b>Datos clave</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicación práctica</b></td>
+</tr>
+<tr>
+<td>Impuesto sobre la renta</td>
+<td>22 % del pago tras el mínimo exento</td>
+</tr>
+<tr>
+<td>Mínimo exento</td>
+<td>700 € al mes para todos desde 2026 (776 € en edad de jubilación); solo a solicitud del trabajador</td>
+</tr>
+<tr>
+<td>Impuesto social</td>
+<td>33 % a cargo del empleador; base mínima 886 €, es decir, al menos 292,38 € al mes</td>
+</tr>
+<tr>
+<td>Seguro de desempleo</td>
+<td>1,6 % retenido al trabajador, 0,8 % a cargo del empleador</td>
+</tr>
+<tr>
+<td>Pensión capitalizada (II pilar)</td>
+<td>2 %, 4 % o 6 % a elección del trabajador</td>
+</tr>
+<tr>
+<td>Retribución del administrador</td>
+<td>22 % de impuesto sobre la renta y 33 % de impuesto social, sin seguro de desempleo</td>
+</tr>
+<tr>
+<td>Registro de empleo (TÖR)</td>
+<td>Alta como muy tarde al inicio del trabajo; baja en un plazo de 10 días</td>
+</tr>
+<tr>
+<td>Declaración TSD</td>
+<td>Hasta el día 10 del mes siguiente al pago; basada en datos desde octubre de 2026</td>
+</tr>
+<tr>
+<td>Pago de impuestos</td>
+<td>Hasta el día 10 del mes siguiente</td>
+</tr>
+<tr>
+<td>Baja por enfermedad</td>
+<td>Días 1–3 sin pago; días 4–8, el empleador, 70 % del salario medio; desde el día 9, Tervisekassa</td>
+</tr>
+<tr>
+<td>Vacaciones anuales</td>
+<td>28 días naturales</td>
+</tr>
+<tr>
+<td>Opciones y beneficios</td>
+<td>El impuesto sobre beneficios lo paga la empresa: 22/78 más un 33 % adicional</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Cómo encargarnos sus nóminas: 4 pasos
+## content_blocks_4_step_1
+Envíe su solicitud. Cuántos empleados y miembros del consejo reciben pagos, dónde viven y trabajan y qué contratos tienen: laborales, de administrador o de servicios.
+## content_blocks_4_step_2
+Reciba asesoramiento. Determinamos qué tributa en Estonia, a quién y cómo dar de alta en el TÖR, si hace falta registrarse como empleador en otro país, y le damos un precio fijo.
+## content_blocks_4_step_3
+Firme el contrato y dé los accesos. Permisos en e-MTA y datos de las solicitudes de mínimo exento y del tipo de pensión del II pilar, todo en línea.
+## content_blocks_4_step_4
+Calculamos y presentamos. Nómina mensual, recibos de salario, TSD basada en datos antes del día 10 e importes a pagar por adelantado.
+## content_blocks_6_tariff_title
+Paquetes de servicios
+## content_blocks_6_tariff_items_0_name
+Paquete «Administrador»
+## content_blocks_6_tariff_items_0_package_items
+<li>Contrato de administrador y alta en el registro de empleo
+<li>Cálculo mensual de la retribución: impuesto sobre la renta e impuesto social
+<li>TSD antes del día 10 y aviso del importe a pagar
+<li>Cálculo anual «retribución o dividendos» con sus cifras
+<li>Planteamiento para no residentes: qué tributa en Estonia y qué acreditar en su país</li>
+## content_blocks_6_tariff_items_1_name
+Paquete «Nóminas para el equipo» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Todo lo incluido en el paquete «Administrador»
+<li>Registro del inicio, la suspensión y el fin del trabajo en el TÖR
+<li>Salarios, vacaciones, bajas de los días 4–8 e indemnizaciones por despido
+<li>Control de las solicitudes de mínimo exento y del tipo de pensión del II pilar
+<li>Impuesto social mínimo a tiempo parcial
+<li>TSD basada en datos con corrección de errores antes del plazo
+<li>Recibos de salario para los empleados</li>
+## content_blocks_6_tariff_items_2_name
+Paquete «Nóminas + equipo internacional»
+## content_blocks_6_tariff_items_2_package_items
+<li>Todo lo incluido en el paquete «Nóminas para el equipo»
+<li>Trabajadores extranjeros en Estonia: registro, condiciones del permiso de trabajo, control del criterio salarial
+<li>Pagos a no residentes: convenios fiscales, certificados de residencia
+<li>Empleados en el extranjero: evaluación de las obligaciones de empleador en su país y coordinación con nómina local o un EOR
+<li>Opciones y beneficios especiales: regla de los tres años e impuesto sobre beneficios
+<li>Informes para el grupo y los inversores</li>
+## content_blocks_7_title_right
+Clave: los errores de nómina no están en los tipos, sino en la configuración
+## content_blocks_7_text_right
+Los tipos en Estonia son planos, y eso crea una falsa sensación de sencillez. En la práctica, los errores se concentran en cinco puntos:
+<ul>
+<li><b>Mínimo exento sin solicitud.</b> Los 700 € solo se aplican a solicitud del trabajador y con un único empleador. Si lo solicitó a dos empleadores, a final de año tendrá que pagar la diferencia.</li>
+<li><b>Impuesto social mínimo.</b> A tiempo parcial, el impuesto social se paga como mínimo sobre 886 € al mes, salvo que se aplique una excepción. Suele olvidarse con estudiantes y pluriempleo.</li>
+<li><b>Baja de los días 4–8.</b> La paga el empleador con fondos propios; Tervisekassa solo interviene desde el día 9. Sin ella, la nómina de un mes con baja es incorrecta.</li>
+<li><b>TÖR después de la primera nómina.</b> El inicio del trabajo se registra antes del primer día. Registrarlo con fecha retroactiva es una infracción que aparece en cualquier inspección.</li>
+<li><b>Fórmula antigua del mínimo exento.</b> Desde 2026 el mínimo es único, sin reducción al aumentar los ingresos. Los programas con la configuración antigua fallan en cada nómina.</li>
+</ul>
+<b>Conclusión práctica:</b> antes de la primera nómina comprobamos no solo el tipo, sino las solicitudes, el tipo de contrato, el alta en el TÖR y el tipo de pensión de cada trabajador. Lo hacemos al inicio.
+## content_blocks_8_title_left
+Cuándo no hace falta la nómina estonia y cuándo no basta
+## content_blocks_8_text_left
+Un análisis honesto ahorra más que el propio servicio.
+<ul>
+<li><b>El empleado vive y trabaja en otro país.</b> Su salario normalmente tributa allí, y la empresa estonia puede tener obligaciones de empleador en ese país. La TSD estonia no lo cubre: necesita nómina local o un EOR.</li>
+<li><b>Un autónomo le factura como empresa.</b> No es un salario: él paga sus impuestos en su país y usted paga la factura.</li>
+<li><b>El propietario no cobra nada.</b> Si no hay retribución de administrador ni salario, normalmente no se presenta la TSD mensual; basta con la contabilidad mensual y un acuerdo de dividendos.</li>
+<li><b>Un extranjero trabaja en Estonia.</b> No basta con la nómina y el TÖR: hay que cumplir las condiciones del permiso de trabajo, incluido el criterio salarial. No pagar el salario exigido puede acarrear una multa de hasta 32.000 €.</li>
+<li><b>Opciones y bonus en acciones.</b> Es una cuestión del impuesto sobre beneficios que paga la empresa y de la regla de los tres años para opciones. Una nómina simple no lo contempla.</li>
+</ul>
+## content_blocks_9_title_right
+Otros servicios que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Servicios contables</a>: toda la sección</li>
+<li><a href="{L:2344}">Contabilidad mensual</a>: la base a la que se conecta la nómina</li>
+<li><a href="{L:4842}">Declaraciones de IVA (KMD)</a>: cada mes antes del día 20</li>
+<li><a href="{L:4490}">Contabilidad para e-residentes</a>: retribución del administrador desde el extranjero</li>
+<li><a href="{L:2342}">Visado de trabajo y permiso de residencia</a>: para empleados extranjeros</li>
+<li><a href="{L:4529}">Empresa para startups</a>: opciones e impuesto sobre beneficios</li>
+<li><a href="{L:2345}">Asesoría fiscal</a>: retribución o dividendos</li>
+<li><a href="{L:4578}">Restablecimiento de la contabilidad</a>: si no se presentaron TSD de meses anteriores</li>
+</ul>
+La nómina es parte de la contabilidad, no un servicio aparte. Cuando nóminas y contabilidad las lleva un mismo proveedor, los importes de la TSD coinciden con los gastos de la contabilidad y de las cuentas anuales sin conciliación manual.
+## content_blocks_10_content
+<h2><b>De qué se compone la retribución en Estonia: empleado, administrador, contratista</b></h2>
+Un pago a una persona física en Estonia tributa de forma distinta según su fundamento. Confundirlos es el error más habitual en la primera contratación.
+<table>
+<tbody>
+<tr>
+<td><b>Fundamento</b></td>
+<td><b>Impuesto sobre la renta</b></td>
+<td><b>Impuesto social</b></td>
+<td><b>Seguro de desempleo</b></td>
+<td><b>Pensión II pilar</b></td>
+<td><b>Registro de empleo</b></td>
+</tr>
+<tr>
+<td>Contrato laboral</td>
+<td>22 %</td>
+<td>33 % (al menos sobre la base mínima)</td>
+<td>1,6 % + 0,8 %</td>
+<td>2/4/6 %</td>
+<td>Sí</td>
+</tr>
+<tr>
+<td>Contrato de administrador</td>
+<td>22 %</td>
+<td>33 %</td>
+<td>No</td>
+<td>2/4/6 %</td>
+<td>Sí</td>
+</tr>
+<tr>
+<td>Contrato de servicios con persona física</td>
+<td>22 %</td>
+<td>33 %</td>
+<td>No</td>
+<td>2/4/6 %</td>
+<td>Sí</td>
+</tr>
+<tr>
+<td>Factura de un autónomo o una empresa</td>
+<td>Sin retención</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+Ejemplo con 2.000 € brutos, pensión del 2 % y solicitud de mínimo exento: el trabajador cobra unos 1.658 € netos y la empresa gasta unos 2.676 €, porque el impuesto social y el seguro de desempleo se suman al bruto.
+<h2><b>Cómo funciona la nómina en Estonia: práctica</b></h2>
+<h3><b>Orden de cálculo: del bruto al neto</b></h3>
+<ol>
+<li>Salario bruto según contrato.</li>
+<li>Menos la aportación a la pensión capitalizada del II pilar: 2 %, 4 % o 6 %.</li>
+<li>Menos el seguro de desempleo del trabajador: 1,6 %.</li>
+<li>Menos el mínimo exento: 700 € si hay solicitud.</li>
+<li>Sobre el resto, impuesto sobre la renta del 22 %.</li>
+<li>Además del bruto, el empleador paga un 33 % de impuesto social y un 0,8 % de seguro de desempleo.</li>
+</ol>
+<h3><b>Registro de empleo (TÖR)</b></h3>
+Toda persona a la que la empresa paga por un trabajo con obligación tributaria en Estonia debe constar en el registro de empleo. El alta se hace como muy tarde al inicio del trabajo: tipo de contrato, fecha de inicio y, en un contrato laboral, puesto, dirección del lugar de trabajo y jornada. Un extranjero sin código personal estonio puede registrarse por su fecha de nacimiento durante un máximo de cinco días. El fin del trabajo se registra en un plazo de 10 días. Los datos del TÖR son la base del seguro médico del trabajador, así que un error aquí le afecta directamente.
+<h3><b>La declaración TSD desde octubre de 2026</b></h3>
+Desde el 1 de octubre de 2026, los datos de pagos de los antiguos anexos 1 y 2 se transmiten directamente desde el programa contable y la EMTA genera la declaración. La empresa la confirma antes del día 10. La primera TSD con el nuevo esquema es la de octubre, con vencimiento el 10 de noviembre de 2026. Se mantiene la introducción manual en e-MTA, el CSV anterior se acepta hasta finales de 2027 y los anexos 3–8 pasarán a datos en 2028.
+<h3><b>Bajas y vacaciones</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Situación</b></td>
+<td><b>Quién paga y cuánto</b></td>
+</tr>
+<tr>
+<td>Baja, días 1–3</td>
+<td>Sin pago</td>
+</tr>
+<tr>
+<td>Baja, días 4–8</td>
+<td>Empleador, 70 % del salario medio</td>
+</tr>
+<tr>
+<td>Baja desde el día 9</td>
+<td>Tervisekassa, 70 %, con límite diario</td>
+</tr>
+<tr>
+<td>Vacaciones anuales</td>
+<td>28 días naturales con el salario medio</td>
+</tr>
+<tr>
+<td>Vacaciones no disfrutadas al cesar</td>
+<td>Se compensan</td>
+</tr>
+</tbody>
+</table>
+La prestación por enfermedad que paga el empleador tributa en el impuesto sobre la renta, y el salario medio se calcula sobre los últimos seis meses.
+<h3><b>Retribución del administrador</b></h3>
+La retribución por contrato de miembro del consejo tributa al 22 % en el impuesto sobre la renta y al 33 % en el impuesto social, pero no en el seguro de desempleo. La regla se aplica también a administradores que viven en el extranjero: los pagos de una empresa estonia por el trabajo en el consejo tributan en Estonia. Más sobre la elección entre retribución y dividendos en el artículo <a href="{L:844}">impuesto de sociedades en Estonia en 2026</a>.
+<h3><b>Empleados extranjeros</b></h3>
+Un extranjero de fuera de la UE trabaja en Estonia con un registro de corta duración o un permiso de residencia para trabajar. El empleador confirma que pagará al menos el salario exigido y puede recibir una multa de hasta 32.000 € si lo incumple. Los empleados de startups trabajan en condiciones simplificadas a través del programa Startup Visa.
+<h3><b>Qué conservar</b></h3>
+Los contratos laborales, las solicitudes de mínimo exento, los registros de jornada, los recibos de salario y los justificantes de los pagos se conservan con la documentación contable durante al menos siete años.
+## content_blocks_11_faq_items_0_question
+¿Qué impuestos se pagan sobre el salario en Estonia?
+## content_blocks_11_faq_items_0_answer
+Trabajador: impuesto sobre la renta del 22 % tras el mínimo exento de 700 €, seguro de desempleo del 1,6 % y pensión del II pilar del 2–6 %. Empleador, además del bruto: impuesto social del 33 % y seguro de desempleo del 0,8 %.
+## content_blocks_11_faq_items_1_question
+¿Cuánto le cuesta un empleado a la empresa?
+## content_blocks_11_faq_items_1_answer
+Con 2.000 € brutos, la empresa gasta unos 2.676 € al mes. Con pensión del 2 % y solicitud de mínimo exento, el trabajador cobra unos 1.658 € netos.
+## content_blocks_11_faq_items_2_question
+¿Qué es el impuesto social mínimo?
+## content_blocks_11_faq_items_2_answer
+El impuesto social se paga como mínimo sobre 886 € al mes, es decir, al menos 292,38 €, aunque el salario sea inferior. Hay excepciones, por ejemplo para algunos casos de pluriempleo y estudiantes.
+## content_blocks_11_faq_items_3_question
+¿Cuándo se presenta la TSD?
+## content_blocks_11_faq_items_3_answer
+Hasta el día 10 del mes siguiente al pago. Desde octubre de 2026, los datos salariales se envían desde el programa y la EMTA genera una declaración que la empresa confirma.
+## content_blocks_11_faq_items_4_question
+¿Cuándo hay que dar de alta a un empleado en el registro de empleo?
+## content_blocks_11_faq_items_4_answer
+Como muy tarde en el momento en que empieza a trabajar. El fin del trabajo se registra en un plazo de 10 días.
+## content_blocks_11_faq_items_5_question
+¿Tributa la retribución del administrador si vive en el extranjero?
+## content_blocks_11_faq_items_5_answer
+Sí. La retribución por el trabajo en el consejo de una empresa estonia tributa en Estonia al 22 % en el impuesto sobre la renta y al 33 % en el impuesto social. Las consecuencias en el país de residencia dependen del convenio fiscal.
+## content_blocks_11_faq_items_6_question
+¿Quién paga la baja por enfermedad?
+## content_blocks_11_faq_items_6_answer
+Los tres primeros días no se pagan. Los días 4–8 los paga el empleador al 70 % del salario medio y, desde el día 9, Tervisekassa.
+## content_blocks_11_faq_items_7_question
+¿Puedo contratar a alguien que vive en otro país con nómina estonia?
+## content_blocks_11_faq_items_7_answer
+Normalmente no. Su salario tributa en el país donde trabaja y la empresa tiene allí obligaciones de empleador. Necesita nómina local o un EOR, y le ayudamos a organizarlo.
+## content_blocks_11_faq_items_8_question
+¿Hay que presentar la TSD si no hubo salarios?
+## content_blocks_11_faq_items_8_answer
+Por regla general, no: la declaración se presenta por los meses con pagos sujetos o con distribución de beneficios.
+## content_blocks_12_final_cta_title
+Envíenos la composición de su equipo y le daremos un precio fijo de nómina
+## content_blocks_12_final_cta_text
+Indique cuántos empleados y miembros del consejo reciben pagos, dónde viven y con qué contratos trabajan. En un día hábil le enviaremos un esquema: qué tributa en Estonia, a quién dar de alta y cuánto costará la nómina mensual.

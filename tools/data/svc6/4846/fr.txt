@@ -1,0 +1,231 @@
+## _title
+Augmentation de capital d'une OÜ estonienne
+## _slug
+augmentation-de-capital-ou-estonie
+## rank_math_title
+Augmentation de capital d'une OÜ en Estonie %currentyear%
+## rank_math_description
+Augmentation de capital d'une OÜ en Estonie : décision des associés, nouveaux statuts, apport en numéraire ou en nature, inscription au registre et TSD.
+## rank_math_focus_keyword
+Augmentation de capital
+## _step_desc
+Si vous ne savez pas de quel capital votre société a besoin, décrivez votre objectif : nous vous conseillerons gratuitement.
+## content_blocks_0_content
+Depuis 2023, une OÜ estonienne peut être créée avec un capital à partir de 0,01 €, et la plupart des sociétés d'e-résidents l'ont fait. Mais tôt ou tard, il faut augmenter le capital : pour accueillir un investisseur, obtenir un prêt ou une licence, céder des parts sans notaire ou simplement montrer à la banque et aux partenaires que la société est solide.
+
+L'augmentation de capital est l'une des modifications les plus formelles au registre. Décision des associés, nouveaux statuts, versement de l'apport précisément sur le compte de la société, demande dans les six mois et, pour un apport en nature, évaluation. Le greffe refuse l'inscription même si l'argent est arrivé sur le mauvais compte. Et côté fiscal, il y a un détail dont on parle peu : l'apport doit être déclaré dans la TSD, sinon il ne pourra pas être restitué plus tard aux associés en franchise d'impôt.
+<blockquote>Nous choisissons le mode d'augmentation adapté à votre objectif, préparons la décision et les statuts, contrôlons le versement et le dépôt, puis comptabilisons l'apport et le déclarons à l'EMTA après l'inscription.</blockquote>
+## content_blocks_3_content
+<h3><b>Faits clés</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Sujet</b></td>
+<td><b>Explication pratique</b></td>
+</tr>
+<tr>
+<td>Qui décide</td>
+<td>Les associés ; si le montant du capital dans les statuts change, une décision de modification des statuts</td>
+</tr>
+<tr>
+<td>Modes</td>
+<td>Apports en numéraire, apports en nature, incorporation de réserves</td>
+</tr>
+<tr>
+<td>Versement en numéraire</td>
+<td>Sur le compte bancaire de la société avant la demande ; une attestation de la banque ou de l'établissement de paiement est jointe</td>
+</tr>
+<tr>
+<td>Délai de dépôt</td>
+<td>Au plus tard 6 mois après la décision d'augmentation</td>
+</tr>
+<tr>
+<td>Apport en nature</td>
+<td>Est évalué ; dans certains cas, un contrôle par un auditeur est exigé</td>
+</tr>
+<tr>
+<td>Droit préférentiel</td>
+<td>Les associés existants peuvent souscrire les nouvelles parts au prorata, sauf exclusion</td>
+</tr>
+<tr>
+<td>Droit de greffe</td>
+<td>La modification des données d'une OÜ coûte en général 25 €</td>
+</tr>
+<tr>
+<td>Capital d'au moins 10 000 €</td>
+<td>Permet, avec des statuts adaptés, de céder des parts sans notaire</td>
+</tr>
+<tr>
+<td>Impôts</td>
+<td>L'apport n'est pas imposé ; il doit figurer à l'annexe 7 de la TSD</td>
+</tr>
+<tr>
+<td>Restitution de l'apport</td>
+<td>Possible plus tard en franchise d'impôt, si l'apport a été déclaré</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Comment augmenter le capital : 4 étapes
+## content_blocks_4_step_1
+Envoyez une demande. Code d'immatriculation, montant de l'augmentation, qui apporte (associés existants ou nouvel investisseur), en numéraire ou en nature.
+## content_blocks_4_step_2
+Recevez le schéma. Nous vérifions les statuts, choisissons le mode d'augmentation, tenons compte du droit préférentiel et préparons la décision et les nouveaux statuts.
+## content_blocks_4_step_3
+Réalisez l'apport. En numéraire sur le compte de la société avant la demande ; en nature après évaluation et transfert du bien.
+## content_blocks_4_step_4
+Nous déposons la demande et comptabilisons l'apport. Inscription, comptabilisation et annexe 7 de la TSD, mise à jour UBO en cas de changement de contrôle.
+## content_blocks_6_tariff_title
+Forfaits
+## content_blocks_6_tariff_items_0_name
+Forfait « Augmentation de capital »
+## content_blocks_6_tariff_items_0_package_items
+<li>Vérification des statuts et choix du mode d'augmentation
+<li>Décision des associés et nouveaux statuts
+<li>Instructions pour le versement sur le compte de la société
+<li>Dépôt de la demande et suivi de l'inscription
+<li>Comptabilisation de l'apport et déclaration dans la TSD</li>
+## content_blocks_6_tariff_items_1_name
+Forfait « Entrée d'un investisseur » (recommandé)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tout le contenu du forfait « Augmentation de capital »
+<li>Calcul de la participation de l'investisseur et de la prime d'émission
+<li>Renonciation ou exercice du droit préférentiel des associés existants
+<li>Modifications statutaires pour l'investisseur : catégories de parts, gouvernance
+<li>Mise à jour des données UBO et de la liste des associés
+<li>Documents pour la banque et l'audit de l'investisseur</li>
+## content_blocks_6_tariff_items_2_name
+Forfait « Émission complexe »
+## content_blocks_6_tariff_items_2_package_items
+<li>Apport en nature : PI, équipements, parts d'une autre société, créances
+<li>Organisation de l'évaluation et, si besoin, du contrôle par un auditeur
+<li>Conversion d'un prêt d'associé en capital
+<li>Incorporation de bénéfices non distribués et de réserves
+<li>Augmentation de capital dans le cadre d'un changement de propriétaire sans notaire</li>
+## content_blocks_7_title_right
+L'essentiel : l'apport doit être versé, mais aussi déclaré
+## content_blocks_7_text_right
+Un détail distingue un capital correctement augmenté d'un capital simplement augmenté.
+<ul>
+<li><b>L'argent uniquement sur le compte de la société.</b> Le registre n'inscrit pas l'augmentation si l'apport en numéraire n'est pas arrivé sur le compte propre de la société. Un tribunal a confirmé un tel refus en 2025.</li>
+<li><b>Six mois.</b> La demande est déposée au plus tard six mois après la décision. Au-delà, il faut reprendre la décision.</li>
+<li><b>TSD, annexe 7.</b> Les apports en capital figurent à l'annexe 7 de la TSD. C'est ce suivi qui permet ensuite de restituer aux associés les sommes apportées en franchise d'impôt, lors d'une réduction de capital ou d'une liquidation. Faute de déclaration, l'administration peut requalifier la restitution en distribution taxée à 22/78.</li>
+<li><b>Apport en nature et évaluation.</b> Une surévaluation engage la responsabilité de l'associé et du directoire ; une sous-évaluation prive la société de capital au bilan.</li>
+</ul>
+<b>Conclusion pratique :</b> une augmentation de capital, c'est le registre et le suivi fiscal. Nous traitons les deux dans un seul projet.
+## content_blocks_8_title_left
+Quand l'augmentation de capital n'est pas nécessaire et quand elle ne suffit pas
+## content_blocks_8_text_left
+<ul>
+<li><b>La société a besoin d'argent, pas d'un nouvel associé.</b> Un prêt d'associé est parfois plus simple et plus rapide. Il pourra ensuite être converti en capital.</li>
+<li><b>Le seul objectif est de céder des parts sans notaire.</b> Un capital d'au moins 10 000 € n'est qu'une des trois conditions. Il faut aussi un capital libéré et des statuts modifiés ; voir <a href="{L:4845}">cession de parts</a>.</li>
+<li><b>L'actif net est inférieur à la moitié du capital.</b> L'augmentation est l'une des mesures que les associés doivent prendre. Consultez d'abord les <a href="{L:4699}">comptes intermédiaires</a> pour choisir la bonne.</li>
+<li><b>L'investisseur veut des droits particuliers.</b> L'augmentation seule ne les confère pas : il faut des modifications statutaires et un pacte d'associés.</li>
+<li><b>Vous avez besoin d'une licence.</b> Pour les activités réglementées, les exigences de fonds propres sont un sujet distinct. En savoir plus sur la page des <a href="{L:2183}">licences financières</a>.</li>
+</ul>
+## content_blocks_9_title_right
+Nos autres services
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4845}">Vente et cession de parts</a> : changement de propriétaire</li>
+<li><a href="{L:4847}">Réduction de capital</a> : restitution d'apports aux associés</li>
+<li>Modification des statuts : montant du capital, catégories de parts</li>
+<li>Mise à jour des données UBO</li>
+<li><a href="{L:4529}">Société pour start-up</a> : levées de fonds, options, prêts convertibles</li>
+<li><a href="{L:2189}">Structure holding</a> : apport en nature de parts</li>
+<li><a href="{L:2344}">Comptabilité mensuelle</a> : suivi de l'apport et TSD</li>
+<li><a href="{L:2776}">Titre de séjour pour fondateur</a> : investissement de 65 000 € au capital</li>
+</ul>
+Le capital vit à la fois au registre et en comptabilité. Quand les modifications au registre et la comptabilité sont confiées à un seul prestataire, l'apport est correctement reflété dans les statuts et la TSD, et peut être restitué en franchise d'impôt.
+## content_blocks_10_content
+<h2><b>Trois façons d'augmenter le capital d'une OÜ</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Mode</b></td>
+<td><b>Origine du capital</b></td>
+<td><b>Argent frais dans la société</b></td>
+<td><b>Quand c'est adapté</b></td>
+</tr>
+<tr>
+<td>Apport en numéraire</td>
+<td>Les associés ou un investisseur virent de l'argent sur le compte de la société</td>
+<td>Oui</td>
+<td>Entrée d'un investisseur, capital porté à 2 500 € ou 10 000 €, exigences de la banque ou d'une licence</td>
+</tr>
+<tr>
+<td>Apport en nature</td>
+<td>Biens : équipements, PI, parts d'une autre société, créance</td>
+<td>Non, mais l'actif augmente</td>
+<td>Transfert de PI dans la société, création d'une holding, conversion d'un prêt</td>
+</tr>
+<tr>
+<td>Incorporation de réserves</td>
+<td>Bénéfices non distribués et réserves de la société</td>
+<td>Non</td>
+<td>Afficher un capital plus élevé sans nouvel apport</td>
+</tr>
+</tbody>
+</table>
+Les nouvelles parts peuvent être émises au nominal ou avec prime. La prime est la part de l'apport au-delà du nominal ; elle n'augmente pas le capital social mais constitue aussi un apport d'associé.
+<h2><b>Comment augmenter le capital d'une OÜ estonienne : en pratique</b></h2>
+<h3><b>Le processus étape par étape</b></h3>
+<ol>
+<li><b>Vérification des statuts.</b> Montant exact ou fourchette de capital prévus, existence d'un droit préférentiel.</li>
+<li><b>Décision des associés.</b> Montant de l'augmentation, qui apporte et combien, nominal des nouvelles parts, prime.</li>
+<li><b>Nouveaux statuts.</b> Si le capital sort des limites fixées par les statuts.</li>
+<li><b>Versement.</b> Numéraire sur le compte de la société ; en nature, transfert du bien et évaluation.</li>
+<li><b>Demande au registre.</b> Déposée par un dirigeant au plus tard 6 mois après la décision, avec la preuve du versement.</li>
+<li><b>Inscription.</b> En général 1 à 3 jours ouvrables ; droit de greffe d'environ 25 €.</li>
+<li><b>Comptabilité et impôts.</b> L'apport est comptabilisé et déclaré à l'annexe 7 de la TSD ; en cas de changement de contrôle, mise à jour UBO.</li>
+</ol>
+<h3><b>Apport en numéraire</b></h3>
+L'argent est viré sur un compte bancaire ou d'établissement de paiement au nom de la société. Une preuve du versement est jointe à la demande. Le greffe n'accepte pas un virement sur le compte personnel d'un dirigeant ou celui d'une autre société.
+<h3><b>Apport en nature</b></h3>
+Tout bien évaluable en argent peut être apporté : équipements, droits de propriété intellectuelle, parts d'une autre société, créance monétaire sur la société comme un prêt d'associé. La valeur est déterminée par évaluation ; dans certains cas, un auditeur la contrôle. Le travail et les services ne peuvent pas être apportés au capital.
+<h3><b>Incorporation de réserves</b></h3>
+Le capital est augmenté à partir des bénéfices non distribués ou des réserves, sans argent frais. Cela modifie la structure des capitaux propres, mais pas l'historique fiscal : les montants issus des bénéfices ne deviennent pas des apports d'associés pouvant être restitués en franchise d'impôt.
+<h3><b>Entrée d'un nouvel associé</b></h3>
+L'investisseur reçoit de nouvelles parts en contrepartie de son apport. Si les statuts n'excluent pas le droit préférentiel, les associés existants doivent y renoncer ou l'exercer. Les droits de l'investisseur (catégories de parts, gouvernance, protection anti-dilution) sont fixés dans les statuts et un pacte d'associés.
+<h3><b>Impôts</b></h3>
+L'apport en capital n'est imposé ni pour la société ni pour l'associé. Il est important de le déclarer à l'annexe 7 de la TSD : le suivi des apports détermine le montant restituable aux associés sans l'impôt de 22/78 lors d'une réduction de capital ou d'une liquidation. Pour en savoir plus, lisez notre article <a href="{L:844}">impôt sur les sociétés en Estonie en 2026</a>.
+## content_blocks_11_faq_items_0_question
+Comment augmenter le capital d'une OÜ estonienne ?
+## content_blocks_11_faq_items_0_answer
+Les associés prennent une décision, modifient les statuts si nécessaire et versent l'apport sur le compte de la société ; un dirigeant dépose la demande au registre dans les 6 mois suivant la décision.
+## content_blocks_11_faq_items_1_question
+Combien coûte une augmentation de capital ?
+## content_blocks_11_faq_items_1_answer
+Le droit de greffe pour modifier les données d'une OÜ est en général de 25 €. S'y ajoutent la préparation des documents et, pour un apport en nature, l'évaluation.
+## content_blocks_11_faq_items_2_question
+Puis-je apporter des biens au lieu d'argent ?
+## content_blocks_11_faq_items_2_answer
+Oui : équipements, PI, parts d'une autre société ou créance sur la société. L'apport est évalué, parfois avec un contrôle par un auditeur.
+## content_blocks_11_faq_items_3_question
+Un prêt d'associé peut-il être converti en capital ?
+## content_blocks_11_faq_items_3_answer
+Oui, la créance née du prêt peut constituer un apport en nature.
+## content_blocks_11_faq_items_4_question
+L'apport en capital est-il imposé ?
+## content_blocks_11_faq_items_4_answer
+Non. Mais il doit être déclaré à l'annexe 7 de la TSD pour pouvoir être restitué plus tard en franchise d'impôt.
+## content_blocks_11_faq_items_5_question
+Combien de temps cela prend-il ?
+## content_blocks_11_faq_items_5_answer
+En général quelques jours ouvrables de la décision à l'inscription ; plus longtemps pour un apport en nature à cause de l'évaluation.
+## content_blocks_11_faq_items_6_question
+Faut-il un notaire ?
+## content_blocks_11_faq_items_6_answer
+En règle générale, non : les documents sont signés électroniquement et déposés via le e-Business Register.
+## content_blocks_11_faq_items_7_question
+Pourquoi porter le capital à 10 000 € ?
+## content_blocks_11_faq_items_7_answer
+C'est l'une des conditions pour céder des parts sans notaire. Par ailleurs, banques, autorités de licence et partenaires regardent souvent le montant du capital.
+## content_blocks_11_faq_items_8_question
+Les associés existants doivent-ils accepter l'entrée d'un investisseur ?
+## content_blocks_11_faq_items_8_answer
+Si les statuts n'excluent pas leur droit préférentiel, ils doivent l'exercer ou y renoncer.
+## content_blocks_12_final_cta_title
+Décrivez votre objectif : nous choisirons le mode d'augmentation de capital
+## content_blocks_12_final_cta_text
+Indiquez le code d'immatriculation, le montant de capital souhaité, qui apporte et comment. Sous un jour ouvrable, nous vous enverrons un schéma, un projet de décision et un prix fixe.

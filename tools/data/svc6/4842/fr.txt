@@ -1,0 +1,267 @@
+## _title
+Déclarations de TVA en Estonie
+## _slug
+declarations-de-tva-en-estonie
+## rank_math_title
+Déclarations de TVA en Estonie : KMD et KMD INF %currentyear%
+## rank_math_description
+Déclarations de TVA en Estonie : KMD et KMD INF, TVA à 24 %, déduction de la TVA d'amont, état VD et dépôt auprès de l'EMTA avant le 20 du mois.
+## rank_math_focus_keyword
+déclarations de TVA en Estonie
+## _step_desc
+Si vous ne savez pas si l'immatriculation à la TVA vous est nécessaire, envoyez-nous vos exports de ventes et d'achats : nous vérifierons gratuitement.
+## content_blocks_0_content
+Dès qu'une société estonienne est immatriculée à la TVA, elle adopte un rythme mensuel : avant le 20, la déclaration KMD avec l'annexe KMD INF et, en cas de ventes à des entreprises de l'UE, l'état VD. La déclaration est déposée chaque mois, même sans chiffre d'affaires.
+
+La difficulté n'est pas le formulaire. Elle tient au fait que chaque ligne de la KMD est une décision : quel taux, où se situe le lieu de prestation, le numéro de TVA du client est-il valide, la TVA d'amont sur cette dépense est-elle déductible. Et l'administration rapproche automatiquement les données de la KMD INF des déclarations de vos partenaires : un écart se transforme en demande avant même que vous en ayez connaissance.
+<blockquote>Nous préparons et déposons la KMD, la KMD INF et l'état VD, vérifions le taux et le lieu de prestation de chaque opération, rapprochons les données avec les partenaires et les banques, corrigeons les périodes passées et préparons votre comptabilité à la nouvelle KMD fondée sur les données qui arrivera en 2027.</blockquote>
+## content_blocks_3_content
+<h3><b>Faits clés</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Sujet</b></td>
+<td><b>Explication pratique</b></td>
+</tr>
+<tr>
+<td>Ce qui est déposé</td>
+<td>KMD (formulaire principal) et KMD INF (données des factures) ; pour les livraisons B2B dans l'UE, l'état VD</td>
+</tr>
+<tr>
+<td>Délai</td>
+<td>Avant le 20 du mois suivant la période déclarée</td>
+</tr>
+<tr>
+<td>Sans chiffre d'affaires</td>
+<td>Un assujetti immatriculé dépose la KMD même avec un chiffre d'affaires nul</td>
+</tr>
+<tr>
+<td>Taux</td>
+<td>24 % taux normal (depuis le 1er juillet 2025), 13 % hébergement, 9 % livres, manuels, presse, médicaments, 0 % exportations et livraisons dans l'UE</td>
+</tr>
+<tr>
+<td>Seuil d'immatriculation</td>
+<td>40 000 € d'opérations imposables en Estonie par année civile</td>
+</tr>
+<tr>
+<td>Assujetti à responsabilité limitée</td>
+<td>Pour les achats de services à des fournisseurs étrangers, sans seuil ; la KMD est déposée pour les mois concernés</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Factures des opérations estoniennes avec des assujettis au-delà du seuil fixé par partenaire et par mois</td>
+</tr>
+<tr>
+<td>Corrections</td>
+<td>Une KMD rectificative est déposée pour la période où l'erreur a été commise</td>
+</tr>
+<tr>
+<td>Intérêts</td>
+<td>0,06 % par jour (21,9 % par an) dès le premier jour de retard</td>
+</tr>
+<tr>
+<td>Remboursement d'un excédent</td>
+<td>Impossible tant que des déclarations de l'année en cours et des deux précédentes manquent</td>
+</tr>
+<tr>
+<td>À partir de 2027</td>
+<td>KMD fondée sur les données du logiciel comptable ; la KMD et l'état VD fusionnent en une seule déclaration</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Comment nous confier vos déclarations de TVA : 4 étapes
+## content_blocks_4_step_1
+Envoyez une demande. Ce que vous vendez, à qui (particuliers ou entreprises), dans quels pays, si vous achetez à des fournisseurs étrangers et combien de factures vous avez environ par mois.
+## content_blocks_4_step_2
+Recevez une consultation. Nous déterminons les taux et le lieu de prestation de vos flux, si l'état VD et l'OSS sont nécessaires, et fixons un prix mensuel forfaitaire.
+## content_blocks_4_step_3
+Payez la facture et donnez les accès. Droits dans e-MTA, exports du logiciel comptable, des banques et des services de paiement, en ligne.
+## content_blocks_4_step_4
+Nous déposons les déclarations chaque mois. Vérification des taux et des numéros VIES, rapprochement de la KMD INF avec les partenaires, dépôt avant le 20 et avis du montant à payer.
+## content_blocks_6_tariff_title
+Forfaits
+## content_blocks_6_tariff_items_0_name
+Forfait « KMD »
+## content_blocks_6_tariff_items_0_package_items
+<li>Préparation et dépôt mensuels de la KMD et de la KMD INF
+<li>Vérification du taux et du lieu de prestation de chaque opération
+<li>Vérification des numéros de TVA des partenaires dans VIES
+<li>Autoliquidation de la TVA sur les services de fournisseurs étrangers
+<li>Avis du montant à payer et de l'échéance</li>
+## content_blocks_6_tariff_items_1_name
+Forfait « KMD + ventes internationales » (recommandé)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tout le contenu du forfait « KMD »
+<li>État VD pour les livraisons B2B dans l'UE
+<li>Cohérence de la KMD avec la déclaration OSS pour les ventes aux consommateurs
+<li>Rapprochement de Stripe, Paddle, des marketplaces et passerelles de paiement avec la comptabilité
+<li>Déduction au prorata de la TVA d'amont en cas d'opérations taxables et exonérées
+<li>Avoirs et remboursements traités dans la bonne période</li>
+## content_blocks_6_tariff_items_2_name
+Forfait « Contrôle et correction »
+## content_blocks_6_tariff_items_2_package_items
+<li>Contrôle de la KMD, de la KMD INF et de l'état VD pour les périodes choisies
+<li>Rapprochement avec les données des partenaires et les notations du comportement fiscal dans e-MTA
+<li>Déclarations rectificatives pour les périodes erronées
+<li>Calcul des intérêts et demande d'échelonnement si nécessaire
+<li>Réponses aux demandes de l'EMTA et accompagnement lors d'un contrôle</li>
+## content_blocks_7_title_right
+L'essentiel : la TVA déraille à trois endroits, et aucun n'apparaît dans le formulaire
+## content_blocks_7_text_right
+Le formulaire KMD est simple : quelques dizaines de lignes. Les erreurs surviennent plus tôt, lors de la qualification de l'opération.
+<ul>
+<li><b>Achats auprès de fournisseurs étrangers.</b> Publicité Google et Meta, hébergement, abonnements SaaS, services de prestataires d'autres pays : ce sont des services reçus sur lesquels la société calcule elle-même la TVA en Estonie. Sans immatriculation normale, elle devient pour cela assujettie à responsabilité limitée, sans seuil. C'est le constat le plus fréquent lors d'un contrôle.</li>
+<li><b>Autoliquidation sans vérifier le numéro.</b> Facturer sans TVA un client B2B de l'UE n'est admis que si son numéro est valide dans VIES à la date de la livraison. Un numéro invalide, c'est 24 % à votre charge, et on le découvre généralement lors d'un contrôle.</li>
+<li><b>Mauvaise période.</b> Un acompte crée un chiffre d'affaires le mois de l'encaissement, un avoir est déclaré le mois de son émission, et une erreur est corrigée dans la déclaration de la période où elle a été commise. Le report « sur le mois en cours » est une cause fréquente d'écarts avec les partenaires.</li>
+</ul>
+<b>Conclusion pratique :</b> une KMD fiable ne commence pas par le formulaire, mais par une règle pour chaque flux d'opérations : quel taux, quel lieu de prestation, quel justificatif. Nous fixons ces règles dès le départ, puis chaque mois se clôture sans supposition.
+## content_blocks_8_title_left
+Quand la KMD n'est pas nécessaire et quand elle ne suffit pas
+## content_blocks_8_text_left
+Une analyse honnête fait économiser plus que le service lui-même.
+<ul>
+<li><b>Pas d'obligation d'immatriculation.</b> Si vos opérations imposables en Estonie sont inférieures à 40 000 € et que vos ventes sont B2B dans l'UE en autoliquidation ou des exportations de services, l'immatriculation normale peut être inutile. Parfois elle n'est pas rentable : il faudra déposer une KMD chaque mois avec presque rien à déduire.</li>
+<li><b>Immatriculation volontaire sans lien avec l'Estonie.</b> Depuis août 2025, l'EMTA n'immatricule volontairement qu'en cas de lien économique avec l'Estonie. Sans lui, l'immatriculation peut être refusée et un numéro déjà attribué retiré.</li>
+<li><b>Ventes aux consommateurs dans l'UE.</b> Ce n'est pas la KMD mais l'OSS, une déclaration trimestrielle distincte. En savoir plus : <a href="{L:2346}">immatriculation OSS et IOSS</a>.</li>
+<li><b>Entrepôt dans un autre pays de l'UE.</b> Stocker des marchandises à l'étranger crée une obligation d'immatriculation locale à la TVA. La KMD estonienne ne la remplace pas.</li>
+<li><b>Petite entreprise dans plusieurs pays de l'UE.</b> Depuis 2025, le régime de franchise des petites entreprises s'applique avec un chiffre d'affaires UE jusqu'à 100 000 € et en Estonie jusqu'à 40 000 €. Il est parfois plus avantageux que l'immatriculation : il faut faire le calcul.</li>
+</ul>
+## content_blocks_9_title_right
+Nos autres services
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Services comptables</a> : toute la rubrique</li>
+<li><a href="{L:2344}">Comptabilité mensuelle</a> : la KMD repose sur un mois clôturé</li>
+<li><a href="{L:2156}">Immatriculation à la TVA</a> : normale et à responsabilité limitée</li>
+<li><a href="{L:2346}">Immatriculation OSS et IOSS</a> : ventes aux consommateurs dans l'UE</li>
+<li><a href="{L:4843}">Paie (payroll)</a> : TSD avant le 10</li>
+<li><a href="{L:4578}">Reconstitution de la comptabilité</a> : si les KMD des mois passés n'ont pas été déposées</li>
+<li><a href="{L:2345}">Conseil fiscal</a> : opérations complexes et demandes de l'EMTA</li>
+<li><a href="{L:2190}">E-commerce et dropshipping</a> : la TVA du commerce en ligne</li>
+</ul>
+La déclaration de TVA est une conséquence de la comptabilité, pas un document à part. Quand la KMD, l'OSS et la comptabilité sont confiées à un seul prestataire, le chiffre d'affaires déclaré correspond aux produits du rapport annuel sans recalcul en fin d'année.
+## content_blocks_10_content
+<h2><b>Ce que comprennent les obligations de TVA d'une société estonienne</b></h2>
+Chaque mois, l'assujetti dépose jusqu'à trois documents qui se contrôlent mutuellement.
+<table>
+<tbody>
+<tr>
+<td><b>Document</b></td>
+<td><b>Ce qu'il montre</b></td>
+<td><b>Quand il est requis</b></td>
+</tr>
+<tr>
+<td>KMD</td>
+<td>TVA collectée, TVA d'amont déductible, montant à payer ou à rembourser</td>
+<td>Chaque mois, y compris à zéro</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Données des factures émises et reçues pour les opérations estoniennes avec des assujettis</td>
+<td>Chaque mois avec la KMD</td>
+</tr>
+<tr>
+<td>VD</td>
+<td>Livraisons de biens et services aux clients B2B d'autres pays de l'UE par numéro de client</td>
+<td>Les mois comportant de telles livraisons</td>
+</tr>
+<tr>
+<td>OSS</td>
+<td>Ventes aux consommateurs d'autres pays de l'UE aux taux de ces pays</td>
+<td>Chaque trimestre, séparément de la KMD</td>
+</tr>
+</tbody>
+</table>
+La KMD INF de vos ventes est la KMD INF des achats de vos clients. L'EMTA les rapproche automatiquement et affiche les écarts dans la notation du comportement fiscal. Si un écart avec les données d'un partenaire y apparaît, la cause se clarifie d'abord avec lui, pas avec l'administration.
+<h2><b>Comment la KMD est déposée en Estonie : en pratique</b></h2>
+<h3><b>Taux de TVA en 2026</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Taux</b></td>
+<td><b>Application</b></td>
+</tr>
+<tr>
+<td>24 %</td>
+<td>Taux normal depuis le 1er juillet 2025</td>
+</tr>
+<tr>
+<td>13 %</td>
+<td>Hébergement et hébergement avec petit-déjeuner (depuis le 1er janvier 2025)</td>
+</tr>
+<tr>
+<td>9 %</td>
+<td>Livres et manuels, presse, médicaments et dispositifs médicaux de la liste</td>
+</tr>
+<tr>
+<td>0 %</td>
+<td>Exportations de biens, livraisons de biens dans l'UE, certains services</td>
+</tr>
+<tr>
+<td>Exonéré</td>
+<td>Certains services financiers, médicaux, éducatifs et sociaux</td>
+</tr>
+</tbody>
+</table>
+Le taux dépend de la date du fait générateur, pas de la date de la facture. Pour la comptabilité de caisse, des règles transitoires s'appliquent en cas de changement de taux.
+<h3><b>Comment se déroule un mois</b></h3>
+<ol>
+<li>Clôture du mois en comptabilité : toutes les ventes, achats et opérations bancaires.</li>
+<li>Qualification des opérations : taux, lieu de prestation, exonération, autoliquidation.</li>
+<li>Vérification des numéros de TVA des clients de l'UE dans VIES.</li>
+<li>Calcul de la TVA sur les services et biens reçus de l'étranger.</li>
+<li>Calcul de la TVA d'amont déductible, limitations comprises.</li>
+<li>Préparation de la KMD, de la KMD INF et de l'état VD, dépôt avant le 20.</li>
+<li>Paiement sur le compte de prépaiement de l'EMTA dans le même délai.</li>
+</ol>
+<h3><b>Limites à la déduction de la TVA d'amont</b></h3>
+Toute la TVA d'amont n'est pas déductible. Les dépenses sans lien avec des opérations taxables n'ouvrent pas droit à déduction. Pour les voitures particulières, la déduction est limitée si le véhicule n'est pas utilisé uniquement pour l'activité. Les frais de représentation et de personnel sont examinés à part. En présence d'opérations taxables et exonérées, la déduction se calcule au prorata.
+<h3><b>Corrections et avoirs</b></h3>
+Si une déclaration comporte une erreur, par exemple un chiffre d'affaires non déclaré, une nouvelle KMD est déposée pour la même période avec les données corrigées. Un avoir ou une annulation de facture émis après le dépôt est déclaré par le vendeur et l'acheteur sur la période de son émission. La distinction entre « erreur » et « modification ultérieure » est une source fréquente d'écarts.
+<h3><b>Remboursement d'un excédent</b></h3>
+Si la TVA d'amont dépasse la TVA collectée, la différence est remboursée. L'EMTA peut prolonger le délai de remboursement pour vérification. Aucune demande de remboursement n'est possible tant que la société a des déclarations manquantes pour l'année en cours et les deux précédentes : l'ordre dans les périodes passées agit donc directement sur votre trésorerie.
+<h3><b>KMD fondée sur les données à partir de 2027</b></h3>
+L'EMTA fait passer la TVA au même principe que la TSD depuis octobre 2026 : la société transmet les données des opérations depuis son logiciel comptable et la déclaration est établie à partir d'elles. Selon le plan annoncé, la KMD et l'état VD fusionnent en une seule déclaration, le seuil de la KMD INF disparaît et le chargement CSV nécessitera une nouvelle version du fichier. Les tests pour les éditeurs de logiciels ouvrent le 1er janvier 2027, le dépôt selon le nouveau schéma au printemps 2027. C'est la préparation à la réforme européenne de la facturation électronique obligatoire et de la transmission des données quasi en temps réel à partir du 1er juillet 2030.
+
+<b>Ce que cela signifie pour vous :</b> une comptabilité où les opérations sont étiquetées par type et par partenaire dès aujourd'hui, c'est une KMD sans refonte en 2027.
+## content_blocks_11_faq_items_0_question
+Quand la KMD est-elle déposée ?
+## content_blocks_11_faq_items_0_answer
+Chaque mois, avant le 20 du mois suivant la période déclarée, avec l'annexe KMD INF. Le montant dû est versé sur le compte de prépaiement de l'EMTA dans le même délai.
+## content_blocks_11_faq_items_1_question
+Faut-il déposer une KMD sans chiffre d'affaires ?
+## content_blocks_11_faq_items_1_answer
+Oui. Un assujetti immatriculé dépose une KMD chaque mois, y compris à zéro.
+## content_blocks_11_faq_items_2_question
+Quel est le taux de TVA en Estonie en 2026 ?
+## content_blocks_11_faq_items_2_answer
+Le taux normal est de 24 % depuis le 1er juillet 2025. Taux réduits : 13 % pour l'hébergement et 9 % pour les livres, la presse et les médicaments. Le 0 % s'applique aux exportations et aux livraisons dans l'UE.
+## content_blocks_11_faq_items_3_question
+Qu'est-ce que la KMD INF ?
+## content_blocks_11_faq_items_3_answer
+Une annexe à la KMD contenant les données des factures émises et reçues pour les opérations estoniennes avec des assujettis. L'EMTA rapproche ces données des déclarations de vos partenaires.
+## content_blocks_11_faq_items_4_question
+Quand l'état VD est-il nécessaire ?
+## content_blocks_11_faq_items_4_answer
+Pour les mois comportant des livraisons de biens ou des prestations de services à des clients B2B d'autres pays de l'UE. Le délai est le même, le 20.
+## content_blocks_11_faq_items_5_question
+Qu'est-ce que l'assujettissement à responsabilité limitée ?
+## content_blocks_11_faq_items_5_answer
+Une immatriculation pour les sociétés sans immatriculation normale à la TVA qui reçoivent des services ou des biens de l'étranger. La société calcule elle-même la TVA sur ces achats, sans seuil, et cette taxe n'est pas déductible.
+## content_blocks_11_faq_items_6_question
+Comment corriger une erreur dans une KMD déposée ?
+## content_blocks_11_faq_items_6_answer
+En déposant une KMD rectificative pour la période où l'erreur a été commise. Les avoirs émis plus tard sont déclarés sur la période de leur émission.
+## content_blocks_11_faq_items_7_question
+Quels intérêts de retard s'appliquent ?
+## content_blocks_11_faq_items_7_answer
+0,06 % par jour sur le montant impayé, soit 21,9 % par an, dès le lendemain de l'échéance. Avec un échéancier, le taux peut être réduit jusqu'à moitié.
+## content_blocks_11_faq_items_8_question
+Qu'est-ce qui change pour la KMD en 2027 ?
+## content_blocks_11_faq_items_8_answer
+La KMD sera transmise sous forme de données du logiciel comptable, la KMD et l'état VD fusionneront en une seule déclaration et le seuil de la KMD INF sera supprimé.
+## content_blocks_12_final_cta_title
+Envoyez vos exports de ventes et d'achats : nous vérifierons les taux et vous donnerons un prix
+## content_blocks_12_final_cta_text
+Décrivez votre modèle : ce que vous vendez, à qui et dans quels pays, auprès de qui vous achetez et combien de factures vous avez par mois. Sous un jour ouvrable, nous vous dirons quelles déclarations il vous faut, où se situent les risques et combien coûteront vos déclarations de TVA mensuelles.

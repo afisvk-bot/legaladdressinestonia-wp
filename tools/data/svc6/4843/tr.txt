@@ -1,0 +1,289 @@
+## _title
+Estonya'da bordro hesaplama
+## _slug
+estonyada-bordro-hesaplama
+## rank_math_title
+Estonya'da bordro hesaplama: OÜ için vergiler ve TSD %currentyear%
+## rank_math_description
+Estonya'da bordro hesaplama: brüt ve net, işveren vergileri, yönetim kurulu üyesi ücreti, istihdam kaydı ve EMTA'ya aylık TSD beyannamesi tek elden.
+## rank_math_focus_keyword
+Estonya'da bordro hesaplama
+## _step_desc
+Kendinize nasıl ödeme yapacağınızdan (yönetim kurulu ücreti, maaş veya temettü) emin değilseniz rakamları gönderin, iki seçeneği de ücretsiz hesaplayalım.
+## content_blocks_0_content
+Estonya'da bordro basit görünür: sabit %22 gelir vergisi, %33 sosyal vergi, ayda bir beyanname. Hatalar ayrıntılarda başlar. Vergiden muaf asgari tutar yalnızca çalışanın başvurusuyla uygulanır. Sosyal vergi, kısmi zamanlı çalışmada bile en az asgari matrah üzerinden ödenir. Hastalık izninin ilk günlerini sağlık kasası değil işveren öder. Ve Ekim 2026'dan itibaren TSD form olarak değil veri akışı olarak verilir.
+
+Hataların ikinci kısmı organizasyoneldir. Çalışan, ilk maaştan sonra değil, ilk iş gününden önce istihdam siciline kaydedilmelidir. Yönetim kurulu üyesinin ücreti maaştan farklı vergilendirilir. Yurt dışındaki «uzaktan çalışan» ise çoğu zaman Estonya bordrosu değil, başka bir ülkedeki işveren yükümlülükleridir.
+<blockquote>Maaşları ve yönetim kurulu ücretlerini hesaplar, istihdamı kaydeder, TSD'yi yeni veri tabanlı sistemle verir; hastalık, izin ücreti ve tazminatları hesaplarız. Küçük ekipler için her beyanname başına ek ücret olmadan çalışan başına sabit fiyat uygularız.</blockquote>
+## content_blocks_3_content
+<h3><b>Temel bilgiler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Konu</b></td>
+<td><b>Pratik açıklama</b></td>
+</tr>
+<tr>
+<td>Gelir vergisi</td>
+<td>Muaf asgari tutar düşüldükten sonra ödemenin %22'si</td>
+</tr>
+<tr>
+<td>Muaf asgari tutar</td>
+<td>2026'dan itibaren herkes için ayda 700 € (emeklilik yaşında 776 €); yalnızca çalışanın başvurusuyla</td>
+</tr>
+<tr>
+<td>Sosyal vergi</td>
+<td>İşveren tarafından %33; asgari matrah 886 €, yani ayda en az 292,38 €</td>
+</tr>
+<tr>
+<td>İşsizlik sigortası</td>
+<td>Çalışandan %1,6 kesilir, işveren %0,8 öder</td>
+</tr>
+<tr>
+<td>Fonlu emeklilik (II. basamak)</td>
+<td>Çalışanın seçimine göre %2, %4 veya %6</td>
+</tr>
+<tr>
+<td>Yönetim kurulu üyesi ücreti</td>
+<td>%22 gelir vergisi ve %33 sosyal vergi, işsizlik sigortası yok</td>
+</tr>
+<tr>
+<td>İstihdam sicili (TÖR)</td>
+<td>Kayıt en geç işe başlarken; sona erme 10 gün içinde</td>
+</tr>
+<tr>
+<td>TSD beyannamesi</td>
+<td>Ödeme ayını izleyen ayın 10'una kadar; Ekim 2026'dan itibaren veri tabanlı</td>
+</tr>
+<tr>
+<td>Vergi ödemesi</td>
+<td>İzleyen ayın 10'una kadar</td>
+</tr>
+<tr>
+<td>Hastalık izni</td>
+<td>1–3. günler ödenmez; 4–8. günler işveren, ortalama ücretin %70'i; 9. günden itibaren Tervisekassa</td>
+</tr>
+<tr>
+<td>Yıllık izin</td>
+<td>28 takvim günü</td>
+</tr>
+<tr>
+<td>Opsiyonlar ve yan haklar</td>
+<td>Yan hak vergisini şirket öder: 22/78 artı üstüne %33</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Bordronuzu bize nasıl devredersiniz: 4 adım
+## content_blocks_4_step_1
+Talep gönderin. Kaç çalışanın ve yönetim kurulu üyesinin ödeme aldığını, nerede yaşayıp çalıştıklarını ve hangi sözleşmeleri olduğunu yazın: iş, yönetim kurulu veya hizmet sözleşmeleri.
+## content_blocks_4_step_2
+Danışmanlık alın. Estonya'da neyin vergilendirildiğini, TÖR'e kimin ve nasıl kaydedileceğini, başka bir ülkede işveren kaydı gerekip gerekmediğini belirler, sabit fiyat veririz.
+## content_blocks_4_step_3
+Sözleşmeyi imzalayın ve erişim verin. e-MTA yetkileri ile muaf asgari tutar başvuruları ve II. basamak emeklilik oranları bilgisi; hepsi çevrim içi.
+## content_blocks_4_step_4
+Hesaplar ve veririz. Aylık bordro, ücret pusulaları, 10'una kadar veri tabanlı TSD ve ödenecek tutarların önceden bildirimi.
+## content_blocks_6_tariff_title
+Hizmet paketleri
+## content_blocks_6_tariff_items_0_name
+«Yönetim kurulu üyesi» paketi
+## content_blocks_6_tariff_items_0_package_items
+<li>Yönetim kurulu sözleşmesi ve istihdam siciline kayıt
+<li>Ücretin aylık hesabı: gelir vergisi ve sosyal vergi
+<li>10'una kadar TSD ve ödenecek tutarın bildirimi
+<li>Sizin rakamlarınızla yılda bir «ücret mi temettü mü» hesabı
+<li>Yerleşik olmayanlar için yapı: Estonya'da neyin vergilendirildiği ve ülkeniz için neyin belgeleneceği</li>
+## content_blocks_6_tariff_items_1_name
+«Ekip için bordro» paketi (önerilen)
+## content_blocks_6_tariff_items_1_package_items
+<li>«Yönetim kurulu üyesi» paketindeki her şey
+<li>TÖR'de işe başlama, askıya alma ve işten ayrılma kaydı
+<li>Maaş, izin ücreti, 4–8. günler hastalık ödemesi, işten ayrılma tazminatı
+<li>Muaf asgari tutar başvurularının ve II. basamak emeklilik oranlarının takibi
+<li>Kısmi zamanlı çalışmada asgari sosyal vergi
+<li>Süreden önce hataları düzeltilmiş veri tabanlı TSD
+<li>Çalışanlar için ücret pusulaları</li>
+## content_blocks_6_tariff_items_2_name
+«Bordro + uluslararası ekip» paketi
+## content_blocks_6_tariff_items_2_package_items
+<li>«Ekip için bordro» paketindeki her şey
+<li>Estonya'daki yabancı çalışanlar: kayıt, çalışma izni koşulları, ücret kriterinin kontrolü
+<li>Yerleşik olmayanlara ödemeler: vergi anlaşmaları, mukimlik belgeleri
+<li>Yurt dışındaki çalışanlar: kendi ülkelerindeki işveren yükümlülüklerinin değerlendirilmesi ve yerel bordro ya da EOR ile koordinasyon
+<li>Opsiyonlar ve özel yan haklar: üç yıl kuralı ve yan hak vergisi
+<li>Grup ve yatırımcılar için raporlama</li>
+## content_blocks_7_title_right
+Asıl mesele: bordro hataları oranlarda değil, ayarlarda
+## content_blocks_7_text_right
+Estonya'da oranlar sabittir ve bu, yanıltıcı bir basitlik hissi yaratır. Uygulamada hatalar beş noktada yapılır:
+<ul>
+<li><b>Başvurusuz muaf asgari tutar.</b> 700 € yalnızca çalışanın başvurusuyla ve yalnızca tek bir işverende uygulanır. Çalışan iki işverene başvurduysa yıl sonunda ek ödeme çıkar.</li>
+<li><b>Asgari sosyal vergi.</b> Kısmi zamanlı çalışmada, istisna yoksa sosyal vergi ayda en az 886 € üzerinden ödenir. Öğrenciler ve ikinci işlerde sıkça unutulur.</li>
+<li><b>4–8. günlerin hastalık ödemesi.</b> İşveren kendi kaynağından öder; Tervisekassa ancak 9. günden itibaren devreye girer. Bu olmadan hastalık izni olan ayın bordrosu yanlıştır.</li>
+<li><b>İlk maaştan sonra TÖR.</b> İşe başlama kaydı ilk iş gününden önce yapılır. Geriye dönük kayıt, her denetimde görülen bir ihlaldir.</li>
+<li><b>Eski muaf asgari tutar formülü.</b> 2026'dan itibaren muaf tutar herkes için aynıdır ve gelir arttıkça azalmaz. Eski ayarlı programlar her bordroda hata yapar.</li>
+</ul>
+<b>Pratik sonuç:</b> ilk bordrodan önce yalnızca oran değil, başvurular, sözleşme türü, TÖR kaydı ve her çalışanın emeklilik oranı kontrol edilir. Bunu başlangıçta yaparız.
+## content_blocks_8_title_left
+Estonya bordrosu ne zaman gerekmez, ne zaman yetmez
+## content_blocks_8_text_left
+Dürüst bir değerlendirme, hizmetin kendisinden fazla tasarruf sağlar.
+<ul>
+<li><b>Çalışan başka bir ülkede yaşıyor ve çalışıyor.</b> Maaşı genellikle orada vergilendirilir ve Estonya şirketinin o ülkede işveren yükümlülükleri doğabilir. Estonya TSD'si bunu karşılamaz: yerel bordro veya EOR gerekir.</li>
+<li><b>Serbest çalışan girişimci olarak fatura kesiyor.</b> Bu maaş değildir: vergilerini kendi ülkesinde kendisi öder, siz faturayı ödersiniz.</li>
+<li><b>Sahip ödeme almıyor.</b> Yönetim kurulu ücreti ve maaş yoksa aylık TSD genellikle verilmez; aylık muhasebe ve temettü kararı yeterlidir.</li>
+<li><b>Yabancı Estonya'da çalışıyor.</b> Yalnızca bordro ve TÖR değil, ücret kriteri dahil çalışma izni koşullarına uyum da gerekir. Gereken maaşın ödenmemesi 32.000 €'ya kadar para cezasına yol açabilir.</li>
+<li><b>Opsiyonlar ve hisse bonusları.</b> Bu, şirketin ödediği yan hak vergisi ve opsiyonlar için üç yıl kuralı meselesidir. Basit bordro bunu hesaba katmaz.</li>
+</ul>
+## content_blocks_9_title_right
+Sunduğumuz diğer hizmetler
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Muhasebe hizmetleri</a>: tüm bölüm</li>
+<li><a href="{L:2344}">Aylık muhasebe</a>: bordronun bağlandığı temel</li>
+<li><a href="{L:4842}">KDV beyannameleri (KMD)</a>: her ay 20'sine kadar</li>
+<li><a href="{L:4490}">E-mukimler için muhasebe</a>: yurt dışından yönetim kurulu ücreti</li>
+<li><a href="{L:2342}">Çalışma vizesi ve oturma izni</a>: yabancı çalışanlar için</li>
+<li><a href="{L:4529}">Startup için şirket</a>: opsiyonlar ve yan hak vergisi</li>
+<li><a href="{L:2345}">Vergi danışmanlığı</a>: ücret mi temettü mü</li>
+<li><a href="{L:4578}">Muhasebenin yeniden düzenlenmesi</a>: geçmiş ayların TSD'leri verilmediyse</li>
+</ul>
+Bordro ayrı bir hizmet değil, muhasebenin bir parçasıdır. Bordro ve muhasebe tek bir sağlayıcıdaysa TSD tutarları, manuel mutabakat gerekmeden defterlerdeki ve yıllık rapordaki giderlerle örtüşür.
+## content_blocks_10_content
+<h2><b>Estonya'da ücret nelerden oluşur: çalışan, yönetim kurulu üyesi, yüklenici</b></h2>
+Estonya'da bir gerçek kişiye yapılan ödeme, dayanağına göre farklı vergilendirilir. Bunları karıştırmak ilk işe alımda en sık yapılan hatadır.
+<table>
+<tbody>
+<tr>
+<td><b>Dayanak</b></td>
+<td><b>Gelir vergisi</b></td>
+<td><b>Sosyal vergi</b></td>
+<td><b>İşsizlik sigortası</b></td>
+<td><b>II. basamak emeklilik</b></td>
+<td><b>İstihdam sicili</b></td>
+</tr>
+<tr>
+<td>İş sözleşmesi</td>
+<td>%22</td>
+<td>%33 (en az asgari matrah üzerinden)</td>
+<td>%1,6 + %0,8</td>
+<td>%2/4/6</td>
+<td>Evet</td>
+</tr>
+<tr>
+<td>Yönetim kurulu üyesi sözleşmesi</td>
+<td>%22</td>
+<td>%33</td>
+<td>Hayır</td>
+<td>%2/4/6</td>
+<td>Evet</td>
+</tr>
+<tr>
+<td>Gerçek kişiyle hizmet sözleşmesi</td>
+<td>%22</td>
+<td>%33</td>
+<td>Hayır</td>
+<td>%2/4/6</td>
+<td>Evet</td>
+</tr>
+<tr>
+<td>Şahıs işletmesinden veya şirketten fatura</td>
+<td>Kesinti yok</td>
+<td>Hayır</td>
+<td>Hayır</td>
+<td>Hayır</td>
+<td>Hayır</td>
+</tr>
+</tbody>
+</table>
+%2 emeklilik ve muaf tutar başvurusuyla 2.000 € brüt maaş örneği: çalışan eline yaklaşık 1.658 € alır, şirket ise yaklaşık 2.676 € harcar; çünkü sosyal vergi ve işsizlik sigortası brütün üzerine eklenir.
+<h2><b>Estonya'da bordro nasıl işler: uygulama</b></h2>
+<h3><b>Hesaplama sırası: brütten nete</b></h3>
+<ol>
+<li>Sözleşmeye göre brüt maaş.</li>
+<li>Eksi II. basamak fonlu emeklilik katkısı: %2, %4 veya %6.</li>
+<li>Eksi çalışanın işsizlik sigortası: %1,6.</li>
+<li>Eksi muaf asgari tutar: başvuru varsa 700 €.</li>
+<li>Kalan tutar üzerinden %22 gelir vergisi.</li>
+<li>Brütün üzerine işveren %33 sosyal vergi ve %0,8 işsizlik sigortası öder.</li>
+</ol>
+<h3><b>İstihdam sicili (TÖR)</b></h3>
+Şirketin Estonya'da vergi yükümlülüğü doğuran bir iş için ödeme yaptığı herkes istihdam siciline kaydedilmelidir. Kayıt en geç işe başlarken yapılır: sözleşme türü, başlangıç tarihi ve iş sözleşmesinde pozisyon, işyeri adresi ve çalışma süresi. Estonya kişisel kodu olmayan bir yabancı, doğum tarihiyle en fazla beş gün için kaydedilebilir. İşin sona ermesi 10 gün içinde girilir. TÖR verileri çalışanın sağlık sigortasının temelidir; bu yüzden buradaki bir hata doğrudan çalışanı etkiler.
+<h3><b>Ekim 2026'dan itibaren TSD beyannamesi</b></h3>
+1 Ekim 2026'dan itibaren eski 1. ve 2. eklere ait ödeme verileri doğrudan muhasebe programından iletilir ve beyannameyi EMTA kendisi oluşturur. Şirket bunu 10'una kadar onaylar. Yeni sistemdeki ilk TSD Ekim ayı içindir ve son tarihi 10 Kasım 2026'dır. e-MTA'da manuel giriş devam eder, eski CSV 2027 sonuna kadar kabul edilir, 3–8. ekler ise 2028'de veriye geçer.
+<h3><b>Hastalık ve izinler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Durum</b></td>
+<td><b>Kim öder ve ne kadar</b></td>
+</tr>
+<tr>
+<td>Hastalık, 1–3. günler</td>
+<td>Ödenmez</td>
+</tr>
+<tr>
+<td>Hastalık, 4–8. günler</td>
+<td>İşveren, ortalama ücretin %70'i</td>
+</tr>
+<tr>
+<td>Hastalık, 9. günden itibaren</td>
+<td>Tervisekassa, %70, günlük üst sınırla</td>
+</tr>
+<tr>
+<td>Yıllık izin</td>
+<td>Ortalama ücret üzerinden 28 takvim günü</td>
+</tr>
+<tr>
+<td>Ayrılışta kullanılmamış izin</td>
+<td>Tazmin edilir</td>
+</tr>
+</tbody>
+</table>
+İşverenin ödediği hastalık ödeneği gelir vergisine tabidir ve ortalama ücret son altı ay üzerinden hesaplanır.
+<h3><b>Yönetim kurulu üyesi ücreti</b></h3>
+Yönetim kurulu üyesi sözleşmesine dayalı ücret %22 gelir vergisine ve %33 sosyal vergiye tabidir, ancak işsizlik sigortasına tabi değildir. Kural yurt dışında yaşayan yönetim kurulu üyeleri için de geçerlidir: Estonya şirketinin yönetim kurulundaki çalışma için yaptığı ödemeler Estonya'da vergilendirilir. Ücret ile temettü arasındaki seçim hakkında daha fazlası için <a href="{L:844}">Estonya'da kurumlar vergisi 2026</a> yazımıza bakın.
+<h3><b>Yabancı çalışanlar</b></h3>
+AB dışından bir yabancı Estonya'da kısa süreli kayıt veya çalışma amaçlı oturma izniyle çalışır. İşveren en az gereken maaşı ödeyeceğini onaylar ve ihlal halinde 32.000 €'ya kadar para cezası alabilir. Startup çalışanları Startup Visa programı aracılığıyla basitleştirilmiş koşullarda çalışır.
+<h3><b>Ne saklanmalı</b></h3>
+İş sözleşmeleri, muaf tutar başvuruları, puantajlar, ücret pusulaları ve ödeme dayanakları muhasebe belgeleriyle birlikte en az yedi yıl saklanır.
+## content_blocks_11_faq_items_0_question
+Estonya'da maaştan hangi vergiler ödenir?
+## content_blocks_11_faq_items_0_answer
+Çalışan: 700 € muaf tutardan sonra %22 gelir vergisi, %1,6 işsizlik sigortası ve %2–6 II. basamak emeklilik. İşveren, brütün üzerine: %33 sosyal vergi ve %0,8 işsizlik sigortası.
+## content_blocks_11_faq_items_1_question
+Bir çalışan şirkete ne kadara mal olur?
+## content_blocks_11_faq_items_1_answer
+2.000 € brütte şirket ayda yaklaşık 2.676 € harcar. %2 emeklilik ve muaf tutar başvurusuyla çalışan eline yaklaşık 1.658 € alır.
+## content_blocks_11_faq_items_2_question
+Asgari sosyal vergi nedir?
+## content_blocks_11_faq_items_2_answer
+Sosyal vergi, maaş daha düşük olsa bile ayda en az 886 € üzerinden, yani en az 292,38 € olarak ödenir. Örneğin bazı ikinci işler ve öğrenciler için istisnalar vardır.
+## content_blocks_11_faq_items_3_question
+TSD ne zaman verilir?
+## content_blocks_11_faq_items_3_answer
+Ödeme ayını izleyen ayın 10'una kadar. Ekim 2026'dan itibaren maaş verileri programdan iletilir ve EMTA, şirketin onayladığı bir beyanname oluşturur.
+## content_blocks_11_faq_items_4_question
+Çalışan istihdam siciline ne zaman kaydedilmeli?
+## content_blocks_11_faq_items_4_answer
+En geç işe başladığı anda. İşin sona ermesi 10 gün içinde girilir.
+## content_blocks_11_faq_items_5_question
+Yurt dışında yaşayan yönetim kurulu üyesinin ücreti vergilendirilir mi?
+## content_blocks_11_faq_items_5_answer
+Evet. Estonya şirketinin yönetim kurulundaki çalışma için ödenen ücret Estonya'da %22 gelir vergisi ve %33 sosyal vergiyle vergilendirilir. İkamet ülkesindeki sonuçları vergi anlaşması belirler.
+## content_blocks_11_faq_items_6_question
+Hastalık iznini kim öder?
+## content_blocks_11_faq_items_6_answer
+İlk üç gün ödenmez. 4–8. günleri işveren ortalama ücretin %70'i oranında öder, 9. günden itibaren Tervisekassa öder.
+## content_blocks_11_faq_items_7_question
+Başka bir ülkede yaşayan birini Estonya bordrosuyla işe alabilir miyim?
+## content_blocks_11_faq_items_7_answer
+Genellikle hayır. Maaşı çalıştığı ülkede vergilendirilir ve şirketin orada işveren yükümlülükleri doğar. Yerel bordro veya EOR gerekir; bunu kurmanıza yardımcı oluruz.
+## content_blocks_11_faq_items_8_question
+Maaş ödenmediyse TSD vermek gerekir mi?
+## content_blocks_11_faq_items_8_answer
+Kural olarak hayır: beyanname, vergiye tabi ödeme veya kâr dağıtımı olan ay için verilir.
+## content_blocks_12_final_cta_title
+Ekip yapınızı gönderin, sabit bordro fiyatı verelim
+## content_blocks_12_final_cta_text
+Kaç çalışanın ve yönetim kurulu üyesinin ödeme aldığını, nerede yaşadıklarını ve hangi sözleşmelerle çalıştıklarını belirtin. Bir iş günü içinde bir planla dönüyoruz: Estonya'da neyin vergilendirildiği, kimin kaydedileceği ve aylık bordronun ne kadar tutacağı.

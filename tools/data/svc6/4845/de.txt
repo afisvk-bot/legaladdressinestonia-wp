@@ -1,0 +1,262 @@
+## _title
+Verkauf und Übertragung von Anteilen an einer estnischen OÜ
+## _slug
+verkauf-und-uebertragung-von-anteilen-estland
+## rank_math_title
+Anteilsübertragung bei einer estnischen OÜ %currentyear%
+## rank_math_description
+Verkauf und Anteilsübertragung bei einer estnischen OÜ: Prüfung, Kaufvertrag, notarieller Vertrag oder e-Notary und Eintragung ins Handelsregister.
+## rank_math_focus_keyword
+Anteilsübertragung
+## _step_desc
+Wenn Sie nicht sicher sind, ob Sie in Ihrem Fall einen Notar brauchen, senden Sie uns den Registercode: Wir prüfen kostenlos.
+## content_blocks_0_content
+Den Eigentümer einer estnischen Gesellschaft zu wechseln ist nicht so einfach wie ihre Gründung. Grundsätzlich wird ein Vertrag über die Übertragung eines Anteils an einer OÜ notariell geschlossen, und die übrigen Gesellschafter haben ein Vorkaufsrecht vor einem außenstehenden Käufer. Ein Formfehler macht den Vertrag nichtig, ein Verfahrensfehler öffnet die Tür für einen Streit.
+
+Es gibt aber mehrere Wege. Der Vertrag kann bei einem Notar in Estland oder aus der Ferne per e-Notary mit der e-Residency-Karte geschlossen werden. Beträgt das Stammkapital mindestens 10.000 €, ist es voll eingezahlt und lässt die Satzung es zu, kann der Anteil ganz ohne Notar über das Register übertragen werden. Und manchmal ist es praktischer, den Gesellschafterkreis über eine Kapitalherabsetzung mit gleichzeitiger Erhöhung zu ändern.
+<blockquote>Wir wählen den Weg für Ihren Deal, prüfen die Gesellschaft vor dem Verkauf, bereiten Vertrag und Unterlagen vor, begleiten die Unterzeichnung und aktualisieren alles, was sich danach ändert: Gesellschafterregister, Angaben zu den wirtschaftlich Berechtigten, Vorstand und Bank.</blockquote>
+## content_blocks_3_content
+<h3><b>Wichtige Fakten</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Thema</b></td>
+<td><b>Praktische Erläuterung</b></td>
+</tr>
+<tr>
+<td>Form des Vertrags</td>
+<td>Grundsätzlich notariell: sowohl das Verpflichtungs- als auch das Übertragungsgeschäft</td>
+</tr>
+<tr>
+<td>Aus der Ferne</td>
+<td>e-Residents können per e-Notary unterzeichnen, ohne nach Estland zu reisen</td>
+</tr>
+<tr>
+<td>Ohne Notar</td>
+<td>Wenn das Kapital mindestens 10.000 € beträgt, voll eingezahlt ist und die Satzung per einstimmigem Beschluss die notarielle Form ausschließt</td>
+</tr>
+<tr>
+<td>Vorkaufsrecht</td>
+<td>Andere Gesellschafter können den Anteil vor einem Dritten kaufen, sofern die Satzung nichts anderes bestimmt</td>
+</tr>
+<tr>
+<td>Alternative</td>
+<td>Kapitalherabsetzung mit gleichzeitiger Erhöhung: Gesellschafterwechsel ohne Notar bei Kapital unter 10.000 €</td>
+</tr>
+<tr>
+<td>Verpfändung</td>
+<td>Erfordert grundsätzlich ebenfalls die notarielle Form</td>
+</tr>
+<tr>
+<td>Register</td>
+<td>Die Gesellschafter einer OÜ werden im Handelsregister ausgewiesen</td>
+</tr>
+<tr>
+<td>Wirtschaftlich Berechtigte</td>
+<td>UBO-Daten werden innerhalb von 30 Tagen nach der Änderung aktualisiert</td>
+</tr>
+<tr>
+<td>Steuer des Verkäufers</td>
+<td>Richtet sich nach dem Steuerwohnsitz des Verkäufers; Estland besteuert den Gewinn vor allem beim Verkauf von Anteilen an Gesellschaften mit viel estnischem Grundbesitz</td>
+</tr>
+<tr>
+<td>Steuer der Gesellschaft</td>
+<td>Die Anteilsübertragung selbst löst keine Steuer auf Gesellschaftsebene aus</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+So übertragen Sie einen Anteil: 4 Schritte
+## content_blocks_4_step_1
+Anfrage senden. Registercode, wer verkauft und wer kauft, welcher Teil der Anteile, Preis, ob die Parteien e-Residency haben und ob Verpfändung oder Ratenzahlung nötig ist.
+## content_blocks_4_step_2
+Fahrplan erhalten. Notar in Estland, e-Notary, Übertragung ohne Notar oder Kapitaländerung: Wir wählen den kürzesten rechtmäßigen Weg und prüfen das Vorkaufsrecht der Gesellschafter.
+## content_blocks_4_step_3
+Vertrag vorbereiten und unterzeichnen. Vertrag, Zustimmungen, Verzichte auf das Vorkaufsrecht, Unterlagen für den Notar; Unterzeichnung persönlich, aus der Ferne oder per Vollmacht.
+## content_blocks_4_step_4
+Wir aktualisieren alles nach dem Deal. Gesellschafter im Register, UBO-Daten, Vorstand, Kontaktperson und Zeichnungsberechtigte bei der Bank.
+## content_blocks_6_tariff_title
+Leistungspakete
+## content_blocks_6_tariff_items_0_name
+Paket „Anteilsübertragung“
+## content_blocks_6_tariff_items_0_package_items
+<li>Prüfung der Satzung: Vorkaufsrecht, Beschränkungen, Form des Vertrags
+<li>Wahl des Weges: Notar, e-Notary oder ohne Notar
+<li>Vertragsentwurf und Unterlagen für den Notar
+<li>Organisation der Unterzeichnung
+<li>Aktualisierung von Register und UBO-Daten</li>
+## content_blocks_6_tariff_items_1_name
+Paket „Unternehmensverkauf aus einer Hand“ (empfohlen)
+## content_blocks_6_tariff_items_1_package_items
+<li>Alles aus dem Paket „Anteilsübertragung“
+<li>Prüfung der Gesellschaft vor dem Verkauf: Berichte, Steuern, Register, Verträge
+<li>Vertrag mit Zahlungsbedingungen, Verkäufergarantien und Übergabeverfahren
+<li>Wechsel von Vorstand und Kontaktperson nach dem Deal
+<li>Übergabe von Buchhaltung, e-MTA-Zugängen und Bank
+<li>Meldungen an das Steuerland von Verkäufer oder Käufer bei Bedarf</li>
+## content_blocks_6_tariff_items_2_name
+Paket „Strukturierung ohne Notar“
+## content_blocks_6_tariff_items_2_package_items
+<li>Kapitalerhöhung auf 10.000 € und volle Einzahlung
+<li>Satzungsänderung mit Verzicht auf die notarielle Form per einstimmigem Gesellschafterbeschluss
+<li>Spätere Anteilsübertragungen über das e-Business Register
+<li>Alternativer Weg: Kapitalherabsetzung mit gleichzeitiger Erhöhung</li>
+## content_blocks_7_title_right
+Die Kernaussage: Teuer ist nicht der Notar, sondern das, was vor dem Deal nicht geprüft wurde
+## content_blocks_7_text_right
+Käufer eines Anteils an einer bestehenden Gesellschaft prüfen oft nur den Preis. Verkäufer nur die Vertragsform. Später stellt sich heraus:
+<ul>
+<li><b>Das Vorkaufsrecht.</b> Schließt die Satzung es nicht aus, können andere Gesellschafter den Anteil zu denselben Bedingungen kaufen. Ein Deal an diesem Recht vorbei ist ein Anlass für Streit.</li>
+<li><b>Nicht eingereichte Berichte und Steuerschulden.</b> Der neue Eigentümer erhält die Gesellschaft mit ihrer ganzen Geschichte: Registerbußgelder, Schulden bei der EMTA, offene Zeiträume.</li>
+<li><b>Nicht eingezahlte Anteile.</b> Wurde die Einlage nicht geleistet, kann die Einzahlungspflicht auf den Käufer übergehen.</li>
+<li><b>Vorstand und Bank.</b> Der Anteil ist übertragen, aber der frühere Eigentümer bleibt Vorstandsmitglied mit Kontozugang.</li>
+<li><b>Die Steuer des Verkäufers.</b> In Estland löst der Deal selbst keine Steuer auf Gesellschaftsebene aus, aber der Verkäufer zahlt in seinem Land Steuer auf den Veräußerungsgewinn. Für in der Ukraine Ansässige kommt eine CFC-Meldung innerhalb von 60 Tagen hinzu.</li>
+</ul>
+<b>Praktisches Fazit:</b> Vor dem Deal werden Satzung, Register, Steuerlage und Bank geprüft. Wir tun das im Rahmen des Pakets, nicht erst, wenn die Probleme dem Käufer gehören.
+## content_blocks_8_title_left
+Wann eine Anteilsübertragung nicht nötig ist und wann sie nicht ausreicht
+## content_blocks_8_text_left
+<ul>
+<li><b>Sie wollen einen Investor gewinnen, keinen Anteil verkaufen.</b> Ein neuer Gesellschafter kann über eine <a href="{L:4846}">Kapitalerhöhung</a> eintreten: Das Geld fließt in die Gesellschaft, nicht an den Verkäufer.</li>
+<li><b>Nur die Geschäftsführung wechselt.</b> Dafür genügt ein <a href="{L:4844}">Wechsel des Vorstandsmitglieds</a>.</li>
+<li><b>Sie wollen Mitarbeitern Optionen gewähren.</b> Eine Option ist das Recht, künftig einen Anteil zu kaufen; die steuerlichen Folgen hängen von der Dreijahresregel ab. Mehr dazu auf der Seite <a href="{L:4529}">für Start-ups</a>.</li>
+<li><b>Die ganze Gesellschaft wird verkauft.</b> Neben dem Anteil werden Vorstand, Zugänge, Buchhaltung und Verpflichtungen übergeben: Das ist ein Verkaufsprojekt, kein einzelner Vertrag.</li>
+<li><b>Sie brauchen die Gesellschaft nur als „leere Hülle“.</b> Manchmal ist es günstiger, eine <a href="{L:1401}">Vorratsgesellschaft zu kaufen</a> oder eine neue zu gründen.</li>
+</ul>
+## content_blocks_9_title_right
+Weitere Leistungen von uns
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4844}">Wechsel des Vorstandsmitglieds</a>: oft zusammen mit einem Verkauf</li>
+<li><a href="{L:4846}">Kapitalerhöhung und Ausgabe neuer Anteile</a>: Eintritt eines Gesellschafters ohne Anteilsverkauf</li>
+<li><a href="{L:4847}">Kapitalherabsetzung</a>: Austritt eines Gesellschafters mit Auszahlung durch die Gesellschaft</li>
+<li>Satzungsänderung: Verzicht auf die notarielle Form, Vorkaufsrecht</li>
+<li>Aktualisierung der UBO-Daten: innerhalb von 30 Tagen nach dem Deal</li>
+<li><a href="{L:4758}">Liquidation der Gesellschaft</a>: wenn sie sich nicht verkaufen lässt</li>
+<li><a href="{L:1401}">Vorratsgesellschaften in Estland</a></li>
+</ul>
+Ein Anteilsdeal ist der Anfang der Änderungen, nicht ihr Ende. Wenn Deal, Register, Vorstand und Buchhaltung bei einem Anbieter liegen, erhält der neue Eigentümer eine Gesellschaft ohne Daten des Vorgängers.
+## content_blocks_10_content
+<h2><b>Vier Wege, den Eigentümer einer OÜ zu wechseln</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Weg</b></td>
+<td><b>Wann möglich</b></td>
+<td><b>Notar</b></td>
+<td><b>Dauer</b></td>
+</tr>
+<tr>
+<td>Notarieller Vertrag in Estland</td>
+<td>Immer</td>
+<td>Ja</td>
+<td>Notartermin + 1–3 Tage für das Register</td>
+</tr>
+<tr>
+<td>e-Notary für e-Residents</td>
+<td>Die Parteien haben e-Residency oder eine estnische ID-Karte</td>
+<td>Ja, aus der Ferne</td>
+<td>Ohne Reise nach Estland</td>
+</tr>
+<tr>
+<td>Übertragung über das e-Business Register</td>
+<td>Kapital ab 10.000 €, voll eingezahlt, Satzung schließt die notarielle Form aus</td>
+<td>Nein</td>
+<td>In der Regel 1 Werktag</td>
+</tr>
+<tr>
+<td>Kapitalherabsetzung mit gleichzeitiger Erhöhung</td>
+<td>Gesellschafterwechsel ohne Notar, Kapital unter 10.000 €</td>
+<td>Nein</td>
+<td>Einige Tage, inklusive Kapitalverfahren</td>
+</tr>
+</tbody>
+</table>
+Wird der Anteil per Vollmacht übertragen und sind die Parteien im Ausland, wird die Vollmacht meist notariell beglaubigt und bei Bedarf apostilliert.
+<h2><b>So verkaufen Sie einen Anteil an einer estnischen OÜ: Praxis</b></h2>
+<h3><b>Ablauf Schritt für Schritt</b></h3>
+<ol>
+<li><b>Prüfung von Satzung und Register.</b> Form des Vertrags, Vorkaufsrecht, Übertragungsbeschränkungen, Einzahlung der Anteile.</li>
+<li><b>Prüfung der Gesellschaft.</b> Jahresabschlüsse, Steuerlage, Verträge, Bank.</li>
+<li><b>Mitteilung an die Gesellschafter.</b> Gilt das Vorkaufsrecht: Angebot an die Gesellschafter oder deren schriftlicher Verzicht.</li>
+<li><b>Vertrag.</b> Preis, Zahlungsweise, Verkäufergarantien, Zeitpunkt des Anteilsübergangs.</li>
+<li><b>Unterzeichnung.</b> Beim Notar, per e-Notary oder, wenn die Voraussetzungen erfüllt sind, über das e-Business Register.</li>
+<li><b>Registeränderungen.</b> Gesellschafter und bei Bedarf Vorstand und Kontaktperson.</li>
+<li><b>Nach dem Deal.</b> UBO-Daten innerhalb von 30 Tagen, Bank, e-MTA, Buchhaltung.</li>
+</ol>
+<h3><b>Übertragung ohne Notar: Voraussetzungen</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Voraussetzung</b></td>
+<td><b>Was das bedeutet</b></td>
+</tr>
+<tr>
+<td>Kapital ab 10.000 €</td>
+<td>Liegt es darunter, wird das Kapital zuerst erhöht</td>
+</tr>
+<tr>
+<td>Kapital voll eingezahlt</td>
+<td>Nicht eingezahlte Anteile schließen die vereinfachte Übertragung aus</td>
+</tr>
+<tr>
+<td>Satzungsbestimmung</td>
+<td>Die Satzung schließt die notarielle Form für Übertragung und Verpfändung aus</td>
+</tr>
+<tr>
+<td>Einstimmiger Beschluss</td>
+<td>Eine solche Bestimmung beschließen alle Gesellschafter</td>
+</tr>
+<tr>
+<td>Satzung im Register eingetragen</td>
+<td>Die Übertragung ist erst nach Eintragung der neuen Satzung möglich</td>
+</tr>
+</tbody>
+</table>
+Für von e-Residents gegründete Gesellschaften mit 0,01–2.500 € Kapital führt der Weg in dieses Regime über eine Kapitalerhöhung auf 10.000 € und eine Satzungsänderung. Das sind einige Tage Arbeit, danach dauert jede weitere Übertragung einen Tag.
+<h3><b>e-Notary</b></h3>
+Estnische Notare beurkunden aus der Ferne: Die Parteien nehmen per Videoverbindung teil und unterzeichnen mit der e-Residency-Karte oder der estnischen ID-Karte. Das ist der Standardweg für Eigentümer im Ausland, wenn eine vereinfachte Übertragung nicht möglich ist.
+<h3><b>Steuern beim Anteilsverkauf</b></h3>
+Die Anteilsübertragung selbst löst keine Steuer auf Gesellschaftsebene aus. Ein Verkäufer, der eine natürliche Person ist, zahlt die Steuer auf den Veräußerungsgewinn in seinem Wohnsitzstaat. Estland besteuert den Gewinn eines Nichtansässigen vor allem dann, wenn der Wert der Gesellschaft überwiegend aus estnischen Immobilien besteht. Ein in Estland Ansässiger erklärt den Gewinn und zahlt 22 %. Mehr dazu im Beitrag <a href="{L:1037}">Steuern für Unternehmen in Estland</a>.
+<h3><b>Pflichten nach dem Deal</b></h3>
+Der Vorstand muss die Angaben zu den wirtschaftlich Berechtigten innerhalb von 30 Tagen aktualisieren. In der Ukraine Ansässige, die einen Anteil erworben oder verloren haben, reichen innerhalb von 60 Tagen eine CFC-Meldung ein; siehe die Seite <a href="{L:4757}">für ukrainische Unternehmer</a>. Banken und Zahlungsdienste müssen über den Eigentümerwechsel informiert werden, sonst droht bei einer Routineprüfung eine Kontosperre.
+## content_blocks_11_faq_items_0_question
+Brauche ich einen Notar, um einen Anteil an einer OÜ zu verkaufen?
+## content_blocks_11_faq_items_0_answer
+Grundsätzlich ja. Ausnahme: Kapital ab 10.000 €, voll eingezahlt, und eine einstimmig beschlossene Satzungsbestimmung, die die notarielle Form ausschließt.
+## content_blocks_11_faq_items_1_question
+Kann ich einen Anteil verkaufen, ohne nach Estland zu kommen?
+## content_blocks_11_faq_items_1_answer
+Ja. e-Residents unterzeichnen per e-Notary über Video; ohne e-Residency per Vollmacht, die im Ausland notariell beglaubigt wird.
+## content_blocks_11_faq_items_2_question
+Was ist das Vorkaufsrecht der Gesellschafter?
+## content_blocks_11_faq_items_2_answer
+Das Recht der übrigen Gesellschafter, den Anteil vor einem außenstehenden Käufer zu denselben Bedingungen zu kaufen, sofern die Satzung nichts anderes bestimmt.
+## content_blocks_11_faq_items_3_question
+Wie lange dauert eine Anteilsübertragung?
+## content_blocks_11_faq_items_3_answer
+Über das e-Business Register meist einen Werktag. Beim Notar die Zeit für Termin und Vorbereitung plus 1–3 Tage für die Registeränderungen.
+## content_blocks_11_faq_items_4_question
+Was kostet das?
+## content_blocks_11_faq_items_4_answer
+Die Notargebühr hängt vom Wert des Geschäfts ab. Unsere Leistungen erbringen wir zum Festpreis nach Bewertung des Deals.
+## content_blocks_11_faq_items_5_question
+Zahlt die Gesellschaft Steuern beim Eigentümerwechsel?
+## content_blocks_11_faq_items_5_answer
+Nein. Die Steuer auf den Veräußerungsgewinn zahlt der Verkäufer in seinem Steuerwohnsitzstaat.
+## content_blocks_11_faq_items_6_question
+Müssen die Angaben zu den wirtschaftlich Berechtigten aktualisiert werden?
+## content_blocks_11_faq_items_6_answer
+Ja, innerhalb von 30 Tagen nach einem Wechsel der Eigentümer oder der Kontrolle.
+## content_blocks_11_faq_items_7_question
+Was, wenn der Käufer mit neuem Geld einsteigen will?
+## content_blocks_11_faq_items_7_answer
+Dann ist eine Kapitalerhöhung praktischer: Das Geld fließt in die Gesellschaft statt an den Verkäufer.
+## content_blocks_11_faq_items_8_question
+Kann ein Anteil bei 2.500 € Kapital ohne Notar übertragen werden?
+## content_blocks_11_faq_items_8_answer
+Direkt nicht. Sie können das Kapital auf 10.000 € erhöhen und die Satzung ändern oder eine Kapitalherabsetzung mit gleichzeitiger Erhöhung nutzen.
+## content_blocks_12_final_cta_title
+Senden Sie uns die Eckdaten des Deals: Wir finden den kürzesten Weg
+## content_blocks_12_final_cta_text
+Nennen Sie den Registercode, wer verkauft und wer kauft, welchen Anteil und ob die Parteien e-Residency haben. Innerhalb eines Werktags sagen wir Ihnen, ob ein Notar nötig ist, welche Gesellschafterrechte zu beachten sind und was der Deal aus einer Hand kostet.

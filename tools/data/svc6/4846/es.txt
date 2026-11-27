@@ -1,0 +1,231 @@
+## _title
+Aumento de capital de una OÜ estonia
+## _slug
+aumento-de-capital-ou-estonia
+## rank_math_title
+Aumento de capital de una OÜ en Estonia %currentyear%
+## rank_math_description
+Aumento de capital de una OÜ en Estonia: acuerdo de socios, nuevos estatutos, aportación dineraria o no dineraria, inscripción y declaración en la TSD.
+## rank_math_focus_keyword
+Aumento de capital
+## _step_desc
+Si no sabe qué capital necesita su empresa, describa su objetivo y le asesoraremos gratis.
+## content_blocks_0_content
+Desde 2023 una OÜ estonia puede constituirse con capital desde 0,01 €, y la mayoría de las empresas de e-residentes lo hicieron así. Pero tarde o temprano hay que aumentar el capital: para dar entrada a un inversor, obtener un préstamo o una licencia, transmitir participaciones sin notario o simplemente demostrar al banco y a los socios comerciales que la empresa es sólida.
+
+El aumento de capital es una de las modificaciones registrales más formales. Acuerdo de socios, nuevos estatutos, desembolso de la aportación precisamente en la cuenta de la empresa, solicitud en un plazo de seis meses y, para una aportación no dineraria, valoración. El registrador deniega la inscripción incluso si el dinero llegó a otra cuenta. Y en la parte fiscal hay un detalle del que casi nadie habla: la aportación debe declararse en la TSD; si no, después no podrá devolverse a los socios sin impuestos.
+<blockquote>Elegimos la modalidad de aumento según su objetivo, preparamos el acuerdo y los estatutos, controlamos el desembolso y la presentación y, tras la inscripción, registramos la aportación en la contabilidad y la declaramos a la EMTA.</blockquote>
+## content_blocks_3_content
+<h3><b>Datos clave</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicación práctica</b></td>
+</tr>
+<tr>
+<td>Quién decide</td>
+<td>Los socios; si cambia la cifra de capital en los estatutos, acuerdo de modificación estatutaria</td>
+</tr>
+<tr>
+<td>Modalidades</td>
+<td>Aportaciones dinerarias, no dinerarias, aumento con cargo a fondos propios</td>
+</tr>
+<tr>
+<td>Desembolso dinerario</td>
+<td>En la cuenta bancaria de la empresa antes de la solicitud; se adjunta la confirmación del banco o entidad de pago</td>
+</tr>
+<tr>
+<td>Plazo de presentación</td>
+<td>Como máximo 6 meses desde el acuerdo de aumento</td>
+</tr>
+<tr>
+<td>Aportación no dineraria</td>
+<td>Se valora; en algunos casos requiere revisión de un auditor</td>
+</tr>
+<tr>
+<td>Derecho preferente</td>
+<td>Los socios actuales pueden suscribir las nuevas participaciones en proporción a las suyas, salvo exclusión</td>
+</tr>
+<tr>
+<td>Tasa</td>
+<td>Modificar los datos de una OÜ en el registro cuesta normalmente 25 €</td>
+</tr>
+<tr>
+<td>Capital desde 10.000 €</td>
+<td>Con estatutos adecuados, permite transmitir participaciones sin notario</td>
+</tr>
+<tr>
+<td>Impuestos</td>
+<td>La aportación no tributa; debe reflejarse en el anexo 7 de la TSD</td>
+</tr>
+<tr>
+<td>Devolución de la aportación</td>
+<td>Puede devolverse después a los socios sin impuestos, si se declaró</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Cómo aumentar el capital: 4 pasos
+## content_blocks_4_step_1
+Envíe su solicitud. Código de registro, cuánto aumentar el capital, quién aporta (socios actuales o un nuevo inversor) y si en dinero o en bienes.
+## content_blocks_4_step_2
+Reciba el esquema. Revisamos los estatutos, elegimos la modalidad, tenemos en cuenta el derecho preferente y preparamos el acuerdo y los nuevos estatutos.
+## content_blocks_4_step_3
+Realice la aportación. Dineraria, en la cuenta de la empresa antes de la solicitud; no dineraria, tras la valoración y la entrega del bien.
+## content_blocks_4_step_4
+Presentamos la solicitud y registramos la aportación. Inscripción, reflejo en la contabilidad y en el anexo 7 de la TSD y actualización UBO si cambia el control.
+## content_blocks_6_tariff_title
+Paquetes de servicios
+## content_blocks_6_tariff_items_0_name
+Paquete «Aumento de capital»
+## content_blocks_6_tariff_items_0_package_items
+<li>Revisión de estatutos y elección de la modalidad
+<li>Acuerdo de socios y nuevos estatutos
+<li>Instrucciones para desembolsar en la cuenta de la empresa
+<li>Presentación de la solicitud y seguimiento de la inscripción
+<li>Reflejo de la aportación en la contabilidad y la TSD</li>
+## content_blocks_6_tariff_items_1_name
+Paquete «Entrada de inversor» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Todo lo incluido en el paquete «Aumento de capital»
+<li>Cálculo de la participación del inversor y de la prima de emisión
+<li>Renuncia o ejercicio del derecho preferente de los socios actuales
+<li>Cambios estatutarios para el inversor: clases de participaciones, gobierno
+<li>Actualización de datos UBO y de la lista de socios
+<li>Documentos para el banco y la due diligence del inversor</li>
+## content_blocks_6_tariff_items_2_name
+Paquete «Emisión compleja»
+## content_blocks_6_tariff_items_2_package_items
+<li>Aportación no dineraria: PI, equipos, participaciones de otra empresa, créditos
+<li>Organización de la valoración y, si hace falta, revisión de un auditor
+<li>Capitalización de un préstamo de socio
+<li>Aumento con cargo a beneficios no distribuidos y reservas
+<li>Aumento de capital como parte de un cambio de propietario sin notario</li>
+## content_blocks_7_title_right
+Clave: la aportación no solo hay que hacerla, también hay que declararla
+## content_blocks_7_text_right
+Un detalle separa un capital bien aumentado de uno simplemente aumentado.
+<ul>
+<li><b>Dinero solo a la cuenta de la empresa.</b> El registro no inscribe el aumento si la aportación dineraria no llegó a la cuenta de la propia empresa. Un tribunal confirmó una denegación así en 2025.</li>
+<li><b>Seis meses.</b> La solicitud se presenta como máximo seis meses después del acuerdo. Si se pasa el plazo, hay que volver a adoptarlo.</li>
+<li><b>TSD, anexo 7.</b> Las aportaciones al capital se reflejan en el anexo 7 de la TSD. Es este registro el que después permite devolver a los socios lo aportado sin impuestos, en una reducción de capital o una liquidación. Si no se declaró, Hacienda puede tratar la devolución como reparto de beneficios gravado al 22/78.</li>
+<li><b>Aportación no dineraria y valoración.</b> Sobrevalorar el bien genera responsabilidad del socio y del consejo; infravalorarlo priva a la empresa de capital en balance.</li>
+</ul>
+<b>Conclusión práctica:</b> el aumento de capital es registro y es contabilidad fiscal. Resolvemos ambas partes en un solo proyecto.
+## content_blocks_8_title_left
+Cuándo no hace falta aumentar el capital y cuándo no basta
+## content_blocks_8_text_left
+<ul>
+<li><b>La empresa necesita dinero, pero no un nuevo socio.</b> A veces un préstamo de socio es más sencillo y rápido. Después puede capitalizarse.</li>
+<li><b>El único objetivo es transmitir participaciones sin notario.</b> Un capital desde 10.000 € es solo una de tres condiciones. Además, el capital debe estar desembolsado y los estatutos modificados; véase <a href="{L:4845}">transmisión de participaciones</a>.</li>
+<li><b>El patrimonio neto es inferior a la mitad del capital.</b> El aumento es una de las medidas que los socios deben adoptar. Primero conviene revisar los <a href="{L:4699}">estados financieros intermedios</a> para elegir la adecuada.</li>
+<li><b>El inversor necesita derechos especiales.</b> El aumento por sí solo no los otorga: hacen falta cambios estatutarios y un pacto de socios.</li>
+<li><b>Necesita una licencia.</b> En actividades reguladas, los requisitos de recursos propios son un tema aparte. Más información en la página de <a href="{L:2183}">licencias financieras</a>.</li>
+</ul>
+## content_blocks_9_title_right
+Otros servicios que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4845}">Venta y transmisión de participaciones</a>: cambio de propietario</li>
+<li><a href="{L:4847}">Reducción de capital</a>: devolución de aportaciones a los socios</li>
+<li>Modificación de estatutos: cifra de capital, clases de participaciones</li>
+<li>Actualización de datos UBO</li>
+<li><a href="{L:4529}">Empresa para startups</a>: rondas, opciones, préstamos convertibles</li>
+<li><a href="{L:2189}">Estructura holding</a>: aportación no dineraria de participaciones</li>
+<li><a href="{L:2344}">Contabilidad mensual</a>: registro de la aportación y TSD</li>
+<li><a href="{L:2776}">Permiso de residencia para fundadores</a>: inversión de 65.000 € en capital</li>
+</ul>
+El capital vive a la vez en el registro y en la contabilidad. Cuando los cambios registrales y la contabilidad los lleva un mismo proveedor, la aportación queda bien reflejada en los estatutos y en la TSD, y puede devolverse sin impuestos.
+## content_blocks_10_content
+<h2><b>Tres formas de aumentar el capital de una OÜ</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Forma</b></td>
+<td><b>Origen del capital</b></td>
+<td><b>Dinero nuevo en la empresa</b></td>
+<td><b>Cuándo encaja</b></td>
+</tr>
+<tr>
+<td>Aportación dineraria</td>
+<td>Los socios o un inversor transfieren dinero a la cuenta de la empresa</td>
+<td>Sí</td>
+<td>Entrada de inversor, aumento a 2.500 € o 10.000 €, requisitos del banco o de una licencia</td>
+</tr>
+<tr>
+<td>Aportación no dineraria</td>
+<td>Bienes: equipos, PI, participaciones de otra empresa, un crédito</td>
+<td>No, pero crecen los activos</td>
+<td>Llevar la PI a la empresa, crear un holding, capitalizar un préstamo</td>
+</tr>
+<tr>
+<td>Aumento con cargo a reservas</td>
+<td>Beneficios no distribuidos y reservas de la propia empresa</td>
+<td>No</td>
+<td>Mostrar más capital sin nuevas aportaciones</td>
+</tr>
+</tbody>
+</table>
+Las nuevas participaciones pueden emitirse a valor nominal o con prima. La prima es la parte de la aportación que excede del nominal; no aumenta el capital social, pero también es aportación del socio.
+<h2><b>Cómo aumentar el capital de una OÜ estonia: práctica</b></h2>
+<h3><b>Proceso paso a paso</b></h3>
+<ol>
+<li><b>Revisión de estatutos.</b> Si fijan una cifra exacta de capital o un intervalo permitido, y si hay derecho preferente.</li>
+<li><b>Acuerdo de socios.</b> Importe del aumento, quién aporta y cuánto, nominal de las nuevas participaciones, prima.</li>
+<li><b>Nuevos estatutos.</b> Si el capital sale de los límites fijados en los estatutos.</li>
+<li><b>Desembolso.</b> Dinerario, en la cuenta de la empresa; no dinerario, entrega del bien y valoración.</li>
+<li><b>Solicitud al registro.</b> La presenta un administrador como máximo 6 meses después del acuerdo, con justificante del desembolso.</li>
+<li><b>Inscripción.</b> Normalmente 1–3 días hábiles; tasa de unos 25 €.</li>
+<li><b>Contabilidad e impuestos.</b> La aportación se contabiliza y se refleja en el anexo 7 de la TSD; si cambia el control, actualización UBO.</li>
+</ol>
+<h3><b>Aportación dineraria</b></h3>
+El dinero se transfiere a una cuenta bancaria o de entidad de pago a nombre de la empresa. Se adjunta el justificante a la solicitud. El registrador no acepta transferencias a la cuenta personal de un administrador ni a la de otra empresa.
+<h3><b>Aportación no dineraria</b></h3>
+Puede aportarse cualquier bien valorable en dinero: equipos, derechos de propiedad intelectual, participaciones de otra empresa, un crédito dinerario frente a la empresa como un préstamo de socio. El valor se determina mediante valoración; en algunos casos lo revisa un auditor. El trabajo y los servicios no pueden aportarse al capital.
+<h3><b>Aumento con cargo a reservas</b></h3>
+El capital se aumenta con beneficios no distribuidos o reservas, sin dinero nuevo. Cambia la estructura de los fondos propios, pero no el historial fiscal: los importes traspasados desde beneficios no se convierten en aportaciones de socios a efectos de una devolución sin impuestos.
+<h3><b>Entrada de un nuevo socio</b></h3>
+El inversor recibe nuevas participaciones a cambio de su aportación a la empresa. Si los estatutos no excluyen el derecho preferente, los socios actuales deben renunciar a él o ejercerlo. Los derechos del inversor (clases de participaciones, gobierno, protección antidilución) se recogen en los estatutos y en un pacto de socios.
+<h3><b>Impuestos</b></h3>
+La aportación al capital no tributa ni para la empresa ni para el socio. Es importante declararla en el anexo 7 de la TSD: el registro de aportaciones determina qué importe podrá devolverse a los socios sin el impuesto del 22/78 en una reducción de capital o liquidación. Más información en el artículo <a href="{L:844}">impuesto de sociedades en Estonia en 2026</a>.
+## content_blocks_11_faq_items_0_question
+¿Cómo se aumenta el capital de una OÜ estonia?
+## content_blocks_11_faq_items_0_answer
+Los socios adoptan un acuerdo, modifican los estatutos si hace falta y desembolsan en la cuenta de la empresa, y un administrador presenta la solicitud al registro en los 6 meses siguientes al acuerdo.
+## content_blocks_11_faq_items_1_question
+¿Cuánto cuesta un aumento de capital?
+## content_blocks_11_faq_items_1_answer
+La tasa por modificar los datos de una OÜ es normalmente de 25 €. A ello se suma la preparación de documentos y, en aportaciones no dinerarias, la valoración.
+## content_blocks_11_faq_items_2_question
+¿Puedo aportar bienes en lugar de dinero?
+## content_blocks_11_faq_items_2_answer
+Sí: equipos, PI, participaciones de otra empresa o un crédito frente a la empresa. La aportación se valora, en algunos casos con revisión de un auditor.
+## content_blocks_11_faq_items_3_question
+¿Puede capitalizarse un préstamo de socio?
+## content_blocks_11_faq_items_3_answer
+Sí, el crédito derivado del préstamo puede ser una aportación no dineraria.
+## content_blocks_11_faq_items_4_question
+¿Tributa la aportación al capital?
+## content_blocks_11_faq_items_4_answer
+No. Pero debe declararse en el anexo 7 de la TSD para poder devolverla después sin impuestos.
+## content_blocks_11_faq_items_5_question
+¿Cuánto tarda?
+## content_blocks_11_faq_items_5_answer
+Normalmente unos días hábiles desde el acuerdo hasta la inscripción; más en aportaciones no dinerarias por la valoración.
+## content_blocks_11_faq_items_6_question
+¿Hace falta notario?
+## content_blocks_11_faq_items_6_answer
+Por regla general, no: los documentos se firman digitalmente y se presentan por el e-Business Register.
+## content_blocks_11_faq_items_7_question
+¿Por qué aumentar el capital a 10.000 €?
+## content_blocks_11_faq_items_7_answer
+Es una de las condiciones para transmitir participaciones sin notario. Además, bancos, autoridades de licencias y contrapartes suelen fijarse en la cifra de capital.
+## content_blocks_11_faq_items_8_question
+¿Deben los socios actuales aceptar la entrada de un inversor?
+## content_blocks_11_faq_items_8_answer
+Si los estatutos no excluyen su derecho preferente, deben ejercerlo o renunciar a él.
+## content_blocks_12_final_cta_title
+Describa su objetivo y elegiremos la modalidad de aumento de capital
+## content_blocks_12_final_cta_text
+Indique el código de registro, el capital que necesita, quién aporta y de qué forma. En un día hábil le enviaremos un esquema, un borrador de acuerdo y un precio fijo.

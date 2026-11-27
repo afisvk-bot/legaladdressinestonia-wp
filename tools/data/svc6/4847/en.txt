@@ -1,0 +1,231 @@
+## _title
+Share Capital Reduction of an Estonian Company
+## _slug
+share-capital-reduction-estonia
+## rank_math_title
+Share Capital Reduction of an Estonian OÜ %currentyear%
+## rank_math_description
+Share capital reduction of an Estonian OÜ: resolution and articles, creditor notice, Business Register filing and a tax-free return of declared contributions.
+## rank_math_focus_keyword
+Share capital reduction
+## _step_desc
+If you are not sure how much capital can be returned tax-free, send us the registry code and we will check free of charge.
+## content_blocks_0_content
+Since 2023 the minimum capital of an Estonian OÜ has been €0.01. Companies that once paid in €2,500 or more can now return that money to the shareholders, and with correct records do so tax-free. A capital reduction is also used for a shareholder's exit, to cover losses and as part of a change of owners without a notary.
+
+But it is the only capital change that affects creditors' interests. That is why the law requires them to be notified, gives them time to file claims, and only then allows the entry to be made and the money paid out. A mistake in the procedure makes the payout unlawful, and a mistake in the records turns the return of a contribution into a profit distribution taxed at 22/78.
+<blockquote>We check how much capital can be returned tax-free, prepare the resolution and articles, publish the creditor notice, file with the register at the right time and declare the payout in the TSD.</blockquote>
+## content_blocks_3_content
+<h3><b>Key facts</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Topic</b></td>
+<td><b>Practical explanation</b></td>
+</tr>
+<tr>
+<td>Minimum capital</td>
+<td>€0.01 since 1 February 2023</td>
+</tr>
+<tr>
+<td>Who decides</td>
+<td>The shareholders; if the capital amount in the articles changes, a resolution to amend the articles</td>
+</tr>
+<tr>
+<td>Methods</td>
+<td>Reducing the nominal value of shares or cancelling shares</td>
+</tr>
+<tr>
+<td>Creditor protection</td>
+<td>Notice in Ametlikud Teadaanded and to known creditors; a period for claims</td>
+</tr>
+<tr>
+<td>Register entry</td>
+<td>Not earlier than the statutory period after the resolution</td>
+</tr>
+<tr>
+<td>Payouts to shareholders</td>
+<td>Only after the register entry and with creditors' claims taken into account</td>
+</tr>
+<tr>
+<td>Tax on the payout</td>
+<td>Tax-free up to the declared contributions; above that, 22/78</td>
+</tr>
+<tr>
+<td>Reporting</td>
+<td>The payout is reported in annex 7 of the TSD</td>
+</tr>
+<tr>
+<td>Reduction without payouts</td>
+<td>For example, to cover losses; not reported in annex 7</td>
+</tr>
+<tr>
+<td>Alternative for a change of owners</td>
+<td>Reduction with a simultaneous capital increase, without a notary</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+How to reduce the share capital: 4 steps
+## content_blocks_4_step_1
+Send a request. The registry code, by how much to reduce the capital and why: a payout to shareholders, a shareholder's exit, covering losses or a change of owners.
+## content_blocks_4_step_2
+Get a calculation. We check the contribution history in the TSD, the net assets and the obligations to creditors, and calculate how much can be paid out tax-free.
+## content_blocks_4_step_3
+Adopt the resolution and notify creditors. The shareholder resolution, new articles, publication in Ametlikud Teadaanded and letters to known creditors.
+## content_blocks_4_step_4
+We file and support the payout. The register entry within the statutory period, the payout to shareholders, and recording it in the accounts and in annex 7 of the TSD.
+## content_blocks_6_tariff_title
+Service packages
+## content_blocks_6_tariff_items_0_name
+"Reduction Without Payouts" package
+## content_blocks_6_tariff_items_0_package_items
+<li>Review of the articles and net assets
+<li>Shareholder resolution and new articles
+<li>Creditor notice and filing of the application
+<li>Recording in the accounts</li>
+## content_blocks_6_tariff_items_1_name
+"Return of Capital to Shareholders" package (recommended)
+## content_blocks_6_tariff_items_1_package_items
+<li>Everything in the "Reduction Without Payouts" package
+<li>Check of declared contributions and calculation of the tax-free amount
+<li>Deadline control: creditor claims, the entry, the moment of payout
+<li>Payout and reporting in annex 7 of the TSD
+<li>Calculation of the 22/78 tax on any amount above contributions</li>
+## content_blocks_6_tariff_items_2_name
+"Shareholder Exit and Change of Shareholders" package
+## content_blocks_6_tariff_items_2_package_items
+<li>Exit of a shareholder with a payout for their share
+<li>Reduction with a simultaneous capital increase to change shareholders without a notary
+<li>Amendments to the articles and UBO data
+<li>Change of the board if an owner-director leaves</li>
+## content_blocks_11_content
+<h2><b>How to reduce the capital of an Estonian OÜ: in practice</b></h2>
+<h3><b>Step-by-step process</b></h3>
+<ol>
+<li><b>Company check.</b> The articles, declared contributions, net assets, creditors.</li>
+<li><b>Shareholder resolution.</b> The new capital amount, the method of reduction, the payout to each shareholder.</li>
+<li><b>New articles.</b> If the capital amount in the articles changes.</li>
+<li><b>Creditor notice.</b> Publication in Ametlikud Teadaanded and letters to known creditors inviting them to file claims.</li>
+<li><b>Application to the register.</b> After the statutory period from the resolution has expired.</li>
+<li><b>Register entry.</b> State fee usually about €25.</li>
+<li><b>Payout and reporting.</b> After the entry and with creditors' claims taken into account; reported in annex 7 of the TSD.</li>
+</ol>
+<h3><b>Methods of reduction</b></h3>
+The capital can be reduced by lowering the nominal value of all shares or by cancelling individual shares, for example the share of an exiting shareholder. The nominal value of a share cannot fall below the set minimum, and the capital cannot fall below €0.01.
+<h3><b>Creditor protection</b></h3>
+A capital reduction lowers the amount that secures the company's obligations. That is why the law gives creditors a period to file claims and prohibits payouts to shareholders before the register entry. A board member who allows a payout in breach of these rules is liable to the company and its creditors.
+<h3><b>Taxes</b></h3>
+A payout to shareholders on a capital reduction is subject to 22/78 tax only to the extent it exceeds the declared contributions to equity. For example, if a shareholder contributed €19,000 and received €16,600 on the reduction, no tax arises, and the remaining contribution balance carries forward. The records are kept in annex 7 of the TSD. A reduction without payouts is not reported in annex 7.
+<h3><b>Reduction and increase at the same time</b></h3>
+When shareholders need to change, the capital is under €10,000 and a notary is undesirable, the exiting shareholder's share can be cancelled through a capital reduction and the new shareholder admitted through an increase. These are two procedures with their own timelines that are planned together.
+## content_blocks_12_faq_items_0_question
+Can the capital of an OÜ be reduced to €0.01?
+## content_blocks_12_faq_items_0_answer
+Yes, the minimum capital of an OÜ has been €0.01 since 2023. But payouts to shareholders are possible only with creditors' claims and net assets taken into account.
+## content_blocks_12_faq_items_1_question
+Is a return of capital taxed?
+## content_blocks_12_faq_items_1_answer
+No, up to the contributions declared in annex 7 of the TSD. Any amount above the contributions is taxed at 22/78.
+## content_blocks_12_faq_items_2_question
+How long does a capital reduction take?
+## content_blocks_12_faq_items_2_answer
+Longer than an increase: the law gives creditors a period for claims, and the application is filed only after it expires. Plan for several months.
+## content_blocks_12_faq_items_3_question
+Do creditors have to be notified?
+## content_blocks_12_faq_items_3_answer
+Yes, by a publication in Ametlikud Teadaanded and letters to known creditors.
+## content_blocks_12_faq_items_4_question
+When can money be paid to shareholders?
+## content_blocks_12_faq_items_4_answer
+Only after the capital reduction is entered in the register and with creditors' claims taken into account.
+## content_blocks_12_faq_items_5_question
+Can the capital be reduced to cover losses?
+## content_blocks_12_faq_items_5_answer
+Yes, without payouts to shareholders. This has no tax consequences.
+## content_blocks_12_faq_items_6_question
+How do I exit an OÜ with a payout for my share?
+## content_blocks_12_faq_items_6_answer
+Through cancellation of the share on a capital reduction, or by selling the share to another shareholder or a third party.
+## content_blocks_12_faq_items_7_question
+What if the capital contribution was never declared?
+## content_blocks_12_faq_items_7_answer
+First the contribution records have to be restored. Otherwise the payout may be taxed as a profit distribution.
+## content_blocks_12_faq_items_8_question
+Do I need a notary?
+## content_blocks_12_faq_items_8_answer
+As a rule, no: the resolution and the application are signed digitally.
+## content_blocks_13_final_cta_title
+Send us the registry code and we will calculate the tax-free return
+## content_blocks_13_final_cta_text
+Tell us by how much you want to reduce the capital and why. Within a business day we will check the contribution history and tell you the amount that can be returned tax-free, the timeline and a fixed price.
+## content_blocks_7_title_right
+Key insight: what is returned tax-free is not the capital but the declared contributions
+## content_blocks_7_text_right
+Owners often assume: "I paid in €2,500, so €2,500 will come back tax-free." That is true only on one condition.
+<ul>
+<li><b>Contribution records in the TSD.</b> The tax authority looks not at the capital amount in the register but at the contributions reported in annex 7 of the TSD. If the contribution on incorporation or a capital increase was not declared, the payout may be treated as a profit distribution.</li>
+<li><b>The amount above contributions.</b> If more is paid out than was contributed, the difference is taxed at 22/78 as a profit distribution.</li>
+<li><b>A company set up without paying in capital.</b> If the capital was never paid in, there is nothing to return, and the payout will be profit subject to tax.</li>
+<li><b>The order of deadlines.</b> A payout before the register entry or without regard to creditors' claims is unlawful, and the board member is personally liable for it.</li>
+</ul>
+<b>Practical takeaway:</b> before adopting the resolution, check the contribution history in the TSD. We do this as the first step and give you the exact tax-free amount.
+## content_blocks_8_title_left
+When a capital reduction is not needed and when it is not enough
+## content_blocks_8_text_left
+<ul>
+<li><b>You want to take out profit, not capital.</b> For that there are dividends based on an approved annual report, with 22/78 tax in any case. See <a href="{L:844}">corporate tax in Estonia in 2026</a>.</li>
+<li><b>The company is closing.</b> If the business has ended, contributions are returned as part of the <a href="{L:4758}">liquidation</a>, and a separate capital reduction is not needed.</li>
+<li><b>Net assets are below half of the capital.</b> A capital reduction is one of the measures the shareholders must consider, but payouts are not possible in that situation.</li>
+<li><b>A shareholder sells their share to someone else.</b> That is a <a href="{L:4845}">share transfer</a>: the seller receives money from the buyer, and the company pays nothing.</li>
+<li><b>Creditors have filed claims.</b> If creditors have filed claims, they must be satisfied or secured before any payout to shareholders.</li>
+</ul>
+## content_blocks_9_title_right
+Other services we provide
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4846}">Share capital increase and issue</a>: including at the same time as a reduction</li>
+<li><a href="{L:4845}">Sale and transfer of shares</a></li>
+<li>Amendment of the articles: new capital amount</li>
+<li>UBO data update: when a shareholder exits</li>
+<li><a href="{L:4699}">Interim financial statements</a>: net assets at the resolution date</li>
+<li><a href="{L:4758}">Company liquidation</a>: if the business is closing</li>
+<li><a href="{L:4578}">Accounting restoration</a>: if contributions are not reported in the TSD</li>
+</ul>
+A capital reduction involves the register, creditors and taxes at the same time. When all three parts are handled by one provider, shareholders receive the money within the statutory period and in the tax-free amount.
+## content_blocks_10_content
+<h2><b>Why capital is reduced</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Goal</b></td>
+<td><b>What happens</b></td>
+<td><b>Tax</b></td>
+</tr>
+<tr>
+<td>Return contributions to shareholders</td>
+<td>The capital is reduced and the difference is paid out in cash</td>
+<td>Tax-free up to the declared contributions</td>
+</tr>
+<tr>
+<td>Shareholder exit</td>
+<td>The shareholder's share is cancelled and they receive a payout</td>
+<td>As for a return of contributions; above contributions, 22/78</td>
+</tr>
+<tr>
+<td>Cover losses</td>
+<td>The capital is reduced without payouts and the loss is written off</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Change shareholders without a notary</td>
+<td>The exiting shareholder's share is cancelled; the new one joins through an increase</td>
+<td>Based on the payout to the exiting shareholder</td>
+</tr>
+<tr>
+<td>Bring the capital to the required amount</td>
+<td>For example, after a reorganisation</td>
+<td>Depends on whether there are payouts</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,267 @@
+## _title
+Declarações de IVA na Estónia
+## _slug
+declaracoes-de-iva-na-estonia
+## rank_math_title
+Declarações de IVA na Estónia: KMD e KMD INF %currentyear%
+## rank_math_description
+Declarações de IVA na Estónia: KMD e KMD INF, IVA de 24 %, dedução do IVA suportado, relatório VD e entrega à EMTA até ao dia 20 de cada mês.
+## rank_math_focus_keyword
+declarações de IVA na Estónia
+## _step_desc
+Se não tem a certeza de precisar do registo de IVA, envie-nos as exportações de vendas e compras e verificamos gratuitamente.
+## content_blocks_0_content
+Assim que uma empresa estónia é registada para efeitos de IVA, ganha um ritmo mensal: até ao dia 20, a declaração KMD com o anexo KMD INF e, se vende a empresas da UE, também o relatório VD. A declaração é entregue todos os meses, mesmo sem volume de negócios.
+
+A dificuldade não está no formulário. Está no facto de cada linha da KMD ser uma decisão: que taxa aplicar, onde é o lugar da prestação, se o número de IVA do cliente é válido, se o IVA suportado nessa despesa é dedutível. E a administração cruza automaticamente os dados da KMD INF com as declarações das suas contrapartes: uma divergência transforma-se num pedido de esclarecimento antes de dar por ela.
+<blockquote>Preparamos e entregamos a KMD, a KMD INF e o VD, verificamos a taxa e o lugar da prestação de cada operação, conciliamos os dados com contrapartes e bancos, corrigimos períodos anteriores e preparamos a sua contabilidade para a nova KMD baseada em dados que chega em 2027.</blockquote>
+## content_blocks_3_content
+<h3><b>Factos essenciais</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicação prática</b></td>
+</tr>
+<tr>
+<td>O que se entrega</td>
+<td>KMD (formulário principal) e KMD INF (dados das faturas); nas entregas B2B na UE, o relatório VD</td>
+</tr>
+<tr>
+<td>Prazo</td>
+<td>Até ao dia 20 do mês seguinte ao período declarado</td>
+</tr>
+<tr>
+<td>Sem volume de negócios</td>
+<td>O sujeito passivo registado entrega a KMD mesmo com volume zero</td>
+</tr>
+<tr>
+<td>Taxas</td>
+<td>24 % normal (desde 1 de julho de 2025), 13 % alojamento, 9 % livros, manuais, imprensa, medicamentos, 0 % exportações e entregas na UE</td>
+</tr>
+<tr>
+<td>Limiar de registo</td>
+<td>40 000 € de operações tributáveis na Estónia por ano civil</td>
+</tr>
+<tr>
+<td>Sujeito passivo limitado</td>
+<td>Na aquisição de serviços a fornecedores estrangeiros, sem limiar; a KMD é entregue nos meses com essas aquisições</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Faturas de operações estónias com sujeitos passivos acima do limiar fixado por parceiro e por mês</td>
+</tr>
+<tr>
+<td>Correções</td>
+<td>Entrega-se uma KMD de substituição para o período em que o erro foi cometido</td>
+</tr>
+<tr>
+<td>Juros</td>
+<td>0,06 % por dia (21,9 % ao ano) desde o primeiro dia de atraso</td>
+</tr>
+<tr>
+<td>Reembolso do excesso</td>
+<td>Impossível enquanto faltarem declarações do ano corrente e dos dois anteriores</td>
+</tr>
+<tr>
+<td>A partir de 2027</td>
+<td>KMD baseada em dados do programa de contabilidade; KMD e VD fundem-se numa única declaração</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Como nos confiar as suas declarações de IVA: 4 passos
+## content_blocks_4_step_1
+Envie um pedido. O que vende, a quem (particulares ou empresas), em que países, se compra a fornecedores estrangeiros e quantas faturas tem aproximadamente por mês.
+## content_blocks_4_step_2
+Receba uma consulta. Determinamos taxas e lugar da prestação dos seus fluxos, se precisa de VD e OSS, e fixamos um preço mensal.
+## content_blocks_4_step_3
+Pague a fatura e dê os acessos. Permissões no e-MTA, exportações do programa de contabilidade, bancos e serviços de pagamento, tudo online.
+## content_blocks_4_step_4
+Entregamos as declarações todos os meses. Verificação de taxas e números VIES, conciliação da KMD INF com contrapartes, entrega até ao dia 20 e aviso do valor a pagar.
+## content_blocks_6_tariff_title
+Pacotes de serviços
+## content_blocks_6_tariff_items_0_name
+Pacote «KMD»
+## content_blocks_6_tariff_items_0_package_items
+<li>Preparação e entrega mensal da KMD e da KMD INF
+<li>Verificação da taxa e do lugar da prestação de cada operação
+<li>Verificação dos números de IVA das contrapartes no VIES
+<li>Autoliquidação do IVA sobre serviços de fornecedores estrangeiros
+<li>Aviso do valor a pagar e do prazo</li>
+## content_blocks_6_tariff_items_1_name
+Pacote «KMD + vendas internacionais» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tudo o que inclui o pacote «KMD»
+<li>Relatório VD das entregas B2B na UE
+<li>Coerência da KMD com a declaração OSS das vendas a consumidores
+<li>Conciliação de Stripe, Paddle, marketplaces e gateways de pagamento com a contabilidade
+<li>Dedução pro rata do IVA suportado com operações tributadas e isentas
+<li>Notas de crédito e devoluções no período correto</li>
+## content_blocks_6_tariff_items_2_name
+Pacote «Revisão e correção»
+## content_blocks_6_tariff_items_2_package_items
+<li>Revisão da KMD, da KMD INF e do VD dos períodos escolhidos
+<li>Conciliação com os dados das contrapartes e as avaliações do comportamento fiscal no e-MTA
+<li>Declarações de substituição dos períodos com erros
+<li>Cálculo de juros e pedido de pagamento em prestações, se necessário
+<li>Respostas a pedidos da EMTA e acompanhamento em inspeções</li>
+## content_blocks_7_title_right
+O essencial: o IVA falha em três pontos, e nenhum se vê no formulário
+## content_blocks_7_text_right
+O formulário KMD é simples: algumas dezenas de linhas. Os erros surgem antes, na qualificação da operação.
+<ul>
+<li><b>Compras a fornecedores estrangeiros.</b> Publicidade Google e Meta, alojamento web, subscrições SaaS, serviços de prestadores de outros países: são serviços adquiridos sobre os quais a empresa autoliquida o IVA na Estónia. Sem registo normal, torna-se por isso sujeito passivo limitado, sem limiar. É a constatação mais frequente numa revisão.</li>
+<li><b>Autoliquidação sem verificar o número.</b> Faturar sem IVA a um cliente B2B da UE só é admissível se o número for válido no VIES na data da entrega. Um número inválido significa 24 % por sua conta, e normalmente descobre-se numa inspeção.</li>
+<li><b>Período errado.</b> Um adiantamento gera a operação no mês em que é recebido, uma nota de crédito é declarada no mês da emissão e um erro corrige-se na declaração do período em que foi cometido. Passá-lo «para o mês atual» é uma causa frequente de divergências com as contrapartes.</li>
+</ul>
+<b>Conclusão prática:</b> uma KMD fiável não começa no formulário, mas numa regra para cada fluxo de operações: que taxa, que lugar da prestação, que documento. Fixamos essas regras logo no início e, depois, cada mês fecha sem suposições.
+## content_blocks_8_title_left
+Quando a KMD não é necessária e quando não chega
+## content_blocks_8_text_left
+Uma análise honesta poupa mais do que o próprio serviço.
+<ul>
+<li><b>Sem obrigação de registo.</b> Se as operações tributáveis na Estónia não chegam a 40 000 € e as suas vendas são B2B na UE com autoliquidação ou exportações de serviços, o registo normal de IVA pode ser desnecessário. Às vezes não compensa: terá de entregar a KMD todos os meses quase sem nada a deduzir.</li>
+<li><b>Registo voluntário sem ligação à Estónia.</b> Desde agosto de 2025, a EMTA só regista voluntariamente quando existe ligação económica à Estónia. Sem ela, o registo pode ser recusado e um número já atribuído, retirado.</li>
+<li><b>Vendas a consumidores da UE.</b> Não é a KMD, mas a OSS, uma declaração trimestral separada. Saiba mais em <a href="{L:2346}">registo OSS e IOSS</a>.</li>
+<li><b>Armazém noutro país da UE.</b> Armazenar mercadoria no estrangeiro cria a obrigação de registo local para efeitos de IVA. A KMD estónia não a substitui.</li>
+<li><b>Pequena empresa em vários países da UE.</b> Desde 2025 existe o regime de isenção para pequenas empresas com volume na UE até 100 000 € e na Estónia até 40 000 €. Por vezes é mais vantajoso do que o registo; é preciso fazer as contas.</li>
+</ul>
+## content_blocks_9_title_right
+Outros serviços que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Serviços de contabilidade</a>: toda a secção</li>
+<li><a href="{L:2344}">Contabilidade mensal</a>: a KMD assenta num mês fechado</li>
+<li><a href="{L:2156}">Registo do número de IVA</a>: normal e limitado</li>
+<li><a href="{L:2346}">Registo OSS e IOSS</a>: vendas a consumidores da UE</li>
+<li><a href="{L:4843}">Processamento salarial (payroll)</a>: TSD até ao dia 10</li>
+<li><a href="{L:4578}">Recuperação da contabilidade</a>: se as KMD de meses anteriores não foram entregues</li>
+<li><a href="{L:2345}">Consultoria fiscal</a>: operações complexas e pedidos da EMTA</li>
+<li><a href="{L:2190}">E-commerce e dropshipping</a>: IVA no comércio online</li>
+</ul>
+A declaração de IVA é uma consequência da contabilidade, não um documento à parte. Quando a KMD, a OSS e a contabilidade estão num só prestador, o volume declarado coincide com as receitas do relatório anual sem recálculos no fim do ano.
+## content_blocks_10_content
+<h2><b>O que incluem as obrigações de IVA de uma empresa estónia</b></h2>
+Todos os meses, o sujeito passivo entrega até três documentos que se controlam mutuamente.
+<table>
+<tbody>
+<tr>
+<td><b>Documento</b></td>
+<td><b>O que mostra</b></td>
+<td><b>Quando é necessário</b></td>
+</tr>
+<tr>
+<td>KMD</td>
+<td>IVA liquidado, IVA suportado dedutível, valor a pagar ou a reembolsar</td>
+<td>Todos os meses, incluindo a zero</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Dados das faturas emitidas e recebidas em operações estónias com sujeitos passivos</td>
+<td>Todos os meses com a KMD</td>
+</tr>
+<tr>
+<td>VD</td>
+<td>Entregas de bens e serviços a clientes B2B de outros países da UE por número de cliente</td>
+<td>Nos meses com essas entregas</td>
+</tr>
+<tr>
+<td>OSS</td>
+<td>Vendas a consumidores de outros países da UE às taxas desses países</td>
+<td>Trimestralmente, separada da KMD</td>
+</tr>
+</tbody>
+</table>
+A KMD INF das suas vendas é a KMD INF das compras dos seus clientes. A EMTA cruza-as automaticamente e mostra as divergências na avaliação do comportamento fiscal. Se surgir uma diferença face aos dados de uma contraparte, esclarece-se primeiro com ela, não com as Finanças.
+<h2><b>Como se entrega a KMD na Estónia: na prática</b></h2>
+<h3><b>Taxas de IVA em 2026</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Taxa</b></td>
+<td><b>Aplicação</b></td>
+</tr>
+<tr>
+<td>24 %</td>
+<td>Taxa normal desde 1 de julho de 2025</td>
+</tr>
+<tr>
+<td>13 %</td>
+<td>Alojamento e alojamento com pequeno-almoço (desde 1 de janeiro de 2025)</td>
+</tr>
+<tr>
+<td>9 %</td>
+<td>Livros e manuais, imprensa, medicamentos e dispositivos médicos da lista</td>
+</tr>
+<tr>
+<td>0 %</td>
+<td>Exportação de bens, entregas de bens na UE, alguns serviços</td>
+</tr>
+<tr>
+<td>Isento</td>
+<td>Alguns serviços financeiros, de saúde, de ensino e sociais</td>
+</tr>
+</tbody>
+</table>
+A taxa depende do momento em que a operação ocorre, não da data da fatura. No regime de caixa, aplicam-se regras transitórias quando as taxas mudam.
+<h3><b>Como decorre um mês</b></h3>
+<ol>
+<li>Fecho do mês na contabilidade: todas as vendas, compras e movimentos bancários.</li>
+<li>Qualificação das operações: taxa, lugar da prestação, isenção, autoliquidação.</li>
+<li>Verificação dos números de IVA dos clientes da UE no VIES.</li>
+<li>Autoliquidação do IVA sobre serviços e bens recebidos do estrangeiro.</li>
+<li>Cálculo do IVA suportado dedutível, incluindo limitações.</li>
+<li>Preparação da KMD, da KMD INF e do VD e entrega até ao dia 20.</li>
+<li>Pagamento na conta de pré-pagamento da EMTA no mesmo prazo.</li>
+</ol>
+<h3><b>Limitações à dedução do IVA suportado</b></h3>
+Nem todo o IVA suportado é dedutível. As despesas não relacionadas com operações tributadas não conferem direito à dedução. Nos automóveis ligeiros de passageiros, a dedução é limitada se o veículo não for usado apenas na atividade. Despesas de representação e de pessoal analisam-se à parte. Com operações tributadas e isentas em simultâneo, a dedução calcula-se pro rata.
+<h3><b>Correções e notas de crédito</b></h3>
+Se uma declaração tiver um erro, por exemplo uma operação não declarada, entrega-se uma nova KMD do mesmo período com os dados corrigidos. Uma nota de crédito ou anulação de fatura emitida depois da entrega da declaração é declarada pelo vendedor e pelo comprador no período da emissão. A diferença entre «erro» e «alteração posterior» é uma fonte frequente de divergências.
+<h3><b>Reembolso do excesso</b></h3>
+Se o IVA suportado exceder o liquidado, a diferença é reembolsada. A EMTA pode prolongar o prazo de reembolso para verificação. Não é possível pedir o reembolso enquanto a empresa tiver declarações em falta do ano corrente e dos dois anteriores, pelo que a ordem nos períodos passados afeta diretamente o seu dinheiro.
+<h3><b>KMD baseada em dados a partir de 2027</b></h3>
+A EMTA passa as declarações de IVA para o mesmo princípio que a TSD desde outubro de 2026: a empresa transmite os dados das operações a partir do programa de contabilidade e a declaração é gerada com base neles. Segundo o plano anunciado, a KMD e o VD fundem-se numa declaração, desaparece o limiar da KMD INF e o carregamento em CSV exigirá uma nova versão do ficheiro. Os testes para criadores de software começam a 1 de janeiro de 2027 e a entrega no novo formato na primavera de 2027. É a preparação para a reforma europeia da faturação eletrónica obrigatória e da transmissão de dados quase em tempo real a partir de 1 de julho de 2030.
+
+<b>O que isto significa para si:</b> uma contabilidade com as operações já hoje marcadas por tipo e contraparte significa uma KMD sem refazer nada em 2027.
+## content_blocks_11_faq_items_0_question
+Quando se entrega a KMD?
+## content_blocks_11_faq_items_0_answer
+Todos os meses, até ao dia 20 do mês seguinte ao período declarado, com o anexo KMD INF. O valor a pagar é transferido para a conta de pré-pagamento da EMTA no mesmo prazo.
+## content_blocks_11_faq_items_1_question
+É preciso entregar a KMD sem volume de negócios?
+## content_blocks_11_faq_items_1_answer
+Sim. O sujeito passivo registado entrega a KMD todos os meses, incluindo a zero.
+## content_blocks_11_faq_items_2_question
+Qual é a taxa de IVA na Estónia em 2026?
+## content_blocks_11_faq_items_2_answer
+A normal é de 24 % desde 1 de julho de 2025. Reduzidas: 13 % para alojamento e 9 % para livros, imprensa e medicamentos. A taxa de 0 % aplica-se a exportações e entregas na UE.
+## content_blocks_11_faq_items_3_question
+O que é a KMD INF?
+## content_blocks_11_faq_items_3_answer
+Um anexo à KMD com os dados das faturas emitidas e recebidas em operações estónias com sujeitos passivos. A EMTA cruza estes dados com as declarações das suas contrapartes.
+## content_blocks_11_faq_items_4_question
+Quando é necessário o relatório VD?
+## content_blocks_11_faq_items_4_answer
+Nos meses em que houve entregas de bens ou prestações de serviços a clientes B2B de outros países da UE. O prazo é o mesmo, o dia 20.
+## content_blocks_11_faq_items_5_question
+O que é o sujeito passivo limitado?
+## content_blocks_11_faq_items_5_answer
+Um registo para empresas sem registo normal de IVA que adquirem serviços ou bens do estrangeiro. A empresa autoliquida o IVA dessas compras, sem limiar, e esse imposto não é dedutível.
+## content_blocks_11_faq_items_6_question
+Como corrijo um erro numa KMD entregue?
+## content_blocks_11_faq_items_6_answer
+Entregando uma KMD de substituição para o período em que o erro foi cometido. As notas de crédito emitidas depois são declaradas no período da sua emissão.
+## content_blocks_11_faq_items_7_question
+Que juros de mora se aplicam?
+## content_blocks_11_faq_items_7_answer
+0,06 % por dia sobre o valor em dívida, ou seja, 21,9 % ao ano, desde o dia seguinte ao prazo. Com um plano de prestações, a taxa pode ser reduzida até metade.
+## content_blocks_11_faq_items_8_question
+O que muda na KMD em 2027?
+## content_blocks_11_faq_items_8_answer
+A KMD será entregue como dados do programa de contabilidade, a KMD e o VD vão fundir-se numa só declaração e o limiar da KMD INF desaparece.
+## content_blocks_12_final_cta_title
+Envie as exportações de vendas e compras: verificamos as taxas e damos-lhe um preço
+## content_blocks_12_final_cta_text
+Descreva o seu modelo: o que vende, a quem e em que países, a quem compra e quantas faturas tem por mês. Num dia útil dizemos-lhe que declarações precisa, onde estão hoje os riscos e quanto custarão as declarações mensais de IVA.

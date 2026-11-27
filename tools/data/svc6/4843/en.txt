@@ -1,0 +1,289 @@
+## _title
+Payroll in Estonia
+## _slug
+payroll-in-estonia
+## rank_math_title
+Payroll in Estonia: Taxes and TSD Filing for an OÜ %currentyear%
+## rank_math_description
+Payroll in Estonia done for you: gross to net, employer taxes, board member fees, employment register entries and the monthly TSD return to EMTA.
+## rank_math_focus_keyword
+Payroll in Estonia
+## _step_desc
+If you are not sure how to pay yourself (board member fee, salary or dividends), send us the numbers and we will calculate both options free of charge.
+## content_blocks_0_content
+Payroll in Estonia looks simple: a flat 22% income tax, 33% social tax, one return per month. The mistakes are in the details. The basic exemption applies only when the employee applies for it. Social tax is paid on at least the minimum base, even for part-time work. The first days of sick leave are paid by the employer, not the health fund. And from October 2026 the TSD is submitted as a data feed rather than a form.
+
+The second group of mistakes is organisational. An employee must be entered in the employment register before the first working day, not after the first payslip. A board member fee is taxed differently from a salary. And a "remote employee" abroad is often not Estonian payroll at all, but employer obligations in another country.
+<blockquote>We calculate salaries and board member fees, register employment, file the TSD under the new data-based scheme and calculate sick pay, holiday pay and compensation. For small teams we charge a fixed price per employee, with no extra fee per return.</blockquote>
+## content_blocks_3_content
+<h3><b>Key facts</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Topic</b></td>
+<td><b>Practical explanation</b></td>
+</tr>
+<tr>
+<td>Income tax</td>
+<td>22% of the payment after the basic exemption</td>
+</tr>
+<tr>
+<td>Basic exemption</td>
+<td>€700 per month for everyone from 2026 (€776 at pension age); only on the employee's application</td>
+</tr>
+<tr>
+<td>Social tax</td>
+<td>33% paid by the employer; minimum base €886, i.e. at least €292.38 per month</td>
+</tr>
+<tr>
+<td>Unemployment insurance</td>
+<td>1.6% withheld from the employee, 0.8% paid by the employer</td>
+</tr>
+<tr>
+<td>Funded pension (pillar II)</td>
+<td>2%, 4% or 6% as chosen by the employee</td>
+</tr>
+<tr>
+<td>Board member fee</td>
+<td>22% income tax and 33% social tax, no unemployment insurance</td>
+</tr>
+<tr>
+<td>Employment register (TÖR)</td>
+<td>Entry no later than the start of work; termination within 10 days</td>
+</tr>
+<tr>
+<td>TSD return</td>
+<td>By the 10th of the month after the payment; data-based from October 2026</td>
+</tr>
+<tr>
+<td>Tax payment</td>
+<td>By the 10th of the following month</td>
+</tr>
+<tr>
+<td>Sick leave</td>
+<td>Days 1–3 unpaid; days 4–8 paid by the employer at 70% of average pay; from day 9 by Tervisekassa</td>
+</tr>
+<tr>
+<td>Annual leave</td>
+<td>28 calendar days</td>
+</tr>
+<tr>
+<td>Options and fringe benefits</td>
+<td>Fringe benefit tax is paid by the company: 22/78 plus 33% on top</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+How to hand your payroll over to us: 4 steps
+## content_blocks_4_step_1
+Send a request. How many employees and board members receive payments, where they live and work, and which contracts they have: employment, board member or service contracts.
+## content_blocks_4_step_2
+Get advice. We determine what is taxable in Estonia, whom to register in TÖR and how, whether employer registration in another country is needed, and give you a fixed price.
+## content_blocks_4_step_3
+Sign the contract and grant access. Rights in e-MTA and the details of basic exemption applications and pillar II pension rates, all online.
+## content_blocks_4_step_4
+We calculate and file. Monthly payroll, payslips, the data-based TSD by the 10th and the amounts payable in advance.
+## content_blocks_6_tariff_title
+Service packages
+## content_blocks_6_tariff_items_0_name
+"Board Member" package
+## content_blocks_6_tariff_items_0_package_items
+<li>Board member contract and employment register entry
+<li>Monthly calculation of the fee: income tax and social tax
+<li>TSD by the 10th and notice of the amount payable
+<li>Annual "fee or dividends" calculation on your own numbers
+<li>Non-resident set-up: what is taxable in Estonia and what to document for your country</li>
+## content_blocks_6_tariff_items_1_name
+"Team Payroll" package (recommended)
+## content_blocks_6_tariff_items_1_package_items
+<li>Everything in the "Board Member" package
+<li>Registration of start, suspension and end of work in TÖR
+<li>Salaries, holiday pay, sick pay for days 4–8, termination compensation
+<li>Tracking of basic exemption applications and pillar II pension rates
+<li>Minimum social tax for part-time employees
+<li>Data-based TSD with errors corrected before the deadline
+<li>Payslips for employees</li>
+## content_blocks_6_tariff_items_2_name
+"Payroll + International Team" package
+## content_blocks_6_tariff_items_2_package_items
+<li>Everything in the "Team Payroll" package
+<li>Foreign workers in Estonia: registration, work permit conditions, salary threshold checks
+<li>Payments to non-residents: tax treaties, residence certificates
+<li>Employees abroad: assessment of employer obligations in their country and coordination with local payroll or an EOR
+<li>Options and special benefits: the three-year rule and fringe benefit tax
+<li>Reporting for the group and investors</li>
+## content_blocks_7_title_right
+Key insight: payroll mistakes are in the set-up, not in the rates
+## content_blocks_7_text_right
+Estonian rates are flat, and that creates a false sense of simplicity. In practice, mistakes happen in five places:
+<ul>
+<li><b>Basic exemption without an application.</b> The €700 applies only on the employee's application, and only with one employer. If the employee applied with two employers, there will be extra tax to pay at year end.</li>
+<li><b>Minimum social tax.</b> For part-time work, social tax is paid on at least €886 per month unless an exception applies to the employee. It is often forgotten for students and second jobs.</li>
+<li><b>Sick pay for days 4–8.</b> The employer pays it from its own funds, and Tervisekassa only takes over from day 9. Without it, the payroll for a month with sick leave is wrong.</li>
+<li><b>TÖR after the first payslip.</b> The start of work is registered before the first working day. Registering backdated is a breach that shows up in every audit.</li>
+<li><b>The old basic exemption formula.</b> From 2026 the exemption is the same for everyone, with no reduction as income grows. Software with the old setting gets every payroll run wrong.</li>
+</ul>
+<b>Practical takeaway:</b> before the first payroll run we check not only the rate but the applications, the contract type, the TÖR entry and the pension rate of each employee. We do this at onboarding.
+## content_blocks_8_title_left
+When Estonian payroll is not needed and when it is not enough
+## content_blocks_8_text_left
+An honest assessment saves more than the service itself.
+<ul>
+<li><b>The employee lives and works in another country.</b> Their salary is usually taxed there, and the Estonian company may have employer obligations in that country. The Estonian TSD does not cover this: you need local payroll or an EOR.</li>
+<li><b>A freelancer invoices you as a business.</b> That is not a salary: they pay their own taxes in their country, and you pay the invoice.</li>
+<li><b>The owner takes no payments.</b> If there is no board member fee and no salary, a monthly TSD is usually not filed; monthly accounting and a dividend decision are enough.</li>
+<li><b>A foreigner works in Estonia.</b> You need not only payroll and TÖR, but also compliance with the work permit conditions, including the salary threshold. Failing to pay the required salary can lead to a fine of up to €32,000.</li>
+<li><b>Options and share bonuses.</b> This is a question of fringe benefit tax paid by the company, and of the three-year rule for options. Simple payroll does not cover it.</li>
+</ul>
+## content_blocks_9_title_right
+Other services we provide
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Accounting services</a>: the whole section</li>
+<li><a href="{L:2344}">Monthly accounting</a>: the base that payroll plugs into</li>
+<li><a href="{L:4842}">VAT returns (KMD)</a>: monthly by the 20th</li>
+<li><a href="{L:4490}">Accounting for e-residents</a>: board member fees from abroad</li>
+<li><a href="{L:2342}">Work visa and residence permit</a>: for foreign employees</li>
+<li><a href="{L:4529}">Company for start-ups</a>: options and fringe benefit tax</li>
+<li><a href="{L:2345}">Tax consulting</a>: fee or dividends</li>
+<li><a href="{L:4578}">Accounting restoration</a>: if TSD returns for past months were not filed</li>
+</ul>
+Payroll is part of the accounting, not a separate service. When payroll and bookkeeping are handled by one provider, the TSD amounts match the expenses in the books and the annual report without manual reconciliation.
+## content_blocks_10_content
+<h2><b>What makes up pay in Estonia: employee, board member, contractor</b></h2>
+A payment to an individual in Estonia is taxed differently depending on its basis. Mixing them up is the most common mistake with a first hire.
+<table>
+<tbody>
+<tr>
+<td><b>Basis</b></td>
+<td><b>Income tax</b></td>
+<td><b>Social tax</b></td>
+<td><b>Unemployment insurance</b></td>
+<td><b>Pillar II pension</b></td>
+<td><b>Employment register</b></td>
+</tr>
+<tr>
+<td>Employment contract</td>
+<td>22%</td>
+<td>33% (at least on the minimum base)</td>
+<td>1.6% + 0.8%</td>
+<td>2/4/6%</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Board member contract</td>
+<td>22%</td>
+<td>33%</td>
+<td>No</td>
+<td>2/4/6%</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Service contract with an individual</td>
+<td>22%</td>
+<td>33%</td>
+<td>No</td>
+<td>2/4/6%</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Invoice from a sole trader or a company</td>
+<td>No withholding</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+Example for a €2,000 gross salary with a 2% pension and a basic exemption application: the employee takes home about €1,658, and the company spends about €2,676, because social tax and unemployment insurance are paid on top of gross.
+<h2><b>How payroll works in Estonia: in practice</b></h2>
+<h3><b>Calculation order: from gross to net</b></h3>
+<ol>
+<li>Gross salary under the contract.</li>
+<li>Minus the funded pension (pillar II) contribution: 2%, 4% or 6%.</li>
+<li>Minus the employee's unemployment insurance: 1.6%.</li>
+<li>Minus the basic exemption: €700 if an application exists.</li>
+<li>Income tax of 22% on the remainder.</li>
+<li>On top of gross, the employer pays 33% social tax and 0.8% unemployment insurance.</li>
+</ol>
+<h3><b>Employment register (TÖR)</b></h3>
+Everyone the company pays for work with a tax obligation in Estonia must be entered in the employment register. The entry is made no later than the start of work: the contract type, the start date and, for an employment contract, the position, the workplace address and the working time. A foreigner without an Estonian personal code can be registered by date of birth for up to five days. The end of work is entered within 10 days. TÖR data is the basis of the employee's health insurance, so a mistake here hits the employee directly.
+<h3><b>The TSD return from October 2026</b></h3>
+From 1 October 2026, payment data for the former annexes 1 and 2 is sent straight from the accounting software, and EMTA compiles the return itself. The company confirms it by the 10th. The first TSD under the new scheme is for October, due on 10 November 2026. Manual entry in e-MTA remains, the old CSV is accepted until the end of 2027, and annexes 3–8 move to data in 2028.
+<h3><b>Sick leave and holidays</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Situation</b></td>
+<td><b>Who pays and how much</b></td>
+</tr>
+<tr>
+<td>Sick leave, days 1–3</td>
+<td>Unpaid</td>
+</tr>
+<tr>
+<td>Sick leave, days 4–8</td>
+<td>Employer, 70% of average pay</td>
+</tr>
+<tr>
+<td>Sick leave from day 9</td>
+<td>Tervisekassa, 70%, with a daily cap</td>
+</tr>
+<tr>
+<td>Annual leave</td>
+<td>28 calendar days at average pay</td>
+</tr>
+<tr>
+<td>Unused leave on termination</td>
+<td>Compensated</td>
+</tr>
+</tbody>
+</table>
+Sick pay paid by the employer is subject to income tax, and average pay is calculated over the last six months.
+<h3><b>Board member fee</b></h3>
+A fee under a board member contract is subject to 22% income tax and 33% social tax, but not to unemployment insurance. The rule also applies to board members living abroad: payments from an Estonian company for board work are taxed in Estonia. For more on choosing between a fee and dividends, see our article on <a href="{L:844}">corporate tax in Estonia in 2026</a>.
+<h3><b>Foreign employees</b></h3>
+A non-EU foreigner works in Estonia on the basis of a short-term employment registration or a residence permit for work. The employer confirms that it will pay at least the required salary and can be fined up to €32,000 for a breach. Start-up employees work on simplified terms through the Startup Visa programme.
+<h3><b>What to keep</b></h3>
+Employment contracts, basic exemption applications, timesheets, payslips and the grounds for payments are kept with the accounting documents for at least seven years.
+## content_blocks_11_faq_items_0_question
+What payroll taxes apply in Estonia?
+## content_blocks_11_faq_items_0_answer
+Employee: 22% income tax after the €700 basic exemption, 1.6% unemployment insurance and 2–6% pillar II pension. Employer, on top of gross: 33% social tax and 0.8% unemployment insurance.
+## content_blocks_11_faq_items_1_question
+How much does an employee cost the company?
+## content_blocks_11_faq_items_1_answer
+At €2,000 gross, the company spends about €2,676 per month. With a 2% pension and a basic exemption application, the employee takes home about €1,658.
+## content_blocks_11_faq_items_2_question
+What is the minimum social tax?
+## content_blocks_11_faq_items_2_answer
+Social tax is paid on at least €886 per month, i.e. at least €292.38, even if the salary is lower. There are exceptions, for example for some second jobs and students.
+## content_blocks_11_faq_items_3_question
+When is the TSD filed?
+## content_blocks_11_faq_items_3_answer
+By the 10th of the month after the payment. From October 2026, payroll data is sent from the software and EMTA compiles a return that the company confirms.
+## content_blocks_11_faq_items_4_question
+When should an employee be entered in the employment register?
+## content_blocks_11_faq_items_4_answer
+No later than the moment they start work. The end of work is entered within 10 days.
+## content_blocks_11_faq_items_5_question
+Is a board member fee taxed if the board member lives abroad?
+## content_blocks_11_faq_items_5_answer
+Yes. A fee for board work in an Estonian company is taxed in Estonia at 22% income tax and 33% social tax. The tax consequences in the country of residence depend on the tax treaty.
+## content_blocks_11_faq_items_6_question
+Who pays for sick leave?
+## content_blocks_11_faq_items_6_answer
+The first three days are unpaid. Days 4–8 are paid by the employer at 70% of average pay, and from day 9 by Tervisekassa.
+## content_blocks_11_faq_items_7_question
+Can I hire someone living in another country through Estonian payroll?
+## content_blocks_11_faq_items_7_answer
+Usually not. Their salary is taxed in the country where they work, and the company has employer obligations there. You need local payroll or an EOR, and we help set it up.
+## content_blocks_11_faq_items_8_question
+Do I need to file a TSD if no salaries were paid?
+## content_blocks_11_faq_items_8_answer
+As a rule, no: the return is filed for a month with taxable payments or a profit distribution.
+## content_blocks_12_final_cta_title
+Send us your team set-up and we will give you a fixed payroll price
+## content_blocks_12_final_cta_text
+Tell us how many employees and board members receive payments, where they live and which contracts they work under. Within one business day we will come back with a plan: what is taxable in Estonia, whom to register and how much the monthly payroll will cost.

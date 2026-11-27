@@ -1,0 +1,267 @@
+## _title
+VAT Returns in Estonia
+## _slug
+vat-returns-in-estonia
+## rank_math_title
+VAT Returns in Estonia: KMD and KMD INF Filing %currentyear%
+## rank_math_description
+VAT return filing in Estonia: KMD and KMD INF, 24% output VAT, input VAT deduction, VD report and submission to EMTA by the 20th of each month.
+## rank_math_focus_keyword
+VAT returns in Estonia
+## _step_desc
+If you are not sure whether you need VAT registration at all, send us your sales and purchase exports and we will check free of charge.
+## content_blocks_0_content
+As soon as an Estonian company becomes VAT-registered, it gets a monthly rhythm: by the 20th, a KMD return with the KMD INF annex, and for sales to businesses in the EU, a VD report as well. The return is filed every month, even if there was no turnover.
+
+The difficulty is not the form itself. The difficulty is that every line of the KMD is a decision: which rate, where the place of supply is, whether the client's VAT number is valid, whether input VAT on this expense can be deducted. And the tax authority automatically matches KMD INF data with your counterparties' returns, so a discrepancy turns into an enquiry before you even know about it.
+<blockquote>We prepare and file the KMD, KMD INF and VD, check rates and place of supply for every transaction, reconcile data with counterparties and banks, correct past periods and prepare your bookkeeping for the new data-based KMD that starts in 2027.</blockquote>
+## content_blocks_3_content
+<h3><b>Key facts</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Topic</b></td>
+<td><b>Practical explanation</b></td>
+</tr>
+<tr>
+<td>What is filed</td>
+<td>KMD (main form) and KMD INF (invoice data); for B2B supplies in the EU, the VD report</td>
+</tr>
+<tr>
+<td>Deadline</td>
+<td>By the 20th of the month following the reporting month</td>
+</tr>
+<tr>
+<td>No turnover</td>
+<td>A registered taxpayer files the KMD even with zero turnover</td>
+</tr>
+<tr>
+<td>Rates</td>
+<td>24% standard (from 1 July 2025), 13% accommodation, 9% books, educational literature, press, medicines, 0% exports and supplies to the EU</td>
+</tr>
+<tr>
+<td>Registration threshold</td>
+<td>€40,000 of Estonian taxable supplies per calendar year</td>
+</tr>
+<tr>
+<td>Limited VAT liability</td>
+<td>When buying services from foreign suppliers: no threshold; the KMD is filed for months with such purchases</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Invoices for Estonian transactions with VAT payers above the set threshold per partner per month</td>
+</tr>
+<tr>
+<td>Corrections</td>
+<td>A corrected KMD is filed for the period in which the error was made</td>
+</tr>
+<tr>
+<td>Interest</td>
+<td>0.06% per day (21.9% per year) from the first day of delay</td>
+</tr>
+<tr>
+<td>Refund of overpayment</td>
+<td>Not possible while returns for the current and two previous years are outstanding</td>
+</tr>
+<tr>
+<td>From 2027</td>
+<td>Data-based KMD from accounting software; KMD and VD merge into one return</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+How to hand over your VAT reporting: 4 steps
+## content_blocks_4_step_1
+Send a request. What you sell, to whom (consumers or businesses), in which countries, whether you buy from foreign suppliers and roughly how many invoices you have per month.
+## content_blocks_4_step_2
+Get a consultation. We determine rates and place of supply for your flows, whether you need VD and OSS, and quote a fixed monthly price.
+## content_blocks_4_step_3
+Pay the invoice and grant access. e-MTA rights, exports from your accounting software, banks and payment services, all online.
+## content_blocks_4_step_4
+We file the returns every month. Rate and VIES number checks, KMD INF reconciliation with counterparties, filing by the 20th and a notice of the amount payable.
+## content_blocks_6_tariff_title
+Service packages
+## content_blocks_6_tariff_items_0_name
+"KMD" package
+## content_blocks_6_tariff_items_0_package_items
+<li>Monthly preparation and filing of the KMD and KMD INF
+<li>Check of rates and place of supply for every transaction
+<li>Check of counterparties' VAT numbers in VIES
+<li>Self-assessment of VAT on services from foreign suppliers
+<li>Notice of the amount payable and the deadline</li>
+## content_blocks_6_tariff_items_1_name
+"KMD + International Sales" package (recommended)
+## content_blocks_6_tariff_items_1_package_items
+<li>Everything in the "KMD" package
+<li>VD report for B2B supplies in the EU
+<li>Alignment of the KMD with the OSS return for sales to consumers
+<li>Reconciliation of Stripe, Paddle, marketplaces and payment gateways with the books
+<li>Pro rata deduction of input VAT for taxable and exempt turnover
+<li>Credit notes and refunds handled in the correct period</li>
+## content_blocks_6_tariff_items_2_name
+"Review and Correction" package
+## content_blocks_6_tariff_items_2_package_items
+<li>Review of the KMD, KMD INF and VD for selected periods
+<li>Reconciliation with counterparty data and tax behaviour ratings in e-MTA
+<li>Corrected returns for periods with errors
+<li>Interest calculation and an instalment application if needed
+<li>Replies to EMTA enquiries and support during an audit</li>
+## content_blocks_7_title_right
+Key insight: VAT breaks in three places, and none of them shows up on the form
+## content_blocks_7_text_right
+The KMD form is simple: it has a few dozen lines. Errors arise earlier, when a transaction is classified.
+<ul>
+<li><b>Purchases from foreign suppliers.</b> Google and Meta ads, hosting, SaaS subscriptions, services from contractors in other countries: these are services received on which the company itself charges VAT in Estonia. A company without a standard registration becomes a limited VAT payer for this, with no threshold. This is the most common finding in a review.</li>
+<li><b>Reverse charge without checking the number.</b> Invoicing an EU B2B client without VAT is only allowed if their number is valid in VIES on the supply date. An invalid number means 24% on your side, and you usually find out during an audit.</li>
+<li><b>The wrong period.</b> A prepayment creates turnover in the month the money is received, a credit note is reported in the month it is issued, and an error is corrected in the return for the period in which it was made. Moving it "to the current month" is a common cause of discrepancies with counterparties.</li>
+</ul>
+<b>Practical conclusion:</b> a reliable KMD starts not with filling in the form but with a rule for each flow of transactions: which rate, which place of supply, which document. We set these rules up front, and from then on each month closes without guesswork.
+## content_blocks_8_title_left
+When you do not need a KMD and when it is not enough
+## content_blocks_8_text_left
+An honest review saves more than the service itself.
+<ul>
+<li><b>No obligation to register.</b> If Estonian taxable supplies are below €40,000 and your sales are B2B in the EU under reverse charge or exports of services, standard VAT registration may not be needed. Sometimes it is not worth it: you will have to file a KMD every month with almost nothing to deduct.</li>
+<li><b>Voluntary registration without a link to Estonia.</b> Since August 2025, EMTA registers voluntarily only where there is an economic link to Estonia. Without one, registration may be refused and an existing number revoked.</li>
+<li><b>Sales to consumers in the EU.</b> This is not the KMD but OSS, a separate quarterly return. More on <a href="{L:2346}">OSS and IOSS registration</a>.</li>
+<li><b>A warehouse in another EU country.</b> Storing goods abroad creates an obligation to register for VAT locally. The Estonian KMD does not replace it.</li>
+<li><b>A small business in several EU countries.</b> Since 2025, the small enterprise exemption scheme applies with EU turnover up to €100,000 and Estonian turnover up to €40,000. It is sometimes more advantageous than registration; this needs to be calculated.</li>
+</ul>
+## content_blocks_9_title_right
+Other services we provide
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Accounting services</a>: the whole section</li>
+<li><a href="{L:2344}">Monthly bookkeeping</a>: the KMD is built on a closed month</li>
+<li><a href="{L:2156}">VAT number registration</a>: standard and limited</li>
+<li><a href="{L:2346}">OSS and IOSS registration</a>: sales to consumers in the EU</li>
+<li><a href="{L:4843}">Payroll</a>: TSD by the 10th</li>
+<li><a href="{L:4578}">Accounting restoration</a>: if KMDs for past months were not filed</li>
+<li><a href="{L:2345}">Tax consulting</a>: complex transactions and EMTA enquiries</li>
+<li><a href="{L:2190}">E-commerce and dropshipping</a>: VAT for online retail</li>
+</ul>
+A VAT return is an output of the bookkeeping, not a separate document. When the KMD, OSS and accounting are handled by one provider, turnover in the returns matches the revenue in the annual report with no recalculation at year-end.
+## content_blocks_10_content
+<h2><b>What VAT reporting of an Estonian company includes</b></h2>
+Every month a VAT payer files up to three documents, and they check one another.
+<table>
+<tbody>
+<tr>
+<td><b>Document</b></td>
+<td><b>What it shows</b></td>
+<td><b>When it is needed</b></td>
+</tr>
+<tr>
+<td>KMD</td>
+<td>Output VAT, deductible input VAT, amount payable or refundable</td>
+<td>Every month, including zero months</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Data of issued and received invoices for Estonian transactions with VAT payers</td>
+<td>Every month together with the KMD</td>
+</tr>
+<tr>
+<td>VD</td>
+<td>Supplies of goods and services to B2B clients in other EU countries by client number</td>
+<td>For months with such supplies</td>
+</tr>
+<tr>
+<td>OSS</td>
+<td>Sales to consumers in other EU countries at those countries' rates</td>
+<td>Quarterly, separately from the KMD</td>
+</tr>
+</tbody>
+</table>
+The KMD INF of your sales is the KMD INF of your clients' purchases. EMTA matches them automatically and shows discrepancies in the tax behaviour rating. If a difference with a counterparty's data appears there, the cause is first clarified with the counterparty, not with the tax authority.
+<h2><b>How a KMD is filed in Estonia: practice</b></h2>
+<h3><b>VAT rates in 2026</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Rate</b></td>
+<td><b>Applies to</b></td>
+</tr>
+<tr>
+<td>24%</td>
+<td>Standard rate from 1 July 2025</td>
+</tr>
+<tr>
+<td>13%</td>
+<td>Accommodation and accommodation with breakfast (from 1 January 2025)</td>
+</tr>
+<tr>
+<td>9%</td>
+<td>Books and educational literature, press, medicines and medical devices on the list</td>
+</tr>
+<tr>
+<td>0%</td>
+<td>Exports of goods, supplies of goods to the EU, certain services</td>
+</tr>
+<tr>
+<td>Exempt</td>
+<td>Certain financial, medical, educational and social services</td>
+</tr>
+</tbody>
+</table>
+The rate is determined by the time the turnover arises, not by the invoice date. Transitional rules apply for the cash method when rates change.
+<h3><b>How a month works</b></h3>
+<ol>
+<li>Closing the month in the books: all sales, purchases and bank transactions.</li>
+<li>Classifying transactions: rate, place of supply, exemption, reverse charge.</li>
+<li>Checking EU clients' VAT numbers in VIES.</li>
+<li>Charging VAT on services and goods received from abroad.</li>
+<li>Calculating deductible input VAT, including restrictions.</li>
+<li>Preparing the KMD, KMD INF and VD and filing by the 20th.</li>
+<li>Paying the amount to the EMTA prepayment account by the same deadline.</li>
+</ol>
+<h3><b>Restrictions on input VAT deduction</b></h3>
+Not all input VAT is deductible. Expenses not related to taxable turnover give no right to deduction. For passenger cars, deduction is restricted if the car is not used solely for business. Entertainment and employee expenses are checked separately. With both taxable and exempt turnover, the deduction is calculated pro rata.
+<h3><b>Corrections and credit notes</b></h3>
+If a return contains an error, for example turnover was not declared, a new KMD is filed for the same period with corrected data. A credit note or invoice cancellation issued after the return was filed is reported by the seller and buyer in the period it is issued. The difference between an "error" and a "subsequent change" is a common source of discrepancies.
+<h3><b>Refund of overpayment</b></h3>
+If input VAT exceeds output VAT, the difference is refunded. EMTA may extend the refund period for a review. A refund cannot be claimed while the company has outstanding returns for the current and two previous years, so order in past periods directly affects your money.
+<h3><b>Data-based KMD from 2027</b></h3>
+EMTA is moving VAT reporting to the same principle as the TSD from October 2026: the company transfers transaction data from its accounting software and the return is generated from it. Under the announced plan, the KMD and VD merge into one return, the KMD INF threshold is abolished, and CSV uploads will need a new file version. Testing for software developers opens on 1 January 2027, and filing under the new scheme starts in spring 2027. This prepares for the EU reform with mandatory e-invoicing and near real-time data reporting from 1 July 2030.
+
+<b>What this means for you:</b> bookkeeping with transactions tagged by type and counterparty already now means a KMD without rework in 2027.
+## content_blocks_11_faq_items_0_question
+When is the KMD filed?
+## content_blocks_11_faq_items_0_answer
+Monthly, by the 20th of the month following the reporting month, together with the KMD INF annex. The amount payable is transferred to the EMTA prepayment account by the same deadline.
+## content_blocks_11_faq_items_1_question
+Do I need to file a KMD if there was no turnover?
+## content_blocks_11_faq_items_1_answer
+Yes. A registered VAT payer files a KMD every month, including a zero return.
+## content_blocks_11_faq_items_2_question
+What is the VAT rate in Estonia in 2026?
+## content_blocks_11_faq_items_2_answer
+The standard rate is 24% from 1 July 2025. Reduced rates are 13% for accommodation and 9% for books, press and medicines. 0% applies to exports and supplies to the EU.
+## content_blocks_11_faq_items_3_question
+What is the KMD INF?
+## content_blocks_11_faq_items_3_answer
+An annex to the KMD with data of issued and received invoices for Estonian transactions with VAT payers. EMTA matches this data with your counterparties' returns.
+## content_blocks_11_faq_items_4_question
+When is a VD report needed?
+## content_blocks_11_faq_items_4_answer
+For months with supplies of goods or services to B2B clients in other EU countries. The deadline is the same, the 20th.
+## content_blocks_11_faq_items_5_question
+What is limited VAT liability?
+## content_blocks_11_faq_items_5_answer
+A registration for companies without standard VAT registration that receive services or goods from abroad. The company charges VAT on such purchases itself, there is no threshold, and this tax cannot be deducted.
+## content_blocks_11_faq_items_6_question
+How do I correct an error in a filed KMD?
+## content_blocks_11_faq_items_6_answer
+File a corrected KMD for the period in which the error was made. Credit notes issued later are reported in the period they are issued.
+## content_blocks_11_faq_items_7_question
+What is the interest for late payment?
+## content_blocks_11_faq_items_7_answer
+0.06% per day on the unpaid amount, or 21.9% per year, from the first day after the deadline. With an instalment plan the rate can be reduced by up to half.
+## content_blocks_11_faq_items_8_question
+What will change in the KMD in 2027?
+## content_blocks_11_faq_items_8_answer
+The KMD will be filed as data from accounting software, the KMD and VD will merge into one return, and the KMD INF threshold will be abolished.
+## content_blocks_12_final_cta_title
+Send us your sales and purchase exports and we will check the rates and quote a price
+## content_blocks_12_final_cta_text
+Describe your model: what you sell, to whom and in which countries, who you buy from and how many invoices you have per month. Within one business day we will tell you which returns you need, where the risks are now and how much monthly VAT reporting will cost.

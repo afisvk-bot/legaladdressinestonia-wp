@@ -1,0 +1,100 @@
+{
+ "en": {
+  "content_blocks_1_anchor": "Send a request",
+  "content_blocks_2_anchor": "Get advice",
+  "content_blocks_5_provider_title": "The provider of this service is eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "An official and licensed partner providing corporate services in Estonia, and a member of the e-Residency marketplace.",
+  "content_blocks_12_faq_title": "Frequently asked questions",
+  "content_blocks_13_final_cta_ancor": "Order",
+  "content_blocks_6_tariff_items_0_package_anchor": "Order",
+  "content_blocks_6_tariff_items_1_package_anchor": "Order",
+  "content_blocks_6_tariff_items_2_package_anchor": "Order"
+ },
+ "uk": {
+  "content_blocks_1_anchor": "Відправити запит",
+  "content_blocks_2_anchor": "Отримати консультацію",
+  "content_blocks_5_provider_title": "Провайдером цієї послуги є компанія eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "Офіційний і ліцензований партнер із надання корпоративних послуг в Естонії, член маркетплейсу e-Residency.",
+  "content_blocks_12_faq_title": "Часті запитання",
+  "content_blocks_13_final_cta_ancor": "Замовити",
+  "content_blocks_6_tariff_items_0_package_anchor": "Замовити",
+  "content_blocks_6_tariff_items_1_package_anchor": "Замовити",
+  "content_blocks_6_tariff_items_2_package_anchor": "Замовити"
+ },
+ "de": {
+  "content_blocks_1_anchor": "Anfrage senden",
+  "content_blocks_2_anchor": "Beratung erhalten",
+  "content_blocks_5_provider_title": "Anbieter dieser Dienstleistung ist eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "Offizieller und lizenzierter Partner für Unternehmensdienstleistungen in Estland und Mitglied des e-Residency-Marktplatzes.",
+  "content_blocks_12_faq_title": "Häufig gestellte Fragen",
+  "content_blocks_13_final_cta_ancor": "Bestellen",
+  "content_blocks_6_tariff_items_0_package_anchor": "Bestellen",
+  "content_blocks_6_tariff_items_1_package_anchor": "Bestellen",
+  "content_blocks_6_tariff_items_2_package_anchor": "Bestellen"
+ },
+ "es": {
+  "content_blocks_1_anchor": "Enviar solicitud",
+  "content_blocks_2_anchor": "Obtener asesoramiento",
+  "content_blocks_5_provider_title": "El proveedor de este servicio es eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "Socio oficial y autorizado que presta servicios corporativos en Estonia y miembro del marketplace de e-Residency.",
+  "content_blocks_12_faq_title": "Preguntas frecuentes",
+  "content_blocks_13_final_cta_ancor": "Solicitar",
+  "content_blocks_6_tariff_items_0_package_anchor": "Solicitar",
+  "content_blocks_6_tariff_items_1_package_anchor": "Solicitar",
+  "content_blocks_6_tariff_items_2_package_anchor": "Solicitar"
+ },
+ "fr": {
+  "content_blocks_1_anchor": "Envoyer une demande",
+  "content_blocks_2_anchor": "Obtenir un conseil",
+  "content_blocks_5_provider_title": "Le prestataire de ce service est eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "Partenaire officiel et agréé fournissant des services aux entreprises en Estonie, membre de la marketplace e-Residency.",
+  "content_blocks_12_faq_title": "Questions fréquentes",
+  "content_blocks_13_final_cta_ancor": "Commander",
+  "content_blocks_6_tariff_items_0_package_anchor": "Commander",
+  "content_blocks_6_tariff_items_1_package_anchor": "Commander",
+  "content_blocks_6_tariff_items_2_package_anchor": "Commander"
+ },
+ "pt": {
+  "content_blocks_1_anchor": "Enviar pedido",
+  "content_blocks_2_anchor": "Obter aconselhamento",
+  "content_blocks_5_provider_title": "O prestador deste serviço é a eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "Parceiro oficial e licenciado na prestação de serviços empresariais na Estónia e membro do marketplace e-Residency.",
+  "content_blocks_12_faq_title": "Perguntas frequentes",
+  "content_blocks_13_final_cta_ancor": "Encomendar",
+  "content_blocks_6_tariff_items_0_package_anchor": "Encomendar",
+  "content_blocks_6_tariff_items_1_package_anchor": "Encomendar",
+  "content_blocks_6_tariff_items_2_package_anchor": "Encomendar"
+ },
+ "tr": {
+  "content_blocks_1_anchor": "Talep gönder",
+  "content_blocks_2_anchor": "Danışmanlık alın",
+  "content_blocks_5_provider_title": "Bu hizmetin sağlayıcısı eBusiness Solutions OÜ'dür",
+  "content_blocks_5_provider_text": "Estonya'da kurumsal hizmet sunan resmi ve lisanslı ortak, e-Residency pazar yerinin üyesi.",
+  "content_blocks_12_faq_title": "Sıkça sorulan sorular",
+  "content_blocks_13_final_cta_ancor": "Sipariş ver",
+  "content_blocks_6_tariff_items_0_package_anchor": "Sipariş ver",
+  "content_blocks_6_tariff_items_1_package_anchor": "Sipariş ver",
+  "content_blocks_6_tariff_items_2_package_anchor": "Sipariş ver"
+ },
+ "zh": {
+  "content_blocks_1_anchor": "发送请求",
+  "content_blocks_2_anchor": "获取咨询",
+  "content_blocks_5_provider_title": "本服务的提供方为eBusiness Solutions OÜ",
+  "content_blocks_5_provider_text": "在爱沙尼亚提供企业服务的官方持牌合作伙伴，e-Residency服务市场成员。",
+  "content_blocks_12_faq_title": "常见问题",
+  "content_blocks_13_final_cta_ancor": "订购",
+  "content_blocks_6_tariff_items_0_package_anchor": "订购",
+  "content_blocks_6_tariff_items_1_package_anchor": "订购",
+  "content_blocks_6_tariff_items_2_package_anchor": "订购"
+ },
+ "help": {
+  "en": "If you have any questions, our managers are always in touch and ready to help!",
+  "uk": "Якщо виникнуть запитання, наші менеджери завжди на зв’язку й готові допомогти!",
+  "de": "Bei Fragen sind unsere Manager jederzeit erreichbar und helfen Ihnen gern!",
+  "es": "Si tiene cualquier pregunta, nuestros gestores están siempre disponibles y dispuestos a ayudarle.",
+  "fr": "Pour toute question, nos conseillers restent joignables et prêts à vous aider !",
+  "pt": "Se tiver alguma dúvida, os nossos gestores estão sempre disponíveis e prontos a ajudar!",
+  "tr": "Sorularınız olursa yöneticilerimiz her zaman ulaşılabilir ve yardıma hazırdır!",
+  "zh": "如有任何问题，我们的客户经理随时在线，乐意为您提供帮助！"
+ }
+}

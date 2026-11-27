@@ -1,0 +1,262 @@
+## _title
+Venda e transmissão de quotas de uma OÜ estónia
+## _slug
+venda-e-transmissao-de-quotas-estonia
+## rank_math_title
+Transmissão de quotas de uma OÜ na Estónia %currentyear%
+## rank_math_description
+Venda e transmissão de quotas de uma OÜ na Estónia: verificação prévia, contrato, escritura notarial ou e-Notary e atualização do Registo Comercial.
+## rank_math_focus_keyword
+Transmissão de quotas
+## _step_desc
+Se não tem a certeza de precisar de notário no seu caso, envie-nos o código de registo e verificamos gratuitamente.
+## content_blocks_0_content
+Mudar o proprietário de uma empresa estónia não é tão simples como constituí-la. Regra geral, o contrato de transmissão de uma quota numa OÜ é celebrado em forma notarial, e os outros sócios têm direito de preferência na compra antes de um terceiro. Um erro de forma torna o negócio nulo, e um erro de procedimento abre caminho a um litígio.
+
+Ainda assim, há vários caminhos. O negócio pode ser assinado num notário na Estónia ou à distância via e-Notary com o cartão de e-residente. Se o capital for de pelo menos 10 000 €, estiver integralmente realizado e os estatutos o permitirem, a quota pode ser transmitida sem notário, através do registo. E por vezes é mais prático alterar os sócios através de uma redução de capital com aumento simultâneo.
+<blockquote>Escolhemos o caminho para o seu negócio, verificamos a empresa antes da venda, preparamos o contrato e os documentos, acompanhamos a assinatura e atualizamos tudo o que muda depois: registo de sócios, beneficiários efetivos, gerência e banco.</blockquote>
+## content_blocks_3_content
+<h3><b>Factos essenciais</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicação prática</b></td>
+</tr>
+<tr>
+<td>Forma do negócio</td>
+<td>Regra geral, notarial: tanto a obrigação como a transmissão da quota</td>
+</tr>
+<tr>
+<td>À distância</td>
+<td>Os e-residentes podem assinar via e-Notary sem viajar para a Estónia</td>
+</tr>
+<tr>
+<td>Sem notário</td>
+<td>Se o capital for de 10 000 € ou mais, realizado, e os estatutos, por deliberação unânime, excluírem a forma notarial</td>
+</tr>
+<tr>
+<td>Direito de preferência</td>
+<td>Os outros sócios podem comprar antes de um terceiro, salvo disposição em contrário dos estatutos</td>
+</tr>
+<tr>
+<td>Alternativa</td>
+<td>Redução de capital com aumento simultâneo: mudança de sócios sem notário com capital inferior a 10 000 €</td>
+</tr>
+<tr>
+<td>Penhor de quotas</td>
+<td>Também exige forma notarial, regra geral</td>
+</tr>
+<tr>
+<td>Registo</td>
+<td>Os sócios de uma OÜ constam do Registo Comercial</td>
+</tr>
+<tr>
+<td>Beneficiários efetivos</td>
+<td>Os dados UBO são atualizados em 30 dias após a alteração</td>
+</tr>
+<tr>
+<td>Imposto do vendedor</td>
+<td>Depende do país de residência fiscal do vendedor; a Estónia tributa a mais-valia sobretudo na venda de empresas com muito imobiliário estónio</td>
+</tr>
+<tr>
+<td>Imposto da empresa</td>
+<td>A transmissão em si não gera imposto na empresa</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Como transmitir uma quota: 4 passos
+## content_blocks_4_step_1
+Envie um pedido. Código de registo, quem vende e quem compra, que parte das quotas, preço, se as partes têm e-Residency e se é preciso penhor ou pagamento a prestações.
+## content_blocks_4_step_2
+Receba um roteiro. Notário na Estónia, e-Notary, transmissão sem notário ou alteração de capital: escolhemos o caminho legal mais curto e verificamos o direito de preferência.
+## content_blocks_4_step_3
+Prepare e assine o negócio. Contrato, consentimentos, renúncias ao direito de preferência e documentos para o notário; assinatura presencial, à distância ou por procuração.
+## content_blocks_4_step_4
+Atualizamos tudo depois do negócio. Sócios no registo, dados UBO, gerência, pessoa de contacto e signatários no banco.
+## content_blocks_6_tariff_title
+Pacotes de serviços
+## content_blocks_6_tariff_items_0_name
+Pacote «Transmissão de quotas»
+## content_blocks_6_tariff_items_0_package_items
+<li>Verificação dos estatutos: direito de preferência, restrições, forma do negócio
+<li>Escolha do caminho: notário, e-Notary ou sem notário
+<li>Minuta do contrato e documentos para o notário
+<li>Organização da assinatura
+<li>Atualização do registo e dos dados UBO</li>
+## content_blocks_6_tariff_items_1_name
+Pacote «Venda da empresa chave na mão» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tudo o que inclui o pacote «Transmissão de quotas»
+<li>Verificação da empresa antes da venda: relatórios, impostos, registo, contratos
+<li>Contrato com condições de pagamento, garantias do vendedor e procedimento de entrega
+<li>Mudança de gerência e de pessoa de contacto depois do negócio
+<li>Passagem da contabilidade, acessos ao e-MTA e banco
+<li>Comunicações para o país fiscal do vendedor ou do comprador, se necessário</li>
+## content_blocks_6_tariff_items_2_name
+Pacote «Estruturação sem notário»
+## content_blocks_6_tariff_items_2_package_items
+<li>Aumento de capital para 10 000 € e realização integral
+<li>Alteração dos estatutos com exclusão da forma notarial, por deliberação unânime dos sócios
+<li>Transmissões seguintes através do e-Business Register
+<li>Caminho alternativo: redução de capital com aumento simultâneo</li>
+## content_blocks_7_title_right
+O essencial: o que sai caro não é o notário, mas o que não se verificou antes do negócio
+## content_blocks_7_text_right
+Quem compra uma quota de uma empresa existente verifica muitas vezes só o preço. Quem vende, só a forma do contrato. Depois descobre-se:
+<ul>
+<li><b>O direito de preferência.</b> Se os estatutos não o excluírem, os outros sócios podem comprar nas mesmas condições. Um negócio que o ignore é motivo de litígio.</li>
+<li><b>Relatórios por entregar e dívidas fiscais.</b> O novo proprietário recebe a empresa com toda a sua história: coimas do registo, dívidas à EMTA, períodos por fechar.</li>
+<li><b>Quotas não realizadas.</b> Se a entrada de capital não foi feita, a obrigação de a realizar pode passar para o comprador.</li>
+<li><b>A gerência e o banco.</b> A quota foi transmitida, mas o antigo proprietário continua gerente com acesso à conta.</li>
+<li><b>O imposto do vendedor.</b> Na Estónia o negócio não gera imposto na empresa, mas o vendedor paga imposto sobre a mais-valia no seu país. Para residentes na Ucrânia, há ainda a comunicação de SEC em 60 dias.</li>
+</ul>
+<b>Conclusão prática:</b> antes do negócio verificam-se os estatutos, o registo, a situação fiscal e o banco. Fazemos isto dentro do pacote, e não depois de os problemas passarem a ser do comprador.
+## content_blocks_8_title_left
+Quando a transmissão de quotas não é necessária e quando não chega
+## content_blocks_8_text_left
+<ul>
+<li><b>Quer atrair um investidor, não vender.</b> Um novo sócio pode entrar através de um <a href="{L:4846}">aumento de capital</a>: o dinheiro vai para a empresa, não para o vendedor.</li>
+<li><b>Só muda a gestão.</b> Para isso basta <a href="{L:4844}">mudar o gerente</a>.</li>
+<li><b>Quer atribuir opções a trabalhadores.</b> Uma opção é o direito de comprar no futuro; as consequências fiscais dependem da regra dos três anos. Saiba mais na página <a href="{L:4529}">para startups</a>.</li>
+<li><b>A empresa é vendida inteira.</b> Além da quota, passam a gerência, os acessos, a contabilidade e as obrigações: é um projeto de venda, não um só negócio.</li>
+<li><b>Só precisa da empresa como «sociedade vazia».</b> Por vezes é mais barato <a href="{L:1401}">comprar uma empresa pronta</a> com historial verificado ou constituir uma nova.</li>
+</ul>
+## content_blocks_9_title_right
+Outros serviços que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4844}">Mudança de gerente</a>: muitas vezes acompanha a venda</li>
+<li><a href="{L:4846}">Aumento de capital e emissão</a>: entrada de um sócio sem venda de quotas</li>
+<li><a href="{L:4847}">Redução de capital</a>: saída de um sócio com pagamento pela empresa</li>
+<li>Alteração dos estatutos: exclusão da forma notarial, direito de preferência</li>
+<li>Atualização dos dados UBO: em 30 dias após o negócio</li>
+<li><a href="{L:4758}">Liquidação da empresa</a>: se não for possível vendê-la</li>
+<li><a href="{L:1401}">Empresas prontas na Estónia</a></li>
+</ul>
+O negócio com quotas é o início das mudanças, não o fim. Quando o negócio, o registo, a gerência e a contabilidade estão num só prestador, o novo proprietário recebe uma empresa sem dados do anterior.
+## content_blocks_10_content
+<h2><b>Quatro formas de mudar o proprietário de uma OÜ</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Forma</b></td>
+<td><b>Quando é possível</b></td>
+<td><b>Notário</b></td>
+<td><b>Prazo</b></td>
+</tr>
+<tr>
+<td>Escritura notarial na Estónia</td>
+<td>Sempre</td>
+<td>Sim</td>
+<td>Marcação no notário + 1–3 dias para o registo</td>
+</tr>
+<tr>
+<td>e-Notary para e-residentes</td>
+<td>As partes têm e-Residency ou cartão de identificação estónio</td>
+<td>Sim, à distância</td>
+<td>Sem viajar para a Estónia</td>
+</tr>
+<tr>
+<td>Transmissão pelo e-Business Register</td>
+<td>Capital a partir de 10 000 €, realizado, estatutos que excluem a forma notarial</td>
+<td>Não</td>
+<td>Normalmente 1 dia útil</td>
+</tr>
+<tr>
+<td>Redução com aumento simultâneo de capital</td>
+<td>É preciso mudar os sócios sem notário, capital inferior a 10 000 €</td>
+<td>Não</td>
+<td>Alguns dias, incluindo os procedimentos de capital</td>
+</tr>
+</tbody>
+</table>
+Se a quota for transmitida por procuração e as partes estiverem no estrangeiro, a procuração é normalmente reconhecida por notário e apostilada, se necessário.
+<h2><b>Como vender uma quota numa OÜ estónia: na prática</b></h2>
+<h3><b>Processo passo a passo</b></h3>
+<ol>
+<li><b>Verificação dos estatutos e do registo.</b> Forma do negócio, direito de preferência, restrições, realização das quotas.</li>
+<li><b>Verificação da empresa.</b> Relatórios anuais, situação fiscal, contratos, banco.</li>
+<li><b>Comunicação aos sócios.</b> Se vigorar o direito de preferência, proposta aos sócios ou renúncia escrita.</li>
+<li><b>Contrato.</b> Preço, forma de pagamento, garantias do vendedor, momento da transmissão.</li>
+<li><b>Assinatura.</b> No notário, via e-Notary ou, cumpridas as condições, através do e-Business Register.</li>
+<li><b>Alterações no registo.</b> Sócios e, se necessário, gerência e pessoa de contacto.</li>
+<li><b>Depois do negócio.</b> Dados UBO em 30 dias, banco, e-MTA, contabilidade.</li>
+</ol>
+<h3><b>Transmissão sem notário: condições</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Condição</b></td>
+<td><b>O que significa</b></td>
+</tr>
+<tr>
+<td>Capital a partir de 10 000 €</td>
+<td>Se for inferior, aumenta-se primeiro o capital</td>
+</tr>
+<tr>
+<td>Capital integralmente realizado</td>
+<td>Quotas não realizadas impedem a transmissão simplificada</td>
+</tr>
+<tr>
+<td>Cláusula estatutária</td>
+<td>Os estatutos excluem a forma notarial para transmissões e penhores</td>
+</tr>
+<tr>
+<td>Deliberação unânime</td>
+<td>Essa cláusula é aprovada por todos os sócios</td>
+</tr>
+<tr>
+<td>Estatutos registados</td>
+<td>A transmissão só é possível depois do registo dos novos estatutos</td>
+</tr>
+</tbody>
+</table>
+Para empresas com capital de 0,01–2500 € constituídas por e-residentes, a entrada neste regime passa por aumentar o capital para 10 000 € e alterar os estatutos. São alguns dias de trabalho, depois dos quais cada transmissão seguinte leva um dia.
+<h3><b>e-Notary</b></h3>
+Os notários estónios celebram negócios à distância: as partes ligam-se por videochamada e assinam com o cartão de e-residente ou o cartão de identificação estónio. É o caminho habitual para proprietários no estrangeiro quando a transmissão simplificada não é possível.
+<h3><b>Impostos na venda de quotas</b></h3>
+A transmissão em si não gera imposto na empresa. O vendedor pessoa singular paga imposto sobre a mais-valia no seu país de residência fiscal. A Estónia tributa a mais-valia de um não residente sobretudo quando o valor da empresa consiste principalmente em imobiliário estónio. Um residente na Estónia declara a mais-valia e paga 22 %. Saiba mais no artigo <a href="{L:1037}">impostos para empresas na Estónia</a>.
+<h3><b>Obrigações depois do negócio</b></h3>
+A gerência tem de atualizar os dados dos beneficiários efetivos em 30 dias. Os residentes na Ucrânia que adquiriram ou perderam uma quota entregam a comunicação de SEC em 60 dias; veja a página <a href="{L:4757}">para empresários ucranianos</a>. É preciso informar bancos e serviços de pagamento da mudança de proprietário, caso contrário a conta pode ser bloqueada numa revisão de rotina.
+## content_blocks_11_faq_items_0_question
+É preciso notário para vender uma quota numa OÜ?
+## content_blocks_11_faq_items_0_answer
+Regra geral, sim. A exceção é um capital de 10 000 € ou mais, integralmente realizado, com uma cláusula estatutária aprovada por unanimidade que exclua a forma notarial.
+## content_blocks_11_faq_items_1_question
+Posso vender uma quota sem ir à Estónia?
+## content_blocks_11_faq_items_1_answer
+Sim. Os e-residentes assinam via e-Notary por videochamada; sem e-Residency, por procuração reconhecida por notário no estrangeiro.
+## content_blocks_11_faq_items_2_question
+O que é o direito de preferência dos sócios?
+## content_blocks_11_faq_items_2_answer
+O direito dos outros sócios de comprar a quota antes de um terceiro nas mesmas condições, salvo disposição em contrário dos estatutos.
+## content_blocks_11_faq_items_3_question
+Quanto tempo demora a transmissão?
+## content_blocks_11_faq_items_3_answer
+Pelo e-Business Register, normalmente um dia útil. No notário, o tempo de marcação e preparação, mais 1–3 dias para as alterações no registo.
+## content_blocks_11_faq_items_4_question
+Quanto custa?
+## content_blocks_11_faq_items_4_answer
+Os emolumentos notariais dependem do valor do negócio. Os nossos serviços têm preço fixo após avaliação do negócio.
+## content_blocks_11_faq_items_5_question
+A empresa paga imposto quando muda o proprietário?
+## content_blocks_11_faq_items_5_answer
+Não. O imposto sobre a mais-valia é pago pelo vendedor no seu país de residência fiscal.
+## content_blocks_11_faq_items_6_question
+É preciso atualizar os dados dos beneficiários efetivos?
+## content_blocks_11_faq_items_6_answer
+Sim, em 30 dias após a mudança de proprietários ou de controlo.
+## content_blocks_11_faq_items_7_question
+E se o comprador quiser entrar com dinheiro novo?
+## content_blocks_11_faq_items_7_answer
+Nesse caso é mais prático um aumento de capital: o dinheiro entra na empresa e não vai para o vendedor.
+## content_blocks_11_faq_items_8_question
+É possível transmitir sem notário com capital de 2500 €?
+## content_blocks_11_faq_items_8_answer
+Diretamente, não. Pode aumentar o capital para 10 000 € e alterar os estatutos, ou usar uma redução de capital com aumento simultâneo.
+## content_blocks_12_final_cta_title
+Envie-nos os dados do negócio e encontramos o caminho mais curto
+## content_blocks_12_final_cta_text
+Indique o código de registo, quem vende e quem compra, que quota e se as partes têm e-Residency. Num dia útil dizemos-lhe se é preciso notário, que direitos dos sócios há que considerar e quanto custará o negócio chave na mão.

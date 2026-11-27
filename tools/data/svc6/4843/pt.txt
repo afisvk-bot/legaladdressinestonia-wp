@@ -1,0 +1,289 @@
+## _title
+Processamento salarial na Estónia
+## _slug
+processamento-salarial-na-estonia
+## rank_math_title
+Processamento salarial na Estónia: impostos e TSD %currentyear%
+## rank_math_description
+Processamento salarial na Estónia chave na mão: bruto e líquido, encargos da entidade patronal, gerentes, registo de emprego e declaração TSD mensal.
+## rank_math_focus_keyword
+Processamento salarial na Estónia
+## _step_desc
+Se não tem a certeza de como se pagar a si próprio (remuneração de gerente, salário ou dividendos), envie-nos os números e calculamos as duas opções gratuitamente.
+## content_blocks_0_content
+O processamento salarial na Estónia parece simples: um imposto sobre o rendimento fixo de 22 %, um imposto social de 33 %, uma declaração por mês. Os erros estão nos detalhes. A dedução básica só se aplica a pedido do trabalhador. O imposto social é pago pelo menos sobre a base mínima, mesmo a tempo parcial. Os primeiros dias de baixa são pagos pela entidade patronal, não pela caixa de saúde. E desde outubro de 2026 a TSD é entregue como fluxo de dados, e não como formulário.
+
+O segundo grupo de erros é organizativo. O trabalhador tem de ser inscrito no registo de emprego antes do primeiro dia de trabalho, não depois do primeiro salário. A remuneração de um membro da gerência é tributada de forma diferente do salário. E um «trabalhador remoto» no estrangeiro muitas vezes não é processamento salarial estónio, mas obrigações de entidade patronal noutro país.
+<blockquote>Calculamos salários e remunerações da gerência, registamos o emprego, entregamos a TSD no novo esquema baseado em dados e calculamos baixas, subsídios de férias e compensações. Para equipas pequenas, preço fixo por trabalhador, sem custo adicional por declaração.</blockquote>
+## content_blocks_3_content
+<h3><b>Factos essenciais</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicação prática</b></td>
+</tr>
+<tr>
+<td>Imposto sobre o rendimento</td>
+<td>22 % do pagamento após a dedução básica</td>
+</tr>
+<tr>
+<td>Dedução básica</td>
+<td>700 € por mês para todos desde 2026 (776 € na idade da reforma); apenas a pedido do trabalhador</td>
+</tr>
+<tr>
+<td>Imposto social</td>
+<td>33 % a cargo da entidade patronal; base mínima 886 €, ou seja, pelo menos 292,38 € por mês</td>
+</tr>
+<tr>
+<td>Seguro de desemprego</td>
+<td>1,6 % retido ao trabalhador, 0,8 % pago pela entidade patronal</td>
+</tr>
+<tr>
+<td>Pensão capitalizada (II pilar)</td>
+<td>2 %, 4 % ou 6 % à escolha do trabalhador</td>
+</tr>
+<tr>
+<td>Remuneração de gerente</td>
+<td>22 % de imposto sobre o rendimento e 33 % de imposto social, sem seguro de desemprego</td>
+</tr>
+<tr>
+<td>Registo de emprego (TÖR)</td>
+<td>Inscrição até ao início do trabalho; cessação no prazo de 10 dias</td>
+</tr>
+<tr>
+<td>Declaração TSD</td>
+<td>Até ao dia 10 do mês seguinte ao pagamento; baseada em dados desde outubro de 2026</td>
+</tr>
+<tr>
+<td>Pagamento dos impostos</td>
+<td>Até ao dia 10 do mês seguinte</td>
+</tr>
+<tr>
+<td>Baixa por doença</td>
+<td>Dias 1–3 não pagos; dias 4–8 pela entidade patronal, 70 % do salário médio; a partir do 9.º dia, a Tervisekassa</td>
+</tr>
+<tr>
+<td>Férias anuais</td>
+<td>28 dias de calendário</td>
+</tr>
+<tr>
+<td>Opções e benefícios</td>
+<td>O imposto sobre benefícios é pago pela empresa: 22/78 mais 33 % adicionais</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Como nos confiar o processamento salarial: 4 passos
+## content_blocks_4_step_1
+Envie um pedido. Quantos trabalhadores e gerentes recebem pagamentos, onde vivem e trabalham e que contratos têm: de trabalho, de gerência ou de prestação de serviços.
+## content_blocks_4_step_2
+Receba uma consulta. Determinamos o que é tributável na Estónia, quem e como inscrever no TÖR, se é necessário registo como entidade patronal noutro país, e damos um preço fixo.
+## content_blocks_4_step_3
+Assine o contrato e dê os acessos. Permissões no e-MTA e dados dos pedidos de dedução básica e das taxas de pensão do II pilar, tudo online.
+## content_blocks_4_step_4
+Calculamos e entregamos. Processamento mensal, recibos de vencimento, TSD baseada em dados até ao dia 10 e valores a pagar com antecedência.
+## content_blocks_6_tariff_title
+Pacotes de serviços
+## content_blocks_6_tariff_items_0_name
+Pacote «Gerente»
+## content_blocks_6_tariff_items_0_package_items
+<li>Contrato de gerente e inscrição no registo de emprego
+<li>Cálculo mensal da remuneração: imposto sobre o rendimento e imposto social
+<li>TSD até ao dia 10 e aviso do valor a pagar
+<li>Cálculo anual «remuneração ou dividendos» com os seus números
+<li>Enquadramento para não residentes: o que é tributável na Estónia e o que comprovar no seu país</li>
+## content_blocks_6_tariff_items_1_name
+Pacote «Payroll para a equipa» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tudo o que inclui o pacote «Gerente»
+<li>Registo do início, suspensão e fim do trabalho no TÖR
+<li>Salários, subsídios de férias, baixas dos dias 4–8, compensações por cessação
+<li>Controlo dos pedidos de dedução básica e das taxas de pensão do II pilar
+<li>Imposto social mínimo a tempo parcial
+<li>TSD baseada em dados com correção de erros antes do prazo
+<li>Recibos de vencimento para os trabalhadores</li>
+## content_blocks_6_tariff_items_2_name
+Pacote «Payroll + equipa internacional»
+## content_blocks_6_tariff_items_2_package_items
+<li>Tudo o que inclui o pacote «Payroll para a equipa»
+<li>Trabalhadores estrangeiros na Estónia: registo, condições da autorização de trabalho, controlo do critério salarial
+<li>Pagamentos a não residentes: convenções fiscais, certificados de residência
+<li>Trabalhadores no estrangeiro: avaliação das obrigações de entidade patronal no seu país e coordenação com payroll local ou EOR
+<li>Opções e benefícios especiais: regra dos três anos e imposto sobre benefícios
+<li>Relatórios para o grupo e investidores</li>
+## content_blocks_7_title_right
+O essencial: os erros de payroll não estão nas taxas, mas na configuração
+## content_blocks_7_text_right
+As taxas na Estónia são fixas, o que cria uma falsa sensação de simplicidade. Na prática, os erros acontecem em cinco pontos:
+<ul>
+<li><b>Dedução básica sem pedido.</b> Os 700 € aplicam-se apenas a pedido do trabalhador e só junto de uma entidade patronal. Se o trabalhador o pediu a duas, haverá imposto a pagar no fim do ano.</li>
+<li><b>Imposto social mínimo.</b> A tempo parcial, o imposto social é pago pelo menos sobre 886 € por mês, salvo exceção aplicável. É frequentemente esquecido com estudantes e segundos empregos.</li>
+<li><b>Baixa dos dias 4–8.</b> É paga pela entidade patronal com fundos próprios; a Tervisekassa só intervém a partir do 9.º dia. Sem isto, o processamento de um mês com baixa está errado.</li>
+<li><b>TÖR depois do primeiro salário.</b> O início do trabalho é registado antes do primeiro dia. Registar com data retroativa é uma infração visível em qualquer inspeção.</li>
+<li><b>Fórmula antiga da dedução básica.</b> Desde 2026 a dedução é única, sem redução com o aumento do rendimento. Os programas com a configuração antiga erram em todos os processamentos.</li>
+</ul>
+<b>Conclusão prática:</b> antes do primeiro processamento verificamos não só a taxa, mas também os pedidos, o tipo de contrato, a inscrição no TÖR e a taxa de pensão de cada trabalhador. Fazemos isto logo à entrada.
+## content_blocks_8_title_left
+Quando o payroll estónio não é necessário e quando não chega
+## content_blocks_8_text_left
+Uma análise honesta poupa mais do que o próprio serviço.
+<ul>
+<li><b>O trabalhador vive e trabalha noutro país.</b> O seu salário é normalmente tributado lá, e a empresa estónia pode ter obrigações de entidade patronal nesse país. A TSD estónia não as cobre: é preciso payroll local ou um EOR.</li>
+<li><b>Um freelancer fatura como empresa.</b> Não é salário: ele paga os seus impostos no seu país e a empresa paga a fatura.</li>
+<li><b>O sócio não recebe pagamentos.</b> Sem remuneração de gerente nem salário, a TSD mensal regra geral não é entregue; bastam a contabilidade mensal e uma deliberação sobre dividendos.</li>
+<li><b>Um estrangeiro trabalha na Estónia.</b> Não chegam o processamento e o TÖR: é preciso cumprir as condições da autorização de trabalho, incluindo o critério salarial. Não pagar o salário exigido pode dar uma coima até 32 000 €.</li>
+<li><b>Opções e bónus em ações.</b> É uma questão do imposto sobre benefícios pago pela empresa e da regra dos três anos para opções. Um payroll simples não o contempla.</li>
+</ul>
+## content_blocks_9_title_right
+Outros serviços que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Serviços de contabilidade</a>: toda a secção</li>
+<li><a href="{L:2344}">Contabilidade mensal</a>: a base à qual o payroll se liga</li>
+<li><a href="{L:4842}">Declarações de IVA (KMD)</a>: todos os meses até ao dia 20</li>
+<li><a href="{L:4490}">Contabilidade para e-residentes</a>: remuneração de gerente a partir do estrangeiro</li>
+<li><a href="{L:2342}">Visto de trabalho e autorização de residência</a>: para trabalhadores estrangeiros</li>
+<li><a href="{L:4529}">Empresa para startups</a>: opções e imposto sobre benefícios</li>
+<li><a href="{L:2345}">Consultoria fiscal</a>: remuneração ou dividendos</li>
+<li><a href="{L:4578}">Recuperação da contabilidade</a>: se as TSD de meses anteriores não foram entregues</li>
+</ul>
+O processamento salarial faz parte da contabilidade, não é um serviço à parte. Quando o payroll e a contabilidade estão num só prestador, os valores da TSD coincidem com os gastos na contabilidade e no relatório anual sem conciliação manual.
+## content_blocks_10_content
+<h2><b>De que se compõe a remuneração na Estónia: trabalhador, gerente, prestador</b></h2>
+Um pagamento a uma pessoa singular na Estónia é tributado de forma diferente consoante o seu fundamento. Confundi-los é o erro mais comum na primeira contratação.
+<table>
+<tbody>
+<tr>
+<td><b>Fundamento</b></td>
+<td><b>Imposto sobre o rendimento</b></td>
+<td><b>Imposto social</b></td>
+<td><b>Seguro de desemprego</b></td>
+<td><b>Pensão II pilar</b></td>
+<td><b>Registo de emprego</b></td>
+</tr>
+<tr>
+<td>Contrato de trabalho</td>
+<td>22 %</td>
+<td>33 % (pelo menos sobre a base mínima)</td>
+<td>1,6 % + 0,8 %</td>
+<td>2/4/6 %</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>Contrato de gerente</td>
+<td>22 %</td>
+<td>33 %</td>
+<td>Não</td>
+<td>2/4/6 %</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>Contrato de prestação de serviços com pessoa singular</td>
+<td>22 %</td>
+<td>33 %</td>
+<td>Não</td>
+<td>2/4/6 %</td>
+<td>Sim</td>
+</tr>
+<tr>
+<td>Fatura de empresário em nome individual ou empresa</td>
+<td>Sem retenção</td>
+<td>Não</td>
+<td>Não</td>
+<td>Não</td>
+<td>Não</td>
+</tr>
+</tbody>
+</table>
+Exemplo para 2000 € brutos com pensão de 2 % e pedido de dedução básica: o trabalhador recebe cerca de 1658 € líquidos e a empresa gasta cerca de 2676 €, porque o imposto social e o seguro de desemprego acrescem ao bruto.
+<h2><b>Como funciona o processamento salarial na Estónia: na prática</b></h2>
+<h3><b>Ordem de cálculo: do bruto ao líquido</b></h3>
+<ol>
+<li>Salário bruto segundo o contrato.</li>
+<li>Menos a contribuição para a pensão capitalizada do II pilar: 2 %, 4 % ou 6 %.</li>
+<li>Menos o seguro de desemprego do trabalhador: 1,6 %.</li>
+<li>Menos a dedução básica: 700 € se houver pedido.</li>
+<li>Sobre o restante, imposto sobre o rendimento de 22 %.</li>
+<li>Além do bruto, a entidade patronal paga 33 % de imposto social e 0,8 % de seguro de desemprego.</li>
+</ol>
+<h3><b>Registo de emprego (TÖR)</b></h3>
+Todas as pessoas a quem a empresa paga por trabalho com obrigação fiscal na Estónia têm de constar do registo de emprego. A inscrição faz-se até ao início do trabalho: tipo de contrato, data de início e, no contrato de trabalho, função, morada do local de trabalho e horário. Um estrangeiro sem código pessoal estónio pode ser registado pela data de nascimento por um máximo de cinco dias. O fim do trabalho é registado no prazo de 10 dias. Os dados do TÖR são a base do seguro de saúde do trabalhador, pelo que um erro aqui o afeta diretamente.
+<h3><b>A declaração TSD desde outubro de 2026</b></h3>
+Desde 1 de outubro de 2026, os dados dos pagamentos dos antigos anexos 1 e 2 são transmitidos diretamente do programa de contabilidade e a EMTA gera a declaração. A empresa confirma-a até ao dia 10. A primeira TSD no novo esquema é a de outubro, com prazo a 10 de novembro de 2026. Mantém-se a introdução manual no e-MTA, o CSV antigo é aceite até ao fim de 2027 e os anexos 3–8 passam para dados em 2028.
+<h3><b>Baixas e férias</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Situação</b></td>
+<td><b>Quem paga e quanto</b></td>
+</tr>
+<tr>
+<td>Baixa, dias 1–3</td>
+<td>Não pagos</td>
+</tr>
+<tr>
+<td>Baixa, dias 4–8</td>
+<td>Entidade patronal, 70 % do salário médio</td>
+</tr>
+<tr>
+<td>Baixa a partir do 9.º dia</td>
+<td>Tervisekassa, 70 %, com limite diário</td>
+</tr>
+<tr>
+<td>Férias anuais</td>
+<td>28 dias de calendário pelo salário médio</td>
+</tr>
+<tr>
+<td>Férias não gozadas na cessação</td>
+<td>São compensadas</td>
+</tr>
+</tbody>
+</table>
+O subsídio de doença pago pela entidade patronal está sujeito a imposto sobre o rendimento, e o salário médio é calculado com base nos últimos seis meses.
+<h3><b>Remuneração de gerente</b></h3>
+A remuneração ao abrigo de um contrato de membro da gerência está sujeita a 22 % de imposto sobre o rendimento e 33 % de imposto social, mas não ao seguro de desemprego. A regra aplica-se também a gerentes que vivem no estrangeiro: os pagamentos de uma empresa estónia pelo trabalho na gerência são tributados na Estónia. Saiba mais sobre a escolha entre remuneração e dividendos no artigo <a href="{L:844}">imposto sobre as sociedades na Estónia em 2026</a>.
+<h3><b>Trabalhadores estrangeiros</b></h3>
+Um estrangeiro de fora da UE trabalha na Estónia com base num registo de curta duração ou numa autorização de residência para trabalho. A entidade patronal confirma que pagará pelo menos o salário exigido e pode ser multada até 32 000 € em caso de incumprimento. Os trabalhadores de startups trabalham em condições simplificadas através do programa Startup Visa.
+<h3><b>O que conservar</b></h3>
+Contratos de trabalho, pedidos de dedução básica, registos de horas, recibos de vencimento e fundamentos dos pagamentos são conservados com os documentos contabilísticos durante pelo menos sete anos.
+## content_blocks_11_faq_items_0_question
+Que impostos incidem sobre os salários na Estónia?
+## content_blocks_11_faq_items_0_answer
+Trabalhador: imposto sobre o rendimento de 22 % após a dedução básica de 700 €, seguro de desemprego de 1,6 % e pensão do II pilar de 2–6 %. Entidade patronal, além do bruto: imposto social de 33 % e seguro de desemprego de 0,8 %.
+## content_blocks_11_faq_items_1_question
+Quanto custa um trabalhador à empresa?
+## content_blocks_11_faq_items_1_answer
+Com 2000 € brutos, a empresa gasta cerca de 2676 € por mês. Com pensão de 2 % e pedido de dedução básica, o trabalhador recebe cerca de 1658 € líquidos.
+## content_blocks_11_faq_items_2_question
+O que é o imposto social mínimo?
+## content_blocks_11_faq_items_2_answer
+O imposto social é pago pelo menos sobre 886 € por mês, ou seja, pelo menos 292,38 €, mesmo que o salário seja inferior. Há exceções, por exemplo para alguns segundos empregos e estudantes.
+## content_blocks_11_faq_items_3_question
+Quando se entrega a TSD?
+## content_blocks_11_faq_items_3_answer
+Até ao dia 10 do mês seguinte ao pagamento. Desde outubro de 2026, os dados salariais são enviados a partir do programa e a EMTA gera uma declaração que a empresa confirma.
+## content_blocks_11_faq_items_4_question
+Quando inscrever um trabalhador no registo de emprego?
+## content_blocks_11_faq_items_4_answer
+O mais tardar no momento em que começa a trabalhar. O fim do trabalho é registado no prazo de 10 dias.
+## content_blocks_11_faq_items_5_question
+A remuneração do gerente é tributada se ele viver no estrangeiro?
+## content_blocks_11_faq_items_5_answer
+Sim. A remuneração pelo trabalho na gerência de uma empresa estónia é tributada na Estónia a 22 % de imposto sobre o rendimento e 33 % de imposto social. As consequências no país de residência dependem da convenção fiscal.
+## content_blocks_11_faq_items_6_question
+Quem paga a baixa por doença?
+## content_blocks_11_faq_items_6_answer
+Os três primeiros dias não são pagos. Os dias 4–8 são pagos pela entidade patronal a 70 % do salário médio e, a partir do 9.º dia, pela Tervisekassa.
+## content_blocks_11_faq_items_7_question
+Posso contratar alguém que vive noutro país através do payroll estónio?
+## content_blocks_11_faq_items_7_answer
+Normalmente não. O salário é tributado no país onde trabalha, e a empresa tem lá obrigações de entidade patronal. É preciso payroll local ou um EOR, e ajudamos a organizá-lo.
+## content_blocks_11_faq_items_8_question
+É preciso entregar a TSD se não houve salários?
+## content_blocks_11_faq_items_8_answer
+Regra geral, não: a declaração é entregue nos meses com pagamentos tributáveis ou distribuição de lucros.
+## content_blocks_12_final_cta_title
+Envie-nos a composição da equipa e damos-lhe um preço fixo de payroll
+## content_blocks_12_final_cta_text
+Indique quantos trabalhadores e gerentes recebem pagamentos, onde vivem e com que contratos trabalham. Num dia útil voltamos com um esquema: o que é tributável na Estónia, quem registar e quanto custará o processamento mensal.

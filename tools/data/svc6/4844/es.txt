@@ -1,0 +1,235 @@
+## _title
+Cambio de administrador de una empresa estonia
+## _slug
+cambio-de-administrador-empresa-estonia
+## rank_math_title
+Cambio de administrador de una OÜ en Estonia %currentyear%
+## rank_math_description
+Cambio de administrador de una OÜ en Estonia: acuerdo de socios, consentimiento, solicitud por e-Residency o notario e inscripción en el Registro Mercantil.
+## rank_math_focus_keyword
+Cambio de administrador
+## _step_desc
+Si el administrador saliente no responde, escríbanos y le explicaremos cómo inscribir su cese sin su participación.
+## content_blocks_0_content
+El miembro del consejo de administración (juhatuse liige) es el representante legal de una OÜ estonia: firma contratos, presenta informes y responde personalmente de los plazos. Por eso cambiar el consejo no es un trámite interno, sino una modificación que debe inscribirse en el Registro Mercantil. Mientras no haya inscripción, para bancos, Hacienda y contrapartes la empresa sigue dirigida por el consejo anterior.
+
+La inscripción en sí se hace en línea en uno o dos días hábiles. Las complicaciones están alrededor: el nuevo administrador no puede firmar la solicitud digitalmente; el saliente no responde; todo el consejo termina en el extranjero y la empresa necesita una persona de contacto; el banco sigue viendo al antiguo director; los accesos a e-MTA y al programa contable quedan en manos de alguien que ya no responde de la empresa.
+<blockquote>Preparamos el acuerdo de socios y el consentimiento del nuevo administrador, presentamos la solicitud en el e-Business Register y cerramos todo lo que viene después: accesos a e-MTA, banco, persona de contacto y datos de titulares reales.</blockquote>
+## content_blocks_3_content
+<h3><b>Datos clave</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicación práctica</b></td>
+</tr>
+<tr>
+<td>Quién nombra y cesa</td>
+<td>En una OÜ, los socios mediante acuerdo, salvo que los estatutos lo atribuyan a un consejo de supervisión</td>
+</tr>
+<tr>
+<td>Qué se presenta</td>
+<td>Solicitud en el e-Business Register, acuerdo de socios, consentimiento del nuevo administrador</td>
+</tr>
+<tr>
+<td>Firmas</td>
+<td>Firma digital con e-Residency, DNI estonio, Smart-ID o firma legitimada ante notario (con apostilla si hace falta)</td>
+</tr>
+<tr>
+<td>Tasa</td>
+<td>Modificar los datos de una OÜ en el registro cuesta normalmente 25 €</td>
+</tr>
+<tr>
+<td>Plazo de inscripción</td>
+<td>Normalmente 1–2 días hábiles tras presentar la documentación completa</td>
+</tr>
+<tr>
+<td>Acceso a e-MTA</td>
+<td>El administrador con representación individual obtiene los permisos automáticamente al día siguiente de la inscripción; el saliente los pierde</td>
+</tr>
+<tr>
+<td>Banco</td>
+<td>Los datos del registro no se comunican al banco automáticamente: hay que actualizar los firmantes por separado</td>
+</tr>
+<tr>
+<td>Consejo en el extranjero</td>
+<td>Es obligatoria una persona de contacto en Estonia</td>
+</tr>
+<tr>
+<td>Quién no puede ser administrador</td>
+<td>Una persona inhabilitada para ejercer actividad empresarial y en otros casos previstos por la ley</td>
+</tr>
+<tr>
+<td>Titulares reales</td>
+<td>Si cambian los propietarios junto con el consejo, los datos UBO se actualizan en 30 días</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Cómo cambiar un administrador: 4 pasos
+## content_blocks_4_step_1
+Envíe su solicitud. Código de registro de la empresa, quién sale y quién entra, si el nuevo administrador tiene e-Residency o DNI estonio y dónde vive.
+## content_blocks_4_step_2
+Reciba la documentación. Revisamos estatutos y registro y preparamos el acuerdo de socios, el consentimiento del nuevo administrador y, si hace falta, los documentos de la persona de contacto.
+## content_blocks_4_step_3
+Firme los documentos. A distancia con firma digital; sin ella, ante notario en su país, con apostilla si se exige.
+## content_blocks_4_step_4
+Presentamos la solicitud y cerramos los flecos. Inscripción en el registro, revisión de permisos en e-MTA, ayuda para actualizar firmantes en el banco, datos UBO y persona de contacto.
+## content_blocks_6_tariff_title
+Paquetes de servicios
+## content_blocks_6_tariff_items_0_name
+Paquete «Cambio estándar»
+## content_blocks_6_tariff_items_0_package_items
+<li>Revisión de estatutos: quién nombra el consejo, duración del cargo, restricciones
+<li>Acuerdo de socios de nombramiento y cese
+<li>Consentimiento del nuevo administrador
+<li>Presentación en el e-Business Register y seguimiento de la inscripción</li>
+## content_blocks_6_tariff_items_1_name
+Paquete «Cambio llave en mano» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Todo lo incluido en el paquete «Cambio estándar»
+<li>Documentos para un notario en el extranjero si no hay firma digital
+<li>Nombramiento de persona de contacto si todo el consejo está en el extranjero
+<li>Revisión de permisos en e-MTA y traspaso de accesos al contable
+<li>Documentos para el banco para actualizar firmantes
+<li>Actualización de los datos de titulares reales
+<li>Contrato de administrador y régimen de retribución</li>
+## content_blocks_6_tariff_items_2_name
+Paquete «Cambio complejo»
+## content_blocks_6_tariff_items_2_package_items
+<li>Cese de un administrador que no responde o no firma
+<li>Restablecimiento del consejo si el mandato venció y el registro envió un aviso
+<li>Cambio de consejo junto con transmisión de participaciones y modificación de estatutos
+<li>Varios administradores y representación mancomunada
+<li>Gestión de requerimientos del registrador</li>
+## content_blocks_7_title_right
+Clave: la inscripción en el registro es solo la mitad del trabajo
+## content_blocks_7_text_right
+Los propietarios dan por terminado el cambio cuando el nuevo nombre aparece en el registro. Los problemas surgen en lo que el registro no cambia automáticamente.
+<ul>
+<li><b>El banco.</b> Los datos del registro no llegan al banco. Hasta que se actualizan los firmantes, puede aprobar pagos alguien que ya no responde de la empresa, y el nuevo administrador no tiene acceso a la cuenta.</li>
+<li><b>Representación mancomunada.</b> Si la empresa tiene varios administradores con firma conjunta, los permisos en e-MTA no se conceden automáticamente: hace falta un poder de todos.</li>
+<li><b>El consejo se va al extranjero.</b> Si sale el último administrador residente en Estonia, la empresa necesita una persona de contacto. Sin ella, el registrador puede iniciar la baja.</li>
+<li><b>La herencia del director anterior.</b> Unas cuentas anuales sin presentar o una deuda fiscal son ahora problema del nuevo consejo. El nuevo administrador responde de la empresa desde que asume el cargo.</li>
+</ul>
+<b>Conclusión práctica:</b> el cambio de consejo es un paquete de inscripción, accesos, banco y revisión de periodos anteriores. Nos encargamos de todo.
+## content_blocks_8_title_left
+Cuándo no hace falta cambiar el consejo y cuándo no basta
+## content_blocks_8_text_left
+<ul>
+<li><b>Solo necesita que alguien firme contratos.</b> No hace falta cambiar el consejo: basta un poder o un apoderamiento general.</li>
+<li><b>Cambia el propietario.</b> Cambiar el consejo no transmite participaciones. Primero va la <a href="{L:4845}">transmisión de participaciones</a>, y después el cambio de consejo y la actualización UBO.</li>
+<li><b>Un administrador quiere irse y no hay sustituto.</b> La empresa no puede quedarse sin consejo. Si queda vacante, el registrador puede advertir de liquidación forzosa, así que busque sustituto con antelación.</li>
+<li><b>El mandato ha vencido.</b> Si los estatutos limitan la duración, al vencer hay que reelegir al administrador y actualizar la inscripción. Si no, el registro muestra un consejo con el mandato vencido.</li>
+<li><b>Se vende toda la empresa.</b> El cambio de consejo forma parte de la operación, no es un trámite aparte: hay que sincronizarlo con la transmisión de participaciones y el banco.</li>
+</ul>
+## content_blocks_9_title_right
+Otros servicios que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4845}">Venta y transmisión de participaciones</a>: si cambia el propietario junto con el consejo</li>
+<li>Modificación de estatutos: duración del cargo, representación, consejo de supervisión</li>
+<li>Actualización de datos UBO: en 30 días desde los cambios</li>
+<li><a href="{L:2254}">Persona de contacto</a> y <a href="{L:1269}">domicilio legal</a></li>
+<li><a href="{L:4843}">Nóminas y retribución del consejo</a></li>
+<li><a href="{L:4724}">Cambio de contable</a>: cuando el nuevo consejo también cambia la contabilidad</li>
+<li><a href="{L:4578}">Restablecimiento de la contabilidad</a>: si el consejo anterior dejó informes sin presentar</li>
+</ul>
+El cambio de consejo afecta a la vez al registro, a Hacienda, al banco y a la contabilidad. Cuando los cambios registrales, la persona de contacto y la contabilidad los lleva un mismo proveedor, ninguno de estos ámbitos se queda con datos antiguos.
+## content_blocks_10_content
+<h2><b>Quién es el administrador de una OÜ y qué cambia al sustituirlo</b></h2>
+En una OÜ, el consejo de administración es el único órgano de gestión obligatorio. El administrador representa a la empresa, firma contratos e informes y responde de la contabilidad y de la presentación de las cuentas anuales. El contrato de administrador no es un contrato laboral: no se aplican las normas de protección del trabajador, y la retribución tributa al 22 % en el impuesto sobre la renta y al 33 % en el impuesto social.
+<table>
+<tbody>
+<tr>
+<td><b>Qué cambia</b></td>
+<td><b>Cuándo</b></td>
+<td><b>Qué hacer</b></td>
+</tr>
+<tr>
+<td>Facultad de representar a la empresa</td>
+<td>Desde la inscripción en el registro</td>
+<td>Presentar la solicitud con el acuerdo y el consentimiento</td>
+</tr>
+<tr>
+<td>Permisos en e-MTA</td>
+<td>Al día siguiente de la inscripción (con representación individual)</td>
+<td>Revisar permisos y traspasar accesos al contable</td>
+</tr>
+<tr>
+<td>Firmantes en el banco</td>
+<td>Solo tras dirigirse al banco</td>
+<td>Facilitar al banco un extracto registral y documentos</td>
+</tr>
+<tr>
+<td>Persona de contacto</td>
+<td>Si todo el consejo está en el extranjero</td>
+<td>Nombrarla a la vez que se hace el cambio</td>
+</tr>
+<tr>
+<td>Responsabilidad por las cuentas anuales</td>
+<td>Del nuevo consejo, por todas las no presentadas</td>
+<td>Comprobar qué se ha presentado antes de asumir el cargo</td>
+</tr>
+</tbody>
+</table>
+<h2><b>Cómo cambiar el administrador de una OÜ: práctica</b></h2>
+<h3><b>Proceso paso a paso</b></h3>
+<ol>
+<li><b>Revisión de estatutos.</b> Quién nombra el consejo, cuántos miembros, duración del cargo y régimen de representación.</li>
+<li><b>Acuerdo de socios.</b> Sobre el cese del anterior y el nombramiento del nuevo administrador; se adopta en junta o sin ella y se firma digitalmente.</li>
+<li><b>Consentimiento del nuevo administrador.</b> Confirmación de que acepta el cargo y no tiene impedimentos legales.</li>
+<li><b>Solicitud al registro.</b> La presenta un administrador a través del e-Business Register; sin firma digital, mediante notario.</li>
+<li><b>Inscripción.</b> Normalmente 1–2 días hábiles; tasa de unos 25 €.</li>
+<li><b>Tras la inscripción.</b> Permisos en e-MTA, banco, persona de contacto, UBO, contrato y retribución.</li>
+</ol>
+<h3><b>Firmas: digital o notario</b></h3>
+Si todos los firmantes tienen e-Residency, DNI estonio o Smart-ID, todo se hace en línea en un día. Si el nuevo administrador no está en este sistema, su consentimiento y la solicitud se firman ante notario, y para algunos países se necesita apostilla. Eso añade de unos días a un par de semanas, así que planifique el cambio con margen.
+<h3><b>Cese de un administrador</b></h3>
+El administrador puede renunciar y los socios pueden cesarlo en cualquier momento. Si el saliente no participa, la inscripción se hace con base en el acuerdo de socios. El contrato de administrador y los pagos a la salida se regulan aparte.
+<h3><b>Consejo en el extranjero</b></h3>
+Si todos los administradores están fuera de Estonia, la empresa debe nombrar una persona de contacto: notario, abogado, auditor, representante fiscal o proveedor autorizado de servicios corporativos. La dirección del consejo en el extranjero también se inscribe en el registro.
+<h3><b>Impuestos y retribución</b></h3>
+La retribución del administrador tributa en Estonia al 22 % en el impuesto sobre la renta y al 33 % en el impuesto social, sin seguro de desempleo. El administrador se inscribe en el registro de empleo. Más información en el artículo <a href="{L:1037}">impuestos para empresas en Estonia</a>.
+<h3><b>Qué debe comprobar el nuevo administrador</b></h3>
+Antes de asumir el cargo, compruebe si se han presentado las cuentas anuales, si hay deudas fiscales, quién tiene acceso al banco y a e-MTA y dónde se guardan los documentos contables. Desde la inscripción, usted responde de todo ello.
+## content_blocks_11_faq_items_0_question
+¿Quién nombra al administrador de una OÜ?
+## content_blocks_11_faq_items_0_answer
+Los socios mediante acuerdo, salvo que los estatutos hayan atribuido esta función a un consejo de supervisión.
+## content_blocks_11_faq_items_1_question
+¿Cuánto cuesta cambiar de administrador?
+## content_blocks_11_faq_items_1_answer
+La tasa por modificar los datos de una OÜ en el registro es normalmente de 25 €. A ello se suma la preparación de documentos y, si hace falta, el notario en el extranjero.
+## content_blocks_11_faq_items_2_question
+¿Cuánto tarda el cambio?
+## content_blocks_11_faq_items_2_answer
+La inscripción suele hacerse en 1–2 días hábiles tras presentar la documentación completa. Si se necesita notario en el extranjero y apostilla, tarda más.
+## content_blocks_11_faq_items_3_question
+¿Hace falta notario?
+## content_blocks_11_faq_items_3_answer
+No, si los firmantes tienen firma digital con e-Residency, DNI estonio o Smart-ID. Sin ella, los documentos se legitiman ante notario.
+## content_blocks_11_faq_items_4_question
+¿Puede un extranjero ser administrador de una empresa estonia?
+## content_blocks_11_faq_items_4_answer
+Sí. Pero si todo el consejo está en el extranjero, la empresa necesita una persona de contacto en Estonia.
+## content_blocks_11_faq_items_5_question
+¿Cambian automáticamente los permisos ante Hacienda?
+## content_blocks_11_faq_items_5_answer
+Sí, con representación individual, al día siguiente de la inscripción. El banco no recibe los datos del registro, así que allí hay que actualizar los firmantes por separado.
+## content_blocks_11_faq_items_6_question
+¿Cómo cesar a un administrador que no responde?
+## content_blocks_11_faq_items_6_answer
+Los socios lo cesan mediante acuerdo y la inscripción se hace sin su firma.
+## content_blocks_11_faq_items_7_question
+¿Responde el nuevo administrador de infracciones anteriores?
+## content_blocks_11_faq_items_7_answer
+De los informes no presentados y de las obligaciones en curso, desde que asume el cargo. Por eso conviene revisar el estado de la empresa antes del nombramiento.
+## content_blocks_11_faq_items_8_question
+¿Hay que actualizar los datos de titulares reales al cambiar el consejo?
+## content_blocks_11_faq_items_8_answer
+Si solo cambia el consejo, normalmente no. Si cambian los propietarios o el control, sí, en 30 días.
+## content_blocks_12_final_cta_title
+Envíenos el código de registro y prepararemos el cambio de administrador en 1 día
+## content_blocks_12_final_cta_text
+Indique quién sale y quién entra, si el nuevo administrador tiene firma digital y dónde vive. En un día hábil le enviaremos la documentación y un precio fijo.

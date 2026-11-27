@@ -1,0 +1,235 @@
+## _title
+Estonya şirketinde yönetim kurulu üyesi değişikliği
+## _slug
+estonya-yonetim-kurulu-uyesi-degisikligi
+## rank_math_title
+Estonya OÜ'da yönetim kurulu üyesi değişikliği %currentyear%
+## rank_math_description
+Estonya OÜ'da yönetim kurulu üyesi değişikliği: ortaklar kurulu kararı, onay, e-Residency veya noter ile başvuru ve Ticaret Siciline tescil hizmeti.
+## rank_math_focus_keyword
+yönetim kurulu üyesi değişikliği
+## _step_desc
+Ayrılan yönetim kurulu üyesi yanıt vermiyorsa bize yazın, ayrılışını onun katılımı olmadan nasıl tescil ettireceğinizi anlatalım.
+## content_blocks_0_content
+Yönetim kurulu üyesi (juhatuse liige), Estonya OÜ'sunun yasal temsilcisidir: sözleşmeleri imzalar, raporları verir ve sürelerden kişisel olarak sorumludur. Bu yüzden yönetim kurulu değişikliği bir iç formalite değil, Ticaret Siciline işlenmesi gereken bir değişikliktir. Kayıt yapılana kadar bankalar, vergi idaresi ve karşı taraflar için şirketi önceki kurul yönetir.
+
+Kaydın kendisi bir veya iki iş gününde çevrim içi yapılır. Zorluklar bunun çevresinde çıkar: yeni üye başvuruyu dijital imzayla imzalayamaz; ayrılan üye yanıt vermez; tüm kurul yurt dışında kalır ve şirketin bir irtibat kişisine ihtiyacı olur; banka eski müdürü görmeye devam eder; e-MTA ve muhasebe programı erişimleri artık şirketten sorumlu olmayan birinde kalır.
+<blockquote>Ortaklar kurulu kararını ve yeni üyenin onayını hazırlar, başvuruyu e-Business Register'a verir ve kayıttan sonra gelen her şeyi tamamlarız: e-MTA erişimleri, banka, irtibat kişisi ve gerçek faydalanıcı bilgileri.</blockquote>
+## content_blocks_3_content
+<h3><b>Temel bilgiler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Konu</b></td>
+<td><b>Pratik açıklama</b></td>
+</tr>
+<tr>
+<td>Kim atar ve görevden alır</td>
+<td>OÜ'da, esas sözleşme bunu denetim kuruluna vermediyse ortaklar kararla</td>
+</tr>
+<tr>
+<td>Ne verilir</td>
+<td>e-Business Register başvurusu, ortaklar kurulu kararı, yeni üyenin onayı</td>
+</tr>
+<tr>
+<td>İmzalar</td>
+<td>e-Residency, Estonya kimlik kartı, Smart-ID ile dijital imza veya noter onaylı imza (gerekirse apostil ile)</td>
+</tr>
+<tr>
+<td>Harç</td>
+<td>OÜ bilgilerinin sicilde değiştirilmesi genellikle 25 €</td>
+</tr>
+<tr>
+<td>Tescil süresi</td>
+<td>Eksiksiz başvurudan sonra genellikle 1–2 iş günü</td>
+</tr>
+<tr>
+<td>e-MTA erişimi</td>
+<td>Tek başına temsil yetkisi olan üye, kayıttan sonraki gün yetkileri otomatik alır; ayrılan üye kaybeder</td>
+</tr>
+<tr>
+<td>Banka</td>
+<td>Sicil verileri bankaya otomatik iletilmez: imza yetkilileri ayrıca güncellenmelidir</td>
+</tr>
+<tr>
+<td>Yurt dışındaki kurul</td>
+<td>Estonya'da bir irtibat kişisi zorunludur</td>
+</tr>
+<tr>
+<td>Kim yönetim kurulu üyesi olamaz</td>
+<td>Ticari faaliyet yasağı olan kişi ve kanunda belirtilen diğer durumlar</td>
+</tr>
+<tr>
+<td>Gerçek faydalanıcılar</td>
+<td>Kurul ile birlikte sahipler de değişirse UBO verileri 30 gün içinde güncellenir</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Yönetim kurulu üyesi nasıl değiştirilir: 4 adım
+## content_blocks_4_step_1
+Talep gönderin. Şirketin sicil kodu, kimin ayrılıp kimin geldiği, yeni üyenin e-Residency veya Estonya kimlik kartı olup olmadığı ve nerede yaşadığı.
+## content_blocks_4_step_2
+Belge paketini alın. Esas sözleşmeyi ve sicili kontrol eder; ortaklar kurulu kararını, yeni üyenin onayını ve gerekirse irtibat kişisi belgelerini hazırlarız.
+## content_blocks_4_step_3
+Belgeleri imzalayın. Dijital imzayla uzaktan; yoksa kendi ülkenizdeki bir noterde, gerekirse apostil ile.
+## content_blocks_4_step_4
+Başvuruyu verir ve eksikleri tamamlarız. Sicil kaydı, e-MTA yetkilerinin kontrolü, bankada imza yetkililerinin güncellenmesine destek, UBO verileri ve irtibat kişisi.
+## content_blocks_6_tariff_title
+Hizmet paketleri
+## content_blocks_6_tariff_items_0_name
+«Standart değişiklik» paketi
+## content_blocks_6_tariff_items_0_package_items
+<li>Esas sözleşmenin incelenmesi: kurulu kim atar, görev süresi, kısıtlamalar
+<li>Atama ve görevden almaya ilişkin ortaklar kurulu kararı
+<li>Yeni üyenin onayı
+<li>e-Business Register'a başvuru ve kaydın takibi</li>
+## content_blocks_6_tariff_items_1_name
+«Anahtar teslim değişiklik» paketi (önerilen)
+## content_blocks_6_tariff_items_1_package_items
+<li>«Standart değişiklik» paketindeki her şey
+<li>Dijital imza yoksa yurt dışındaki noter için belgeler
+<li>Tüm kurul yurt dışındaysa irtibat kişisi atanması
+<li>e-MTA yetkilerinin kontrolü ve erişimlerin muhasebeciye devri
+<li>İmza yetkililerinin güncellenmesi için banka belgeleri
+<li>Gerçek faydalanıcı bilgilerinin güncellenmesi
+<li>Yönetim kurulu sözleşmesi ve ücret düzeni</li>
+## content_blocks_6_tariff_items_2_name
+«Karmaşık değişiklik» paketi
+## content_blocks_6_tariff_items_2_package_items
+<li>Yanıt vermeyen veya belge imzalamayan üyenin ayrılışı
+<li>Görev süresi dolduysa ve sicil uyarı gönderdiyse kurulun yeniden oluşturulması
+<li>Pay devri ve esas sözleşme değişikliğiyle birlikte kurul değişikliği
+<li>Birden fazla üye ve müşterek temsil yetkisi
+<li>Sicil memurunun taleplerine yanıt</li>
+## content_blocks_7_title_right
+Asıl mesele: sicil kaydı işin yalnızca yarısı
+## content_blocks_7_text_right
+Sahipler, yeni isim sicilde görününce değişikliği tamamlanmış sayar. Sorunlar, sicilin otomatik olarak değiştirmediği yerlerde çıkar.
+<ul>
+<li><b>Banka.</b> Sicil verileri bankaya iletilmez. İmza yetkilileri güncellenene kadar ödemeleri artık şirketten sorumlu olmayan biri onaylayabilir; yeni üyenin ise hesaba erişimi olmaz.</li>
+<li><b>Müşterek temsil.</b> Şirkette müşterek imza yetkisi olan birden fazla üye varsa e-MTA yetkileri otomatik verilmez: hepsinden vekâletname gerekir.</li>
+<li><b>Kurul yurt dışına çıkıyor.</b> Estonya'da ikamet eden son üye ayrılırsa şirketin bir irtibat kişisine ihtiyacı olur. Aksi halde sicil memuru silme sürecini başlatabilir.</li>
+<li><b>Önceki müdürün mirası.</b> Verilmemiş bir yıllık rapor veya vergi borcu artık yeni kurulun sorunudur. Yeni üye, göreve başladığı andan itibaren şirketten sorumludur.</li>
+</ul>
+<b>Pratik sonuç:</b> kurul değişikliği; kayıt, erişimler, banka ve geçmiş dönemlerin kontrolünden oluşan bir pakettir. Hepsini biz tamamlarız.
+## content_blocks_8_title_left
+Kurul değişikliği ne zaman gerekmez, ne zaman yetmez
+## content_blocks_8_text_left
+<ul>
+<li><b>Yalnızca birinin sözleşme imzalaması gerekiyor.</b> Bunun için kurulu değiştirmek gerekmez: bir vekâletname veya ticari vekâlet yeterlidir.</li>
+<li><b>Şirketin sahibi değişiyor.</b> Kurul değişikliği payları devretmez. Önce <a href="{L:4845}">pay devri</a>, sonra kurul değişikliği ve UBO güncellemesi yapılır.</li>
+<li><b>Üye ayrılmak istiyor ama yerine kimse yok.</b> Şirket kurulsuz kalamaz. Kurul boş kalırsa sicil memuru zorunlu tasfiye uyarısı verebilir; yerine gelecek kişiyi önceden bulun.</li>
+<li><b>Görev süresi doldu.</b> Esas sözleşme görev süresini sınırlıyorsa süre bitince üye yeniden seçilmeli ve kayıt güncellenmelidir. Aksi halde sicil süresi dolmuş bir kurul gösterir.</li>
+<li><b>Şirket bütünüyle satılıyor.</b> Kurul değişikliği ayrı bir işlem değil, anlaşmanın parçasıdır: pay devri ve bankayla eşzamanlı yapılmalıdır.</li>
+</ul>
+## content_blocks_9_title_right
+Sunduğumuz diğer hizmetler
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4845}">Pay satışı ve devri</a>: kurulla birlikte sahip de değişiyorsa</li>
+<li>Esas sözleşme değişikliği: görev süresi, temsil, denetim kurulu</li>
+<li>UBO verilerinin güncellenmesi: değişikliklerden sonra 30 gün içinde</li>
+<li><a href="{L:2254}">İrtibat kişisi</a> ve <a href="{L:1269}">yasal adres</a></li>
+<li><a href="{L:4843}">Bordro ve yönetim kurulu ücreti</a></li>
+<li><a href="{L:4724}">Muhasebeci değişikliği</a>: yeni kurul muhasebeyi de değiştirdiğinde</li>
+<li><a href="{L:4578}">Muhasebenin yeniden düzenlenmesi</a>: önceki kurul raporları vermediyse</li>
+</ul>
+Kurul değişikliği sicili, vergi idaresini, bankayı ve muhasebeyi aynı anda etkiler. Sicil değişiklikleri, irtibat kişisi ve muhasebe tek bir sağlayıcıdaysa bu alanların hiçbiri eski verilerle kalmaz.
+## content_blocks_10_content
+<h2><b>OÜ'nun yönetim kurulu üyesi kimdir ve değiştiğinde ne değişir</b></h2>
+OÜ'da yönetim kurulu tek zorunlu yönetim organıdır. Üye şirketi temsil eder, sözleşmeleri ve raporları imzalar, muhasebeden ve yıllık raporun verilmesinden sorumludur. Yönetim kurulu sözleşmesi iş sözleşmesi değildir: çalışanı koruma kuralları uygulanmaz ve ücret %22 gelir vergisi ile %33 sosyal vergiye tabidir.
+<table>
+<tbody>
+<tr>
+<td><b>Ne değişir</b></td>
+<td><b>Ne zaman</b></td>
+<td><b>Ne yapılmalı</b></td>
+</tr>
+<tr>
+<td>Şirketi temsil yetkisi</td>
+<td>Sicil kaydından itibaren</td>
+<td>Karar ve onayla başvuru yapmak</td>
+</tr>
+<tr>
+<td>e-MTA yetkileri</td>
+<td>Kayıttan sonraki gün (tek başına temsilde)</td>
+<td>Yetkileri kontrol etmek, erişimleri muhasebeciye devretmek</td>
+</tr>
+<tr>
+<td>Bankadaki imza yetkilileri</td>
+<td>Yalnızca bankaya başvurduktan sonra</td>
+<td>Bankaya sicil özeti ve belgeleri sunmak</td>
+</tr>
+<tr>
+<td>İrtibat kişisi</td>
+<td>Tüm kurul yurt dışındaysa</td>
+<td>Değişiklikle aynı anda irtibat kişisi atamak</td>
+</tr>
+<tr>
+<td>Yıllık rapor sorumluluğu</td>
+<td>Yeni kurulda, verilmemiş tüm raporlar için</td>
+<td>Göreve başlamadan önce nelerin verildiğini kontrol etmek</td>
+</tr>
+</tbody>
+</table>
+<h2><b>OÜ'da yönetim kurulu üyesi nasıl değiştirilir: uygulama</b></h2>
+<h3><b>Adım adım süreç</b></h3>
+<ol>
+<li><b>Esas sözleşmenin incelenmesi.</b> Kurulu kimin atadığı, kaç üye olduğu, görev süresi ve temsil düzeni.</li>
+<li><b>Ortaklar kurulu kararı.</b> Önceki üyenin görevden alınması ve yeni üyenin atanması hakkında; toplantıyla veya toplantısız alınır, dijital imzayla imzalanır.</li>
+<li><b>Yeni üyenin onayı.</b> Görevi kabul ettiğinin ve yasal bir engel olmadığının teyidi.</li>
+<li><b>Sicile başvuru.</b> Bir üye e-Business Register üzerinden verir; dijital imza yoksa noter aracılığıyla.</li>
+<li><b>Sicil kaydı.</b> Genellikle 1–2 iş günü; harç yaklaşık 25 €.</li>
+<li><b>Kayıttan sonra.</b> e-MTA yetkileri, banka, irtibat kişisi, UBO, sözleşme ve ücret.</li>
+</ol>
+<h3><b>İmzalar: dijital mi, noter mi</b></h3>
+Tüm imzacıların e-Residency, Estonya kimlik kartı veya Smart-ID'si varsa her şey bir günde çevrim içi yapılır. Yeni üye bu sistemde değilse onayı ve başvuru noterde imzalanır; bazı ülkeler için apostil gerekir. Bu, birkaç günden birkaç haftaya kadar süre ekler: değişikliği payla planlayın.
+<h3><b>Üyenin ayrılışı</b></h3>
+Üye görevinden istifa edebilir, ortaklar da onu her zaman görevden alabilir. Ayrılan üye sürece katılmazsa kayıt ortaklar kurulu kararına dayanılarak yapılır. Yönetim kurulu sözleşmesi ve ayrılıştaki ödemeler ayrıca düzenlenir.
+<h3><b>Yurt dışındaki kurul</b></h3>
+Tüm üyeler Estonya dışındaysa şirket bir irtibat kişisi atamak zorundadır: noter, avukat, denetçi, vergi temsilcisi veya lisanslı kurumsal hizmet sağlayıcı. Kurulun yurt dışındaki adresi de sicile işlenir.
+<h3><b>Vergiler ve ücret</b></h3>
+Yönetim kurulu üyesinin ücreti Estonya'da %22 gelir vergisi ve %33 sosyal vergiyle, işsizlik sigortası olmadan vergilendirilir. Üye istihdam siciline kaydedilir. Ayrıntılar <a href="{L:1037}">Estonya'da şirket vergileri</a> yazımızda.
+<h3><b>Yeni üye neleri kontrol etmeli</b></h3>
+Göreve başlamadan önce yıllık raporların verilip verilmediğini, vergi borcu olup olmadığını, bankaya ve e-MTA'ya kimin erişimi olduğunu ve muhasebe belgelerinin nerede saklandığını kontrol edin. Kayıttan itibaren tüm bunlardan siz sorumlusunuz.
+## content_blocks_11_faq_items_0_question
+OÜ'nun yönetim kurulu üyesini kim atar?
+## content_blocks_11_faq_items_0_answer
+Esas sözleşme bu görevi denetim kuruluna vermediyse şirket ortakları kararla atar.
+## content_blocks_11_faq_items_1_question
+Yönetim kurulu üyesi değişikliği ne kadar tutar?
+## content_blocks_11_faq_items_1_answer
+OÜ bilgilerinin sicilde değiştirilmesi için harç genellikle 25 €'dur. Buna belge hazırlığı ve gerekirse yurt dışındaki noter masrafı eklenir.
+## content_blocks_11_faq_items_2_question
+Değişiklik ne kadar sürer?
+## content_blocks_11_faq_items_2_answer
+Kayıt, eksiksiz başvurudan sonra genellikle 1–2 iş gününde yapılır. Yurt dışında noter ve apostil gerekiyorsa daha uzun sürer.
+## content_blocks_11_faq_items_3_question
+Noter gerekir mi?
+## content_blocks_11_faq_items_3_answer
+İmzacıların e-Residency, Estonya kimlik kartı veya Smart-ID ile dijital imzası varsa hayır. Yoksa belgeler noterde onaylanır.
+## content_blocks_11_faq_items_4_question
+Yabancı biri Estonya şirketinin yönetim kurulu üyesi olabilir mi?
+## content_blocks_11_faq_items_4_answer
+Evet. Ancak tüm kurul yurt dışındaysa şirketin Estonya'da bir irtibat kişisine ihtiyacı vardır.
+## content_blocks_11_faq_items_5_question
+Vergi idaresindeki yetkiler otomatik değişir mi?
+## content_blocks_11_faq_items_5_answer
+Evet, tek başına temsil yetkisinde kayıttan sonraki gün. Banka sicil verilerini almaz; oradaki imza yetkilileri ayrıca güncellenmelidir.
+## content_blocks_11_faq_items_6_question
+Yanıt vermeyen bir üye nasıl görevden alınır?
+## content_blocks_11_faq_items_6_answer
+Ortaklar kararla görevden alır ve kayıt onun imzası olmadan yapılır.
+## content_blocks_11_faq_items_7_question
+Yeni üye geçmişteki ihlallerden sorumlu mu?
+## content_blocks_11_faq_items_7_answer
+Verilmemiş raporlar ve süregelen yükümlülükler için, göreve başladığı andan itibaren. Bu yüzden atamadan önce şirketin durumunu kontrol etmekte fayda var.
+## content_blocks_11_faq_items_8_question
+Kurul değiştiğinde gerçek faydalanıcı bilgileri güncellenmeli mi?
+## content_blocks_11_faq_items_8_answer
+Yalnızca kurul değişiyorsa genellikle hayır. Sahipler veya kontrol değişiyorsa evet, 30 gün içinde.
+## content_blocks_12_final_cta_title
+Sicil kodunu gönderin, kurul değişikliğini 1 günde hazırlayalım
+## content_blocks_12_final_cta_text
+Kimin ayrılıp kimin geldiğini, yeni üyenin dijital imzası olup olmadığını ve nerede yaşadığını belirtin. Bir iş günü içinde belge paketini ve sabit fiyatı gönderiyoruz.

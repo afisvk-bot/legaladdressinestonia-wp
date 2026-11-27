@@ -1,0 +1,267 @@
+## _title
+Umsatzsteuererklärungen in Estland
+## _slug
+umsatzsteuererklaerungen-in-estland
+## rank_math_title
+Umsatzsteuererklärungen in Estland: KMD und KMD INF %currentyear%
+## rank_math_description
+Umsatzsteuererklärungen in Estland: KMD und KMD INF, 24 % USt, Vorsteuerabzug, VD-Meldung und Abgabe bei der EMTA bis zum 20. jedes Monats.
+## rank_math_focus_keyword
+Umsatzsteuererklärungen in Estland
+## _step_desc
+Wenn Sie nicht sicher sind, ob Sie überhaupt eine USt-Registrierung brauchen, senden Sie uns Ihre Verkaufs- und Einkaufsdaten – wir prüfen kostenlos.
+## content_blocks_0_content
+Sobald eine estnische Gesellschaft umsatzsteuerpflichtig registriert ist, hat sie einen monatlichen Rhythmus: bis zum 20. die KMD-Erklärung mit der Anlage KMD INF und bei Verkäufen an Unternehmen in der EU zusätzlich die VD-Meldung. Die Erklärung wird jeden Monat abgegeben, auch ohne Umsatz.
+
+Schwierig ist nicht das Formular. Schwierig ist, dass jede Zeile der KMD eine Entscheidung ist: welcher Steuersatz, wo der Leistungsort liegt, ob die USt-IdNr. des Kunden gültig ist, ob die Vorsteuer aus dieser Ausgabe abziehbar ist. Und die Steuerbehörde gleicht die KMD-INF-Daten automatisch mit den Erklärungen Ihrer Geschäftspartner ab – eine Abweichung wird zur Anfrage, bevor Sie davon wissen.
+<blockquote>Wir erstellen und übermitteln KMD, KMD INF und VD, prüfen Steuersatz und Leistungsort jedes Vorgangs, gleichen die Daten mit Geschäftspartnern und Banken ab, berichtigen frühere Zeiträume und bereiten Ihre Buchhaltung auf die neue datenbasierte KMD ab 2027 vor.</blockquote>
+## content_blocks_3_content
+<h3><b>Die wichtigsten Fakten</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Thema</b></td>
+<td><b>Praktische Erläuterung</b></td>
+</tr>
+<tr>
+<td>Was abgegeben wird</td>
+<td>KMD (Hauptformular) und KMD INF (Rechnungsdaten); bei B2B-Lieferungen in die EU die VD-Meldung</td>
+</tr>
+<tr>
+<td>Frist</td>
+<td>Bis zum 20. des Folgemonats</td>
+</tr>
+<tr>
+<td>Ohne Umsatz</td>
+<td>Registrierte Steuerpflichtige geben die KMD auch bei null Umsatz ab</td>
+</tr>
+<tr>
+<td>Steuersätze</td>
+<td>24 % Regelsatz (ab 1. Juli 2025), 13 % Beherbergung, 9 % Bücher, Lehrmaterial, Presse, Arzneimittel, 0 % Ausfuhr und Lieferungen in die EU</td>
+</tr>
+<tr>
+<td>Registrierungsschwelle</td>
+<td>40.000 € steuerbare Umsätze in Estland pro Kalenderjahr</td>
+</tr>
+<tr>
+<td>Eingeschränkte Steuerpflicht</td>
+<td>Beim Bezug von Leistungen ausländischer Anbieter – ohne Schwelle; die KMD wird für Monate mit solchen Bezügen abgegeben</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Rechnungen aus estnischen Geschäften mit Steuerpflichtigen über dem festgelegten Schwellenwert je Partner und Monat</td>
+</tr>
+<tr>
+<td>Berichtigungen</td>
+<td>Es wird eine berichtigte KMD für den Zeitraum abgegeben, in dem der Fehler entstand</td>
+</tr>
+<tr>
+<td>Zinsen</td>
+<td>0,06 % pro Tag (21,9 % jährlich) ab dem ersten Tag des Verzugs</td>
+</tr>
+<tr>
+<td>Erstattung von Überzahlungen</td>
+<td>Nicht möglich, solange Erklärungen für das laufende und die zwei Vorjahre fehlen</td>
+</tr>
+<tr>
+<td>Ab 2027</td>
+<td>Datenbasierte KMD aus der Buchhaltungssoftware; KMD und VD werden zu einer Erklärung zusammengelegt</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+So übergeben Sie uns Ihre USt-Meldungen: 4 Schritte
+## content_blocks_4_step_1
+Anfrage senden. Was Sie verkaufen, an wen – Privatpersonen oder Unternehmen –, in welchen Ländern, ob Sie bei ausländischen Anbietern einkaufen und wie viele Rechnungen Sie etwa im Monat haben.
+## content_blocks_4_step_2
+Beratung erhalten. Wir bestimmen Steuersätze und Leistungsort für Ihre Geschäftsflüsse, klären, ob VD und OSS nötig sind, und nennen einen monatlichen Festpreis.
+## content_blocks_4_step_3
+Rechnung bezahlen und Zugänge erteilen. Rechte in e-MTA, Exporte aus Buchhaltungssoftware, Banken und Zahlungsdiensten – online.
+## content_blocks_4_step_4
+Wir geben die Erklärungen jeden Monat ab. Prüfung von Steuersätzen und VIES-Nummern, Abgleich der KMD INF mit Geschäftspartnern, Abgabe bis zum 20. und Mitteilung der Zahllast.
+## content_blocks_6_tariff_title
+Leistungspakete
+## content_blocks_6_tariff_items_0_name
+Paket „KMD“
+## content_blocks_6_tariff_items_0_package_items
+<li>Monatliche Erstellung und Abgabe von KMD und KMD INF
+<li>Prüfung von Steuersatz und Leistungsort jedes Vorgangs
+<li>Prüfung der USt-IdNr. der Geschäftspartner in VIES
+<li>Eigenberechnung der USt auf Leistungen ausländischer Anbieter
+<li>Mitteilung von Zahllast und Frist</li>
+## content_blocks_6_tariff_items_1_name
+Paket „KMD + internationale Verkäufe“ – empfohlen
+## content_blocks_6_tariff_items_1_package_items
+<li>Alles aus dem Paket „KMD“
+<li>VD-Meldung für B2B-Lieferungen in die EU
+<li>Abstimmung der KMD mit der OSS-Erklärung für Verkäufe an Verbraucher
+<li>Abgleich von Stripe, Paddle, Marktplätzen und Zahlungs-Gateways mit der Buchhaltung
+<li>Anteiliger Vorsteuerabzug bei steuerpflichtigen und steuerfreien Umsätzen
+<li>Gutschriften und Erstattungen im richtigen Zeitraum</li>
+## content_blocks_6_tariff_items_2_name
+Paket „Prüfung und Berichtigung“
+## content_blocks_6_tariff_items_2_package_items
+<li>Prüfung von KMD, KMD INF und VD für ausgewählte Zeiträume
+<li>Abgleich mit Daten der Geschäftspartner und Bewertungen des Steuerverhaltens in e-MTA
+<li>Berichtigte Erklärungen für fehlerhafte Zeiträume
+<li>Zinsberechnung und bei Bedarf Antrag auf Ratenzahlung
+<li>Antworten auf Anfragen der EMTA und Begleitung bei Prüfungen</li>
+## content_blocks_7_title_right
+Kernaussage: Die Umsatzsteuer scheitert an drei Stellen – keine davon sieht man im Formular
+## content_blocks_7_text_right
+Das KMD-Formular ist einfach: einige Dutzend Zeilen. Fehler entstehen früher, bei der Einordnung des Vorgangs.
+<ul>
+<li><b>Einkäufe bei ausländischen Anbietern.</b> Werbung bei Google und Meta, Hosting, SaaS-Abos, Leistungen von Auftragnehmern aus anderen Ländern – das sind bezogene Leistungen, für die die Gesellschaft selbst in Estland USt berechnet. Ohne reguläre Registrierung wird sie dafür eingeschränkt steuerpflichtig, ohne Schwelle. Das ist der häufigste Befund bei einer Prüfung.</li>
+<li><b>Reverse Charge ohne Nummernprüfung.</b> Eine Rechnung ohne USt an einen B2B-Kunden in der EU ist nur zulässig, wenn seine Nummer am Liefertag in VIES gültig ist. Eine ungültige Nummer bedeutet 24 % auf Ihrer Seite – und das erfahren Sie meist bei der Prüfung.</li>
+<li><b>Falscher Zeitraum.</b> Eine Anzahlung erzeugt Umsatz im Monat des Geldeingangs, eine Gutschrift wird im Monat ihrer Ausstellung erfasst, und ein Fehler wird in der Erklärung des Zeitraums berichtigt, in dem er entstand. Die Verschiebung „in den laufenden Monat“ ist eine häufige Ursache für Abweichungen mit Geschäftspartnern.</li>
+</ul>
+<b>Praktisches Fazit:</b> Eine verlässliche KMD beginnt nicht beim Ausfüllen des Formulars, sondern mit einer Regel für jeden Geschäftsfluss: welcher Steuersatz, welcher Leistungsort, welcher Beleg. Wir legen diese Regeln am Anfang fest – danach wird jeder Monat ohne Rätselraten abgeschlossen.
+## content_blocks_8_title_left
+Wann keine KMD nötig ist und wann sie nicht reicht
+## content_blocks_8_text_left
+Eine ehrliche Analyse spart mehr als die Leistung selbst.
+<ul>
+<li><b>Keine Registrierungspflicht.</b> Liegen die steuerbaren Umsätze in Estland unter 40.000 € und sind Ihre Verkäufe B2B in der EU im Reverse-Charge-Verfahren oder Dienstleistungsexporte, ist eine reguläre USt-Registrierung womöglich nicht nötig. Manchmal lohnt sie sich nicht: Jeden Monat ist eine KMD fällig, abzuziehen gibt es aber kaum etwas.</li>
+<li><b>Freiwillige Registrierung ohne Bezug zu Estland.</b> Seit August 2025 registriert die EMTA freiwillig nur bei wirtschaftlichem Bezug zu Estland. Ohne ihn kann die Registrierung abgelehnt und eine bereits erteilte Nummer entzogen werden.</li>
+<li><b>Verkäufe an Verbraucher in der EU.</b> Das ist keine KMD, sondern OSS – eine eigene vierteljährliche Erklärung. Mehr dazu unter <a href="{L:2346}">OSS- und IOSS-Registrierung</a>.</li>
+<li><b>Lager in einem anderen EU-Land.</b> Die Lagerung von Waren im Ausland begründet eine örtliche USt-Registrierungspflicht. Die estnische KMD ersetzt sie nicht.</li>
+<li><b>Kleinunternehmen in mehreren EU-Ländern.</b> Seit 2025 gilt die Kleinunternehmerregelung bei einem EU-Umsatz bis 100.000 € und einem Umsatz in Estland bis 40.000 €. Manchmal ist sie günstiger als die Registrierung – das muss man rechnen.</li>
+</ul>
+## content_blocks_9_title_right
+Weitere Leistungen
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Buchhaltung</a> – der gesamte Bereich</li>
+<li><a href="{L:2344}">Laufende Buchhaltung</a> – die KMD baut auf einem abgeschlossenen Monat auf</li>
+<li><a href="{L:2156}">USt-Registrierung</a> – regulär und eingeschränkt</li>
+<li><a href="{L:2346}">OSS- und IOSS-Registrierung</a> – Verkäufe an Verbraucher in der EU</li>
+<li><a href="{L:4843}">Lohnabrechnung (Payroll)</a> – TSD bis zum 10.</li>
+<li><a href="{L:4578}">Wiederherstellung der Buchhaltung</a> – wenn KMDs für frühere Monate fehlen</li>
+<li><a href="{L:2345}">Steuerberatung</a> – komplexe Geschäfte und Anfragen der EMTA</li>
+<li><a href="{L:2190}">E-Commerce und Dropshipping</a> – Umsatzsteuer im Onlinehandel</li>
+</ul>
+Die Umsatzsteuererklärung ist ein Ergebnis der Buchhaltung, kein eigenes Dokument. Liegen KMD, OSS und Buchhaltung bei einem Anbieter, stimmen die Umsätze in den Erklärungen ohne Neuberechnung zum Jahresende mit den Erlösen im Jahresabschluss überein.
+## content_blocks_10_content
+<h2><b>Was zu den USt-Meldungen einer estnischen Gesellschaft gehört</b></h2>
+Jeden Monat gibt ein Steuerpflichtiger bis zu drei Dokumente ab, die sich gegenseitig prüfen.
+<table>
+<tbody>
+<tr>
+<td><b>Dokument</b></td>
+<td><b>Was es zeigt</b></td>
+<td><b>Wann nötig</b></td>
+</tr>
+<tr>
+<td>KMD</td>
+<td>Berechnete USt, abziehbare Vorsteuer, Zahllast oder Erstattung</td>
+<td>Jeden Monat, auch bei null</td>
+</tr>
+<tr>
+<td>KMD INF</td>
+<td>Daten ausgestellter und erhaltener Rechnungen aus estnischen Geschäften mit Steuerpflichtigen</td>
+<td>Jeden Monat zusammen mit der KMD</td>
+</tr>
+<tr>
+<td>VD</td>
+<td>Lieferungen und Leistungen an B2B-Kunden in anderen EU-Ländern nach Kundennummer</td>
+<td>Für Monate mit solchen Lieferungen</td>
+</tr>
+<tr>
+<td>OSS</td>
+<td>Verkäufe an Verbraucher in anderen EU-Ländern zu deren Steuersätzen</td>
+<td>Vierteljährlich, getrennt von der KMD</td>
+</tr>
+</tbody>
+</table>
+Die KMD INF Ihrer Verkäufe ist die KMD INF der Einkäufe Ihrer Kunden. Die EMTA gleicht sie automatisch ab und zeigt Abweichungen in der Bewertung des Steuerverhaltens. Erscheint dort eine Differenz zu den Daten eines Geschäftspartners, wird die Ursache zuerst mit ihm geklärt, nicht mit der Steuerbehörde.
+<h2><b>So wird die KMD in Estland abgegeben: Praxis</b></h2>
+<h3><b>Steuersätze 2026</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Steuersatz</b></td>
+<td><b>Gilt für</b></td>
+</tr>
+<tr>
+<td>24 %</td>
+<td>Regelsatz ab 1. Juli 2025</td>
+</tr>
+<tr>
+<td>13 %</td>
+<td>Beherbergung und Beherbergung mit Frühstück (ab 1. Januar 2025)</td>
+</tr>
+<tr>
+<td>9 %</td>
+<td>Bücher und Lehrmaterial, Presse, Arzneimittel und Medizinprodukte laut Liste</td>
+</tr>
+<tr>
+<td>0 %</td>
+<td>Ausfuhr von Waren, Lieferungen in die EU, bestimmte Leistungen</td>
+</tr>
+<tr>
+<td>Steuerfrei</td>
+<td>Bestimmte Finanz-, Gesundheits-, Bildungs- und Sozialleistungen</td>
+</tr>
+</tbody>
+</table>
+Der Steuersatz richtet sich nach dem Zeitpunkt der Umsatzentstehung, nicht nach dem Rechnungsdatum. Für die Ist-Versteuerung gelten bei Satzänderungen Übergangsregeln.
+<h3><b>So läuft ein Monat ab</b></h3>
+<ol>
+<li>Monatsabschluss in der Buchhaltung: alle Verkäufe, Einkäufe und Bankbewegungen.</li>
+<li>Einordnung der Vorgänge: Steuersatz, Leistungsort, Steuerbefreiung, Reverse Charge.</li>
+<li>Prüfung der USt-IdNr. von EU-Kunden in VIES.</li>
+<li>Berechnung der USt auf aus dem Ausland bezogene Leistungen und Waren.</li>
+<li>Berechnung der abziehbaren Vorsteuer einschließlich Beschränkungen.</li>
+<li>Erstellung von KMD, KMD INF und VD, Abgabe bis zum 20.</li>
+<li>Zahlung auf das Vorauszahlungskonto der EMTA bis zur selben Frist.</li>
+</ol>
+<h3><b>Beschränkungen des Vorsteuerabzugs</b></h3>
+Nicht jede Vorsteuer ist abziehbar. Ausgaben ohne Bezug zu steuerpflichtigen Umsätzen berechtigen nicht zum Abzug. Bei Pkw ist der Abzug beschränkt, wenn das Fahrzeug nicht ausschließlich betrieblich genutzt wird. Bewirtungs- und Personalaufwendungen werden gesondert geprüft. Bei gleichzeitigen steuerpflichtigen und steuerfreien Umsätzen wird der Abzug anteilig berechnet.
+<h3><b>Berichtigungen und Gutschriften</b></h3>
+Enthält eine Erklärung einen Fehler – etwa ein nicht erklärter Umsatz –, wird für denselben Zeitraum eine neue KMD mit berichtigten Daten abgegeben. Eine Gutschrift oder Rechnungsstornierung nach Abgabe der Erklärung wird von Verkäufer und Käufer im Monat ihrer Ausstellung erfasst. Die Unterscheidung zwischen „Fehler“ und „nachträglicher Änderung“ ist eine häufige Quelle von Abweichungen.
+<h3><b>Erstattung von Überzahlungen</b></h3>
+Übersteigt die Vorsteuer die berechnete Steuer, wird die Differenz erstattet. Die EMTA kann die Erstattungsfrist für eine Prüfung verlängern. Eine Erstattung kann nicht beantragt werden, solange die Gesellschaft Erklärungen für das laufende und die zwei Vorjahre schuldig ist – Ordnung in früheren Zeiträumen wirkt sich also direkt auf Ihr Geld aus.
+<h3><b>Datenbasierte KMD ab 2027</b></h3>
+Die EMTA stellt die USt-Meldungen auf dasselbe Prinzip um wie die TSD ab Oktober 2026: Die Gesellschaft übermittelt Geschäftsdaten aus der Buchhaltungssoftware, und die Erklärung wird daraus erstellt. Nach dem angekündigten Plan werden KMD und VD zu einer Erklärung zusammengelegt, die KMD-INF-Schwelle entfällt, und für CSV-Uploads ist eine neue Dateiversion nötig. Tests für Softwareentwickler beginnen am 1. Januar 2027, die Abgabe nach dem neuen Verfahren ab Frühjahr 2027. Das bereitet auf die EU-Reform mit verpflichtender E-Rechnung und Datenmeldung nahezu in Echtzeit ab 1. Juli 2030 vor.
+
+<b>Was das für Sie bedeutet:</b> Eine Buchhaltung mit Kennzeichnung der Vorgänge nach Art und Geschäftspartner schon heute bedeutet eine KMD ohne Umbau im Jahr 2027.
+## content_blocks_11_faq_items_0_question
+Wann wird die KMD abgegeben?
+## content_blocks_11_faq_items_0_answer
+Monatlich bis zum 20. des Folgemonats, zusammen mit der Anlage KMD INF. Die Zahllast wird bis zur selben Frist auf das Vorauszahlungskonto der EMTA überwiesen.
+## content_blocks_11_faq_items_1_question
+Muss ich eine KMD abgeben, wenn es keinen Umsatz gab?
+## content_blocks_11_faq_items_1_answer
+Ja. Ein registrierter Steuerpflichtiger gibt jeden Monat eine KMD ab, auch eine Nullmeldung.
+## content_blocks_11_faq_items_2_question
+Wie hoch ist die Umsatzsteuer in Estland 2026?
+## content_blocks_11_faq_items_2_answer
+Der Regelsatz beträgt 24 % ab 1. Juli 2025. Ermäßigte Sätze: 13 % für Beherbergung und 9 % für Bücher, Presse und Arzneimittel. 0 % gilt für Ausfuhren und Lieferungen in die EU.
+## content_blocks_11_faq_items_3_question
+Was ist die KMD INF?
+## content_blocks_11_faq_items_3_answer
+Eine Anlage zur KMD mit Daten ausgestellter und erhaltener Rechnungen aus estnischen Geschäften mit Steuerpflichtigen. Die EMTA gleicht diese Daten mit den Erklärungen Ihrer Geschäftspartner ab.
+## content_blocks_11_faq_items_4_question
+Wann ist eine VD-Meldung nötig?
+## content_blocks_11_faq_items_4_answer
+Für Monate mit Lieferungen von Waren oder Leistungen an B2B-Kunden in anderen EU-Ländern. Die Frist ist ebenfalls der 20.
+## content_blocks_11_faq_items_5_question
+Was bedeutet eingeschränkte Steuerpflicht?
+## content_blocks_11_faq_items_5_answer
+Eine Registrierung für Gesellschaften ohne reguläre USt-Registrierung, die Leistungen oder Waren aus dem Ausland beziehen. Die Gesellschaft berechnet die USt auf solche Einkäufe selbst, es gibt keine Schwelle, und diese Steuer ist nicht abziehbar.
+## content_blocks_11_faq_items_6_question
+Wie berichtige ich einen Fehler in einer abgegebenen KMD?
+## content_blocks_11_faq_items_6_answer
+Geben Sie eine berichtigte KMD für den Zeitraum ab, in dem der Fehler entstand. Später ausgestellte Gutschriften werden im Monat ihrer Ausstellung erfasst.
+## content_blocks_11_faq_items_7_question
+Welche Verzugszinsen fallen an?
+## content_blocks_11_faq_items_7_answer
+0,06 % pro Tag auf den unbezahlten Betrag, also 21,9 % jährlich, ab dem ersten Tag nach der Frist. Bei Ratenzahlung kann der Satz bis auf die Hälfte gesenkt werden.
+## content_blocks_11_faq_items_8_question
+Was ändert sich 2027 bei der KMD?
+## content_blocks_11_faq_items_8_answer
+Die KMD wird als Datensatz aus der Buchhaltungssoftware übermittelt, KMD und VD werden zu einer Erklärung zusammengelegt und die KMD-INF-Schwelle entfällt.
+## content_blocks_12_final_cta_title
+Senden Sie uns Ihre Verkaufs- und Einkaufsdaten – wir prüfen die Steuersätze und nennen den Preis
+## content_blocks_12_final_cta_text
+Beschreiben Sie Ihr Modell: was Sie verkaufen, an wen und in welchen Ländern, bei wem Sie einkaufen und wie viele Rechnungen Sie im Monat haben. Innerhalb eines Werktags sagen wir Ihnen, welche Erklärungen Sie brauchen, wo derzeit Risiken liegen und was die monatlichen USt-Meldungen kosten.

@@ -1,0 +1,231 @@
+## _title
+Redução de capital de uma empresa estónia
+## _slug
+reducao-de-capital-estonia
+## rank_math_title
+Redução de capital de uma OÜ na Estónia %currentyear%
+## rank_math_description
+Redução de capital de uma OÜ na Estónia: deliberação e estatutos, aviso aos credores, registo comercial e devolução sem imposto das entradas declaradas.
+## rank_math_focus_keyword
+Redução de capital
+## _step_desc
+Se não sabe quanto capital pode ser devolvido sem imposto, envie-nos o código de registo e verificamos gratuitamente.
+## content_blocks_0_content
+Desde 2023 o capital mínimo de uma OÜ estónia é de 0,01 €. As empresas que em tempos realizaram 2500 € ou mais podem agora devolver esse dinheiro aos sócios e, com a contabilidade correta, sem imposto. A redução de capital também serve para a saída de um sócio, para cobrir prejuízos e como parte de uma mudança de proprietários sem notário.
+
+Mas é a única alteração do capital que afeta os interesses dos credores. Por isso a lei exige avisá-los, dar-lhes tempo para reclamar créditos e só depois registar e pagar. Um erro de procedimento torna o pagamento ilícito, e um erro contabilístico transforma a devolução da entrada numa distribuição de lucros tributada a 22/78.
+<blockquote>Verificamos quanto capital pode ser devolvido sem imposto, preparamos a deliberação e os estatutos, publicamos o aviso aos credores, entregamos o pedido no prazo certo e declaramos o pagamento na TSD.</blockquote>
+## content_blocks_3_content
+<h3><b>Factos essenciais</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicação prática</b></td>
+</tr>
+<tr>
+<td>Capital mínimo</td>
+<td>0,01 € desde 1 de fevereiro de 2023</td>
+</tr>
+<tr>
+<td>Quem decide</td>
+<td>Os sócios; se mudar o montante do capital nos estatutos, deliberação de alteração dos estatutos</td>
+</tr>
+<tr>
+<td>Modalidades</td>
+<td>Redução do valor nominal das quotas ou amortização de quotas</td>
+</tr>
+<tr>
+<td>Proteção dos credores</td>
+<td>Aviso no Ametlikud Teadaanded e aos credores conhecidos; prazo para reclamações</td>
+</tr>
+<tr>
+<td>Registo</td>
+<td>Não antes do prazo legal após a deliberação</td>
+</tr>
+<tr>
+<td>Pagamentos aos sócios</td>
+<td>Só após o registo e tendo em conta os créditos dos credores</td>
+</tr>
+<tr>
+<td>Imposto sobre o pagamento</td>
+<td>Sem imposto até às entradas declaradas; acima, 22/78</td>
+</tr>
+<tr>
+<td>Declaração</td>
+<td>O pagamento consta do anexo 7 da TSD</td>
+</tr>
+<tr>
+<td>Redução sem pagamentos</td>
+<td>Por exemplo, para cobrir prejuízos; não consta do anexo 7</td>
+</tr>
+<tr>
+<td>Alternativa para mudar de proprietários</td>
+<td>Redução com aumento simultâneo do capital, sem notário</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Como reduzir o capital: 4 passos
+## content_blocks_4_step_1
+Envie um pedido. Código de registo, em quanto reduzir o capital e com que objetivo: pagamento aos sócios, saída de um sócio, cobertura de prejuízos ou mudança de proprietários.
+## content_blocks_4_step_2
+Receba o cálculo. Verificamos o historial de entradas na TSD, o ativo líquido e as dívidas aos credores, e calculamos o montante que pode ser pago sem imposto.
+## content_blocks_4_step_3
+Delibere e avise os credores. Deliberação dos sócios, novos estatutos, publicação no Ametlikud Teadaanded e cartas aos credores conhecidos.
+## content_blocks_4_step_4
+Entregamos o pedido e acompanhamos o pagamento. Registo no prazo legal, pagamento aos sócios, contabilização e anexo 7 da TSD.
+## content_blocks_6_tariff_title
+Pacotes de serviços
+## content_blocks_6_tariff_items_0_name
+Pacote «Redução sem pagamentos»
+## content_blocks_6_tariff_items_0_package_items
+<li>Verificação dos estatutos e do ativo líquido
+<li>Deliberação dos sócios e novos estatutos
+<li>Aviso aos credores e entrega do pedido
+<li>Reflexo na contabilidade</li>
+## content_blocks_6_tariff_items_1_name
+Pacote «Devolução de capital aos sócios» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Tudo o que inclui o pacote «Redução sem pagamentos»
+<li>Verificação das entradas declaradas e cálculo do montante isento
+<li>Controlo de prazos: créditos dos credores, registo, momento do pagamento
+<li>Pagamento e declaração no anexo 7 da TSD
+<li>Cálculo do imposto de 22/78 sobre o eventual excesso face às entradas</li>
+## content_blocks_6_tariff_items_2_name
+Pacote «Saída de sócio e mudança de sócios»
+## content_blocks_6_tariff_items_2_package_items
+<li>Saída de um sócio com pagamento pela sua quota
+<li>Redução com aumento simultâneo para mudar de sócios sem notário
+<li>Alterações aos estatutos e aos dados UBO
+<li>Mudança de gerência se sair um sócio-gerente</li>
+## content_blocks_11_content
+<h2><b>Como reduzir o capital de uma OÜ estónia: na prática</b></h2>
+<h3><b>Processo passo a passo</b></h3>
+<ol>
+<li><b>Verificação da empresa.</b> Estatutos, entradas declaradas, ativo líquido, credores.</li>
+<li><b>Deliberação dos sócios.</b> Novo montante do capital, modalidade de redução, pagamento a cada sócio.</li>
+<li><b>Novos estatutos.</b> Se o montante do capital nos estatutos mudar.</li>
+<li><b>Aviso aos credores.</b> Publicação no Ametlikud Teadaanded e cartas aos credores conhecidos convidando-os a reclamar créditos.</li>
+<li><b>Pedido ao registo.</b> Depois de decorrido o prazo legal desde a deliberação.</li>
+<li><b>Registo.</b> Taxa normalmente de cerca de 25 €.</li>
+<li><b>Pagamento e declaração.</b> Após o registo e tendo em conta os créditos; declaração no anexo 7 da TSD.</li>
+</ol>
+<h3><b>Modalidades de redução</b></h3>
+O capital pode ser reduzido baixando o valor nominal de todas as quotas ou amortizando quotas concretas, por exemplo a do sócio que sai. O nominal de uma quota não pode descer abaixo do mínimo fixado, nem o capital abaixo de 0,01 €.
+<h3><b>Proteção dos credores</b></h3>
+A redução de capital diminui o montante que garante as obrigações da empresa. Por isso a lei dá aos credores um prazo para reclamar créditos e proíbe pagamentos aos sócios antes do registo. O gerente que permitir um pagamento em violação destas regras responde perante a empresa e os credores.
+<h3><b>Impostos</b></h3>
+O pagamento aos sócios numa redução de capital é tributado a 22/78 apenas na parte que exceda as entradas declaradas em capitais próprios. Por exemplo, se um sócio entrou com 19 000 € e recebeu 16 600 € na redução, não há imposto, e o saldo restante da entrada transita para períodos seguintes. O registo faz-se no anexo 7 da TSD. Uma redução sem pagamentos não consta do anexo 7.
+<h3><b>Redução e aumento em simultâneo</b></h3>
+Quando é preciso mudar de sócios, o capital é inferior a 10 000 € e não se quer notário, a quota de quem sai pode ser amortizada através de uma redução e o novo sócio admitido através de um aumento. São dois procedimentos com prazos próprios, planeados em conjunto.
+## content_blocks_12_faq_items_0_question
+É possível reduzir o capital de uma OÜ para 0,01 €?
+## content_blocks_12_faq_items_0_answer
+Sim, o capital mínimo de uma OÜ é de 0,01 € desde 2023. Mas os pagamentos aos sócios só são possíveis tendo em conta os créditos dos credores e o ativo líquido.
+## content_blocks_12_faq_items_1_question
+A devolução de capital é tributada?
+## content_blocks_12_faq_items_1_answer
+Não, até às entradas declaradas no anexo 7 da TSD. O montante acima das entradas é tributado a 22/78.
+## content_blocks_12_faq_items_2_question
+Quanto tempo demora uma redução de capital?
+## content_blocks_12_faq_items_2_answer
+Mais do que um aumento: a lei dá aos credores um prazo para reclamar, e o pedido só é entregue depois de terminar. Conte com vários meses.
+## content_blocks_12_faq_items_3_question
+É preciso avisar os credores?
+## content_blocks_12_faq_items_3_answer
+Sim, com uma publicação no Ametlikud Teadaanded e cartas aos credores conhecidos.
+## content_blocks_12_faq_items_4_question
+Quando se pode pagar aos sócios?
+## content_blocks_12_faq_items_4_answer
+Só depois do registo da redução de capital e tendo em conta os créditos dos credores.
+## content_blocks_12_faq_items_5_question
+É possível reduzir o capital para cobrir prejuízos?
+## content_blocks_12_faq_items_5_answer
+Sim, sem pagamentos aos sócios. Não tem consequências fiscais.
+## content_blocks_12_faq_items_6_question
+Como sair de uma OÜ recebendo pela minha quota?
+## content_blocks_12_faq_items_6_answer
+Através da amortização da quota numa redução de capital ou vendendo-a a outro sócio ou a um terceiro.
+## content_blocks_12_faq_items_7_question
+E se a entrada de capital nunca foi declarada?
+## content_blocks_12_faq_items_7_answer
+Primeiro é preciso regularizar o registo das entradas. Caso contrário, o pagamento pode ser tributado como distribuição de lucros.
+## content_blocks_12_faq_items_8_question
+É preciso notário?
+## content_blocks_12_faq_items_8_answer
+Regra geral, não: a deliberação e o pedido são assinados digitalmente.
+## content_blocks_13_final_cta_title
+Envie-nos o código de registo e calculamos a devolução isenta
+## content_blocks_13_final_cta_text
+Indique em quanto quer reduzir o capital e para quê. Num dia útil verificamos o historial de entradas e indicamos o montante que pode ser devolvido sem imposto, os prazos e um preço fixo.
+## content_blocks_7_title_right
+O essencial: sem imposto não volta o capital, mas as entradas declaradas
+## content_blocks_7_text_right
+Os proprietários pensam muitas vezes: «entrei com 2500 €, logo recebo 2500 € sem imposto». Isso só é verdade com uma condição.
+<ul>
+<li><b>Registo das entradas na TSD.</b> As Finanças não olham para o capital no registo comercial, mas para as entradas declaradas no anexo 7 da TSD. Se a entrada na constituição ou num aumento de capital não foi declarada, o pagamento pode ser qualificado como distribuição de lucros.</li>
+<li><b>O montante acima das entradas.</b> Se for pago mais do que o entrado, a diferença é tributada a 22/78 como distribuição de lucros.</li>
+<li><b>Empresa constituída sem realizar o capital.</b> Se o capital nunca foi realizado, não há nada a devolver, e o pagamento será lucro tributado.</li>
+<li><b>A ordem dos prazos.</b> Um pagamento antes do registo ou sem ter em conta os credores é ilícito, e o gerente responde pessoalmente.</li>
+</ul>
+<b>Conclusão prática:</b> antes de deliberar, verifique o historial de entradas na TSD. Fazemos isto como primeiro passo e indicamos o montante isento exato.
+## content_blocks_8_title_left
+Quando a redução de capital não é necessária e quando não chega
+## content_blocks_8_text_left
+<ul>
+<li><b>Quer retirar lucros, não capital.</b> Para isso existem dividendos com base num relatório anual aprovado, tributados a 22/78 em qualquer caso. Veja <a href="{L:844}">imposto sobre as sociedades na Estónia em 2026</a>.</li>
+<li><b>A empresa vai fechar.</b> Se o negócio terminou, as entradas são devolvidas no âmbito da <a href="{L:4758}">liquidação</a>, sem necessidade de uma redução à parte.</li>
+<li><b>O ativo líquido é inferior a metade do capital.</b> A redução é uma das medidas que os sócios devem considerar, mas nessa situação não são possíveis pagamentos.</li>
+<li><b>Um sócio vende a quota a outra pessoa.</b> Trata-se de uma <a href="{L:4845}">transmissão de quotas</a>: o vendedor recebe do comprador e a empresa não paga nada.</li>
+<li><b>Há créditos de credores.</b> Se os credores reclamaram créditos, estes têm de ser satisfeitos ou garantidos antes de pagar aos sócios.</li>
+</ul>
+## content_blocks_9_title_right
+Outros serviços que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4846}">Aumento de capital e emissão</a>: também em simultâneo com uma redução</li>
+<li><a href="{L:4845}">Venda e transmissão de quotas</a></li>
+<li>Alteração dos estatutos: novo montante do capital</li>
+<li>Atualização dos dados UBO: na saída de um sócio</li>
+<li><a href="{L:4699}">Demonstrações financeiras intercalares</a>: ativo líquido na data da deliberação</li>
+<li><a href="{L:4758}">Liquidação da empresa</a>: se o negócio fechar</li>
+<li><a href="{L:4578}">Recuperação da contabilidade</a>: se as entradas não constam da TSD</li>
+</ul>
+A redução de capital envolve ao mesmo tempo o registo, os credores e os impostos. Quando as três partes estão num só prestador, os sócios recebem no prazo legal e pelo montante isento.
+## content_blocks_10_content
+<h2><b>Para que se reduz o capital</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Objetivo</b></td>
+<td><b>O que acontece</b></td>
+<td><b>Imposto</b></td>
+</tr>
+<tr>
+<td>Devolver entradas aos sócios</td>
+<td>O capital é reduzido e a diferença é paga em dinheiro</td>
+<td>Sem imposto até às entradas declaradas</td>
+</tr>
+<tr>
+<td>Saída de um sócio</td>
+<td>A quota do sócio é amortizada e ele recebe um pagamento</td>
+<td>Como na devolução de entradas; acima, 22/78</td>
+</tr>
+<tr>
+<td>Cobrir prejuízos</td>
+<td>O capital é reduzido sem pagamentos e o prejuízo é absorvido</td>
+<td>Não há</td>
+</tr>
+<tr>
+<td>Mudar de sócios sem notário</td>
+<td>A quota de quem sai é amortizada e o novo sócio entra através de um aumento</td>
+<td>Conforme o pagamento a quem sai</td>
+</tr>
+<tr>
+<td>Ajustar o capital ao montante pretendido</td>
+<td>Por exemplo, após uma reorganização</td>
+<td>Depende de haver pagamentos</td>
+</tr>
+</tbody>
+</table>

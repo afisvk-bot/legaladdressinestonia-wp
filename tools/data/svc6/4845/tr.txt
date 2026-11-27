@@ -1,0 +1,262 @@
+## _title
+Estonya OÜ'da pay satışı ve devri
+## _slug
+estonya-ou-pay-satisi-ve-devri
+## rank_math_title
+Estonya OÜ'da pay satışı ve devri %currentyear%
+## rank_math_description
+Estonya OÜ'da pay satışı ve devri: şirket incelemesi, pay devir sözleşmesi, noter işlemi veya e-Notary ve Ticaret Sicili güncellemesi tek elden.
+## rank_math_focus_keyword
+pay satışı ve devri
+## _step_desc
+Durumunuzda noter gerekip gerekmediğinden emin değilseniz sicil kodunu gönderin, ücretsiz kontrol edelim.
+## content_blocks_0_content
+Bir Estonya şirketinin sahibini değiştirmek, şirketi kurmak kadar kolay değildir. Genel kural olarak OÜ'daki payın devrine ilişkin sözleşme noter huzurunda yapılır ve diğer ortakların payı dışarıdan bir alıcıdan önce satın alma (önalım) hakkı vardır. Şekil hatası işlemi geçersiz kılar, usul hatası ise uyuşmazlığa kapı açar.
+
+Yine de birkaç yol vardır. İşlem Estonya'da bir noterde ya da e-mukim kartıyla e-Notary üzerinden uzaktan imzalanabilir. Sermaye en az 10.000 € ise, tamamen ödenmişse ve esas sözleşme izin veriyorsa pay, noter olmadan sicil üzerinden devredilebilir. Bazen de ortakları sermaye azaltımı ve eşzamanlı artırımla değiştirmek daha pratiktir.
+<blockquote>İşleminiz için yolu seçer, satıştan önce şirketi inceler, sözleşmeyi ve belgeleri hazırlar, imzaya eşlik eder ve sonrasında değişen her şeyi güncelleriz: ortaklar sicili, gerçek faydalanıcı bilgileri, yönetim kurulu ve banka.</blockquote>
+## content_blocks_3_content
+<h3><b>Temel bilgiler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Konu</b></td>
+<td><b>Pratik açıklama</b></td>
+</tr>
+<tr>
+<td>İşlemin şekli</td>
+<td>Genel kural olarak noter: hem borçlandırıcı işlem hem payın devri</td>
+</tr>
+<tr>
+<td>Uzaktan</td>
+<td>E-mukimler Estonya'ya gelmeden e-Notary ile imzalayabilir</td>
+</tr>
+<tr>
+<td>Notersiz</td>
+<td>Sermaye 10.000 € veya üzeri, tamamen ödenmiş ve esas sözleşme oybirliğiyle noter şeklini dışlıyorsa</td>
+</tr>
+<tr>
+<td>Önalım hakkı</td>
+<td>Esas sözleşmede aksi yoksa diğer ortaklar payı üçüncü kişiden önce satın alabilir</td>
+</tr>
+<tr>
+<td>Alternatif</td>
+<td>Eşzamanlı artırımla sermaye azaltımı: sermaye 10.000 €'nun altındaysa notersiz ortak değişikliği</td>
+</tr>
+<tr>
+<td>Pay rehni</td>
+<td>Genel kural olarak o da noter şekli gerektirir</td>
+</tr>
+<tr>
+<td>Sicil</td>
+<td>OÜ'nun ortakları Ticaret Sicilinde gösterilir</td>
+</tr>
+<tr>
+<td>Gerçek faydalanıcılar</td>
+<td>UBO verileri değişiklikten sonra 30 gün içinde güncellenir</td>
+</tr>
+<tr>
+<td>Satıcının vergisi</td>
+<td>Satıcının vergi mukimi olduğu ülkeye göre belirlenir; Estonya kazancı esas olarak Estonya gayrimenkulü ağırlıklı şirketlerin pay satışında vergilendirir</td>
+</tr>
+<tr>
+<td>Şirketin vergisi</td>
+<td>Pay devrinin kendisi şirket düzeyinde vergi doğurmaz</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Pay nasıl devredilir: 4 adım
+## content_blocks_4_step_1
+Talep gönderin. Sicil kodu, kimin satıp kimin aldığı, payların ne kadarı, fiyat, tarafların e-Residency'si olup olmadığı ve rehin veya taksit gerekip gerekmediği.
+## content_blocks_4_step_2
+Yol haritasını alın. Estonya'da noter, e-Notary, notersiz devir veya sermaye değişikliği: en kısa yasal yolu seçer ve ortakların önalım hakkını kontrol ederiz.
+## content_blocks_4_step_3
+İşlemi hazırlayın ve imzalayın. Sözleşme, onaylar, önalım hakkından feragatler ve noter belgeleri; imza şahsen, uzaktan veya vekâletle.
+## content_blocks_4_step_4
+İşlemden sonra her şeyi güncelleriz. Sicildeki ortaklar, UBO verileri, yönetim kurulu, irtibat kişisi ve bankadaki imza yetkilileri.
+## content_blocks_6_tariff_title
+Hizmet paketleri
+## content_blocks_6_tariff_items_0_name
+«Pay devri» paketi
+## content_blocks_6_tariff_items_0_package_items
+<li>Esas sözleşmenin incelenmesi: önalım hakkı, kısıtlamalar, işlemin şekli
+<li>Yolun seçimi: noter, e-Notary veya notersiz
+<li>Sözleşme taslağı ve noter için belgeler
+<li>İmzanın organizasyonu
+<li>Sicil ve UBO verilerinin güncellenmesi</li>
+## content_blocks_6_tariff_items_1_name
+«Anahtar teslim şirket satışı» paketi (önerilen)
+## content_blocks_6_tariff_items_1_package_items
+<li>«Pay devri» paketindeki her şey
+<li>Satıştan önce şirket incelemesi: raporlar, vergiler, sicil, sözleşmeler
+<li>Ödeme koşulları, satıcı garantileri ve teslim usulünü içeren sözleşme
+<li>İşlemden sonra yönetim kurulu ve irtibat kişisi değişikliği
+<li>Muhasebenin, e-MTA erişimlerinin ve bankanın devri
+<li>Gerekirse satıcının veya alıcının vergi ülkesine bildirimler</li>
+## content_blocks_6_tariff_items_2_name
+«Notersiz yapılandırma» paketi
+## content_blocks_6_tariff_items_2_package_items
+<li>Sermayenin 10.000 €'ya artırılması ve tamamen ödenmesi
+<li>Noter şeklini dışlayan esas sözleşme değişikliği, ortakların oybirliğiyle
+<li>Sonraki pay devirleri e-Business Register üzerinden
+<li>Alternatif yol: eşzamanlı artırımla sermaye azaltımı</li>
+## content_blocks_7_title_right
+Asıl mesele: pahalı olan noter değil, işlemden önce kontrol edilmeyenler
+## content_blocks_7_text_right
+Mevcut bir şirketten pay alanlar çoğu zaman yalnızca fiyatı kontrol eder. Satanlar yalnızca sözleşmenin şeklini. Sonra şu ortaya çıkar:
+<ul>
+<li><b>Önalım hakkı.</b> Esas sözleşme dışlamıyorsa diğer ortaklar payı aynı koşullarla satın alabilir. Bu hakkı atlayan işlem uyuşmazlık sebebidir.</li>
+<li><b>Verilmemiş raporlar ve vergi borçları.</b> Yeni sahip şirketi tüm geçmişiyle alır: sicil cezaları, EMTA borçları, kapatılmamış dönemler.</li>
+<li><b>Ödenmemiş paylar.</b> Sermaye taahhüdü ödenmemişse ödeme yükümlülüğü alıcıya geçebilir.</li>
+<li><b>Yönetim kurulu ve banka.</b> Pay devredilmiştir, ama eski sahip hesaba erişimi olan yönetim kurulu üyesi olarak kalır.</li>
+<li><b>Satıcının vergisi.</b> Estonya'da işlem şirket düzeyinde vergi doğurmaz, ancak satıcı kendi ülkesinde değer artış kazancı vergisi öder. Ukrayna mukimleri için ayrıca 60 gün içinde KYŞ bildirimi gerekir.</li>
+</ul>
+<b>Pratik sonuç:</b> işlemden önce esas sözleşme, sicil, vergi durumu ve banka kontrol edilir. Bunu, sorunlar alıcının malı olduktan sonra değil, paketin parçası olarak yaparız.
+## content_blocks_8_title_left
+Pay devri ne zaman gerekmez, ne zaman yetmez
+## content_blocks_8_text_left
+<ul>
+<li><b>Pay satmak değil, yatırımcı almak istiyorsunuz.</b> Yeni ortak <a href="{L:4846}">sermaye artırımı</a> ile girebilir: para satıcıya değil şirkete gider.</li>
+<li><b>Yalnızca yönetim değişiyor.</b> Bunun için <a href="{L:4844}">yönetim kurulu üyesini değiştirmek</a> yeterlidir.</li>
+<li><b>Çalışanlara opsiyon vermek istiyorsunuz.</b> Opsiyon, gelecekte pay satın alma hakkıdır; vergi sonuçları üç yıl kuralına bağlıdır. Ayrıntılar <a href="{L:4529}">startup'lar için</a> sayfasında.</li>
+<li><b>Şirket bütünüyle satılıyor.</b> Payın yanında yönetim kurulu, erişimler, muhasebe ve yükümlülükler de devredilir: bu tek bir işlem değil, bir satış projesidir.</li>
+<li><b>Şirkete yalnızca «boş kabuk» olarak ihtiyacınız var.</b> Bazen geçmişi kontrol edilmiş bir <a href="{L:1401}">hazır şirket satın almak</a> veya yenisini kurmak daha ucuzdur.</li>
+</ul>
+## content_blocks_9_title_right
+Sunduğumuz diğer hizmetler
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4844}">Yönetim kurulu üyesi değişikliği</a>: çoğu zaman satışla birlikte</li>
+<li><a href="{L:4846}">Sermaye artırımı ve ihraç</a>: pay satışı olmadan yeni ortağın girişi</li>
+<li><a href="{L:4847}">Sermaye azaltımı</a>: şirketten ödemeyle ortağın çıkışı</li>
+<li>Esas sözleşme değişikliği: noter şeklinin dışlanması, önalım hakkı</li>
+<li>UBO verilerinin güncellenmesi: işlemden sonra 30 gün içinde</li>
+<li><a href="{L:4758}">Şirket tasfiyesi</a>: şirket satılamıyorsa</li>
+<li><a href="{L:1401}">Estonya'da hazır şirketler</a></li>
+</ul>
+Pay işlemi değişikliklerin sonu değil, başlangıcıdır. İşlem, sicil, yönetim kurulu ve muhasebe tek bir sağlayıcıdaysa yeni sahip, önceki sahibin verilerinin kalmadığı bir şirket alır.
+## content_blocks_10_content
+<h2><b>OÜ'nun sahibini değiştirmenin dört yolu</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Yol</b></td>
+<td><b>Ne zaman mümkün</b></td>
+<td><b>Noter</b></td>
+<td><b>Süre</b></td>
+</tr>
+<tr>
+<td>Estonya'da noter işlemi</td>
+<td>Her zaman</td>
+<td>Evet</td>
+<td>Noter randevusu + sicil için 1–3 gün</td>
+</tr>
+<tr>
+<td>E-mukimler için e-Notary</td>
+<td>Tarafların e-Residency'si veya Estonya kimlik kartı var</td>
+<td>Evet, uzaktan</td>
+<td>Estonya'ya gitmeden</td>
+</tr>
+<tr>
+<td>e-Business Register üzerinden devir</td>
+<td>Sermaye 10.000 €'dan itibaren, tamamen ödenmiş, esas sözleşme noter şeklini dışlıyor</td>
+<td>Hayır</td>
+<td>Genellikle 1 iş günü</td>
+</tr>
+<tr>
+<td>Eşzamanlı artırımla sermaye azaltımı</td>
+<td>Ortakları notersiz değiştirmek gerekiyor, sermaye 10.000 €'nun altında</td>
+<td>Hayır</td>
+<td>Sermaye işlemleri dahil birkaç gün</td>
+</tr>
+</tbody>
+</table>
+Pay vekâletle devrediliyor ve taraflar yurt dışındaysa vekâletname genellikle noterde onaylanır ve gerekirse apostil yapılır.
+<h2><b>Estonya OÜ'sunda pay nasıl satılır: uygulama</b></h2>
+<h3><b>Adım adım süreç</b></h3>
+<ol>
+<li><b>Esas sözleşme ve sicilin incelenmesi.</b> İşlemin şekli, önalım hakkı, devir kısıtlamaları, payların ödenmişliği.</li>
+<li><b>Şirketin incelenmesi.</b> Yıllık raporlar, vergi durumu, sözleşmeler, banka.</li>
+<li><b>Ortaklara bildirim.</b> Önalım hakkı geçerliyse ortaklara teklif veya yazılı feragatleri.</li>
+<li><b>Sözleşme.</b> Fiyat, ödeme şekli, satıcı garantileri, payın geçiş anı.</li>
+<li><b>İmza.</b> Noterde, e-Notary ile veya koşullar sağlanıyorsa e-Business Register üzerinden.</li>
+<li><b>Sicil değişiklikleri.</b> Ortaklar ve gerekirse yönetim kurulu ile irtibat kişisi.</li>
+<li><b>İşlemden sonra.</b> 30 gün içinde UBO verileri, banka, e-MTA, muhasebe.</li>
+</ol>
+<h3><b>Notersiz devir: koşullar</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Koşul</b></td>
+<td><b>Anlamı</b></td>
+</tr>
+<tr>
+<td>Sermaye 10.000 €'dan itibaren</td>
+<td>Daha düşükse önce sermaye artırılır</td>
+</tr>
+<tr>
+<td>Sermaye tamamen ödenmiş</td>
+<td>Ödenmemiş paylar basitleştirilmiş devre izin vermez</td>
+</tr>
+<tr>
+<td>Esas sözleşme hükmü</td>
+<td>Esas sözleşme devir ve rehin için noter şeklini dışlar</td>
+</tr>
+<tr>
+<td>Oybirliği kararı</td>
+<td>Böyle bir hüküm tüm ortaklarca kabul edilir</td>
+</tr>
+<tr>
+<td>Esas sözleşme sicile işlenmiş</td>
+<td>Devir ancak yeni esas sözleşmenin tescilinden sonra mümkündür</td>
+</tr>
+</tbody>
+</table>
+E-mukimlerin kurduğu 0,01–2.500 € sermayeli şirketler için bu rejime geçiş, sermayeyi 10.000 €'ya artırmak ve esas sözleşmeyi değiştirmektir. Bu birkaç günlük bir iştir; sonrasında her yeni devir bir gün sürer.
+<h3><b>e-Notary</b></h3>
+Estonyalı noterler işlemleri uzaktan yapar: taraflar görüntülü görüşmeyle bağlanır ve belgeleri e-mukim kartı veya Estonya kimlik kartıyla imzalar. Basitleştirilmiş devir mümkün değilse yurt dışındaki sahipler için standart yol budur.
+<h3><b>Pay satışında vergiler</b></h3>
+Pay devrinin kendisi şirket düzeyinde vergi doğurmaz. Gerçek kişi satıcı, değer artış kazancı vergisini vergi mukimi olduğu ülkede öder. Estonya, yerleşik olmayanın kazancını esas olarak şirketin değeri ağırlıklı olarak Estonya gayrimenkulünden oluşuyorsa vergilendirir. Estonya mukimi kazancı beyan eder ve %22 öder. Ayrıntılar <a href="{L:1037}">Estonya'da şirket vergileri</a> yazımızda.
+<h3><b>İşlemden sonraki yükümlülükler</b></h3>
+Yönetim kurulu gerçek faydalanıcı bilgilerini 30 gün içinde güncellemek zorundadır. Pay edinen veya kaybeden Ukrayna mukimleri 60 gün içinde KYŞ bildirimi verir; bkz. <a href="{L:4757}">Ukraynalı girişimciler için</a>. Bankalara ve ödeme hizmetlerine sahip değişikliği bildirilmelidir; aksi halde rutin bir incelemede hesap bloke edilebilir.
+## content_blocks_11_faq_items_0_question
+OÜ'da pay satmak için noter gerekir mi?
+## content_blocks_11_faq_items_0_answer
+Genel kural olarak evet. İstisna: 10.000 € veya üzeri, tamamen ödenmiş sermaye ve oybirliğiyle kabul edilmiş, noter şeklini dışlayan bir esas sözleşme hükmü.
+## content_blocks_11_faq_items_1_question
+Estonya'ya gelmeden pay satabilir miyim?
+## content_blocks_11_faq_items_1_answer
+Evet. E-mukimler görüntülü görüşmeyle e-Notary üzerinden imzalar; e-Residency yoksa yurt dışında noter onaylı vekâletnameyle.
+## content_blocks_11_faq_items_2_question
+Ortakların önalım hakkı nedir?
+## content_blocks_11_faq_items_2_answer
+Esas sözleşmede aksi yoksa diğer ortakların payı dışarıdan bir alıcıdan önce aynı koşullarla satın alma hakkı.
+## content_blocks_11_faq_items_3_question
+Pay devri ne kadar sürer?
+## content_blocks_11_faq_items_3_answer
+e-Business Register üzerinden genellikle bir iş günü. Noterde randevu ve hazırlık süresi artı sicil değişiklikleri için 1–3 gün.
+## content_blocks_11_faq_items_4_question
+Ne kadar tutar?
+## content_blocks_11_faq_items_4_answer
+Noter ücreti işlemin değerine bağlıdır. Hizmetlerimiz işlem değerlendirildikten sonra sabit fiyatla sunulur.
+## content_blocks_11_faq_items_5_question
+Sahip değiştiğinde şirket vergi öder mi?
+## content_blocks_11_faq_items_5_answer
+Hayır. Değer artış kazancı vergisini satıcı, vergi mukimi olduğu ülkede öder.
+## content_blocks_11_faq_items_6_question
+Gerçek faydalanıcı bilgilerini güncellemek gerekir mi?
+## content_blocks_11_faq_items_6_answer
+Evet, sahiplerin veya kontrolün değişmesinden sonra 30 gün içinde.
+## content_blocks_11_faq_items_7_question
+Alıcı şirkete yeni parayla girmek isterse?
+## content_blocks_11_faq_items_7_answer
+O zaman sermaye artırımı daha uygundur: para satıcıya değil şirkete gider.
+## content_blocks_11_faq_items_8_question
+2.500 € sermayede pay notersiz devredilebilir mi?
+## content_blocks_11_faq_items_8_answer
+Doğrudan hayır. Sermayeyi 10.000 €'ya artırıp esas sözleşmeyi değiştirebilir ya da eşzamanlı artırımla sermaye azaltımını kullanabilirsiniz.
+## content_blocks_12_final_cta_title
+İşlem bilgilerini gönderin, en kısa yolu bulalım
+## content_blocks_12_final_cta_text
+Sicil kodunu, kimin satıp kimin aldığını, hangi payın devredildiğini ve tarafların e-Residency'si olup olmadığını belirtin. Bir iş günü içinde noter gerekip gerekmediğini, hangi ortak haklarının dikkate alınacağını ve anahtar teslim işlemin maliyetini söyleriz.

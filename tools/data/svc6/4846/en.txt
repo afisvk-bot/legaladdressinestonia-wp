@@ -1,0 +1,231 @@
+## _title
+Share Capital Increase of an Estonian OÜ
+## _slug
+share-capital-increase-estonia
+## rank_math_title
+Share Capital Increase of an Estonian OÜ %currentyear%
+## rank_math_description
+Share capital increase of an Estonian OÜ: shareholder resolution, new articles, cash or in-kind contribution, Business Register filing and TSD reporting.
+## rank_math_focus_keyword
+Share capital increase
+## _step_desc
+If you are not sure how much capital your company needs, describe your goal and we will advise free of charge.
+## content_blocks_0_content
+Since 2023 an Estonian OÜ can be set up with capital from €0.01, and most e-resident companies did exactly that. But sooner or later the capital has to be increased: to let in an investor, get a loan or a licence, transfer shares without a notary, or simply show the bank and partners that the company stands on its own feet.
+
+A capital increase is one of the most formal changes in the register. A shareholder resolution, new articles, payment of the contribution specifically to the company's account, an application within six months, and a valuation for an in-kind contribution. The registrar refuses the entry even when the money arrived in the wrong account. And on the tax side there is a detail that is rarely mentioned: the contribution has to be declared in the TSD, otherwise it cannot later be returned to the shareholders tax-free.
+<blockquote>We choose the method of increase for your goal, prepare the resolution and the articles, monitor the payment and the filing, and after the entry record the contribution in the accounts and declare it to EMTA.</blockquote>
+## content_blocks_3_content
+<h3><b>Key facts</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Topic</b></td>
+<td><b>Practical explanation</b></td>
+</tr>
+<tr>
+<td>Who decides</td>
+<td>The shareholders; if the capital amount in the articles changes, a resolution to amend the articles</td>
+</tr>
+<tr>
+<td>Methods</td>
+<td>Cash contributions, in-kind contributions, a bonus issue from equity</td>
+</tr>
+<tr>
+<td>Payment of a cash contribution</td>
+<td>To the company's bank account before filing; a confirmation from the bank or payment institution is attached to the application</td>
+</tr>
+<tr>
+<td>Filing deadline</td>
+<td>No later than 6 months after the resolution to increase</td>
+</tr>
+<tr>
+<td>In-kind contribution</td>
+<td>Is valued; in some cases an auditor's review is required</td>
+</tr>
+<tr>
+<td>Pre-emptive right</td>
+<td>Existing shareholders may subscribe for new shares in proportion to their holdings unless it is excluded</td>
+</tr>
+<tr>
+<td>State fee</td>
+<td>Changing an OÜ's data in the register is usually €25</td>
+</tr>
+<tr>
+<td>Capital from €10,000</td>
+<td>With suitable articles, allows shares to be transferred without a notary</td>
+</tr>
+<tr>
+<td>Taxes</td>
+<td>A capital contribution is not taxed; it must be reported in annex 7 of the TSD</td>
+</tr>
+<tr>
+<td>Return of the contribution</td>
+<td>Can later be returned to shareholders tax-free, if the contribution was declared</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+How to increase the share capital: 4 steps
+## content_blocks_4_step_1
+Send a request. The registry code, by how much to increase the capital, who contributes (existing shareholders or a new investor), and whether in cash or in kind.
+## content_blocks_4_step_2
+Get a plan. We check the articles, choose the method of increase, take the shareholders' pre-emptive right into account and prepare the resolution and new articles.
+## content_blocks_4_step_3
+Make the contribution. Cash to the company's account before filing; in kind after valuation and transfer of the asset.
+## content_blocks_4_step_4
+We file and record the contribution. The register entry, recording the contribution in the accounts and in annex 7 of the TSD, and a UBO update if control changes.
+## content_blocks_6_tariff_title
+Service packages
+## content_blocks_6_tariff_items_0_name
+"Capital Increase" package
+## content_blocks_6_tariff_items_0_package_items
+<li>Review of the articles and choice of the method of increase
+<li>Shareholder resolution and new articles
+<li>Instructions for paying the contribution to the company's account
+<li>Filing of the application and monitoring of the entry
+<li>Recording the contribution in the accounts and the TSD</li>
+## content_blocks_6_tariff_items_1_name
+"Investor Entry" package (recommended)
+## content_blocks_6_tariff_items_1_package_items
+<li>Everything in the "Capital Increase" package
+<li>Calculation of the investor's stake and the share premium
+<li>Waiver or exercise of the existing shareholders' pre-emptive right
+<li>Amendments to the articles for the investor: share classes, governance
+<li>Update of UBO data and the shareholder list
+<li>Documents for the bank and the investor's due diligence</li>
+## content_blocks_6_tariff_items_2_name
+"Complex Issue" package
+## content_blocks_6_tariff_items_2_package_items
+<li>In-kind contribution: IP, equipment, shares in another company, receivables
+<li>Organising the valuation and, if needed, an auditor's review
+<li>Conversion of a shareholder loan into capital
+<li>Bonus issue from retained earnings and reserves
+<li>Capital increase as part of a change of owner without a notary</li>
+## content_blocks_7_title_right
+Key insight: the contribution must be not only paid but also declared
+## content_blocks_7_text_right
+One detail separates a correctly increased capital from a merely increased one.
+<ul>
+<li><b>Money only to the company's account.</b> The register will not enter the increase if the cash contribution did not arrive in the company's own account. A court confirmed such a refusal in 2025.</li>
+<li><b>Six months.</b> The application is filed no later than six months after the resolution. Miss it, and the resolution has to be adopted again.</li>
+<li><b>TSD, annex 7.</b> Capital contributions are reported in annex 7 of the TSD return. It is this record that later allows the invested amount to be returned to shareholders tax-free, on a capital reduction or liquidation. If the contribution was not declared, the tax authority may treat the return as a profit distribution taxed at 22/78.</li>
+<li><b>In-kind contribution and valuation.</b> Overvaluing the asset creates liability for the shareholder and the board; undervaluing it deprives the company of capital on its balance sheet.</li>
+</ul>
+<b>Practical takeaway:</b> a capital increase is both the register and the tax records. We handle both parts as one project.
+## content_blocks_8_title_left
+When a capital increase is not needed and when it is not enough
+## content_blocks_8_text_left
+<ul>
+<li><b>The company needs money, but not a new shareholder.</b> A shareholder loan is sometimes simpler and faster. It can later be converted into capital.</li>
+<li><b>The only goal is transferring shares without a notary.</b> Capital from €10,000 is just one of three conditions. You also need fully paid capital and amended articles; see <a href="{L:4845}">share transfer</a>.</li>
+<li><b>Net assets are below half of the capital.</b> A capital increase is one of the measures the shareholders must take. First look at the <a href="{L:4699}">interim financial statements</a> to choose the right one.</li>
+<li><b>The investor needs special rights.</b> The capital increase itself does not give them: you need amended articles and a shareholders' agreement.</li>
+<li><b>You need a licence.</b> For licensed activities, own funds requirements are a separate topic. Read more on the page about <a href="{L:2183}">financial licences</a>.</li>
+</ul>
+## content_blocks_9_title_right
+Other services we provide
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4845}">Sale and transfer of shares</a>: change of owner</li>
+<li><a href="{L:4847}">Share capital reduction</a>: return of contributions to shareholders</li>
+<li>Amendment of the articles: capital amount, share classes</li>
+<li>UBO data update</li>
+<li><a href="{L:4529}">Company for start-ups</a>: rounds, options, convertible loans</li>
+<li><a href="{L:2189}">Holding structure</a>: in-kind contribution of shares</li>
+<li><a href="{L:2344}">Monthly accounting</a>: recording the contribution and the TSD</li>
+<li><a href="{L:2776}">Residence permit for a founder</a>: a €65,000 investment in capital</li>
+</ul>
+Capital lives in the register and in the accounts at the same time. When register changes and bookkeeping are handled by one provider, the contribution is correctly reflected in both the articles and the TSD, and can be returned tax-free.
+## content_blocks_10_content
+<h2><b>Three ways to increase the capital of an OÜ</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Method</b></td>
+<td><b>Source of capital</b></td>
+<td><b>New money in the company</b></td>
+<td><b>When it fits</b></td>
+</tr>
+<tr>
+<td>Cash contribution</td>
+<td>Shareholders or an investor transfer money to the company's account</td>
+<td>Yes</td>
+<td>Investor entry, capital growth to €2,500 or €10,000, bank or licence requirements</td>
+</tr>
+<tr>
+<td>In-kind contribution</td>
+<td>Assets: equipment, IP, shares in another company, a receivable</td>
+<td>No, but assets grow</td>
+<td>Moving IP into the company, creating a holding, converting a loan</td>
+</tr>
+<tr>
+<td>Bonus issue</td>
+<td>The company's own retained earnings and reserves</td>
+<td>No</td>
+<td>You need to show higher capital without new investment</td>
+</tr>
+</tbody>
+</table>
+New shares can be issued at nominal value or at a premium. The premium is the part of the contribution above nominal value; it does not increase the share capital but is still a shareholder contribution.
+<h2><b>How to increase the capital of an Estonian OÜ: in practice</b></h2>
+<h3><b>Step-by-step process</b></h3>
+<ol>
+<li><b>Review of the articles.</b> Whether they state an exact capital amount or a permitted range, and whether there is a pre-emptive right.</li>
+<li><b>Shareholder resolution.</b> The amount of the increase, who contributes and how much, the nominal value of new shares, the premium.</li>
+<li><b>New articles.</b> If the capital amount goes beyond the limits stated in the articles.</li>
+<li><b>Payment.</b> A cash contribution to the company's account; in kind, transfer of the asset and valuation.</li>
+<li><b>Application to the register.</b> Filed by a board member no later than 6 months after the resolution, with proof of payment.</li>
+<li><b>Entry.</b> Usually 1–3 business days; state fee of about €25.</li>
+<li><b>Accounts and taxes.</b> The contribution is recorded in the books and in annex 7 of the TSD; if control changes, UBO data is updated.</li>
+</ol>
+<h3><b>Cash contribution</b></h3>
+The money is transferred to a bank or payment institution account in the company's name. Proof of payment is attached to the application. The registrar will not accept a transfer to a board member's personal account or to another company's account.
+<h3><b>In-kind contribution</b></h3>
+A contribution can be any asset that can be valued in money: equipment, intellectual property rights, shares in another company, a monetary claim against the company such as a shareholder loan. The value is determined by a valuation; in some cases an auditor reviews it. Work and services cannot be contributed to capital.
+<h3><b>Bonus issue</b></h3>
+The capital is increased from retained earnings or reserves, with no new money. This changes the structure of equity but not the tax history: amounts transferred from profit do not become shareholder contributions for the purpose of a tax-free return.
+<h3><b>Entry of a new shareholder</b></h3>
+The investor receives new shares in exchange for a contribution to the company. If the articles do not exclude the pre-emptive right, existing shareholders must waive or exercise it. The investor's rights (share classes, governance, anti-dilution protection) are set out in the articles and a shareholders' agreement.
+<h3><b>Taxes</b></h3>
+A capital contribution is not taxed for either the company or the shareholder. It is important to declare it in annex 7 of the TSD: the record of contributions determines how much can be returned to shareholders without the 22/78 tax on a capital reduction or liquidation. Read more in our article on <a href="{L:844}">corporate tax in Estonia in 2026</a>.
+## content_blocks_11_faq_items_0_question
+How do I increase the capital of an Estonian OÜ?
+## content_blocks_11_faq_items_0_answer
+The shareholders adopt a resolution, amend the articles if needed and pay the contribution to the company's account, and a board member files the application with the register within 6 months of the resolution.
+## content_blocks_11_faq_items_1_question
+How much does a capital increase cost?
+## content_blocks_11_faq_items_1_answer
+The state fee for changing an OÜ's data is usually €25. Add the cost of preparing documents and, for an in-kind contribution, the valuation.
+## content_blocks_11_faq_items_2_question
+Can I contribute assets instead of money?
+## content_blocks_11_faq_items_2_answer
+Yes: equipment, IP, shares in another company or a claim against the company. The contribution is valued, in some cases with an auditor's review.
+## content_blocks_11_faq_items_3_question
+Can a shareholder loan be converted into capital?
+## content_blocks_11_faq_items_3_answer
+Yes, the loan claim can be an in-kind contribution.
+## content_blocks_11_faq_items_4_question
+Is a capital contribution taxed?
+## content_blocks_11_faq_items_4_answer
+No. But it must be declared in annex 7 of the TSD so that it can later be returned tax-free.
+## content_blocks_11_faq_items_5_question
+How long does it take?
+## content_blocks_11_faq_items_5_answer
+Usually a few business days from the resolution to the entry; longer for an in-kind contribution because of the valuation.
+## content_blocks_11_faq_items_6_question
+Do I need a notary?
+## content_blocks_11_faq_items_6_answer
+As a rule, no: the documents are signed digitally and filed via the e-Business Register.
+## content_blocks_11_faq_items_7_question
+Why increase the capital to €10,000?
+## content_blocks_11_faq_items_7_answer
+It is one of the conditions for transferring shares without a notary. Banks, licensing authorities and counterparties also often look at the amount of capital.
+## content_blocks_11_faq_items_8_question
+Do existing shareholders have to agree to an investor joining?
+## content_blocks_11_faq_items_8_answer
+If the articles do not exclude their pre-emptive right, they must either exercise it or waive it.
+## content_blocks_12_final_cta_title
+Describe your goal and we will choose the method of capital increase
+## content_blocks_12_final_cta_text
+Give us the registry code, the capital amount you need, who contributes and how. Within a business day we will send a plan, a draft resolution and a fixed price.

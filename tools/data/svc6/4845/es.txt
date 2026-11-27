@@ -1,0 +1,262 @@
+## _title
+Venta y transmisión de participaciones de una OÜ estonia
+## _slug
+venta-y-transmision-de-participaciones-estonia
+## rank_math_title
+Transmisión de participaciones de una OÜ en Estonia %currentyear%
+## rank_math_description
+Venta y transmisión de participaciones de una OÜ en Estonia: revisión previa, contrato, escritura notarial o e-Notary e inscripción en el Registro Mercantil.
+## rank_math_focus_keyword
+Transmisión de participaciones
+## _step_desc
+Si no está seguro de si necesita notario en su caso, envíenos el código de registro y lo comprobaremos gratis.
+## content_blocks_0_content
+Cambiar el propietario de una empresa estonia no es tan sencillo como constituirla. Por regla general, el contrato de transmisión de una participación en una OÜ se formaliza ante notario, y los demás socios tienen derecho preferente a comprarla antes que un tercero. Un error de forma anula la operación, y un error de procedimiento abre la puerta a un litigio.
+
+Aun así, hay varias vías. La operación puede firmarse ante notario en Estonia o a distancia mediante e-Notary con la tarjeta de e-residente. Si el capital es de al menos 10.000 €, está totalmente desembolsado y los estatutos lo permiten, la participación puede transmitirse sin notario, a través del registro. Y a veces es más práctico cambiar los socios mediante una reducción de capital con un aumento simultáneo.
+<blockquote>Elegimos la vía para su operación, revisamos la empresa antes de la venta, preparamos el contrato y los documentos, acompañamos la firma y actualizamos todo lo que cambia después: registro de socios, datos de titulares reales, consejo y banco.</blockquote>
+## content_blocks_3_content
+<h3><b>Datos clave</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Tema</b></td>
+<td><b>Explicación práctica</b></td>
+</tr>
+<tr>
+<td>Forma de la operación</td>
+<td>Por regla general, notarial: tanto el compromiso como la transmisión</td>
+</tr>
+<tr>
+<td>A distancia</td>
+<td>Los e-residentes pueden firmar mediante e-Notary sin viajar a Estonia</td>
+</tr>
+<tr>
+<td>Sin notario</td>
+<td>Si el capital es de 10.000 € o más, está desembolsado y los estatutos, por acuerdo unánime, excluyen la forma notarial</td>
+</tr>
+<tr>
+<td>Derecho preferente</td>
+<td>Los demás socios pueden comprar antes que un tercero, salvo que los estatutos digan otra cosa</td>
+</tr>
+<tr>
+<td>Alternativa</td>
+<td>Reducción de capital con aumento simultáneo: cambio de socios sin notario con capital inferior a 10.000 €</td>
+</tr>
+<tr>
+<td>Prenda de participaciones</td>
+<td>También exige forma notarial por regla general</td>
+</tr>
+<tr>
+<td>Registro</td>
+<td>Los socios de una OÜ constan en el Registro Mercantil</td>
+</tr>
+<tr>
+<td>Titulares reales</td>
+<td>Los datos UBO se actualizan en 30 días desde el cambio</td>
+</tr>
+<tr>
+<td>Impuesto del vendedor</td>
+<td>Depende del país de residencia fiscal del vendedor; Estonia grava la ganancia sobre todo en la venta de empresas con mucho inmueble estonio</td>
+</tr>
+<tr>
+<td>Impuesto de la empresa</td>
+<td>La transmisión en sí no genera impuesto en la empresa</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Cómo transmitir una participación: 4 pasos
+## content_blocks_4_step_1
+Envíe su solicitud. Código de registro, quién vende y quién compra, qué parte de las participaciones, precio, si las partes tienen e-Residency y si hace falta prenda o pago aplazado.
+## content_blocks_4_step_2
+Reciba la hoja de ruta. Notario en Estonia, e-Notary, transmisión sin notario o cambio de capital: elegimos la vía legal más corta y revisamos el derecho preferente de los socios.
+## content_blocks_4_step_3
+Prepare y firme la operación. Contrato, consentimientos, renuncias al derecho preferente y documentos para el notario; firma en persona, a distancia o por poder.
+## content_blocks_4_step_4
+Actualizamos todo tras la operación. Socios en el registro, datos UBO, consejo, persona de contacto y firmantes en el banco.
+## content_blocks_6_tariff_title
+Paquetes de servicios
+## content_blocks_6_tariff_items_0_name
+Paquete «Transmisión de participaciones»
+## content_blocks_6_tariff_items_0_package_items
+<li>Revisión de estatutos: derecho preferente, restricciones, forma de la operación
+<li>Elección de la vía: notario, e-Notary o sin notario
+<li>Borrador de contrato y documentos para el notario
+<li>Organización de la firma
+<li>Actualización del registro y de los datos UBO</li>
+## content_blocks_6_tariff_items_1_name
+Paquete «Venta de empresa llave en mano» (recomendado)
+## content_blocks_6_tariff_items_1_package_items
+<li>Todo lo incluido en el paquete «Transmisión de participaciones»
+<li>Revisión de la empresa antes de la venta: informes, impuestos, registro, contratos
+<li>Contrato con condiciones de pago, garantías del vendedor y procedimiento de entrega
+<li>Cambio de consejo y de persona de contacto tras la operación
+<li>Traspaso de la contabilidad, accesos a e-MTA y banco
+<li>Notificaciones para el país fiscal del vendedor o del comprador si hace falta</li>
+## content_blocks_6_tariff_items_2_name
+Paquete «Estructuración sin notario»
+## content_blocks_6_tariff_items_2_package_items
+<li>Aumento de capital a 10.000 € y desembolso íntegro
+<li>Modificación de estatutos que excluye la forma notarial, por acuerdo unánime de los socios
+<li>Transmisiones posteriores a través del e-Business Register
+<li>Vía alternativa: reducción de capital con aumento simultáneo</li>
+## content_blocks_7_title_right
+Clave: lo caro no es el notario, sino lo que no se revisó antes de la operación
+## content_blocks_7_text_right
+Quien compra una participación de una empresa ya existente suele revisar solo el precio. Quien vende, solo la forma del contrato. Después resulta que:
+<ul>
+<li><b>El derecho preferente.</b> Si los estatutos no lo excluyen, los demás socios pueden comprar en las mismas condiciones. Una operación que lo ignora es motivo de litigio.</li>
+<li><b>Informes sin presentar y deudas fiscales.</b> El nuevo propietario recibe la empresa con toda su historia: sanciones del registro, deudas con la EMTA, periodos sin cerrar.</li>
+<li><b>Participaciones no desembolsadas.</b> Si la aportación no se hizo, la obligación de desembolsarla puede pasar al comprador.</li>
+<li><b>El consejo y el banco.</b> La participación se ha transmitido, pero el antiguo propietario sigue en el consejo con acceso a la cuenta.</li>
+<li><b>El impuesto del vendedor.</b> En Estonia la operación no genera impuesto en la empresa, pero el vendedor tributa por la ganancia en su país. Para residentes en Ucrania, además, hay que notificar la SEC en 60 días.</li>
+</ul>
+<b>Conclusión práctica:</b> antes de la operación se revisan los estatutos, el registro, la situación fiscal y el banco. Lo hacemos dentro del paquete, no cuando los problemas ya son del comprador.
+## content_blocks_8_title_left
+Cuándo no hace falta transmitir participaciones y cuándo no basta
+## content_blocks_8_text_left
+<ul>
+<li><b>Quiere captar un inversor, no vender.</b> Un nuevo socio puede entrar mediante un <a href="{L:4846}">aumento de capital</a>: el dinero va a la empresa, no al vendedor.</li>
+<li><b>Solo cambia la gestión.</b> Para eso basta con <a href="{L:4844}">cambiar el administrador</a>.</li>
+<li><b>Quiere dar opciones a empleados.</b> Una opción es el derecho a comprar en el futuro; las consecuencias fiscales dependen de la regla de los tres años. Más información en la página <a href="{L:4529}">para startups</a>.</li>
+<li><b>Se vende toda la empresa.</b> Además de las participaciones se traspasan consejo, accesos, contabilidad y obligaciones: es un proyecto de venta, no una sola operación.</li>
+<li><b>Solo necesita la empresa como «sociedad vacía».</b> A veces sale más barato <a href="{L:1401}">comprar una sociedad preconstituida</a> con historial revisado o constituir una nueva.</li>
+</ul>
+## content_blocks_9_title_right
+Otros servicios que prestamos
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4844}">Cambio de administrador</a>: suele ir junto con la venta</li>
+<li><a href="{L:4846}">Aumento de capital y emisión</a>: entrada de un socio sin venta de participaciones</li>
+<li><a href="{L:4847}">Reducción de capital</a>: salida de un socio con pago por la empresa</li>
+<li>Modificación de estatutos: exclusión de la forma notarial, derecho preferente</li>
+<li>Actualización de datos UBO: en 30 días desde la operación</li>
+<li><a href="{L:4758}">Liquidación de empresa</a>: si no se consigue venderla</li>
+<li><a href="{L:1401}">Sociedades preconstituidas en Estonia</a></li>
+</ul>
+La operación con participaciones es el inicio de los cambios, no el final. Cuando operación, registro, consejo y contabilidad los lleva un mismo proveedor, el nuevo propietario recibe una empresa sin datos del anterior.
+## content_blocks_10_content
+<h2><b>Cuatro formas de cambiar el propietario de una OÜ</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Forma</b></td>
+<td><b>Cuándo es posible</b></td>
+<td><b>Notario</b></td>
+<td><b>Plazo</b></td>
+</tr>
+<tr>
+<td>Escritura notarial en Estonia</td>
+<td>Siempre</td>
+<td>Sí</td>
+<td>Cita con el notario + 1–3 días para el registro</td>
+</tr>
+<tr>
+<td>e-Notary para e-residentes</td>
+<td>Las partes tienen e-Residency o DNI estonio</td>
+<td>Sí, a distancia</td>
+<td>Sin viajar a Estonia</td>
+</tr>
+<tr>
+<td>Transmisión por el e-Business Register</td>
+<td>Capital desde 10.000 €, desembolsado, estatutos que excluyen la forma notarial</td>
+<td>No</td>
+<td>Normalmente 1 día hábil</td>
+</tr>
+<tr>
+<td>Reducción con aumento simultáneo de capital</td>
+<td>Hay que cambiar socios sin notario, capital inferior a 10.000 €</td>
+<td>No</td>
+<td>Unos días, incluidos los trámites de capital</td>
+</tr>
+</tbody>
+</table>
+Si la participación se transmite por poder y las partes están en el extranjero, el poder suele legitimarse ante notario y, si hace falta, apostillarse.
+<h2><b>Cómo vender una participación en una OÜ estonia: práctica</b></h2>
+<h3><b>Proceso paso a paso</b></h3>
+<ol>
+<li><b>Revisión de estatutos y registro.</b> Forma de la operación, derecho preferente, restricciones, desembolso de las participaciones.</li>
+<li><b>Revisión de la empresa.</b> Cuentas anuales, situación fiscal, contratos, banco.</li>
+<li><b>Comunicación a los socios.</b> Si rige el derecho preferente, oferta a los socios o su renuncia por escrito.</li>
+<li><b>Contrato.</b> Precio, forma de pago, garantías del vendedor, momento de la transmisión.</li>
+<li><b>Firma.</b> Ante notario, mediante e-Notary o, si se cumplen las condiciones, a través del e-Business Register.</li>
+<li><b>Cambios registrales.</b> Socios y, si hace falta, consejo y persona de contacto.</li>
+<li><b>Tras la operación.</b> Datos UBO en 30 días, banco, e-MTA, contabilidad.</li>
+</ol>
+<h3><b>Transmisión sin notario: condiciones</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Condición</b></td>
+<td><b>Qué significa</b></td>
+</tr>
+<tr>
+<td>Capital desde 10.000 €</td>
+<td>Si es menor, primero se aumenta el capital</td>
+</tr>
+<tr>
+<td>Capital totalmente desembolsado</td>
+<td>Las participaciones no desembolsadas impiden la transmisión simplificada</td>
+</tr>
+<tr>
+<td>Cláusula estatutaria</td>
+<td>Los estatutos excluyen la forma notarial para transmisiones y prendas</td>
+</tr>
+<tr>
+<td>Acuerdo unánime</td>
+<td>Esa cláusula la aprueban todos los socios</td>
+</tr>
+<tr>
+<td>Estatutos inscritos</td>
+<td>La transmisión solo es posible tras inscribir los nuevos estatutos</td>
+</tr>
+</tbody>
+</table>
+Para empresas con 0,01–2.500 € de capital constituidas por e-residentes, el acceso a este régimen pasa por aumentar el capital a 10.000 € y modificar los estatutos. Son unos días de trabajo, tras los cuales cada transmisión siguiente lleva un día.
+<h3><b>e-Notary</b></h3>
+Los notarios estonios formalizan operaciones a distancia: las partes se conectan por videollamada y firman con la tarjeta de e-residente o el DNI estonio. Es la vía habitual para propietarios en el extranjero cuando la transmisión simplificada no es posible.
+<h3><b>Impuestos en la venta de participaciones</b></h3>
+La transmisión en sí no genera impuesto en la empresa. El vendedor persona física tributa por la ganancia patrimonial en su país de residencia fiscal. Estonia grava la ganancia de un no residente sobre todo cuando el valor de la empresa consiste principalmente en inmuebles estonios. Un residente en Estonia declara la ganancia y paga el 22 %. Más información en el artículo <a href="{L:1037}">impuestos para empresas en Estonia</a>.
+<h3><b>Obligaciones tras la operación</b></h3>
+El consejo debe actualizar los datos de titulares reales en 30 días. Los residentes en Ucrania que adquieren o pierden una participación presentan la notificación de SEC en 60 días; véase la página <a href="{L:4757}">para emprendedores ucranianos</a>. Hay que comunicar el cambio de propietario a bancos y servicios de pago; de lo contrario, la cuenta puede bloquearse en una revisión rutinaria.
+## content_blocks_11_faq_items_0_question
+¿Hace falta notario para vender una participación en una OÜ?
+## content_blocks_11_faq_items_0_answer
+Por regla general, sí. La excepción es un capital de 10.000 € o más, totalmente desembolsado, con una cláusula estatutaria aprobada por unanimidad que excluya la forma notarial.
+## content_blocks_11_faq_items_1_question
+¿Puedo vender sin viajar a Estonia?
+## content_blocks_11_faq_items_1_answer
+Sí. Los e-residentes firman mediante e-Notary por videollamada; sin e-Residency, mediante un poder legitimado ante notario en el extranjero.
+## content_blocks_11_faq_items_2_question
+¿Qué es el derecho preferente de los socios?
+## content_blocks_11_faq_items_2_answer
+El derecho de los demás socios a comprar la participación antes que un tercero en las mismas condiciones, salvo que los estatutos digan otra cosa.
+## content_blocks_11_faq_items_3_question
+¿Cuánto tarda la transmisión?
+## content_blocks_11_faq_items_3_answer
+Por el e-Business Register, normalmente un día hábil. Ante notario, el tiempo de cita y preparación más 1–3 días para los cambios registrales.
+## content_blocks_11_faq_items_4_question
+¿Cuánto cuesta?
+## content_blocks_11_faq_items_4_answer
+Los honorarios notariales dependen del valor de la operación. Nuestros servicios tienen precio fijo tras evaluar la operación.
+## content_blocks_11_faq_items_5_question
+¿Paga impuestos la empresa al cambiar de propietario?
+## content_blocks_11_faq_items_5_answer
+No. El impuesto sobre la ganancia lo paga el vendedor en su país de residencia fiscal.
+## content_blocks_11_faq_items_6_question
+¿Hay que actualizar los datos de titulares reales?
+## content_blocks_11_faq_items_6_answer
+Sí, en 30 días desde el cambio de propietarios o de control.
+## content_blocks_11_faq_items_7_question
+¿Y si el comprador quiere entrar con dinero nuevo?
+## content_blocks_11_faq_items_7_answer
+Entonces conviene un aumento de capital: el dinero va a la empresa y no al vendedor.
+## content_blocks_11_faq_items_8_question
+¿Se puede transmitir sin notario con un capital de 2.500 €?
+## content_blocks_11_faq_items_8_answer
+Directamente, no. Puede aumentar el capital a 10.000 € y modificar los estatutos, o usar una reducción de capital con aumento simultáneo.
+## content_blocks_12_final_cta_title
+Envíenos los datos de la operación y encontraremos la vía más corta
+## content_blocks_12_final_cta_text
+Indique el código de registro, quién vende y quién compra, qué participación y si las partes tienen e-Residency. En un día hábil le diremos si hace falta notario, qué derechos de los socios hay que respetar y cuánto costará la operación llave en mano.

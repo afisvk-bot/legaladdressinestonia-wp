@@ -1,0 +1,231 @@
+## _title
+Estonya şirketinde sermaye azaltımı
+## _slug
+estonya-sermaye-azaltimi
+## rank_math_title
+Estonya OÜ'da sermaye azaltımı %currentyear%
+## rank_math_description
+Estonya OÜ'da sermaye azaltımı: karar ve esas sözleşme, alacaklılara ilan, Ticaret Siciline tescil ve beyan edilmiş katkıların vergisiz iadesi.
+## rank_math_focus_keyword
+sermaye azaltımı
+## _step_desc
+Ne kadar sermayenin vergisiz iade edilebileceğinden emin değilseniz sicil kodunu gönderin, ücretsiz kontrol edelim.
+## content_blocks_0_content
+2023'ten bu yana Estonya OÜ'sunun asgari sermayesi 0,01 €'dur. Bir zamanlar 2.500 € veya daha fazla koymuş şirketler bu parayı artık ortaklara iade edebilir; doğru kayıtla vergisiz olarak. Sermaye azaltımı ayrıca ortağın çıkışı, zararların kapatılması ve notersiz sahip değişikliğinin parçası olarak da kullanılır.
+
+Ancak bu, alacaklıların çıkarlarını etkileyen tek sermaye değişikliğidir. Bu yüzden kanun onlara bildirimde bulunmayı, alacaklarını bildirmeleri için süre tanımayı ve ancak bundan sonra kayıt ve ödeme yapılmasını şart koşar. Usul hatası ödemeyi hukuka aykırı kılar; kayıt hatası ise katkı iadesini 22/78 vergili kâr dağıtımına dönüştürür.
+<blockquote>Ne kadar sermayenin vergisiz iade edilebileceğini kontrol eder, kararı ve esas sözleşmeyi hazırlar, alacaklılara ilanı yayımlar, sicile doğru zamanda başvurur ve ödemeyi TSD'de beyan ederiz.</blockquote>
+## content_blocks_3_content
+<h3><b>Temel bilgiler</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Konu</b></td>
+<td><b>Pratik açıklama</b></td>
+</tr>
+<tr>
+<td>Asgari sermaye</td>
+<td>1 Şubat 2023'ten bu yana 0,01 €</td>
+</tr>
+<tr>
+<td>Kim karar verir</td>
+<td>Ortaklar; esas sözleşmedeki sermaye tutarı değişiyorsa esas sözleşme değişikliği kararı</td>
+</tr>
+<tr>
+<td>Yöntemler</td>
+<td>Payların itibari değerinin düşürülmesi veya payların iptali</td>
+</tr>
+<tr>
+<td>Alacaklıların korunması</td>
+<td>Ametlikud Teadaanded'de ve bilinen alacaklılara ilan; alacak bildirme süresi</td>
+</tr>
+<tr>
+<td>Sicil kaydı</td>
+<td>Karardan sonra kanuni süre dolmadan yapılamaz</td>
+</tr>
+<tr>
+<td>Ortaklara ödemeler</td>
+<td>Yalnızca sicil kaydından sonra ve alacaklıların talepleri dikkate alınarak</td>
+</tr>
+<tr>
+<td>Ödemenin vergisi</td>
+<td>Beyan edilmiş katkılar sınırında vergisiz; üstü 22/78</td>
+</tr>
+<tr>
+<td>Beyan</td>
+<td>Ödeme TSD'nin 7. ekinde gösterilir</td>
+</tr>
+<tr>
+<td>Ödemesiz azaltım</td>
+<td>Örneğin zararların kapatılması için; 7. ekte gösterilmez</td>
+</tr>
+<tr>
+<td>Sahip değişikliği için alternatif</td>
+<td>Eşzamanlı sermaye artırımıyla azaltım, notersiz</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+Sermaye nasıl azaltılır: 4 adım
+## content_blocks_4_step_1
+Talep gönderin. Sicil kodu, sermayenin ne kadar azaltılacağı ve amacı: ortaklara ödeme, ortağın çıkışı, zararların kapatılması veya sahip değişikliği.
+## content_blocks_4_step_2
+Hesaplamayı alın. TSD'deki katkı geçmişini, net varlıkları ve alacaklılara borçları kontrol eder, vergisiz ödenebilecek tutarı hesaplarız.
+## content_blocks_4_step_3
+Kararı alın ve alacaklıları bilgilendirin. Ortaklar kurulu kararı, yeni esas sözleşme, Ametlikud Teadaanded'de yayın ve bilinen alacaklılara mektuplar.
+## content_blocks_4_step_4
+Başvuruyu verir ve ödemeye eşlik ederiz. Kanuni sürede sicil kaydı, ortaklara ödeme, muhasebede ve TSD'nin 7. ekinde gösterim.
+## content_blocks_6_tariff_title
+Hizmet paketleri
+## content_blocks_6_tariff_items_0_name
+«Ödemesiz azaltım» paketi
+## content_blocks_6_tariff_items_0_package_items
+<li>Esas sözleşmenin ve net varlıkların incelenmesi
+<li>Ortaklar kurulu kararı ve yeni esas sözleşme
+<li>Alacaklılara ilan ve başvurunun verilmesi
+<li>Muhasebede gösterim</li>
+## content_blocks_6_tariff_items_1_name
+«Sermayenin ortaklara iadesi» paketi (önerilen)
+## content_blocks_6_tariff_items_1_package_items
+<li>«Ödemesiz azaltım» paketindeki her şey
+<li>Beyan edilmiş katkıların kontrolü ve vergisiz tutarın hesabı
+<li>Süre kontrolü: alacaklı talepleri, kayıt, ödeme anı
+<li>Ödeme ve TSD'nin 7. ekinde gösterim
+<li>Katkıları aşan tutar varsa 22/78 vergisinin hesabı</li>
+## content_blocks_6_tariff_items_2_name
+«Ortak çıkışı ve ortak değişikliği» paketi
+## content_blocks_6_tariff_items_2_package_items
+<li>Payı karşılığında ödemeyle ortağın çıkışı
+<li>Ortakları notersiz değiştirmek için eşzamanlı artırımla azaltım
+<li>Esas sözleşme ve UBO verilerinde değişiklikler
+<li>Ortak-müdür ayrılıyorsa yönetim kurulu değişikliği</li>
+## content_blocks_11_content
+<h2><b>Estonya OÜ'sunda sermaye nasıl azaltılır: uygulama</b></h2>
+<h3><b>Adım adım süreç</b></h3>
+<ol>
+<li><b>Şirketin incelenmesi.</b> Esas sözleşme, beyan edilmiş katkılar, net varlıklar, alacaklılar.</li>
+<li><b>Ortaklar kurulu kararı.</b> Yeni sermaye tutarı, azaltım yöntemi, her ortağa yapılacak ödeme.</li>
+<li><b>Yeni esas sözleşme.</b> Esas sözleşmedeki sermaye tutarı değişiyorsa.</li>
+<li><b>Alacaklılara ilan.</b> Ametlikud Teadaanded'de yayın ve bilinen alacaklılara alacaklarını bildirmeye davet eden mektuplar.</li>
+<li><b>Sicile başvuru.</b> Karardan itibaren kanuni süre dolduktan sonra.</li>
+<li><b>Sicil kaydı.</b> Harç genellikle yaklaşık 25 €.</li>
+<li><b>Ödeme ve beyan.</b> Kayıttan sonra ve alacaklı talepleri dikkate alınarak; TSD'nin 7. ekinde gösterim.</li>
+</ol>
+<h3><b>Azaltım yöntemleri</b></h3>
+Sermaye, tüm payların itibari değeri düşürülerek veya tek tek paylar iptal edilerek (örneğin çıkan ortağın payı) azaltılabilir. Payın itibari değeri belirlenen asgarinin, sermaye ise 0,01 €'nun altına inemez.
+<h3><b>Alacaklıların korunması</b></h3>
+Sermaye azaltımı, şirketin yükümlülüklerini güvence altına alan tutarı düşürür. Bu yüzden kanun alacaklılara alacaklarını bildirmeleri için süre tanır ve sicil kaydından önce ortaklara ödeme yapılmasını yasaklar. Bu kurallara aykırı ödemeye izin veren yönetim kurulu üyesi şirkete ve alacaklılara karşı sorumludur.
+<h3><b>Vergiler</b></h3>
+Sermaye azaltımında ortaklara yapılan ödeme yalnızca özkaynağa beyan edilmiş katkıları aşan kısmı için 22/78 vergisine tabidir. Örneğin bir ortak 19.000 € koyup azaltımda 16.600 € aldıysa vergi doğmaz; katkının kalan bakiyesi sonraki dönemlere aktarılır. Kayıt TSD'nin 7. ekinde tutulur. Ödemesiz azaltım 7. ekte gösterilmez.
+<h3><b>Eşzamanlı azaltım ve artırım</b></h3>
+Ortakları değiştirmek gerektiğinde, sermaye 10.000 €'nun altındaysa ve noter istenmiyorsa, çıkan ortağın payı sermaye azaltımıyla iptal edilip yeni ortak artırımla alınabilir. Bunlar kendi süreleri olan ve birlikte planlanan iki ayrı işlemdir.
+## content_blocks_12_faq_items_0_question
+OÜ'nun sermayesi 0,01 €'ya düşürülebilir mi?
+## content_blocks_12_faq_items_0_answer
+Evet, OÜ'nun asgari sermayesi 2023'ten bu yana 0,01 €'dur. Ancak ortaklara ödemeler yalnızca alacaklı talepleri ve net varlıklar dikkate alınarak yapılabilir.
+## content_blocks_12_faq_items_1_question
+Sermaye iadesi vergilendirilir mi?
+## content_blocks_12_faq_items_1_answer
+TSD'nin 7. ekinde beyan edilmiş katkılar sınırında hayır. Katkıları aşan tutar 22/78 ile vergilendirilir.
+## content_blocks_12_faq_items_2_question
+Sermaye azaltımı ne kadar sürer?
+## content_blocks_12_faq_items_2_answer
+Artırımdan daha uzun: kanun alacaklılara alacak bildirme süresi tanır ve başvuru ancak bu süre dolunca verilir. Birkaç ay planlayın.
+## content_blocks_12_faq_items_3_question
+Alacaklılara bildirim yapmak gerekir mi?
+## content_blocks_12_faq_items_3_answer
+Evet, Ametlikud Teadaanded'de yayınla ve bilinen alacaklılara mektuplarla.
+## content_blocks_12_faq_items_4_question
+Ortaklara para ne zaman ödenebilir?
+## content_blocks_12_faq_items_4_answer
+Yalnızca sermaye azaltımı sicile kaydedildikten sonra ve alacaklı talepleri dikkate alınarak.
+## content_blocks_12_faq_items_5_question
+Zararları kapatmak için sermaye azaltılabilir mi?
+## content_blocks_12_faq_items_5_answer
+Evet, ortaklara ödeme yapmadan. Bunun vergi sonucu yoktur.
+## content_blocks_12_faq_items_6_question
+Payım karşılığında ödeme alarak OÜ'dan nasıl çıkarım?
+## content_blocks_12_faq_items_6_answer
+Sermaye azaltımında payın iptaliyle ya da payı başka bir ortağa veya üçüncü kişiye satarak.
+## content_blocks_12_faq_items_7_question
+Sermaye katkısı hiç beyan edilmediyse ne olur?
+## content_blocks_12_faq_items_7_answer
+Önce katkı kayıtlarının düzeltilmesi gerekir. Aksi halde ödeme kâr dağıtımı olarak vergilendirilebilir.
+## content_blocks_12_faq_items_8_question
+Noter gerekir mi?
+## content_blocks_12_faq_items_8_answer
+Kural olarak hayır: karar ve başvuru dijital imzayla imzalanır.
+## content_blocks_13_final_cta_title
+Sicil kodunu gönderin, vergisiz iade tutarını hesaplayalım
+## content_blocks_13_final_cta_text
+Sermayeyi ne kadar ve neden azaltmak istediğinizi belirtin. Bir iş günü içinde katkı geçmişini kontrol eder, vergisiz iade edilebilecek tutarı, süreleri ve sabit fiyatı söyleriz.
+## content_blocks_7_title_right
+Asıl mesele: vergisiz dönen sermaye değil, beyan edilmiş katkılardır
+## content_blocks_7_text_right
+Sahipler çoğu zaman şöyle düşünür: «2.500 € koydum, demek ki 2.500 € vergisiz geri gelir». Bu yalnızca bir koşulla doğrudur.
+<ul>
+<li><b>TSD'de katkı kaydı.</b> Vergi idaresi sicildeki sermaye tutarına değil, TSD'nin 7. ekinde gösterilen katkılara bakar. Şirket kuruluşunda veya sermaye artırımında katkı beyan edilmediyse ödeme kâr dağıtımı sayılabilir.</li>
+<li><b>Katkıları aşan tutar.</b> Konulandan fazlası ödenirse fark kâr dağıtımı olarak 22/78 ile vergilendirilir.</li>
+<li><b>Sermaye ödenmeden kurulmuş şirket.</b> Sermaye hiç ödenmediyse iade edilecek bir şey yoktur; ödeme vergili kâr olur.</li>
+<li><b>Sürelerin sırası.</b> Sicil kaydından önce veya alacaklı talepleri dikkate alınmadan yapılan ödeme hukuka aykırıdır ve yönetim kurulu üyesi bundan şahsen sorumludur.</li>
+</ul>
+<b>Pratik sonuç:</b> karar almadan önce TSD'deki katkı geçmişini kontrol edin. Bunu ilk adım olarak yapar ve kesin vergisiz tutarı söyleriz.
+## content_blocks_8_title_left
+Sermaye azaltımı ne zaman gerekmez, ne zaman yetmez
+## content_blocks_8_text_left
+<ul>
+<li><b>Sermaye değil kâr çekmek istiyorsunuz.</b> Bunun için onaylanmış yıllık rapora dayalı temettüler vardır; her durumda 22/78 vergiyle. Bkz. <a href="{L:844}">Estonya'da kurumlar vergisi 2026</a>.</li>
+<li><b>Şirket kapanıyor.</b> İş sona erdiyse katkılar <a href="{L:4758}">tasfiye</a> kapsamında iade edilir; ayrıca sermaye azaltımına gerek yoktur.</li>
+<li><b>Net varlıklar sermayenin yarısının altında.</b> Sermaye azaltımı ortakların değerlendirmesi gereken önlemlerden biridir, ancak bu durumda ödeme yapılamaz.</li>
+<li><b>Ortak payını başkasına satıyor.</b> Bu bir <a href="{L:4845}">pay devridir</a>: parayı satıcı alıcıdan alır, şirket ödeme yapmaz.</li>
+<li><b>Alacaklı talepleri var.</b> Alacaklılar talepte bulunduysa, ortaklara ödemeden önce bunlar karşılanmalı veya teminat altına alınmalıdır.</li>
+</ul>
+## content_blocks_9_title_right
+Sunduğumuz diğer hizmetler
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:4846}">Sermaye artırımı ve ihraç</a>: azaltımla eşzamanlı olarak da</li>
+<li><a href="{L:4845}">Pay satışı ve devri</a></li>
+<li>Esas sözleşme değişikliği: yeni sermaye tutarı</li>
+<li>UBO verilerinin güncellenmesi: ortak çıkarken</li>
+<li><a href="{L:4699}">Ara finansal tablolar</a>: karar tarihindeki net varlıklar</li>
+<li><a href="{L:4758}">Şirket tasfiyesi</a>: iş kapanıyorsa</li>
+<li><a href="{L:4578}">Muhasebenin yeniden düzenlenmesi</a>: katkılar TSD'de gösterilmemişse</li>
+</ul>
+Sermaye azaltımı aynı anda sicil, alacaklılar ve vergiler demektir. Üç kısmı da tek bir sağlayıcı yürüttüğünde ortaklar parayı kanuni sürede ve vergisiz tutarda alır.
+## content_blocks_10_content
+<h2><b>Sermaye neden azaltılır</b></h2>
+<table>
+<tbody>
+<tr>
+<td><b>Amaç</b></td>
+<td><b>Ne olur</b></td>
+<td><b>Vergi</b></td>
+</tr>
+<tr>
+<td>Katkıları ortaklara iade etmek</td>
+<td>Sermaye azaltılır, fark nakit olarak ödenir</td>
+<td>Beyan edilmiş katkılar sınırında vergisiz</td>
+</tr>
+<tr>
+<td>Ortağın çıkışı</td>
+<td>Ortağın payı iptal edilir, ödeme alır</td>
+<td>Katkı iadesindeki gibi; katkıların üstü 22/78</td>
+</tr>
+<tr>
+<td>Zararları kapatmak</td>
+<td>Sermaye ödemesiz azaltılır, zarar mahsup edilir</td>
+<td>Doğmaz</td>
+</tr>
+<tr>
+<td>Ortakları notersiz değiştirmek</td>
+<td>Çıkanın payı iptal edilir, yeni ortak artırımla girer</td>
+<td>Çıkana yapılan ödemeye göre</td>
+</tr>
+<tr>
+<td>Sermayeyi gereken tutara getirmek</td>
+<td>Örneğin yeniden yapılanmadan sonra</td>
+<td>Ödeme olup olmamasına bağlı</td>
+</tr>
+</tbody>
+</table>

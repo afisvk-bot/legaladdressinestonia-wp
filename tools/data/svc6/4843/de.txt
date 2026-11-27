@@ -1,0 +1,289 @@
+## _title
+Lohnabrechnung in Estland
+## _slug
+lohnabrechnung-in-estland
+## rank_math_title
+Lohnabrechnung in Estland: Steuern und TSD für die OÜ %currentyear%
+## rank_math_description
+Lohnabrechnung in Estland aus einer Hand: Brutto und Netto, Arbeitgebersteuern, Vergütung des Vorstands, Beschäftigungsregister und monatliche TSD.
+## rank_math_focus_keyword
+Lohnabrechnung in Estland
+## _step_desc
+Wenn Sie nicht sicher sind, wie Sie sich selbst bezahlen sollen (Vorstandsvergütung, Gehalt oder Dividenden), senden Sie uns die Zahlen: Wir rechnen beide Varianten kostenlos durch.
+## content_blocks_0_content
+Die Lohnabrechnung in Estland wirkt einfach: pauschal 22 % Einkommensteuer, 33 % Sozialsteuer, eine Erklärung pro Monat. Die Fehler stecken im Detail. Der Grundfreibetrag gilt nur auf Antrag des Arbeitnehmers. Die Sozialsteuer wird auch bei Teilzeit mindestens auf die Mindestbemessungsgrundlage gezahlt. Die ersten Krankheitstage zahlt nicht die Krankenkasse, sondern der Arbeitgeber. Und seit Oktober 2026 wird die TSD als Datenstrom statt als Formular übermittelt.
+
+Die zweite Fehlergruppe ist organisatorisch. Ein Arbeitnehmer muss vor dem ersten Arbeitstag ins Beschäftigungsregister eingetragen werden, nicht nach der ersten Abrechnung. Eine Vorstandsvergütung wird anders besteuert als ein Gehalt. Und ein „Remote-Mitarbeiter“ im Ausland ist oft gar keine estnische Lohnabrechnung, sondern eine Arbeitgeberpflicht in einem anderen Land.
+<blockquote>Wir rechnen Gehälter und Vorstandsvergütungen ab, melden Beschäftigungen an, reichen die TSD nach dem neuen datenbasierten Verfahren ein und berechnen Krankengeld, Urlaubsentgelt und Abfindungen. Für kleine Teams gilt ein Festpreis pro Mitarbeiter, ohne Aufpreis pro Erklärung.</blockquote>
+## content_blocks_3_content
+<h3><b>Wichtige Fakten</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Thema</b></td>
+<td><b>Praktische Erläuterung</b></td>
+</tr>
+<tr>
+<td>Einkommensteuer</td>
+<td>22 % der Zahlung nach Abzug des Grundfreibetrags</td>
+</tr>
+<tr>
+<td>Grundfreibetrag</td>
+<td>700 € pro Monat für alle ab 2026 (776 € im Rentenalter); nur auf Antrag des Arbeitnehmers</td>
+</tr>
+<tr>
+<td>Sozialsteuer</td>
+<td>33 % zulasten des Arbeitgebers; Mindestbemessungsgrundlage 886 €, also mindestens 292,38 € pro Monat</td>
+</tr>
+<tr>
+<td>Arbeitslosenversicherung</td>
+<td>1,6 % werden beim Arbeitnehmer einbehalten, 0,8 % zahlt der Arbeitgeber</td>
+</tr>
+<tr>
+<td>Kapitalgedeckte Rente (II. Säule)</td>
+<td>2 %, 4 % oder 6 % nach Wahl des Arbeitnehmers</td>
+</tr>
+<tr>
+<td>Vorstandsvergütung</td>
+<td>22 % Einkommensteuer und 33 % Sozialsteuer, ohne Arbeitslosenversicherung</td>
+</tr>
+<tr>
+<td>Beschäftigungsregister (TÖR)</td>
+<td>Eintrag spätestens bei Arbeitsbeginn; Beendigung innerhalb von 10 Tagen</td>
+</tr>
+<tr>
+<td>TSD-Erklärung</td>
+<td>Bis zum 10. des Folgemonats der Zahlung; ab Oktober 2026 datenbasiert</td>
+</tr>
+<tr>
+<td>Steuerzahlung</td>
+<td>Bis zum 10. des Folgemonats</td>
+</tr>
+<tr>
+<td>Krankheit</td>
+<td>Tage 1–3 unbezahlt; Tage 4–8 zahlt der Arbeitgeber 70 % des Durchschnittslohns; ab Tag 9 die Tervisekassa</td>
+</tr>
+<tr>
+<td>Jahresurlaub</td>
+<td>28 Kalendertage</td>
+</tr>
+<tr>
+<td>Optionen und Sachbezüge</td>
+<td>Die Sachbezugssteuer zahlt das Unternehmen: 22/78 plus 33 % obendrauf</td>
+</tr>
+</tbody>
+</table>
+## content_blocks_4_steps_title
+So übergeben Sie uns Ihre Lohnabrechnung: 4 Schritte
+## content_blocks_4_step_1
+Anfrage senden. Wie viele Mitarbeiter und Vorstandsmitglieder Zahlungen erhalten, wo sie wohnen und arbeiten und welche Verträge bestehen: Arbeits-, Vorstands- oder Dienstverträge.
+## content_blocks_4_step_2
+Beratung erhalten. Wir klären, was in Estland steuerpflichtig ist, wen und wie Sie im TÖR anmelden, ob eine Arbeitgeberregistrierung in einem anderen Land nötig ist, und nennen einen Festpreis.
+## content_blocks_4_step_3
+Vertrag unterzeichnen und Zugänge einrichten. Rechte in e-MTA sowie Angaben zu Freibetragsanträgen und Rentensätzen der II. Säule, alles online.
+## content_blocks_4_step_4
+Wir rechnen ab und reichen ein. Monatliche Abrechnung, Lohnzettel, datenbasierte TSD bis zum 10. und die fälligen Beträge im Voraus.
+## content_blocks_6_tariff_title
+Leistungspakete
+## content_blocks_6_tariff_items_0_name
+Paket „Vorstandsmitglied“
+## content_blocks_6_tariff_items_0_package_items
+<li>Vorstandsvertrag und Eintrag ins Beschäftigungsregister
+<li>Monatliche Berechnung der Vergütung: Einkommen- und Sozialsteuer
+<li>TSD bis zum 10. und Mitteilung des fälligen Betrags
+<li>Jährliche Berechnung „Vergütung oder Dividenden“ mit Ihren Zahlen
+<li>Gestaltung für Nichtansässige: was in Estland steuerpflichtig ist und was Sie für Ihr Land nachweisen</li>
+## content_blocks_6_tariff_items_1_name
+Paket „Payroll für das Team“ (empfohlen)
+## content_blocks_6_tariff_items_1_package_items
+<li>Alles aus dem Paket „Vorstandsmitglied“
+<li>Meldung von Beginn, Unterbrechung und Ende der Arbeit im TÖR
+<li>Gehälter, Urlaubsentgelt, Krankengeld für die Tage 4–8, Abfindungen bei Kündigung
+<li>Verwaltung der Freibetragsanträge und Rentensätze der II. Säule
+<li>Mindestsozialsteuer bei Teilzeit
+<li>Datenbasierte TSD mit Fehlerkorrektur vor der Frist
+<li>Lohnzettel für die Mitarbeiter</li>
+## content_blocks_6_tariff_items_2_name
+Paket „Payroll + internationales Team“
+## content_blocks_6_tariff_items_2_package_items
+<li>Alles aus dem Paket „Payroll für das Team“
+<li>Ausländische Arbeitnehmer in Estland: Registrierung, Bedingungen der Arbeitserlaubnis, Kontrolle des Gehaltskriteriums
+<li>Zahlungen an Nichtansässige: Doppelbesteuerungsabkommen, Ansässigkeitsbescheinigungen
+<li>Mitarbeiter im Ausland: Prüfung der Arbeitgeberpflichten in ihrem Land und Abstimmung mit lokaler Payroll oder einem EOR
+<li>Optionen und Sonderleistungen: Dreijahresregel und Sachbezugssteuer
+<li>Berichte für Gruppe und Investoren</li>
+## content_blocks_7_title_right
+Die Kernaussage: Payroll-Fehler liegen in der Einrichtung, nicht in den Sätzen
+## content_blocks_7_text_right
+Die estnischen Sätze sind pauschal, und das erzeugt ein trügerisches Gefühl von Einfachheit. In der Praxis passieren Fehler an fünf Stellen:
+<ul>
+<li><b>Grundfreibetrag ohne Antrag.</b> Die 700 € gelten nur auf Antrag des Arbeitnehmers und nur bei einem Arbeitgeber. Hat der Arbeitnehmer den Antrag bei zwei Arbeitgebern gestellt, folgt am Jahresende eine Nachzahlung.</li>
+<li><b>Mindestsozialsteuer.</b> Bei Teilzeit wird Sozialsteuer auf mindestens 886 € pro Monat gezahlt, sofern keine Ausnahme greift. Bei Studierenden und Nebenjobs wird das oft vergessen.</li>
+<li><b>Krankengeld für die Tage 4–8.</b> Der Arbeitgeber zahlt es aus eigenen Mitteln, die Tervisekassa übernimmt erst ab Tag 9. Ohne diese Position ist die Abrechnung eines Monats mit Krankheit falsch.</li>
+<li><b>TÖR nach der ersten Abrechnung.</b> Der Arbeitsbeginn wird vor dem ersten Arbeitstag gemeldet. Eine rückwirkende Meldung ist ein Verstoß, der bei jeder Prüfung auffällt.</li>
+<li><b>Alte Freibetragsformel.</b> Seit 2026 ist der Freibetrag einheitlich, ohne Abschmelzung bei steigendem Einkommen. Programme mit alter Einstellung rechnen jede Abrechnung falsch.</li>
+</ul>
+<b>Praktisches Fazit:</b> Vor der ersten Abrechnung prüfen wir nicht nur den Satz, sondern Anträge, Vertragsart, TÖR-Eintrag und Rentensatz jedes Mitarbeiters. Das machen wir beim Onboarding.
+## content_blocks_8_title_left
+Wann estnische Payroll nicht nötig ist und wann sie nicht ausreicht
+## content_blocks_8_text_left
+Eine ehrliche Einschätzung spart mehr als die Leistung selbst.
+<ul>
+<li><b>Der Mitarbeiter lebt und arbeitet in einem anderen Land.</b> Sein Gehalt wird in der Regel dort besteuert, und das estnische Unternehmen kann dort Arbeitgeberpflichten haben. Die estnische TSD deckt das nicht ab: Sie brauchen lokale Payroll oder einen EOR.</li>
+<li><b>Ein Freelancer stellt Rechnungen als Unternehmer.</b> Das ist kein Gehalt: Er zahlt seine Steuern selbst in seinem Land, Sie bezahlen die Rechnung.</li>
+<li><b>Der Inhaber erhält keine Zahlungen.</b> Gibt es weder Vorstandsvergütung noch Gehalt, wird in der Regel keine monatliche TSD eingereicht; laufende Buchhaltung und ein Dividendenbeschluss genügen.</li>
+<li><b>Ein Ausländer arbeitet in Estland.</b> Nötig sind nicht nur Abrechnung und TÖR, sondern auch die Einhaltung der Arbeitserlaubnisbedingungen einschließlich des Gehaltskriteriums. Wird das geforderte Gehalt nicht gezahlt, droht eine Geldbuße bis 32.000 €.</li>
+<li><b>Optionen und Aktienboni.</b> Das ist eine Frage der Sachbezugssteuer, die das Unternehmen zahlt, und der Dreijahresregel für Optionen. Einfache Payroll berücksichtigt das nicht.</li>
+</ul>
+## content_blocks_9_title_right
+Weitere Leistungen von uns
+## content_blocks_9_text_right
+<ul>
+<li><a href="{L:2343}">Buchhaltungsservice</a>: der gesamte Bereich</li>
+<li><a href="{L:2344}">Monatliche Buchhaltung</a>: die Basis, an die die Payroll anknüpft</li>
+<li><a href="{L:4842}">Umsatzsteuererklärungen (KMD)</a>: monatlich bis zum 20.</li>
+<li><a href="{L:4490}">Buchhaltung für e-Residents</a>: Vorstandsvergütung aus dem Ausland</li>
+<li><a href="{L:2342}">Arbeitsvisum und Aufenthaltserlaubnis</a>: für ausländische Mitarbeiter</li>
+<li><a href="{L:4529}">Unternehmen für Start-ups</a>: Optionen und Sachbezugssteuer</li>
+<li><a href="{L:2345}">Steuerberatung</a>: Vergütung oder Dividenden</li>
+<li><a href="{L:4578}">Wiederherstellung der Buchhaltung</a>: wenn TSD für frühere Monate fehlen</li>
+</ul>
+Die Lohnabrechnung ist Teil der Buchhaltung, keine separate Leistung. Wenn Payroll und Buchhaltung bei einem Anbieter liegen, stimmen die TSD-Beträge ohne manuellen Abgleich mit den Aufwendungen in den Büchern und im Jahresabschluss überein.
+## content_blocks_10_content
+<h2><b>Woraus sich die Vergütung in Estland zusammensetzt: Arbeitnehmer, Vorstand, Auftragnehmer</b></h2>
+Eine Zahlung an eine Privatperson wird in Estland je nach Grundlage unterschiedlich besteuert. Sie zu verwechseln ist der häufigste Fehler bei der ersten Einstellung.
+<table>
+<tbody>
+<tr>
+<td><b>Grundlage</b></td>
+<td><b>Einkommensteuer</b></td>
+<td><b>Sozialsteuer</b></td>
+<td><b>Arbeitslosenversicherung</b></td>
+<td><b>Rente II. Säule</b></td>
+<td><b>Beschäftigungsregister</b></td>
+</tr>
+<tr>
+<td>Arbeitsvertrag</td>
+<td>22 %</td>
+<td>33 % (mindestens auf die Mindestbasis)</td>
+<td>1,6 % + 0,8 %</td>
+<td>2/4/6 %</td>
+<td>Ja</td>
+</tr>
+<tr>
+<td>Vorstandsvertrag</td>
+<td>22 %</td>
+<td>33 %</td>
+<td>Nein</td>
+<td>2/4/6 %</td>
+<td>Ja</td>
+</tr>
+<tr>
+<td>Dienstvertrag mit einer Privatperson</td>
+<td>22 %</td>
+<td>33 %</td>
+<td>Nein</td>
+<td>2/4/6 %</td>
+<td>Ja</td>
+</tr>
+<tr>
+<td>Rechnung eines Einzelunternehmers oder Unternehmens</td>
+<td>Kein Einbehalt</td>
+<td>Nein</td>
+<td>Nein</td>
+<td>Nein</td>
+<td>Nein</td>
+</tr>
+</tbody>
+</table>
+Beispiel für 2.000 € brutto mit 2 % Rente und Freibetragsantrag: Der Arbeitnehmer erhält netto rund 1.658 €, das Unternehmen gibt rund 2.676 € aus, weil Sozialsteuer und Arbeitslosenversicherung zusätzlich zum Brutto anfallen.
+<h2><b>So funktioniert die Lohnabrechnung in Estland: Praxis</b></h2>
+<h3><b>Berechnungsreihenfolge: von brutto zu netto</b></h3>
+<ol>
+<li>Bruttogehalt laut Vertrag.</li>
+<li>Abzüglich Beitrag zur kapitalgedeckten Rente (II. Säule): 2 %, 4 % oder 6 %.</li>
+<li>Abzüglich Arbeitslosenversicherung des Arbeitnehmers: 1,6 %.</li>
+<li>Abzüglich Grundfreibetrag: 700 €, wenn ein Antrag vorliegt.</li>
+<li>Auf den Rest 22 % Einkommensteuer.</li>
+<li>Zusätzlich zum Brutto zahlt der Arbeitgeber 33 % Sozialsteuer und 0,8 % Arbeitslosenversicherung.</li>
+</ol>
+<h3><b>Beschäftigungsregister (TÖR)</b></h3>
+Jede Person, die das Unternehmen für Arbeit mit Steuerpflicht in Estland bezahlt, muss ins Beschäftigungsregister eingetragen werden. Der Eintrag erfolgt spätestens bei Arbeitsbeginn: Vertragsart, Beginndatum und beim Arbeitsvertrag Position, Adresse des Arbeitsorts und Arbeitszeitumfang. Ein Ausländer ohne estnischen Personalcode kann für bis zu fünf Tage mit dem Geburtsdatum registriert werden. Das Ende der Arbeit wird innerhalb von 10 Tagen eingetragen. Die TÖR-Daten sind die Grundlage der Krankenversicherung des Arbeitnehmers, daher trifft ein Fehler hier den Mitarbeiter direkt.
+<h3><b>Die TSD-Erklärung ab Oktober 2026</b></h3>
+Seit dem 1. Oktober 2026 werden die Zahlungsdaten der früheren Anlagen 1 und 2 direkt aus der Buchhaltungssoftware übermittelt, und die EMTA erstellt die Erklärung selbst. Das Unternehmen bestätigt sie bis zum 10. Die erste TSD nach dem neuen Verfahren betrifft den Oktober, Frist 10. November 2026. Die manuelle Eingabe in e-MTA bleibt möglich, die bisherige CSV wird bis Ende 2027 akzeptiert, und die Anlagen 3–8 werden 2028 auf Daten umgestellt.
+<h3><b>Krankheit und Urlaub</b></h3>
+<table>
+<tbody>
+<tr>
+<td><b>Situation</b></td>
+<td><b>Wer zahlt und wie viel</b></td>
+</tr>
+<tr>
+<td>Krankheit, Tage 1–3</td>
+<td>Unbezahlt</td>
+</tr>
+<tr>
+<td>Krankheit, Tage 4–8</td>
+<td>Arbeitgeber, 70 % des Durchschnittslohns</td>
+</tr>
+<tr>
+<td>Krankheit ab Tag 9</td>
+<td>Tervisekassa, 70 %, mit Tageshöchstbetrag</td>
+</tr>
+<tr>
+<td>Jahresurlaub</td>
+<td>28 Kalendertage zum Durchschnittslohn</td>
+</tr>
+<tr>
+<td>Nicht genommener Urlaub bei Kündigung</td>
+<td>Wird abgegolten</td>
+</tr>
+</tbody>
+</table>
+Das vom Arbeitgeber gezahlte Krankengeld unterliegt der Einkommensteuer, der Durchschnittslohn wird über die letzten sechs Monate berechnet.
+<h3><b>Vorstandsvergütung</b></h3>
+Eine Vergütung aus einem Vorstandsvertrag unterliegt 22 % Einkommensteuer und 33 % Sozialsteuer, aber nicht der Arbeitslosenversicherung. Das gilt auch für Vorstandsmitglieder mit Wohnsitz im Ausland: Zahlungen einer estnischen Gesellschaft für die Vorstandstätigkeit werden in Estland besteuert. Mehr zur Wahl zwischen Vergütung und Dividenden lesen Sie im Beitrag <a href="{L:844}">Körperschaftsteuer in Estland 2026</a>.
+<h3><b>Ausländische Mitarbeiter</b></h3>
+Ein Ausländer von außerhalb der EU arbeitet in Estland auf Grundlage einer Kurzzeitregistrierung oder einer Aufenthaltserlaubnis zur Arbeit. Der Arbeitgeber bestätigt, mindestens das geforderte Gehalt zu zahlen, und kann bei Verstößen mit bis zu 32.000 € belegt werden. Mitarbeiter von Start-ups arbeiten über das Startup-Visa-Programm zu vereinfachten Bedingungen.
+<h3><b>Was aufzubewahren ist</b></h3>
+Arbeitsverträge, Freibetragsanträge, Stundenzettel, Lohnzettel und Zahlungsgrundlagen werden zusammen mit den Buchhaltungsunterlagen mindestens sieben Jahre aufbewahrt.
+## content_blocks_11_faq_items_0_question
+Welche Lohnsteuern fallen in Estland an?
+## content_blocks_11_faq_items_0_answer
+Arbeitnehmer: 22 % Einkommensteuer nach dem Grundfreibetrag von 700 €, 1,6 % Arbeitslosenversicherung und 2–6 % Rente der II. Säule. Arbeitgeber zusätzlich zum Brutto: 33 % Sozialsteuer und 0,8 % Arbeitslosenversicherung.
+## content_blocks_11_faq_items_1_question
+Was kostet ein Mitarbeiter das Unternehmen?
+## content_blocks_11_faq_items_1_answer
+Bei 2.000 € brutto gibt das Unternehmen rund 2.676 € pro Monat aus. Bei 2 % Rente und Freibetragsantrag erhält der Mitarbeiter netto rund 1.658 €.
+## content_blocks_11_faq_items_2_question
+Was ist die Mindestsozialsteuer?
+## content_blocks_11_faq_items_2_answer
+Sozialsteuer wird auf mindestens 886 € pro Monat gezahlt, also mindestens 292,38 €, auch wenn das Gehalt niedriger ist. Es gibt Ausnahmen, etwa für manche Nebenjobs und Studierende.
+## content_blocks_11_faq_items_3_question
+Wann wird die TSD eingereicht?
+## content_blocks_11_faq_items_3_answer
+Bis zum 10. des Monats nach der Zahlung. Seit Oktober 2026 werden die Lohndaten aus der Software übermittelt, und die EMTA erstellt eine Erklärung, die das Unternehmen bestätigt.
+## content_blocks_11_faq_items_4_question
+Wann muss ein Mitarbeiter ins Beschäftigungsregister eingetragen werden?
+## content_blocks_11_faq_items_4_answer
+Spätestens zu dem Zeitpunkt, an dem er die Arbeit aufnimmt. Das Ende der Arbeit wird innerhalb von 10 Tagen eingetragen.
+## content_blocks_11_faq_items_5_question
+Wird die Vorstandsvergütung besteuert, wenn das Vorstandsmitglied im Ausland lebt?
+## content_blocks_11_faq_items_5_answer
+Ja. Eine Vergütung für die Vorstandstätigkeit in einer estnischen Gesellschaft wird in Estland mit 22 % Einkommensteuer und 33 % Sozialsteuer besteuert. Die Folgen im Wohnsitzland bestimmt das Doppelbesteuerungsabkommen.
+## content_blocks_11_faq_items_6_question
+Wer zahlt bei Krankheit?
+## content_blocks_11_faq_items_6_answer
+Die ersten drei Tage sind unbezahlt. Die Tage 4–8 zahlt der Arbeitgeber mit 70 % des Durchschnittslohns, ab Tag 9 die Tervisekassa.
+## content_blocks_11_faq_items_7_question
+Kann ich jemanden, der in einem anderen Land lebt, über estnische Payroll einstellen?
+## content_blocks_11_faq_items_7_answer
+In der Regel nicht. Sein Gehalt wird im Land der Tätigkeit besteuert, und das Unternehmen hat dort Arbeitgeberpflichten. Sie brauchen lokale Payroll oder einen EOR, und wir helfen bei der Einrichtung.
+## content_blocks_11_faq_items_8_question
+Muss ich eine TSD einreichen, wenn keine Gehälter gezahlt wurden?
+## content_blocks_11_faq_items_8_answer
+In der Regel nicht: Die Erklärung wird für einen Monat mit steuerpflichtigen Zahlungen oder einer Gewinnausschüttung eingereicht.
+## content_blocks_12_final_cta_title
+Senden Sie uns Ihre Teamstruktur, und wir nennen einen Festpreis für die Payroll
+## content_blocks_12_final_cta_text
+Geben Sie an, wie viele Mitarbeiter und Vorstandsmitglieder Zahlungen erhalten, wo sie wohnen und auf welcher vertraglichen Grundlage sie arbeiten. Innerhalb eines Werktags melden wir uns mit einem Konzept: was in Estland steuerpflichtig ist, wen Sie anmelden müssen und was die monatliche Abrechnung kostet.
